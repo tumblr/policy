@@ -1,63 +1,176 @@
-Last Modified: 2010-04-26
+Last Modified: 2012-03-02
 
-The intent of this document is to clarify what we consider to be acceptable
-use of Tumblr.
+As a global platform for creativity and self-expression, Tumblr is deeply
+committed to supporting and protecting freedom of speech. At the same time, we
+draw lines around a few narrowly-defined but deeply important categories of
+content and behavior that jeopardize our users, threaten our infrastructure,
+or damage our community.
 
-If you are found to be in violation of any of the below policies, you will
-receive a notice via email. Unless you explain or correct your behavior
-within 72 hours, your account will be suspended. We will do our best to
-work with you and ensure a fair outcome in all cases. We reserve the right
-to immediately suspend, without notice, any content, account, or IP address
-which we determine to be systematically generated, spam, or potentially
-damaging to our service or infrastructure.
+What Tumblr is for:
 
-When your account is suspended, public access to your content is blocked,
-and your Tumblr URL (and custom domain if applicable) is redirected to the
-Tumblr home page. Access to your Tumblr Dashboard and the ability to
-add/edit posts is also disabled.
+  Tumblr celebrates creativity. We want you to express yourself freely and use
+  Tumblr to reflect who you are, and what you love, think, witness, and
+  believe.
 
-• REDUNDANT CONTENT. Tumblr is not intended to be an all-purpose content
-  aggregator. Users who import or aggregate content in a less-than-meaningful
-  way are likely to be suspended.
+What Tumblr is not for:
 
-• ILLEGAL USE. Tumblr may not be used for illegal purposes. Examples of this
-  include using Tumblr for fraudulent purposes or operating a phishing site
-  (used to obtain account and password information).
+  Malicious Bigotry.
 
-• SPAM. Users that do not publish meaningful content, use deceptive means to
-  generate revenue or traffic, or whose primary purpose is affiliate
-  marketing, will be suspended.
+    Don't actively promote violence or extreme hatred against   individuals or
+    groups, on the basis of race, ethnic origin, religion, disability, gender,
+    age, veteran status, or sexual orientation. While we firmly believe that
+    the best response to hateful speech is not censorship but more speech, we
+    will take down malicious bigotry, as defined here.
 
-• IDENTITY THEFT AND PRIVACY. Users that misleadingly appropriate the
-  identity of another person are not permitted. Users may not post other
-  people's personally identifying or confidential information, including but
-  not limited to credit card numbers, Social Security Numbers, and driver's
-  and other license numbers. You may not post information such as other
-  people's passwords, usernames, phone numbers, addresses and e-mail
-  addresses unless already publicly accessible on the Web.
+  Harm to Minors.
 
-• HATE CONTENT, DEFAMATION, AND LIBEL. Hate speech and other objectionable
-  content that is unlawful, defamatory, and fraudulent. Note that an
-  allegation of defamatory expression, in and of itself, does not establish
-  defamation. The truth or falsehood of a bit of expression is a key element
-  in establishing defamation, and we are not in a position to make that sort
-  of fact-based judgment. That said, if we have reason to believe that a
-  particular statement is defamatory (a court order, for example), we will
-  remove that statement.
+    Be thoughtful when posting anything involving a minor. Don't post anything
+    relating to minors that is sexually suggestive or violent. Don't bully
+    minors, even if you are one. Life as a teenager is hard enough without the
+    fear, anguish, and isolation caused by online bullying.
 
-• DISRUPTIONS AND EXPLOITS. We will terminate accounts and block addresses of
-  those who attempt unauthorized use of Tumblr.com.
+  Promotion and Glorification of Self-Harm.
 
-• COPYRIGHT. Using copyrighted material does not constitute infringement in
-  all cases. In general, however, users should be careful when using
-  copyrighted content without the permission of those who created it. It is
-  our policy to respond to notices of alleged infringement that comply with
-  the Digital Millennium Copyright Act ("DMCA").
+    Don't post content that actively promotes or glorifies self-harm. This
+    includes content that urges or encourages readers to cut or injure
+    themselves; embrace anorexia, bulimia, or other eating disorders; or
+    commit suicide rather than, e.g., seeking counseling or treatment, or
+    joining together in supportive conversation with those suffering or
+    recovering from depression or other conditions. Dialogue about these
+    behaviors is incredibly important and online communities can be
+    extraordinarily helpful to people struggling with these difficult
+    conditions. We aim to sustain Tumblr as a place that facilitates
+    awareness, support and recovery, and to remove only those blogs that cross
+    the line into active promotion or glorification of self-harm.
 
-• MASS REGISTRATION AND AUTOMATION. Accounts that are registered
-  automatically or systematically will be removed and access will be
-  permanently suspended.
+  Gore and Mutilation Content.
 
-• SEXUALLY EXPLICIT VIDEO. Accounts that use Tumblr's Video Upload feature to
-  regularly upload and host sexually explicit or pornographic material will
-  be suspended.
+    Don't post gore just to be shocking. Don't showcase the mutilation or
+    torture of human beings, animals, or their remains.
+
+  Unflagged NSFW Blogs.
+
+    Tumblr is home to millions of readers and bloggers from a variety of
+    locations, cultures, and backgrounds with different points of view
+    concerning adult-oriented content. If you regularly post sexual or
+    adult-oriented content, respect the choices of people in our community who
+    would rather not see such content by flagging your blog (which you can do
+    from the Settings page of each blog) as Not Suitable for Work ("NSFW").
+    This action does not prevent you and your readers from using any of
+    Tumblr's social features, but rather allows Tumblr users who don't want to
+    see NSFW content to avoid seeing it.
+
+  Uploading Sexually Explicit Video.
+
+    You can embed anything as long as it follows the other guidelines on this
+    page. But please don't use Tumblr's Upload Video feature to host any
+    sexually explicit videos. We're not in the business of profiting from
+    adult-oriented videos and hosting this stuff is fucking expensive. You can
+    use services like [Fantasti.cc] to host those instead.
+
+  Non-Genuine Social Gesture Schemes.
+
+    Don't participate in schemes to gain non-genuine gestures like follows or
+    reblogs. Don't orchestrate or engage in "follow trains," where users are
+    encouraged to follow lists of other users to gain more followers for
+    themselves. Don't scatter deceptive links to your blog or Follow pages.
+    Don't make bulk or indiscriminate use of messaging features like Fan Mail
+    or Asks to bait followers.
+
+  Username and URL Abuse.
+
+    Tumblr's URLs (usernames) are for the use and enjoyment of our users.
+    Don't squat, hoard, collect, trade, or sell Tumblr URLs, and don't
+    register a URL for the purpose of impersonating an individual,
+    organization, or brand.
+
+  Spam.
+
+    Don't abuse social gestures, send unwanted messages, post misleading tags,
+    or import/aggregate content in a less-than-meaningful way. Don't inject
+    deceptive links or dubious code in your posts. That includes Javascript to
+    unwillingly inject ads in blogs, or embedding links to interstitial or
+    pop-up ad services. Don't use deceptive means to generate revenue or
+    traffic. Don't create blogs with the primary purpose of affiliate
+    marketing. Spam doesn't belong on Tumblr.
+
+  Mass Registration and Automation.
+
+    Don't register accounts or post content automatically, systematically, or
+    programmatically.
+
+  Unauthorized Sweepstakes or Giveaways.
+
+    Everyone wants to be a winner, but there are many reasons (including legal
+    ones) why Tumblr can't be used for sweepstakes without our involvement and
+    consent. If you're planning something like this, [let us know].
+
+  Third-Party Theme Distribution.
+
+    To manage the safety and stability of blog themes, the vast majority of
+    which are contributed by the Tumblr community, it's important that themes
+    are distributed through our centralized Theme Garden. Third-party theme
+    directories are often used to inject nefarious code that results in spam,
+    ads, or phishing attacks. Since anyone can host and promote their themes
+    in the Theme Garden, don't create or use third-party services to
+    distribute source code for Tumblr themes. Creating blogs or directories
+    that curate themes in the Theme Garden is a-okay.
+
+  Copyright and Trademark Infringement.
+
+    Respect the copyrights and trademarks of others. If you aren't authorized
+    to use someone else's copyrighted or trademarked work (either expressly or
+    by legal exceptions and limitations like [fair use]), don't. It is our
+    policy to respond to notices of alleged copyright infringement as per our
+    [Terms of Service] and the Digital Millennium Copyright Act.
+
+  Impersonation, Stalking, or Harassment.
+
+    Treat the community the way you'd like to be treated. Don't attempt to
+    circumvent the Block feature. If you want to parody or ridicule a public
+    figure (and who doesn't?), don't try to trick readers into thinking you
+    are actually that public figure.
+
+  Privacy Violations.
+
+    Don't use Tumblr to deceptively obtain personal information. Don't post
+    content that violates anyone's privacy, including personally identifying
+    or confidential information like credit card numbers, social security
+    numbers, unlisted contact information, or private photos of your ex's junk
+    (no matter how attractive).
+
+  Disruptions, Exploits, and Resource Abuse.
+
+    Our servers and the valiant engineers that support them work hard for you.
+    Don't attempt unauthorized use, disruption, or exploitation of Tumblr.com
+    or our other products and services, or otherwise abuse Tumblr's resources.
+
+  Unlawful Uses and Content.
+
+    This one's pretty obvious, but Tumblr is not a place for illegal behavior,
+    including fraud, phishing, or illegally inciting violence.
+
+And now, some words from our lawyers:
+
+  If we conclude you are violating these policies, you may receive a notice
+  via email. If you don't explain or correct your behavior, your account may
+  be suspended and/or your IP address may be blocked. We do our best to ensure
+  fair outcomes, but in all cases we reserve the right to suspend accounts or
+  remove content, without notice, for any reason, but particularly to protect
+  our services, infrastructure, users, or community. We reserve the right to
+  enforce, or not enforce, these policies in our sole discretion, and these
+  policies don't create a duty or contractual obligation for us to act in any
+  particular manner.
+
+  We also reserve the right to amend these policies using the procedures set
+  forth in our [Terms of Service].
+
+  If you have questions or feedback, don't hesitate to [let us know].
+
+Link to Prior Versions
+
+  You will find a link to prior versions of our Community Guidelines below.
+  We have stored these versions on GitHub, which will also allow you to
+  compare different versions and see what terms have changed:
+  
+  http://github.com/tumblr/policy/commits/master/community-guidelines.txt
