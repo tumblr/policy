@@ -1,0 +1,63 @@
+Last Modified: 2010-04-26
+
+The intent of this document is to clarify what we consider to be acceptable
+use of Tumblr.
+
+If you are found to be in violation of any of the below policies, you will
+receive a notice via email. Unless you explain or correct your behavior
+within 72 hours, your account will be suspended. We will do our best to
+work with you and ensure a fair outcome in all cases. We reserve the right
+to immediately suspend, without notice, any content, account, or IP address
+which we determine to be systematically generated, spam, or potentially
+damaging to our service or infrastructure.
+
+When your account is suspended, public access to your content is blocked,
+and your Tumblr URL (and custom domain if applicable) is redirected to the
+Tumblr home page. Access to your Tumblr Dashboard and the ability to
+add/edit posts is also disabled.
+
+• REDUNDANT CONTENT. Tumblr is not intended to be an all-purpose content
+  aggregator. Users who import or aggregate content in a less-than-meaningful
+  way are likely to be suspended.
+
+• ILLEGAL USE. Tumblr may not be used for illegal purposes. Examples of this
+  include using Tumblr for fraudulent purposes or operating a phishing site
+  (used to obtain account and password information).
+
+• SPAM. Users that do not publish meaningful content, use deceptive means to
+  generate revenue or traffic, or whose primary purpose is affiliate
+  marketing, will be suspended.
+
+• IDENTITY THEFT AND PRIVACY. Users that misleadingly appropriate the
+  identity of another person are not permitted. Users may not post other
+  people's personally identifying or confidential information, including but
+  not limited to credit card numbers, Social Security Numbers, and driver's
+  and other license numbers. You may not post information such as other
+  people's passwords, usernames, phone numbers, addresses and e-mail
+  addresses unless already publicly accessible on the Web.
+
+• HATE CONTENT, DEFAMATION, AND LIBEL. Hate speech and other objectionable
+  content that is unlawful, defamatory, and fraudulent. Note that an
+  allegation of defamatory expression, in and of itself, does not establish
+  defamation. The truth or falsehood of a bit of expression is a key element
+  in establishing defamation, and we are not in a position to make that sort
+  of fact-based judgment. That said, if we have reason to believe that a
+  particular statement is defamatory (a court order, for example), we will
+  remove that statement.
+
+• DISRUPTIONS AND EXPLOITS. We will terminate accounts and block addresses of
+  those who attempt unauthorized use of Tumblr.com.
+
+• COPYRIGHT. Using copyrighted material does not constitute infringement in
+  all cases. In general, however, users should be careful when using
+  copyrighted content without the permission of those who created it. It is
+  our policy to respond to notices of alleged infringement that comply with
+  the Digital Millennium Copyright Act ("DMCA").
+
+• MASS REGISTRATION AND AUTOMATION. Accounts that are registered
+  automatically or systematically will be removed and access will be
+  permanently suspended.
+
+• SEXUALLY EXPLICIT VIDEO. Accounts that use Tumblr's Video Upload feature to
+  regularly upload and host sexually explicit or pornographic material will
+  be suspended.
