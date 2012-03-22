@@ -75,7 +75,7 @@ you follow the text and emphasize key sections.
     unless you have been specifically allowed to do so in a separate agreement
     with Tumblr, or unless permitted by Tumblr's robots.txt file or other
     robot exclusion mechanisms; (d) scrape the Services, and particularly
-    scape Content (as defined below) from the Services, without Tumblr's
+    scrape Content (as defined below) from the Services, without Tumblr's
     express prior written consent; (e) use the Services to send altered,
     deceptive, or false source-identifying information, including without
     limitation by forging TCP-IP packet headers or e-mail headers; or (f)
