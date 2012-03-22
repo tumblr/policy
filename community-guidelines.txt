@@ -1,4 +1,4 @@
-Last Modified: 2012-03-02
+Last Modified: 2012-03-22
 
 As a global platform for creativity and self-expression, Tumblr is deeply
 committed to supporting and protecting freedom of speech. At the same time, we
@@ -16,7 +16,7 @@ What Tumblr is not for:
 
   Malicious Bigotry.
 
-    Don't actively promote violence or extreme hatred against   individuals or
+    Don't actively promote violence or extreme hatred against individuals or
     groups, on the basis of race, ethnic origin, religion, disability, gender,
     age, veteran status, or sexual orientation. While we firmly believe that
     the best response to hateful speech is not censorship but more speech, we

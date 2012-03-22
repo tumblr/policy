@@ -1,21 +1,21 @@
-Last Modified: 2012-03-02
+Last Modified: 2012-03-22
 
-Tumblr, Inc. ("Tumblr", "we", "us", or "our") takes the private nature of your 
-personal information very seriously. This policy regarding our privacy 
-practices (the "Privacy Policy") describes how we treat the information we 
-collect when you visit and use the website available at tumblr.com (the 
-"Site") and/or Tumblr's other domains, products, services, and/or content 
-(collectively with the Site, the "Services"). When you use the Services, you 
-are consenting to the collection, transfer, manipulation, storage, disclosure 
-and other uses of your information as described in this Privacy Policy; please 
+Tumblr, Inc. ("Tumblr", "we", "us", or "our") takes the private nature of your
+personal information very seriously. This policy regarding our privacy
+practices (the "Privacy Policy") describes how we treat the information we
+collect when you visit and use the website available at tumblr.com (the
+"Site") and/or Tumblr's other domains, products, services, and/or content
+(collectively with the Site, the "Services"). When you use the Services, you
+are consenting to the collection, transfer, manipulation, storage, disclosure
+and other uses of your information as described in this Privacy Policy; please
 read it carefully.
 
-Also: This Privacy Policy doesn't govern what our users do on their own blogs 
-and we aren't responsible for the information collection and use practices of 
-our individual blogs and bloggers. One of the great features of Tumblr's 
-products is customizability, and bloggers have a lot of flexibility in how 
-their blogs behave. When you visit a blog in our network, that blog may 
-collect more information than we do, and may provide information to third 
+Also: This Privacy Policy doesn't govern what our users do on their own blogs
+and we aren't responsible for the information collection and use practices of
+our individual blogs and bloggers. One of the great features of Tumblr's
+products is customizability, and bloggers have a lot of flexibility in how
+their blogs behave. When you visit a blog in our network, that blog may
+collect more information than we do, and may provide information to third
 parties that we have no relationship with, including to advertisers.
 
 What This Privacy Policy Covers
@@ -393,11 +393,11 @@ Where to Direct Questions or Concerns
 
   If you have any questions or concerns regarding privacy using the Services,
   [please send us a detailed message].
-  
+
 Link to Prior Versions
 
   You will find a link to prior versions of our Privacy Policy below. We have
-  stored these versions on GitHub, which will also allow you to compare 
+  stored these versions on GitHub, which will also allow you to compare
   different versions and see what terms have changed:
-  
+
   http://github.com/tumblr/policy/commits/master/privacy-policy.txt

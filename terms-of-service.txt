@@ -1,11 +1,11 @@
-Last Modified: 2012-03-02
+Last Modified: 2012-03-22
 
-Hi and welcome! You are now reading Tumblr’s Terms of Service, meaning the
-contract between you and Tumblr when you use Tumblr’s site, services, and
-products. You should read this carefully before you use Tumblr. We’ve tried
-to be both fair and clear -- if you have any suggestions for improvement, 
+Hi and welcome! You are now reading Tumblr's Terms of Service, meaning the
+contract between you and Tumblr when you use Tumblrs site, services, and
+products. You should read this carefully before you use Tumblr. We've tried
+to be both fair and clear -- if you have any suggestions for improvement,
 feel free to [email us]. We've also included several annotations; these
-annotations aren't a part of the contract itself, but are intended to help 
+annotations aren't a part of the contract itself, but are intended to help
 you follow the text and emphasize key sections.
 
 1. Accepting the Terms of Service
@@ -154,7 +154,7 @@ you follow the text and emphasize key sections.
     substantive editorial changes or derivations, but does enable Tumblr
     Subscribers to redistribute Subscriber Content from one Tumblr blog to
     another in a manner that allows Subscribers to, e.g., add their own text
-    or other Content before or after your Subscriber Content (“Reblogging”).
+    or other Content before or after your Subscriber Content ("Reblogging").
 
     You also agree that this license includes the right for Tumblr to make all
     publicly-posted Content available to third parties selected by Tumblr, so
@@ -286,14 +286,14 @@ you follow the text and emphasize key sections.
 
   The following additional terms apply to Promotions:
 
-    • Things that you promote will comply with this Agreement; if they don't,
+    - Things that you promote will comply with this Agreement; if they don't,
       Tumblr reserves the right, in its sole discretion, to cancel a Promotion
       without refund or recourse to you.
 
-    • Tumblr may remove or disable any Promotion for any reason in its sole
+    - Tumblr may remove or disable any Promotion for any reason in its sole
       discretion.
 
-    • Tumblr does not guarantee any activity that Promotions may receive,
+    - Tumblr does not guarantee any activity that Promotions may receive,
       including but not limited to clicks, Likes, and Reblogs. Tumblr cannot
       control how Subscribers interact with Promotions and is not responsible
       for "click fraud" or other fraudulent actions by third parties,
@@ -304,16 +304,16 @@ you follow the text and emphasize key sections.
       erroneous reporting about or errant behavior of or related to Promotions
       (e.g., any errors in how "likes" or Reblogs are counted).
 
-    • Promotions may allow targeting to some Subscriber characteristics, such
+    - Promotions may allow targeting to some Subscriber characteristics, such
       as by suggesting new blogs to follow based on currently followed blogs.
       Tumblr does not guarantee that any particular Promotion will reach a
       particular sort of individual in all cases.
 
-    • You can cancel certain Promotions at any time (depending on their
+    - You can cancel certain Promotions at any time (depending on their
       functionality), but are responsible for paying for Promotions at least
       to the extent they have already been distributed through the Services.
 
-    • By submitting a Promotion, you license Tumblr to run that Promotion for
+    - By submitting a Promotion, you license Tumblr to run that Promotion for
       as long as you have specified, which, depending on the Promotion, may be
       perpetually. This license ends when the Promotion has completed or been
       cancelled, but it may take up to twenty four (24) hours before a
@@ -347,20 +347,20 @@ you follow the text and emphasize key sections.
   known and unknown, arising out of or in any way connected with the
   following:
 
-    • Disputes between Subscribers, including those between you and other
+    - Disputes between Subscribers, including those between you and other
       Subscribers.
 
-    • Third party sites and services, including content found on such sites
+    - Third party sites and services, including content found on such sites
       and services.
 
-    • Disputes concerning any use of or action taken using your Account by you
+    - Disputes concerning any use of or action taken using your Account by you
       or a third party.
 
-    • Claims relating to the unauthorized access to any data communications or
+    - Claims relating to the unauthorized access to any data communications or
       Content stored under or relating to your Account, including unauthorized
       use or alteration of such communications or your Content.
 
-    • Claims relating to in any way to any face-to-face meetings in any way
+    - Claims relating to in any way to any face-to-face meetings in any way
       related to Tumblr at any venues ("Meetups"), including without
       limitation claims related to the actions or omissions of any Subscribers
       or third parties who organize, attend, or are otherwise involved in any
@@ -496,23 +496,23 @@ you follow the text and emphasize key sections.
     infringement containing the following information to the Designated Agent
     at the address below:
 
-      • Identification of the work or material being infringed.
+      - Identification of the work or material being infringed.
 
-      • Identification of the material that is claimed to be infringing,
+      - Identification of the material that is claimed to be infringing,
         including its location, with sufficient detail so that Tumblr is
         capable of finding it and verifying its existence.
 
-      • Contact information for the notifying party (the "Notifying Party"),
+      - Contact information for the notifying party (the "Notifying Party"),
         including name, address, telephone number and e-mail address.
 
-      • A statement that the Notifying Party has a good faith belief that the
+      - A statement that the Notifying Party has a good faith belief that the
         material is not authorized by the copyright owner, its agent or law.
 
-      • A statement made under penalty of perjury that the information
+      - A statement made under penalty of perjury that the information
         provided in the notice is accurate and that the Notifying Party is
         authorized to make the complaint on behalf of the copyright owner.
 
-      • A physical or electronic signature of a person authorized to act on
+      - A physical or electronic signature of a person authorized to act on
         behalf of the owner of the copyright that has been allegedly
         infringed.
 
@@ -529,24 +529,24 @@ you follow the text and emphasize key sections.
     may file a counter-notification with Tumblr by providing the following
     information to the Designated Agent at the address below:
 
-      • The specific URLs of material that Tumblr has removed or to which
+      - The specific URLs of material that Tumblr has removed or to which
         Tumblr has disabled access.
 
-      • Your name, address, telephone number, and email address.
+      - Your name, address, telephone number, and email address.
 
-      • A statement that you consent to the jurisdiction of Federal District
+      - A statement that you consent to the jurisdiction of Federal District
         Court for the judicial district in which your address is located (or
         the federal district courts located in New York County, New York if
         your address is outside of the United States), and that you will
         accept service of process from the person who provided the original
         DMCA notification or an agent of such person.
 
-      • The following statement: "I swear, under penalty of perjury, that I
+      - The following statement: "I swear, under penalty of perjury, that I
         have a good faith belief that the material was removed or disabled as
         a result of a mistake or misidentification of the material to be
         removed or disabled."
 
-      • Your signature.
+      - Your signature.
 
     Upon receipt of a valid counter-notification, Tumblr will forward it to
     Notifying Party who submitted the original DMCA notification. The original
@@ -564,11 +564,11 @@ you follow the text and emphasize key sections.
     Attn: Copyright Agent
     Fax: +1-646-475-2135
     Email: [dmca@tumblr.com]
-    
+
 Link to Prior Versions
 
     You will find a link to prior versions of our Terms of Service below. We
-    have stored these versions on GitHub, which will also allow you to 
+    have stored these versions on GitHub, which will also allow you to
     compare different versions and see what terms have changed:
-    
+
     http://github.com/tumblr/policy/commits/master/terms-of-service.txt
