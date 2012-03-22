@@ -86,13 +86,16 @@ What Tumblr is not for:
 
   Spam.
 
-    Don't abuse social gestures, send unwanted messages, post misleading tags,
-    or import/aggregate content in a less-than-meaningful way. Don't inject
-    deceptive links or dubious code in your posts. That includes Javascript to
-    unwillingly inject ads in blogs, or embedding links to interstitial or
-    pop-up ad services. Don't use deceptive means to generate revenue or
-    traffic. Don't create blogs with the primary purpose of affiliate
-    marketing. Spam doesn't belong on Tumblr.
+    Don't abuse social gestures, send unwanted messages, or aggregate content
+    in a less-than-meaningful way. Don't put tags on your posts that will
+    mislead or deceive searchers (for example, tagging a photo of your car
+    with "#lady gaga" and "#britney spears"); of course, meaningful uses are
+    always fine (for example, ironic "punchline" tags that add to or playfully
+    subvert a post itself). Don't put deceptive links or dubious code in your
+    posts. That includes using Javascript to inject unwanted ads in blogs, or
+    embedding links to interstitial or pop-up ad services. Don't use deceptive
+    means to generate revenue or traffic, or create blogs with the primary
+    purpose of affiliate marketing. Spam doesn't belong on Tumblr.
 
   Mass Registration and Automation.
 
