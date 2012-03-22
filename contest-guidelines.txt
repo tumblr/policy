@@ -1,0 +1,47 @@
+Last Modified: 2012-03-22
+
+Contests, sweepstakes, or giveaways with prizes valued over USD $1,000 aren't
+allowed on Tumblr without our permission.
+
+If you do choose to administer, promote, or run a contest, sweepstakes, or
+giveaway on Tumblr, follow these guidelines:
+
+  1. Fully disclose all of the contest, sweepstakes, or giveaway's rules
+     including, for example, eligibility restrictions, all entry methods,
+     information about your prizes (including retail value), and odds
+     of winning;
+
+  2. Make sure to include in your rules a full release of Tumblr by each
+     person participating, an acknowledgement that the contest, sweepstakes,
+     or giveaway isn't associated with Tumblr (including, without limitation,
+     that it isn't administered, sponsored, or endorsed by Tumblr), and a
+     statement that each person participating is giving information to you and
+     not to Tumblr;
+
+  3. Only allow entry by individuals who are eighteen or older;
+
+  4. Only direct and open your contest, sweepstakes, or giveaway to people who
+     live in your country; and
+
+  5. As per our community guideline against non-genuine social gesture
+     schemes, don't use Tumblr's social features (like following, reblogging,
+     and liking) as entry methods.
+
+Communicating on Tumblr about a contest, sweepstakes, or giveaway that happens
+off-site is generally OK (but make sure to provide all the information you
+need to, as noted above).
+
+Finally, keep in mind that you're always responsible for the legality of your
+contest, sweepstakes, or giveaway whether it happens on Tumblr or elsewhere,
+and lots of detailed state and federal laws apply (at least in the U.S.), so
+we urge you to take them seriously and ask a lawyer if you have questions or
+concerns.
+
+Link to Prior Versions
+
+  You will find a link to prior versions of our Contest, Sweepstakes, and
+  Giveaway Guidelines below. We have stored these versions on GitHub, which
+  will also allow you to compare different versions and see what terms have
+  changed:
+
+  http://github.com/tumblr/policy/commits/master/contest-guidelines.txt

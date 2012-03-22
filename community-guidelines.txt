@@ -102,11 +102,10 @@ What Tumblr is not for:
     Don't register accounts or post content automatically, systematically, or
     programmatically.
 
-  Unauthorized Sweepstakes or Giveaways.
+  Unauthorized Contests, Sweepstakes, or Giveaways.
 
-    Everyone wants to be a winner, but there are many reasons (including legal
-    ones) why Tumblr can't be used for sweepstakes without our involvement and
-    consent. If you're planning something like this, [let us know].
+    Take a look at our [guidelines] for contests, sweepstakes, and giveaways,
+    which are incorporated here by reference, for more information.
 
   Third-Party Theme Distribution.
 
