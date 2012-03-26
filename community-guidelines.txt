@@ -143,7 +143,7 @@ What Tumblr is not for:
 
   Disruptions, Exploits, and Resource Abuse.
 
-    Our servers and the valiant engineers that support them work hard for you.
+    Our servers and the valiant engineers who support them work hard for you.
     Don't attempt unauthorized use, disruption, or exploitation of Tumblr.com
     or our other products and services, or otherwise abuse Tumblr's resources.
 
@@ -174,5 +174,5 @@ Link to Prior Versions
   You will find a link to prior versions of our Community Guidelines below.
   We have stored these versions on GitHub, which will also allow you to
   compare different versions and see what terms have changed:
-  
+
   http://github.com/tumblr/policy/commits/master/community-guidelines.txt

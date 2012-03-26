@@ -102,10 +102,10 @@ you follow the text and emphasize key sections.
   of your Account. Tumblr reserves the right to refuse registration of,
   cancel, or modify a Tumblr URL in its sole discretion.
 
-  You are also responsible for maintaining the confidentiality of of your
-  Account password and for the security of your Account, and you will notify
-  Tumblr immediately of any actual or suspected loss, theft, or unauthorized
-  use of your Account or Account password.
+  You are also responsible for maintaining the confidentiality of your Account
+  password and for the security of your Account, and you will notify Tumblr
+  immediately of any actual or suspected loss, theft, or unauthorized use of
+  your Account or Account password.
 
 5. Privacy
 
