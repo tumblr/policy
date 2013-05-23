@@ -666,8 +666,8 @@ provisions herein, please contact us at [api@tumblr.com].
 
   Link to Prior Versions
   
-  You will find a link to prior versions of our API License Agreement below.
-  We have stored these versions on GitHub, which will also allow you to compare
-  different versions and see what terms have changed:
+  You will find a link to prior versions of our Application Developer and API
+  License Agreement below. We have stored these versions on GitHub, which will
+  also allow you to compare different versions and see what terms have changed:
 
   http://github.com/tumblr/policy/commits/master/api-license-agreement.txt
