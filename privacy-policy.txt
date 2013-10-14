@@ -1,10 +1,10 @@
 Last Modified: 2012-03-22
 
-Tumblr, Inc. ("Tumblr", "we", "us", or "our") takes the private nature of your
+ThinkUp LLC. ("ThinkUp", "we", "us", or "our") takes the private nature of your
 personal information very seriously. This policy regarding our privacy
 practices (the "Privacy Policy") describes how we treat the information we
-collect when you visit and use the website available at tumblr.com (the
-"Site") and/or Tumblr's other domains, products, services, and/or content
+collect when you visit and use the website available at thinkup.com (the
+"Site") and/or ThinkUp's other domains, products, services, and/or content
 (collectively with the Site, the "Services"). When you use the Services, you
 are consenting to the collection, transfer, manipulation, storage, disclosure
 and other uses of your information as described in this Privacy Policy; please
@@ -12,7 +12,7 @@ read it carefully.
 
 Also: This Privacy Policy doesn't govern what our users do on their own blogs
 and we aren't responsible for the information collection and use practices of
-our individual blogs and bloggers. One of the great features of Tumblr's
+our individual blogs and bloggers. One of the great features of ThinkUp's
 products is customizability, and bloggers have a lot of flexibility in how
 their blogs behave. When you visit a blog in our network, that blog may
 collect more information than we do, and may provide information to third
@@ -39,7 +39,7 @@ What Information We Collect and How We Use It
 
   Account Information:
 
-    When you create an account on a Tumblr Service (an "Account"), you will
+    When you create an account on a ThinkUp Service (an "Account"), you will
     provide information such as your username, password, and email address.
     You may also be required to provide us with your birthdate, which we use
     to verify your age and may use to personalize the Services for you (e.g.,
@@ -58,7 +58,7 @@ What Information We Collect and How We Use It
     your Account (e.g., for purposes of Account recovery or password reset).
     These communications are considered part of the Services and your Account,
     which you may not be able to opt-out from receiving. You can opt-out of
-    most communications from Tumblr, such as new follower emails; please see
+    most communications from ThinkUp, such as new follower emails; please see
     your Account Settings page. Note that we will never email you to ask for
     your password or other Account information; if you receive such an email,
     [forward it to us].
@@ -69,7 +69,7 @@ What Information We Collect and How We Use It
     Party Services. You may also be required to engage in an authorization
     process with each of those Third Party Services, where we receive a token
     that allows us to access those accounts so that we can, for example, when
-    you choose, post your Tumblr content, or links to your Tumblr content, to
+    you choose, post your ThinkUp content, or links to your ThinkUp content, to
     those services. We do not receive or store your passwords for your Third
     Party Service accounts.
 
@@ -79,11 +79,11 @@ What Information We Collect and How We Use It
     Party Services, we may obtain information about you from those Third Party
     Services. Such information could include, for example, your gender, if you
     have disclosed that information to that third party and made it available
-    for Tumblr to access. To the extent we obtain such information, we may use
+    for ThinkUp to access. To the extent we obtain such information, we may use
     the information about you that we receive from Third Party Services to
     improve and personalize the Services. As a general practice, we strongly
     urge you to make careful judgments about any personal information you
-    disclose to Internet services, including Tumblr and linked Third Party
+    disclose to Internet services, including ThinkUp and linked Third Party
     Services, regardless of whether you choose to link your accounts together.
 
   User Content:
@@ -204,7 +204,7 @@ What Information We Collect and How We Use It
     information, in turn, is sometimes used to personalize your experiences on
     the Services, such as by presenting you with a different iFrame (allowing
     you to follow a blog) when you are logged in and visit a blog hosted by
-    Tumblr. Most web browsers have an option for turning off the cookie
+    ThinkUp. Most web browsers have an option for turning off the cookie
     feature, which will prevent your browser from accepting new cookies, as
     well as (depending on the sophistication of your web browser software)
     allowing you to decide on acceptance of each new cookie in a variety of
@@ -222,11 +222,11 @@ What Information We Collect and How We Use It
     Certain features of the Services allow you to provide us with your contact
     lists stored on other services, so that we can connect you with people in
     our Services that are also on those contact lists. For example, you can
-    temporarily connect your e-mail contact information to your Tumblr.com
+    temporarily connect your e-mail contact information to your ThinkUp.com
     account, so that we can provide you with a list of your e-mail contacts
-    that use Tumblr.com. As another example, you can send us your mobile phone
+    that use ThinkUp.com. As another example, you can send us your mobile phone
     contact e-mails through our mobile applications, which then allows us to
-    provide you with a list of those contacts that use Tumblr.com. We will
+    provide you with a list of those contacts that use ThinkUp.com. We will
     give you an explicit choice as to whether or not you provide us such
     information, and we will disclose fully, within the appropriate feature,
     how we use, and whether we will store, that information.
@@ -365,8 +365,7 @@ What Information You Can Access
   with our affiliates and/or third parties for marketing purposes, and
   providing contact information for such affiliates and/or third parties. If
   you are a California resident and would like a copy of this notice, please
-  submit a written request to the following address: 35 East 21st Street, 6th
-  Floor, New York NY 10010.
+  submit a written request to the following address: 220 East 23rd Street, Suite 601, New York NY 10010.
 
 How to Delete Your Account and What Happens When You Delete Your Account
 
@@ -400,4 +399,4 @@ Link to Prior Versions
   stored these versions on GitHub, which will also allow you to compare
   different versions and see what terms have changed:
 
-  http://github.com/tumblr/policy/commits/master/privacy-policy.txt
+  http://github.com/ThinkUpLLC/policy/commits/master/privacy-policy.txt
