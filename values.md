@@ -1,8 +1,8 @@
 ## ThinkUp Values
 
-These are only some of the issues we care about as a company, but we want to articulate them clearly as an incentive for us all to pursue them consistently.
+These are only some of the issues we care about as a company. We want to articulate them as an incentive to pursue them.
 
-* It's nice to be nice.
+* It is nice to be nice.
 
 * We care about leaving the web, and the world, a better place than we found it.
 
@@ -26,13 +26,13 @@ These are only some of the issues we care about as a company, but we want to art
 
 * We define our internal success in terms of many people having fulfilling, rewarding careers, rather than just a small number of extremely successful leaders. We aim for anyone with whom we work to feel empowered, respected, challenged and enriched.
 
-* We define community success as a community that is growing at a healthy, sustainable rate that allows it to become more diverse and inclusive while also still having coherence and a sense of camaraderie.
+* We define community success as a healthy, sustainable growth rate that allows our community to become more diverse and inclusive while also still having coherence and a sense of camaraderie.
 
 * We define civic success as being a meaningful and committed driver of improvements in our local communities, whether those are defined by geography, identity or technology. We want to contribute time, energy and our voices to encouraging good policy, good participation and good citizenship by us and our community.
 
 * We define commercial success as sustainably and profitably growing in a way that's responsible; we aim to be respectful while being unapologetically competitive.
 
-* We define overall success as appreciably making a large number of people's lives better and more meaningful.
+* We define overall success as making a large number of people's lives better and more meaningful.
 
 * We want to learn lessons from as many different examples and contexts as possible, based on the principle that nearly any problem has been encountered in at least an analogous form in the past.
 
