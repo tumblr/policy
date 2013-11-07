@@ -1,6 +1,6 @@
 ## ThinkUp Values
 
-These are only some of the issues we care about as a company. We want to articulate them as an incentive to pursue them.
+These are only some of the issues we care about as a company. We articulate them as an incentive to pursue them.
 
 * It is nice to be nice.
 
