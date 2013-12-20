@@ -16,7 +16,7 @@ These are only some of the issues we care about as a company. We articulate them
 
 * We care about design at every level, from the systematic underpinnings of how our company and technology works to our commmunity's aesthetic, artistic and expressive works.
 
-* We want to use plain, simple, clear language that doesn't needlessly obfuscate in all our messages.
+* We want all our messages to use plain, simple, clear language that doesn't needlessly obfuscate.
 
 * We care about equitable opportunity, particularly within the technology industry. We strive to be inclusive and encouraging to all.
 
