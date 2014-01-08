@@ -1,14 +1,16 @@
-Last modified: May 23, 2013
+Last modified: Jan 8, 2014
 
 This Application Developer and API License Agreement (the “Agreement”),
 effective as of the date of acceptance of this Agreement (the “Effective
 Date”), is by and between Tumblr, Inc. (“Tumblr”) and you, or the individual,
-company or other entity that you represent (“Licensee” or “you”). If you are
-entering into this Agreement on behalf of a company or other entity, you
-represent and warrant that you have authority to bind such company or other
-entity to this Agreement. Before building applications on Tumblr's platform,
-particularly those using the Tumblr firehose and/or API, you have to agree to
-this contract.
+company or other entity that you represent (“Licensee” or “you”). Consumers 
+of the Tumblr Firehose, as defined below, may additionally be required to 
+execute a separate services agreement governing their access to that resource 
+(the “MSA”). If you are entering into this Agreement on behalf of a company
+or other entity, you represent and warrant that you have authority to bind
+such company or other entity to this Agreement. Before building applications
+on Tumblr's platform, particularly those using the Tumblr firehose and/or API, 
+you have to agree to this contract.
 
 By building applications that interact with Tumblr's products and services (the
 “Tumblr Services”) or by using the Tumblr API (as defined below), including but
@@ -60,10 +62,12 @@ provisions herein, please contact us at [api@tumblr.com].
      “Licensee Applications”); (b) use, reproduce, distribute, transmit,
      display and perform the Content, and modify (i.e., alter in any manner)
      the Content only to the extent necessary to format and display it through
-     the Licensee Applications and (c) use and display the Tumblr Marks only to
-     identify that the Licensed Materials originate from the Tumblr Services.
-     Licensee Applications do not include those applications that use or access
-     the Tumblr API, Tumblr Firehose, or Tumblr Services in order
+     the Licensee Applications; (c) additionally in the case of the Tumblr 
+     Firehose, to manipulate information and Content from the Tumblr Firehose for
+     the purposes of non-public analysis and search; and (d) use and display the
+     Tumblr Marks only to identify that the Licensed Materials originate from the
+     Tumblr Services.Licensee Applications do not include those applications that
+     use or access the Tumblr API, Tumblr Firehose, or Tumblr Services in order
      to monitor the availability, performance, or functionality of any of the
      Tumblr API, Tumblr Firehose, or Tumblr Services, or for any other
      benchmarking or other competitive purposes.
@@ -139,9 +143,10 @@ provisions herein, please contact us at [api@tumblr.com].
         order of posts in the Dashboard and don't inject in-stream ads or use
         ads that look like Tumblr posts.
 
-     f. No Public Display or Distribution. Licensee Applications are
-        strictly prohibited from publicly displaying or distributing Content in
-        any manner.
+     f. No Syndication or Distribution. Licensee Applications are
+        strictly prohibited from syndicating or distributing Content in
+        any manner, public or private, including but not limited to public
+        redisplay of any Content.
 
      g. No In-Network Promotions. Licensee Applications may not promote
         any Content to or within the Tumblr network (“In-Network Promotions”),
@@ -214,7 +219,7 @@ provisions herein, please contact us at [api@tumblr.com].
         them public. You can send security flaw reports to
         [security@tumblr.com].
 
-     l. No Phishing, Malware or Identity Theft. You will not publish or
+     l. No Phishing, Malware, or Identity Theft. You will not publish or
         link to malicious content intended to damage, disrupt, compromise, or
         exploit a user’s browser, computer, mobile (or other) device, or Tumblr
         account or to compromise a user’s privacy in any manner. In addition,
@@ -371,8 +376,10 @@ provisions herein, please contact us at [api@tumblr.com].
      generally be notified about Modifications through notifications or posts on
      the Developer Website or through a form of direct communication from Tumblr
      to you, including but not limited to e-mail or notifications provided
-     through the Tumblr Services. You otherwise acknowledge and agree that the
-     Tumblr Services and the Licensed Materials may be modified at any time and
+     through the Tumblr Services. A Modification to this Agreement will become
+     effective fourteen days after we have posted the Modification and provided
+     you notification of the Modification. You otherwise acknowledge and agree that
+     the Tumblr Services and the Licensed Materials may be modified at any time and
      without any notice to you. You will, within thirty (30) days from the date
      of first notice of any Modification(s) (or such shorter period of time
      specified in the notice of the Modification(s)) comply with such
@@ -476,22 +483,30 @@ provisions herein, please contact us at [api@tumblr.com].
         their consent, be open with them about their rights and responsibilities
         regarding their content and actually provide that content to Tumblr.
 
-     b. Removal of Content. When you have been notified (for example, through
-        the Tumblr API), you will immediately, and in any case not later than
-        twenty-four hours after notification, (including, but not limited to, by
-        modifying applicable Licensee Applications): (i) delete or remove
-        Content that has been deleted or removed from the Tumblr Services; (ii)
-        modify Content that has been modified on the Tumblr Services; and (iii)
-        change the treatment, in your Licensee Applications, of Content that has
-        had its sharing options modified.
+     b. Changes to Content. When you have been notified (for example, through
+        the Tumblr API), you will within twenty-four hours after such notification,
+        honor any changes made on or related to Content (including, but not
+        limited to, by modifying applicable Licensee Applications), including but
+        not limited to: (i) deleting or removing Content that has been deleted
+        or removed from the Tumblr Services; (ii) disabling access to Content on
+        suspended or terminated blogs; (iii) modify Content that has been modified
+        on the Tumblr Services; and (iv) change the treatment, in your Licensee
+        Applications, of Content that has had its sharing options modified. (e.g.,
+        by removing from display any Content that has been placed behind a password
+        protected blog). For Content received from the Tumblr Firehose, such
+        changes must be reflected immediately. 
 
-        When users modify or remove content on Tumblr, your application is
+        When users content is changed on Tumblr, your application is
         required to reflect those changes.
 
      c. Storage and Caching of Content. Under no circumstances will you
         or your Licensee Applications store or cache Content for longer than
         three (3) days; after three (3) days, you and/or your Licensee
-        Applications will re-request any such Content.
+        Applications will re-request any such Content. Notwithstanding the
+        foregoing, storage and caching of Content received from the Tumblr
+        Firehose will be governed by the terms and duration stated in the 
+        applicable MSA and in the absence of such terms, storage of such Content
+        shall be governed by this clause.
 
         Apps are not allowed to cache content for more than three days.
 
@@ -578,16 +593,18 @@ provisions herein, please contact us at [api@tumblr.com].
       Materials do and shall comply with all applicable foreign, federal, state
       and local laws, rules, and regulations.
 
-  12. Indemnification. You will indemnify and hold Tumblr, its
-      subsidiaries, affiliates, officers, employees, and agents harmless from
-      any and all claims, damages, losses, liabilities, actions, judgments,
-      costs, and expenses brought by a third party arising out of or in
-      connection with: (i) any act or omission by you in connection with your
-      use of the Tumblr Services or the Licensed Materials; (ii) your use of the
-      Tumblr Services or the Licensed Materials other than as expressly allowed
-      by this Agreement; (iii) your breach of this Agreement, including but not
-      limited to your representations and warranties herein; or (iv) any
-      Licensee Application.
+  12. Indemnification. You will indemnify and hold Tumblr, its subsidiaries,
+      affiliates (i.e., any other persons or entities that directly or indirectly
+      control, or are under common control with, or are directly or indirectly
+      controlled by, Tumblr) employees, and agents harmless from any and all
+      claims, damages, losses, liabilities, actions, judgments, costs, and expenses
+      brought by a third party arising out of or in connection with: (i) any act
+      or omission by you in connection with your use of the Tumblr Services or
+      the Licensed Materials; (ii) your use of the Tumblr Services or the Licensed
+      Materials, including but not limited to other than as expressly allowed by
+      this Agreement; (iii) your breach of this Agreement, including but not
+      limited to your representations and warranties herein; or (iv) any Licensee
+      Application.
 
   13. Disclaimer. The Tumblr Services and the Licensed Materials are provided
       “as is” without warranty of any kind. Tumblr disclaims all warranties,
@@ -646,7 +663,10 @@ provisions herein, please contact us at [api@tumblr.com].
       States of America. You agree that any dispute arising from or relating to
       the subject matter of this Agreement shall be governed by the exclusive
       jurisdiction and venue of the state and federal courts of New York County,
-      New York. The section and paragraph headings in this Agreement, along with
+      New York. You agree that any claim you may have arising out of or related
+      to this Agreement and/or your use of the Licensed Materials must be filed
+      within one year after such claim arose; otherwise, your claim is permanently
+      barred. The section and paragraph headings in this Agreement, along with
       all provided annotations, are for convenience only and shall not affect
       the interpretation of this Agreement. The failure of Tumblr to enforce any
       part of this Agreement shall not constitute a waiver of its right to later
