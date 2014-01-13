@@ -1,16 +1,30 @@
-Last Modified: 2014-01-06
+Last Modified: 2014-01-13
 
-ThinkUp LLC. ("ThinkUp", "we", "us", or "our") takes the private nature of your
-personal information very seriously. This policy regarding our privacy
-practices (the "Privacy Policy") describes how we treat the information we
-collect when you visit and use the website available at thinkup.com (the
-"Site") and/or ThinkUp's other domains, products, services, and/or content
-(collectively with the Site, the "Services"). When you use the Services, you
-are consenting to the collection, transfer, manipulation, storage, disclosure
-and other uses of your information as described in this Privacy Policy; please
-read it carefully.
+ThinkUp LLC. takes the private nature of your
+personal information very seriously. We respect your privacy and strive to use
+your information in ways that you can understand, predict and control.
+
+We'll use a few terms in this policy:
+
+* "Privacy Policy": This policy regarding our privacy practices
+* "ThinkUp", "we", "us", or "our": ThinkUp LLC
+* "Site": ThinkUp.com
+* Services: ThinkUp's other domains, products, services, and/or content, along
+  with the Site
+
+This Privacy Policy describes how we treat the information we collect when you
+visit and use the Site or Services. When you use the Services, you are
+consenting to the collection, transfer, manipulation, storage, disclosure and
+other uses of your information as described in this Privacy Policy.
+
+Because your privacy is important, we ask that you please read this Policy
+carefully. We've also included annotations throughout this policy; these
+annotations aren't a part of the policy itself, but are intended to help you
+follow the text and to emphasize key sections.
 
 What This Privacy Policy Covers
+
+  "This Policy covers information you share with ThinkUp, not third parties."
 
   This Privacy Policy covers our treatment of information gathered when you
   are using or accessing the Services. This Privacy Policy also covers our
@@ -31,6 +45,8 @@ What Information We Collect and How We Use It
 
   Account Information:
 
+  "ThinkUp needs your account information like an email address and password."
+
     When you create an account on a ThinkUp Service (an "Account"), you will
     provide information such as your username, password, and email address.
     You may also be required to provide us with your birthdate, which we use
@@ -41,27 +57,53 @@ What Information We Collect and How We Use It
 
   Email Communications with Us:
 
+  "ThinkUp uses your email address to send necessary notificaitions."
+
     As part of the Services, you may occasionally receive email and other
     communications from us, such as administrative communications relating to
     your Account (e.g., for purposes of Account recovery or password reset).
     These communications are considered part of the Services and your Account,
     which you may not be able to opt-out from receiving. You can opt-out of
-    most communications from ThinkUp, such as insight notifications; please 
-    see your Membership Settings page. Note that we will NEVER email you to 
+    most communications from ThinkUp, such as insight notifications; please
+    see your Membership Settings page. Note that we will NEVER email you to
     ask for your password or other Account information; if you receive such an
     email, forward it to us at help@thinkup.com.
 
-    Information about Your Accounts on Third Party Services: You can link your
-    Account to certain Third Party Services. In order to do so, you will
-    provide us with your username or other user ID on each of those Third
-    Party Services. You may also be required to engage in an authorization
-    process with each of those Third Party Services, where we receive a token
-    that allows us to access those accounts so that we can, for example, when
-    you choose, post your ThinkUp content, or links to your ThinkUp content, to
-    those services. We do not receive or store your passwords for your Third
+  Information Obtained from Third Party Services:
+
+  "ThinkUp uses your data shared from third-party networks like Twitter and 
+  Facebook, and you should understand their policies."
+
+    Information about Your Accounts on Third Party Services: Key parts of the
+    Services require you to link your Account to certain Third Party Services,
+    such as Twitter or Facebook. In order to do so, you will provide us with
+    your username or other user ID and authentication on each of those Third
+    Party Services, where we receive a token that allows us to access those
+    accounts. We use this authorization as permission to, for example,
+    retrieve your activity on those services.
+
+    We do NOT ask for, receive or store your passwords for your Third
     Party Service accounts.
 
-  Information Obtained from Third Party Services:
+    For your convenience, you can view the Twitter Terms of Service here:
+
+    https://twitter.com/tos
+
+    And you can view the Twitter Privacy Policy here:
+
+    https://twitter.com/privacy
+
+    Also for your convenience, you can view the Facebook Terms of Service:
+
+    https://www.facebook.com/legal/terms
+
+    And you can view the Facebook Data Use Policy here:
+
+    https://www.facebook.com/about/privacy
+
+    We STRONGLY encourage you to familiarize yourself with the terms of service
+    and privacy policy of any third-party services which you use in conjunction
+    with ThinkUp.
 
     In some cases, when you connect your Account with your accounts on Third
     Party Services, we may obtain information about you from those Third Party
@@ -76,44 +118,61 @@ What Information We Collect and How We Use It
 
   User Content:
 
-    By default, all sharing through the Services is public, and when you
-    provide us with content it is published so that anyone can view it.
-    Although we may provide tools, like privacy/security settings, that let you
-    publish content privately, you should assume that anything you publish is
-    publicly accessible unless you have explicitly selected otherwise. Content
-    published and shared publicly is accessible to everyone, including search
-    engines, and you may lose any privacy rights you might have regarding that
-    content. In addition, information shared publicly may be copied and shared
-    throughout the Internet. While you are free to remove published pieces of 
-    content from or delete your Account, because of the nature of Internet 
-    sharing, copies of that content may exist elsewhere and be retained 
-    indefinitely, including in our systems.
+  "Your ThinkUp insights are default by public."
+
+    By default, the information generated by the Services is public, and it is
+    published so that anyone can view it. We provide tools, like privacy and
+    security settings, that let you limit who can see information in your
+    ThinkUp account. You should assume that anything ThinkUp publishes for you
+    is publicly accessible unless you have explicitly selected otherwise.
+    Content published and shared publicly is accessible to everyone, including
+    search engines, and you may lose any privacy rights you might have
+    regarding that content. In addition, information shared publicly may be
+    copied and shared throughout the Internet. While you are free to remove
+    published content from or delete your Account, because of the nature of
+    Internet sharing, copies of that content may exist elsewhere and be
+    retained indefinitely, including in our systems.
 
   Information About User Content:
 
+  "Your content might have data embedded in it. We may use that data."
+
     In some cases, we may collect information about content you provide to the
     Services. For example, when it's included with your images, we may collect
-    information describing your camera and camera settings. This information
-    allows us to improve the Services and provide additional features and
-    functionality.
+    information describing your camera and camera settings, or when it is
+    included in your posts on other services, we may collect location
+    information. This information allows us to improve the Services and provide
+    additional features and functionality.
 
   Financial Information:
 
-    We will sometimes collect financial information, such as information
-    related to your payment method (valid credit card number, type, expiration
-    date or other financial information), for example when you decide to
-    purchase a paid Service. We do not, however, store that financial
-    information; such information is stored by our third party payment
-    processor (the "Payment Processor"), and use and storage of that
-    information is governed by the Payment Processor’s applicable [terms of
-    service] and [privacy policy] (the Payment Processor may also have other
+  "Your payment details are stored at Amazon. You should read their policies."
+
+    We do not collect or store your financial information when you decide to
+    purchase a paid Service; instead, such information is stored by our third
+    party payment processor (the "Payment Processor"), and use and storage of
+    that information is governed by the Payment Processor’s applicable terms of
+    service and privacy policy (the Payment Processor may also have other
     terms, and you are responsible for locating and familiarizing yourself
-    with those terms, as applicable). We do receive certain information from
-    our Payment Processor: a unique token that we connect with your Account 
-    to enable you to make further purchases using the information stored by 
-    our Payment Processor.
+    with those terms, as applicable). Currently, our Payment Processor is
+    Amazon Payments.
+
+    For your convenience, you can view the Privacy Policy for Amazon Payments
+    here:
+
+    https://payments.amazon.com/help?nodeId=82974
+
+    And you can view the Amazon Payments Customer Agreement here:
+
+    https://payments.amazon.com/help?nodeId=6019
+
+    We do receive certain information from our Payment Processor: a unique
+    token that we connect with your Account to enable you to make further
+    purchases using the information stored by our Payment Processor.
 
   Information Related to Use of the Services:
+
+  "We use normal statistics and analytics services. Read their policies."
 
     We collect information about how people use the Services, including those
     with an Account. This information includes general usage information, and
@@ -121,7 +180,7 @@ What Information We Collect and How We Use It
     which pages or features of the Services they have visited, which links on
     the Services they have clicked on, and the length of those visits. We may
     also use third party applications and services, such as Google Analytics
-    and Quantcast, to collect and analyze this information. This information
+    and Chartbeat, to collect and analyze this information. This information
     enables us and third parties authorized by us to figure out how often
     individuals use the Services so that we can analyze and improve them. Some
     of this information may be associated with the IP Address (as defined
@@ -132,7 +191,26 @@ What Information We Collect and How We Use It
     identify you personally. We use information about your use of the Services
     to improve and enhance your experience on the Services.
 
+    For your convenience, you may view the Google Analytics Terms of Service:
+
+    http://www.google.com/analytics/terms/us.html
+
+    And you can view the Google Analytics Privacy Policy:
+
+    http://www.google.com/analytics/learn/privacy.html
+
+    Also for your convience, you may view the Chartbeat Terms of Service:
+
+    https://chartbeat.com/terms/
+
+    And this is the Chartbeat Privacy Policy:
+
+    https://chartbeat.com/privacy/
+
   Information Related to Your Web Browser:
+
+  "Web browsers typically send some data when you visit us; We use that to make
+  ThinkUp better."
 
     We automatically receive and record information from your web browser when
     you interact with the Services, such as your browser type and version,
@@ -149,22 +227,31 @@ What Information We Collect and How We Use It
 
   IP Address Information:
 
+  "Normally, when you visit ThinkUp we receive your IP address, which we'll use
+  to improve ThinkUp."
+
     Under certain circumstances, such as when you log into the Services or load
-    a web page from the Services, we may collect and store your Internet 
+    a web page from the Services, we may collect and store your Internet
     Protocol Address ("IP Address"). We generally use IP Address information to
     fight spam, malware, and identity theft; we also may use it, in the future,
     to personalize the Services for you. IP Address information is also used by
-    us to generate aggregate, non-identifying, information about use of the 
+    us to generate aggregate, non-identifying, information about use of the
     Services.
 
   Location Information:
 
+  "If we receive your location information, we'll only use it to provide better
+  ThinkUp services to you."
+
     In some cases we collect and store information about where you are
     located, such as by converting your IP Address into a rough geolocation, or
-    by using location data stored in photos or in social media messages. We may 
+    by using location data stored in photos or in social media messages. We may
     use location information to improve and personalize the Services for you.
 
   Information Related to Your Mobile Device:
+
+  "Any information we collect about your mobile devices will be used only to
+  make ThinkUp work better."
 
     We may collect and store information related to your mobile device, such
     as your phone number. You will have a choice as to whether we collect and
@@ -172,6 +259,9 @@ What Information We Collect and How We Use It
     Services, such as by delivering notifications to your device if permitted.
 
   Information Collected Using Cookies:
+
+  "We use cookies to make ThinkUp work for you. If you turn them off, you won't
+  be able to use ThinkUp. Some statistics services we use set cookies, too."
 
     Cookies are pieces of text that may be sent to and saved by your web
     browser when you access a website; your web browser stores these cookies
@@ -190,29 +280,36 @@ What Information We Collect and How We Use It
     the cookie feature, which will prevent your browser from accepting new
     cookies, as well as (depending on the sophistication of your web browser
     software) allowing you to decide on acceptance of each new cookie in a
-    variety of ways. If you disable cookies, you won't be able to log into 
+    variety of ways. If you disable cookies, you won't be able to log into
     your Account, and so will not be able to use the vast majority of our
     Services; as such, we don't recommend disabling your cookies when using
-    the Services. Some third-party services that we use, such as Google 
-    Analytics and Quantcast, may also place their own cookies on your browser.
+    the Services. Some third-party services that we use, such as Google
+    Analytics and Chartbeat, may also place their own cookies on your browser.
     Note that this Privacy Policy covers our use of cookies only and does not
     cover the use of cookies by third parties.
 
   Information About Your Contacts:
 
+  "ThinkUp automatically retrieves your friend or follower list from connected
+  services. "
+
     Certain features of the Services allow you to provide us with your contact
-    lists stored on other services. We give you an explicit choice when you 
-    provide us such information, and we will disclose fully, within the 
-    appropriate feature, how we use, and whether we will store, that
-    information.
+    lists stored on other services. We only use and store that information to
+    provide the ThinkUp service to you.
 
   Derived Information:
+
+  "We may deduce information about you from your activity. We only do that
+  to provide the core ThinkUp services to you."
 
     We analyze your actions on the Services in order to derive or infer
     characteristics that may be descriptive of you. These characteristics are
     used to improve and personalize the Services.
 
   Email Tracking:
+
+  "Sometimes we put a tracking link in emails to know if you opened an email
+  or clicked on a link in it."
 
     We may place information in our emails to you (such as a web beacon) that
     allows us to measure our email deliverability, and we may track which
@@ -221,6 +318,8 @@ What Information We Collect and How We Use It
     of such services which govern these messages as well.
 
 With Whom Your Information Is Shared
+
+"We don't share your personal information without telling you."
 
   We never share information we receive from you unless:
 
@@ -234,16 +333,20 @@ With Whom Your Information Is Shared
 
   Information Shared with the Public Through the Services:
 
+  "Your ThinkUp stream is public by default."
+
     As noted above, by default, content published through the Services is
     shared with the public, and this is an important feature of the Services.
     Such information includes, but isn't limited to, anything you choose to
-    post on or submit to a connected service and anything apparent in a 
+    post on or submit to a connected service and anything apparent in a
     posted photograph. Because this kind of information can be seen by anyone
     and may be indexed by search engines (like Google Search), you should be
-    careful in what you choose to disclose publicly and make sure it is 
+    careful in what you choose to disclose publicly and make sure it is
     information you want to share with everyone.
 
   Information Shared Between the Services:
+
+  "We might combine your use of different networks together to improve ThinkUp."
 
     We may, if possible, aggregate information about your use of multiple
     Services and use that consolidated information to improve how the Services
@@ -251,15 +354,19 @@ With Whom Your Information Is Shared
 
   Information You Share with Third Party Services:
 
+  "ThinkUp relies on your activity on third party networks to work."
+
     You may access Third Party Services through the Services, for example by
     clicking on externally-pointing links. You may also choose to share
     information that you provide to us, with those Third Party Services (for
     example, by sharing insights to Twitter or Facebook). This Privacy Policy
-    only governs information we collect and you are responsible for reading 
+    only governs information we collect and you are responsible for reading
     and understanding those Third Party Services' privacy policies.
 
   Information Shared with Our Agents in Order to Operate and Improve the
   Services:
+
+  "If we hire a contractor or consultant, they'll follow the same policy here."
 
     In some cases, we share information that we store (such as IP Addresses)
     with third parties, such as our service providers, consultants and other
@@ -276,11 +383,17 @@ With Whom Your Information Is Shared
 
   Information Shared with Third Parties:
 
+  "If we share information with business partners, it would be aggregate
+  information."
+
     We may share or disclose non-private information, Aggregate Information,
     or other non-Personal Information with people and entities that we do
     business with.
 
   Information Disclosed Pursuant to Business Transfers:
+
+  "If we sell ThinkUp or its assets, your private information would come along
+  in the sale."
 
     In some cases, we may choose to buy or sell business assets. In these
     transactions, user information is typically one of the transferred
@@ -292,6 +405,8 @@ With Whom Your Information Is Shared
     as set forth in this policy.
 
   Information Disclosed for Our Protection and the Protection of Others:
+
+  "We will disclose information if needed to obey the law or to protect people."
 
     We believe in freedom of expression, and, to the extent reasonable, we try
     to protect our community from baseless legal demands. That said, we also
@@ -310,10 +425,14 @@ With Whom Your Information Is Shared
 
   Information We Share with Your Consent or at Your Request:
 
+  "If you want to share your data, we'll accommodate you."
+
     If you ask us to release information that we have about your Account, we
     will do so if reasonable and not unduly burdensome.
 
-The Security of Your Information
+The Security of Your 
+
+"Keep your password safe. We're doing everything we can to keep your data safe."
 
   Your Account information is protected by a password for your privacy and
   security. You need to prevent unauthorized access to your Account and
@@ -329,6 +448,8 @@ The Security of Your Information
 
 What Information You Can Access
 
+"You can see your account information in your Settings page."
+
   If you are a registered user, you can access and delete most information
   associated with your Account by logging into the Services and checking your
   Account Settings page. Registered and unregistered users can access and
@@ -340,35 +461,45 @@ What Information You Can Access
   with our affiliates and/or third parties for marketing purposes, and
   providing contact information for such affiliates and/or third parties. If
   you are a California resident and would like a copy of this notice, please
-  submit a written request to the following address: 220 East 23rd Street, Suite 601, New York NY 10010.
+  submit a written request to the following address: 220 East 23rd Street,
+  Suite 601, New York NY 10010.
 
 How to Delete Your Account and What Happens When You Delete Your Account
+
+"You can email us to cancel your account, and we'll delete your account. Some
+information may persist for a while after your account is deleted."
 
   If you want to delete your Account, you can do so from your Membership
   page or by emailing us at help@thinkup.com and providing proof of authority
   over the Account. What constitutes "proof of authority" will vary depending
-  on the circumstances, but generally will require sufficient identifying 
+  on the circumstances, but generally will require sufficient identifying
   information so that we can be confident you are the Account owner. Deleting
-  your Account may not fully or immediately remove the content you have 
-  published from oursystems, as caching of, backups of, copies of, or 
-  references to your Account information may not be immediately removed. In 
-  addition, given the nature of sharing on the Services, some of the public a
-  ctivity on your Account prior to deletion may remain stored on our servers 
+  your Account may not fully or immediately remove the content you have
+  published from oursystems, as caching of, backups of, copies of, or
+  references to your Account information may not be immediately removed. In
+  addition, given the nature of sharing on the Services, some of the public
+  activity on your Account prior to deletion may remain stored on our servers
   and accessible to the public.
 
 Changes to This Privacy Policy
 
+"We may change this privacy policy. If we do, we'll tell you."
+
   We may amend this Privacy Policy from time to time, using the process for
-  modifications set forth in our [Terms of Service]. Use of information we
+  modifications set forth in our Terms of Service. Use of information we
   collect now is subject to the Privacy Policy in effect at the time such
   information is used.
 
 Where to Direct Questions or Concerns
 
+"Seriously: If you have any questions or concerns about this policy, email us."
+
   If you have any questions or concerns regarding privacy using the Services,
   please send us a detailed message to help@thinkup.com.
 
 Link to Prior Versions
+
+"You can see the changes we've made to this policy over time."
 
   You will find a link to prior versions of our Privacy Policy below. We have
   stored these versions on GitHub, which will also allow you to compare
