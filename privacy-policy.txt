@@ -304,12 +304,6 @@ With Whom Your Information Is Shared
     right to use information we share with them beyond the scope and duration
     of what is necessary to assist us.
 
-  Information Shared with Third Parties:
-
-    We may share or disclose non-private information, Aggregate Information,
-    or other non-Personal Information with people and entities that we do
-    business with.
-
   Information Disclosed Pursuant to Business Transfers:
 
     In some cases, we may choose to buy or sell business assets. In these
@@ -342,6 +336,12 @@ With Whom Your Information Is Shared
 
     If you ask us to release information that we have about your Account, we
     will do so if reasonable and not unduly burdensome.
+
+  Information Shared with Other Third Parties:
+
+    We may share or disclose non-private information, Aggregate Information, or
+    other non-personally identifying information with people and entities that
+    we do business with.
 
 The Security of Your Information
 
