@@ -22,18 +22,32 @@ us if you have any questions or suggestions!
 
 2. Modifications to this Agreement
 
-  Tumblr reserves the right, in its sole discretion, to modify this Agreement
-  at any time by posting a revised Agreement through the Services and by
-  providing notice to you that this Agreement has changed, generally via
-  e-mail where practicable, and otherwise through the Services (such as
-  through a notification in your Tumblr Dashboard). You are responsible for
-  reviewing and becoming familiar with any modifications to this Agreement.
-  Modifications are effective when posted, and your use of the Services
-  following any such posted modification and notice of same constitutes your
-  acceptance of the terms and conditions of this Agreement as modified. Note
-  that, if you have prepaid for any Paid Services (as defined below) prior to
-  a modification of this Agreement, your use of such prepaid Paid Services is
-  governed by the version of this Agreement in effect at the time Tumblr
+  Tumblr reserves the right to modify this Agreement by (1) posting a revised
+  Agreement on and/or through the Services and (2) providing notice to you that
+  this Agreement has changed, generally via e-mail where practicable, and
+  otherwise through the Services (such as through a notification on your Tumblr
+  Dashboard or in our mobile applications). Modifications will not apply
+  retroactively. You are responsible for reviewing and becoming familiar with
+  any modifications to this Agreement.
+
+  We may sometimes ask you to review and to explicitly agree to (or reject) a
+  revised version of this Agreement. In such cases, modifications will be
+  effective at the time of your agreement to the modified version of this
+  Agreement. If you do not agree at that time, you are not permitted to use the
+  Services.
+
+  In cases where we do not ask for your explicit agreement to a modified
+  version of this Agreement, but otherwise provide notice as set forth above,
+  the modified version of this Agreement will become effective fourteen days
+  after we have posted the modified Agreement and provided you notification of
+  the modifications. Your use of the Services following that period constitutes
+  your acceptance of the terms and conditions of this Agreement as modified.
+  If you do not agree to the modifications, you are not permitted to use, and
+  should discontinue your use of, the Services.
+
+  Note that, if you have prepaid for any Paid Services (as defined below) prior
+  to a modification of this Agreement, your use of such prepaid Paid Services
+  is governed by the version of this Agreement in effect at the time Tumblr
   received your prepayment.
 
 3. Use of the Services
