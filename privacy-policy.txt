@@ -85,11 +85,14 @@ What We Collect and How We Use It
     Although we do provide tools, like password-protected blogs, "Asks," and
     "Fan Mail," that let you publish content privately, you should assume that
     anything you publish is publicly accessible unless you have explicitly
-    selected otherwise. Content published and shared publicly is accessible to
-    everyone, including search engines, and you may lose any privacy rights you
-    might have regarding that content. In addition, information shared publicly
-    may be copied and shared throughout the Internet, including through actions
-    or features native to the Services, such as "reblogging."
+    selected otherwise. Also, please keep in mind that anything you share
+    privately with another user, particularly through an Ask or Fan Mail, may
+    be posted publicly by that user. Content published and shared publicly is
+    accessible to everyone, including search engines, and you may lose any
+    privacy rights you might have regarding that content. In addition,
+    information shared publicly may be copied and shared throughout the
+    Internet, including through actions or features native to the Services,
+    such as "reblogging."
 
   Native Actions:
 
