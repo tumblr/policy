@@ -128,7 +128,7 @@ us if you have any questions or suggestions!
     For purposes of this Agreement: (1) the term "Content" means a creative
     expression and includes, without limitation, video, audio, photographs,
     images, illustrations, animations, logos, tools, written posts, replies,
-    and comments, information, data, text, software, scripts, executable files,
+    comments, information, data, text, software, scripts, executable files,
     graphics, Themes (as defined below), and interactive features, any of which
     may be generated, provided, or otherwise made accessible on or through the
     Services; (2) the term "Subscriber Content" means Content that a Subscriber
@@ -374,7 +374,7 @@ us if you have any questions or suggestions!
       expressly disclosed in writing, Tumblr does not sponsor, oversee, or in
       any manner control Meetups.
 
-  If you are a California resident, you waive California Civil Code §1542,
+  If you are a California resident, you waive California Civil Code § 1542,
   which says: "A general release does not extend to claims which the creditor
   does not know or suspect to exist in his favor at the time of executing the
   release, which if known by him must have materially affected his settlement
@@ -578,7 +578,7 @@ us if you have any questions or suggestions!
     35 East 21st Street, 10th Floor
     New York, NY 10010
     Attn: Copyright Agent
-    Fax: +1-646-513-4321
+    Fax: +1 (646) 513-4321
     Email: dmca@tumblr.com
     Copyright notice form: http://www.tumblr.com/dmca
 

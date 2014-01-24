@@ -105,7 +105,7 @@ What Tumblr is not for:
     Doctor Who, and don't overload your posts with #barely #relevant #tags. Of
     course, meaningful uses of tags are always fine (for example, ironic
     "punchline" tags that add meaning or context to a post). Don't put
-    dubious code in your posts, like using Javascript to cause redirects or
+    dubious code in your posts, like using JavaScript to cause redirects or
     inject unwanted ads in blogs. Don't use deceptive means to generate revenue
     or traffic, or create blogs with the primary purpose of affiliate
     marketing. Spam doesn't belong on Tumblr.

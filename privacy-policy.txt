@@ -200,7 +200,7 @@ What We Collect and How We Use It
     themselves, contain information that personally identifies you, and we
     don't combine the general information collected through cookies with other
     such information to tell us who you are. However, we do use cookies to
-    identify that you have logged in, that your web browser has accessed the
+    identify that you have logged in, and that your web browser has accessed the
     Services, and we may associate that information with your Account if you
     have one. We may also store unique or near-unique identifiers that we
     associate with your Account in our cookies. This information, in turn, is
@@ -261,7 +261,7 @@ With Whom Your Information Is Shared
     We are a wholly-owned subsidiary of Yahoo, and, as such, Yahoo may receive
     any information we do, and may share information it has with us. Yahoo may
     use the information it receives from us to help us provide, understand, and
-    improve the Services (including by providing us analytics) and in
+    improve the Services (including by providing us with analytics) and in
     connection with Yahoo's products and services (including by providing you
     with a more personalized experience). For details about how Yahoo treats
     the information it collects, please review Yahoo's Privacy Policy.
@@ -358,7 +358,7 @@ The Security of Your Information
   We seek to protect your information (including your Account Information) to
   ensure that it is kept private; however, we can't guarantee the security of
   any information. Unauthorized entry or use, hardware or software failure,
-  and other factors, may compromise the security of user information at any
+  and other factors may compromise the security of user information at any
   time.
 
 What Information You Can Access
