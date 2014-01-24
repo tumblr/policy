@@ -133,21 +133,23 @@ What We Collect and How We Use It
   Information Related to Use of the Services:
 
     We collect information about how people use the Services, including those
-    with an Account. This information includes general usage information, and
-    may include information such as the number and frequency of our visitors,
-    which pages or features of the Services they have visited, which links on
-    the Services they have clicked on, and the length of those visits. We may
-    also use third party applications and services, such as Google Analytics
-    and Quantcast, to collect and analyze this information. This information
-    enables us and third parties authorized by us to figure out how often
-    individuals use the Services so that we can analyze and improve them. Some
-    of this information may be associated with the IP Address (as defined
-    below) used to access the Services, and some may be associated with your
-    Account, such as the topics you search for and the help pages that you
-    visit. We may also use some of this information in aggregate form, that
-    is, as a statistical measure related to all of our users that would not
-    identify you personally. We use information about your use of the Services
-    to improve and enhance your experience on the Services.
+    with an Account. This type of information may be collected in our log files
+    each time you interact with (i.e., make a request to) the Services. We use
+    internal tools (from both Tumblr and Yahoo) and third party applications
+    and services (like Google Analytics or comScore), to collect and analyze
+    this information. Some of this information may also be associated with the
+    IP Address (as defined below) used to access the Services; some may be
+    connected with your Account; and some may only be collected and used in
+    aggregate form (as a statistical measure that wouldn't identify you or your
+    Account). We may use this information about how you and others interact
+    with the Services for a number of things generally related to enhancing,
+    improving, protecting, and developing new Services, including but not
+    limited to: providing users with personalized content; providing users with
+    targeted advertising; improving our search results; identifying trending or
+    popular content; fighting spam, malware, identity theft and generally
+    keeping our users and community safe; and for legal and safety reasons as
+    set forth in "Information Disclosed for Our Protection and the Protection
+    of Others."
 
   Information Related to Your Web Browser:
 
