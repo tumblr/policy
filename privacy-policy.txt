@@ -178,9 +178,10 @@ What We Collect and How We Use It
     cases, we, or Yahoo, who we use for mobile analytics and other services,
     may receive, generate, or assign your mobile device a unique identifier for
     the purposes described above in "Information Related to Use of the
-    Services." You will have a choice as to whether we collect and store this
-    information. We may use this information to improve the Services, such as
-    by allowing you to verify your account by text message.
+    Services." We may also ask you to provide your phone number to enable new
+    products and improve the Services, such as by enabling two-factor
+    authentication for Account login. We will always ask you whether it's OK
+    for us to collect and store your phone number.
 
   Information Collected Using Cookies:
 
