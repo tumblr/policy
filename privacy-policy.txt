@@ -178,11 +178,11 @@ What We Collect and How We Use It
   Information Related to Your Mobile Device:
 
     We may collect and store information related to your mobile device. In some
-    cases, we, or Yahoo, who we use for mobile analytics and other services,
+    cases, we, or Yahoo (who we use for mobile analytics and other services),
     may receive, generate, or assign your mobile device a unique identifier for
-    the purposes described above in "Information Related to Use of the
-    Services." We may also ask you to provide your phone number to enable new
-    products and improve the Services, such as by enabling two-factor
+    the purposes described above in “Information Related to Use of the
+    Services.” We may also ask you to provide your phone number to enable new
+    products and improve the Services, such as by enabling multi-factor
     authentication for Account login. We will always ask you whether it's OK
     for us to collect and store your phone number.
 
