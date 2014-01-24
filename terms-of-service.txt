@@ -445,6 +445,15 @@ us if you have any questions or suggestions!
   jurisdiction of the courts located within New York County, New York for the
   purpose of litigating all such claims or disputes.
 
+  If you are (a) a United States federal, state, or local government agency or
+  body, (b) using the Services in your official capacity, and (c) legally
+  unable to accept the clauses in this Section, then this Section doesn't apply
+  to you. For such entities, this Agreement and any related action will be
+  governed by the laws of the United States of America, without regard to
+  conflict of law provisions, and, in the absence of federal law and to the
+  extent permitted under federal law, the laws of the State of New York,
+  excluding choice of law.
+
 18. Miscellaneous
 
   This Agreement, as modified from time to time, constitutes the entire
