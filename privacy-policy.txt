@@ -39,13 +39,13 @@ What We Collect and How We Use It
 
     When you create an account on the Services (an "Account"), we'll ask you
     for information such as your username, password, age, and email address
-    ("Account Information"). You may also be required to provide us with your
-    birthdate, which we use to verify your age and may use to personalize the
-    Services for you (e.g., by presenting you with content relevant to your age
-    group). This information may personally identify you. For example, if you
-    use your full name as your username, you are disclosing your identity to
-    the public. We also allow users to look for their friends by email address;
-    you can, however, opt out of email lookup through your Account Settings.
+    ("Account Information"). We may use Account Information, alone or together
+    with other information, to enhance and improve the Services, such as by
+    personalization. We use your age to verify that you can lawfully use the
+    Services. We use your email address to verify your Account and to
+    communicate with you, as described in more detail below. We also allow
+    users to look for their friends by email address; you can, however, opt out
+    of email lookup through your Account Settings.
 
   Email Communications with Us:
 
