@@ -174,10 +174,13 @@ What We Collect and How We Use It
 
   Information Related to Your Mobile Device:
 
-    We may collect and store information related to your mobile device, such
-    as your phone number. You will have a choice as to whether we collect and
-    store this information. We may use this information to improve the
-    Services, such as by allowing you to verify your account by text message.
+    We may collect and store information related to your mobile device. In some
+    cases, we, or Yahoo, who we use for mobile analytics and other services,
+    may receive, generate, or assign your mobile device a unique identifier for
+    the purposes described above in "Information Related to Use of the
+    Services." You will have a choice as to whether we collect and store this
+    information. We may use this information to improve the Services, such as
+    by allowing you to verify your account by text message.
 
   Information Collected Using Cookies:
 
