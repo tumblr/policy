@@ -138,18 +138,19 @@ What We Collect and How We Use It
     internal tools (from both Tumblr and Yahoo) and third party applications
     and services (like Google Analytics or comScore), to collect and analyze
     this information. Some of this information may also be associated with the
-    IP Address (as defined below) used to access the Services; some may be
-    connected with your Account; and some may only be collected and used in
-    aggregate form (as a statistical measure that wouldn't identify you or your
-    Account). We may use this information about how you and others interact
-    with the Services for a number of things generally related to enhancing,
-    improving, protecting, and developing new Services, including but not
-    limited to: providing users with personalized content; providing users with
-    targeted advertising; improving our search results; identifying trending or
-    popular content; fighting spam, malware, identity theft and generally
-    keeping our users and community safe; and for legal and safety reasons as
-    set forth in "Information Disclosed for Our Protection and the Protection
-    of Others."
+    Internet Protocol Address ("IP Address") used to access the Services; some
+    may be connected with your Account; and some may only be collected and used
+    in aggregate form (as a statistical measure that wouldn't identify you or
+    your Account). We also collect your IP Address when you make a post,
+    particularly when you submit an anonymous "Ask". We may use this
+    information about how you and others interact with the Services for a
+    number of things generally related to enhancing, improving, protecting, and
+    developing new Services, including but not limited to: providing users with
+    personalized content; providing users with targeted advertising; improving
+    our search results; identifying trending or popular content; fighting spam,
+    malware, identity theft and generally keeping our users and community safe;
+    and for legal and safety reasons as set forth in "Information Disclosed for
+    Our Protection and the Protection of Others."
 
   Information Related to Your Web Browser:
 
@@ -163,16 +164,6 @@ What We Collect and How We Use It
     you are using certain web browser extensions and store that information in
     a manner associated with your Account. We use web browser-related
     information to enhance and improve the Services.
-
-  IP Address Information:
-
-    Under certain circumstances, such as when you log into the Services, load
-    a web page from the Services, or send an "Ask" message anonymously, we may
-    collect and store your Internet Protocol Address ("IP Address"). We
-    generally use IP Address information to fight spam, malware, and identity
-    theft; we also may use it, in the future, to personalize the Services for
-    you. IP Address information is also used by us to generate aggregate,
-    non-identifying, information about use of the Services.
 
   Location Information:
 
