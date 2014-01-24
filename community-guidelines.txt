@@ -69,11 +69,17 @@ What Tumblr is not for:
     Don't participate in schemes to drive up non-genuine follows, likes,
     reblogs, etc. Don't orchestrate or engage in "follow trains," where users
     are encouraged to follow lists of other users to gain more followers for
-    themselves. Don't scatter deceptive links to your blog or Follow pages.
-    Don't make bulk or indiscriminate use of messaging features like Fan Mail
-    or Asks, to, for example, bait reblogs/follows or drive traffic to your
-    blog or website. If you want people to like you, just play it cool and be
-    yourself.
+    themselves. Don't make bulk or indiscriminate use of messaging features
+    like Fan Mail or Asks, to, for example, bait reblogs/follows or drive
+    traffic to your blog or website. If you want people to like you, just play
+    it cool and be yourself.
+
+  Deceptive or Fraudulent Links.
+
+    Don't post deceptive or fraudulent links in your posts. This includes
+    giving links misleading descriptions, putting the wrong "source" field in a
+    post, setting misleading click-through links on images, or embedding links
+    to interstitial or pop-up ads.
 
   Username / URL Abuse or Squatting.
 
@@ -91,10 +97,10 @@ What Tumblr is not for:
     Doctor Who, and don't overload your posts with #barely #relevant #tags. Of
     course, meaningful uses of tags are always fine (for example, ironic
     "punchline" tags that add meaning or context to a post). Don't put
-    deceptive links or dubious code in your posts, like using Javascript to
-    cause redirects or inject unwanted ads in blogs. Don't use deceptive means
-    to generate revenue or traffic, or create blogs with the primary purpose of
-    affiliate marketing. Spam doesn't belong on Tumblr.
+    dubious code in your posts, like using Javascript to cause redirects or
+    inject unwanted ads in blogs. Don't use deceptive means to generate revenue
+    or traffic, or create blogs with the primary purpose of affiliate
+    marketing. Spam doesn't belong on Tumblr.
 
   Mass Registration or Automation.
 
