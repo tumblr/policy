@@ -1,16 +1,13 @@
-Last Modified: 2012-03-22
-
 As a global platform for creativity and self-expression, Tumblr is deeply
 committed to supporting and protecting freedom of speech. At the same time, we
 draw lines around a few narrowly-defined but deeply important categories of
 content and behavior that jeopardize our users, threaten our infrastructure,
-or damage our community.
+and damage our community.
 
 What Tumblr is for:
 
   Tumblr celebrates creativity. We want you to express yourself freely and use
-  Tumblr to reflect who you are, and what you love, think, witness, and
-  believe.
+  Tumblr to reflect who you are, and what you love, think, and stand for.
 
 What Tumblr is not for:
 
@@ -156,27 +153,26 @@ What Tumblr is not for:
     This one's pretty obvious, but Tumblr is not a place for illegal behavior,
     including fraud, phishing, or illegally inciting violence.
 
-And now, some words from our lawyers:
+If we conclude that you are violating these guidelines, you may receive a
+notice via email. If you don't explain or correct your behavior, your account
+may be suspended and/or your IP address may be blocked. We do our best to
+ensure fair outcomes, but in all cases we reserve the right to suspend
+accounts, or remove content, without notice, for any reason, but particularly
+to protect our services, infrastructure, users, and community. We reserve the
+right to enforce, or not enforce, these guidelines in our sole discretion, and
+these guidelines don't create a duty or contractual obligation for us to act in
+any particular manner.
 
-  If we conclude you are violating these policies, you may receive a notice
-  via email. If you don't explain or correct your behavior, your account may
-  be suspended and/or your IP address may be blocked. We do our best to ensure
-  fair outcomes, but in all cases we reserve the right to suspend accounts or
-  remove content, without notice, for any reason, but particularly to protect
-  our services, infrastructure, users, or community. We reserve the right to
-  enforce, or not enforce, these policies in our sole discretion, and these
-  policies don't create a duty or contractual obligation for us to act in any
-  particular manner.
+We also reserve the right to amend these guidelines using the procedures set
+forth in our Terms of Service.
 
-  We also reserve the right to amend these policies using the procedures set
-  forth in our [Terms of Service].
+If you have questions or feedback, don't hesitate to let us know.
 
-  If you have questions or feedback, don't hesitate to [let us know].
+Thanks for reading all of this, by the way. Welcome to Tumblr.
 
 Link to Prior Versions
 
-  You will find a link to prior versions of our Community Guidelines below.
-  We have stored these versions on GitHub, which will also allow you to
-  compare different versions and see what terms have changed:
+  You will find prior versions of our Community Guidelines on GitHub, which will allow you to
+  compare historical versions and see which terms have been updated:
 
   http://github.com/tumblr/policy/commits/master/community-guidelines.txt
