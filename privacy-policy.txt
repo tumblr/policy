@@ -1,30 +1,21 @@
-Last Modified: 2012-03-22
-
-Tumblr, Inc. ("Tumblr", "we", "us", or "our") takes the private nature of your
-personal information very seriously. Note that Tumblr was acquired by, and is
-now, a wholly-owned subsidiary of, Yahoo! Inc. ("Yahoo") as of June 19, 2013.
-This policy regarding our privacy practices (the "Privacy Policy") describes
-how we treat the information we collect when you visit and use the website
-available at tumblr.com (the "Site") and/or Tumblr's other domains, products,
-services, and/or content (collectively with the Site, the "Services"). When you
-use the Services, you are consenting to the collection, transfer, manipulation,
-storage, disclosure and other uses of your information as described in this
-Privacy Policy; please read it carefully.
-
-Also: This Privacy Policy doesn't govern what our users do on their own blogs
-and we aren't responsible for the information collection and use practices of
-our individual blogs and bloggers. One of the great features of Tumblr's
-products is customizability, and bloggers have a lot of flexibility in how
-their blogs behave. When you visit a blog in our network, that blog may
-collect more information than we do, and may provide information to third
-parties that we have no relationship with, including to advertisers.
+Tumblr, Inc. ("Tumblr," "we," "us," or "our") takes the private nature of your
+information very seriously. Note that Tumblr was acquired by, and is now, a
+wholly-owned subsidiary of, Yahoo! Inc. ("Yahoo") as of June 19, 2013. This
+policy regarding our privacy practices (the "Privacy Policy") describes how we
+treat the information we collect when you visit and use tumblr.com (the "Site")
+and/or Tumblr's other domains, products, advertising products, services, and/or
+content, including our iOS, Android, and Windows Phone mobile applications
+(collectively with the Site, the "Services"). When you use the Services, you
+also consent to the collection, transfer, manipulation, storage, disclosure and
+other uses of your information as described in this Privacy Policy; please read
+it carefully.
 
 What This Privacy Policy Covers
 
   This Privacy Policy covers our treatment of information gathered when you
   are using or accessing the Services. This Privacy Policy also covers our
-  treatment of any information that our partners share with us or that we
-  share with our partners.
+  treatment of any information about you that our partners share with us or
+  that we share with our partners.
 
   This Privacy Policy does not apply to the practices of third parties that we
   do not own or control, including but not limited to any third party
@@ -36,43 +27,49 @@ What This Privacy Policy Covers
   you to carefully review the privacy policies of all Third Party Services you
   access.
 
-What Information We Collect and How We Use It
+  Also: This Privacy Policy also doesn't govern what our users do on their
+  Tumblr blogs and we aren't responsible for the information collection and use
+  practices of our individual blogs and bloggers. One of the great features of
+  Tumblr's products is customizability, and bloggers have a lot of flexibility
+  in how their blogs behave. When you visit a blog in our network, that blog
+  may collect more information than we do, and may provide information to third
+  parties that we have no relationship with, including to advertisers.
+
+What We Collect and How We Use It
 
   Account Information:
 
-    When you create an account on a Tumblr Service (an "Account"), you will
-    provide information such as your username, password, and email address.
-    You may also be required to provide us with your birthdate, which we use
-    to verify your age and may use to personalize the Services for you (e.g.,
-    by presenting you with content relevant to your age group). This
-    information may personally identify you. For example, if you use your full
-    name as your username, you are disclosing your identity to the public. We
-    also allow users to look for their friends by e-mail address; you can,
-    however, opt out of this feature through your Account Settings page, and
-    we do not expose your e-mail address to the public or third parties,
-    except in the limited circumstances set forth in this Privacy Policy.
+    When you create an account on the Services (an "Account"), we'll ask you
+    for information such as your username, password, age, and email address
+    ("Account Information"). You may also be required to provide us with your
+    birthdate, which we use to verify your age and may use to personalize the
+    Services for you (e.g., by presenting you with content relevant to your age
+    group). This information may personally identify you. For example, if you
+    use your full name as your username, you are disclosing your identity to
+    the public. We also allow users to look for their friends by email address;
+    you can, however, opt out of email lookup through your Account Settings.
 
   Email Communications with Us:
 
     As part of the Services, you may occasionally receive email and other
-    communications from us, such as administrative communications relating to
-    your Account (e.g., for purposes of Account recovery or password reset).
-    These communications are considered part of the Services and your Account,
-    which you may not be able to opt-out from receiving. You can opt-out of
-    most communications from Tumblr, such as new follower emails; please see
-    your Account Settings page. Note that we will never email you to ask for
-    your password or other Account information; if you receive such an email,
-    [forward it to us].
+    communications from us. Administrative communications relating to your
+    Account (e.g., for purposes of Account recovery or password reset) are
+    considered part of the Services and your Account, which you may not be able
+    to opt-out from receiving. We also may send you other kinds of emails,
+    which you can opt-out of either from your Account Settings page or by using
+    the "Opt-Out" link in the emails themselves. Note that we will never email
+    you to ask for your password or other Account Information; if you receive
+    such an email, please forward it to us.
 
-    Information about Your Accounts on Third Party Services: You can link your
-    Account to certain Third Party Services. In order to do so, you will
-    provide us with your username or other user ID on each of those Third
-    Party Services. You may also be required to engage in an authorization
-    process with each of those Third Party Services, where we receive a token
-    that allows us to access those accounts so that we can, for example, when
-    you choose, post your Tumblr content, or links to your Tumblr content, to
-    those services. We do not receive or store your passwords for your Third
-    Party Service accounts.
+  Information about Your Accounts on Third Party Services:
+
+    You can link your Account to certain Third Party Services. In order to do
+    so, you may provide us with your username or other user ID for a Third
+    Party Service, and you may then be required to log into that Service. After
+    you complete this login process, we will receive a token that allows us to
+    access your account on that service so that we can, for example, post your
+    content to that service when you ask us to. We do not receive or store your
+    passwords for your Third Party Service accounts.
 
   Information Obtained from Third Party Services:
 
@@ -91,45 +88,40 @@ What Information We Collect and How We Use It
 
     By default, all sharing through the Services is public, and when you
     provide us with content it is published so that anyone can view it.
-    Although we do provide tools, like password-protected blogs, that let you
-    publish content privately, you should assume that anything you publish is
-    publicly accessible unless you have explicitly selected otherwise. Content
-    published and shared publicly is accessible to everyone, including search
-    engines, and you may lose any privacy rights you might have regarding that
-    content. In addition, information shared publicly may be copied and shared
-    throughout the Internet, including through features native to the
-    Services, such as "Reblogging." While you are free to remove published
-    pieces of content from or delete your Account, because of the nature of
-    Internet sharing, the strong possibility of Reblogging of your content by
-    others, and technological limitations inherent to the Services, copies of
-    that content may exist elsewhere and be retained indefinitely, including
-    in our systems.
+    Although we do provide tools, like password-protected blogs, "Asks," and
+    "Fan Mail," that let you publish content privately, you should assume that
+    anything you publish is publicly accessible unless you have explicitly
+    selected otherwise. Content published and shared publicly is accessible to
+    everyone, including search engines, and you may lose any privacy rights you
+    might have regarding that content. In addition, information shared publicly
+    may be copied and shared throughout the Internet, including through actions
+    or features native to the Services, such as "reblogging."
 
   Information About User Content:
 
     In some cases, we may collect information about content you provide to the
-    Services. For example, when it's included with your images, we may collect
-    information describing your camera and camera settings. This information
-    allows us to improve the Services and provide additional features and
-    functionality.
+    Services. For example, when it's included as part of your images, we may
+    collect information describing your camera, camera settings, or EXIF
+    information. This information allows us to improve the Services and provide
+    additional features and functionality.
 
   Financial Information:
 
     We will sometimes collect financial information, such as information
     related to your payment method (valid credit card number, type, expiration
-    date or other financial information), for example when you decide to
+    date or other financial information). This happens, when you decide to
     purchase a paid Service. We do not, however, store that financial
-    information; such information is stored by our third party payment
-    processor (the "Payment Processor"), and use and storage of that
-    information is governed by the Payment Processor’s applicable [terms of
-    service] and [privacy policy] (the Payment Processor may also have other
-    terms, and you are responsible for locating and familiarizing yourself
-    with those terms, as applicable). We do receive certain information from
-    our Payment Processor: (1) a unique token that we connect with your
-    Account to enable you to make further purchases using the information
-    stored by our Payment Processor and (2) in certain cases, the last four
-    digits of the credit card number associated with that token, so that we
-    can prevent fraudulent transactions and identity theft.
+    information; such information is stored by our payment processor (the
+    "Payment Processor"), and use and storage of that information is governed
+    by the Payment Processor's applicable terms of service and privacy policy
+    (the Payment Processor may also have other terms, and you are responsible
+    for locating and familiarizing yourself with those terms, as applicable).
+    We do receive certain information from our Payment Processor: (1) a unique
+    token that we connect with your Account to enable you to make further
+    purchases using the information stored by our Payment Processor and (2) in
+    certain cases, the last four digits of the credit card number associated
+    with that token, so that we can prevent fraudulent transactions and
+    identity theft.
 
   Information Related to Use of the Services:
 
@@ -156,14 +148,12 @@ What Information We Collect and How We Use It
     you interact with the Services, such as your browser type and version,
     what sort of device you are using, your operating system and version, your
     language preference, the website or service that referred you to the
-    Services, the date and time of each web request you make, your screen
-    display information, and information from any cookies we have placed on
-    your web browser (as described below). We also sometimes detect whether
+    Services, the date and time of each request you make to the Services, your
+    screen display information, and information from any cookies we have placed
+    on your web browser (as described below). We also sometimes detect whether
     you are using certain web browser extensions and store that information in
-    a manner associated with your Account. Web browser-related information is
-    used to enhance your experience with the Services (for example, by
-    personalization) and to allow us to improve the Services; it is not,
-    however, used in a manner that would identify you personally.
+    a manner associated with your Account. We use web browser-related
+    information to enhance and improve the Services.
 
   IP Address Information:
 
@@ -221,23 +211,25 @@ What Information We Collect and How We Use It
   Information About Your Contacts:
 
     Certain features of the Services allow you to provide us with your contact
-    lists stored on other services, so that we can connect you with people in
-    our Services that are also on those contact lists. For example, you can
-    temporarily connect your e-mail contact information to your Tumblr.com
-    account, so that we can provide you with a list of your e-mail contacts
-    that use Tumblr.com. As another example, you can send us your mobile phone
-    contact e-mails through our mobile applications, which then allows us to
-    provide you with a list of those contacts that use Tumblr.com. We will
-    give you an explicit choice as to whether or not you provide us such
-    information, and we will disclose fully, within the appropriate feature,
-    how we use, and whether we will store, that information.
+    lists, so that we can connect you with people in our Services that are also
+    on those contact lists. For example, you can temporarily connect your email
+    contact information to your Account, so that we can provide you with a list
+    of your email contacts that use the Services. As another example, you can
+    send us your mobile phone contact information through our mobile
+    applications, which then allows us to provide you with a list of those
+    contacts that use the Service so that you can "follow" their blogs. We will
+    give you a choice as to whether or not you provide us such information, and
+    we will disclose fully, within the appropriate feature, how we use that
+    information.
 
   Derived Information:
 
-    We analyze your actions on the Services in order to derive or infer
-    characteristics that may be descriptive of you (for example, what kinds of
-    blogs you like to follow). These characteristics are used to improve and
-    personalize the Services.
+    As described above in "Native Actions" and "Information Related to the Use
+    of the Services," we analyze your actions on the Services in order to
+    derive or infer characteristics that may be descriptive of your Account
+    (for example, what kinds of blogs you follow or what kind of posts you
+    view, "like", and reblog). We use this information for all of the purposes
+    set forth in "Information Related to Use of the Services," above.
 
   Email Tracking:
 
@@ -268,28 +260,26 @@ With Whom Your Information Is Shared
 
   Information Shared with the Public Through the Services:
 
-    As noted above, by default, content published through the Services is
-    shared with the public, and this is an important feature of the Services.
-    Such information includes, but isn't limited to, anything you choose to
-    post on or submit to a public blog, including "About" information that may
-    describe you and anything apparent in a posted photograph. Because this
-    kind of information can be seen by anyone and may be indexed by search
-    engines (like Google Search), you should be careful in what you choose to
-    disclose publicly and make sure it is information you want to share with
+    As noted in "User Content" and "Native Actions," above, by default, content
+    published through the Services and many actions you take on the Services
+    are shared with the public. Because this kind of information can be seen by
+    anyone and may be indexed by search engines (like Google Search, or the far
+    superior Yahoo Search), you should be careful about what you choose to
+    disclose publicly and make sure it's information you want to share with
     everyone.
 
   Information Shared Between the Services:
 
     We may, if possible, aggregate information about your use of multiple
-    Services and use that consolidated information to improve how the Services
-    operate, and to develop new Services.
+    Services and use that consolidated information to enhance and improve the
+    Services, and to develop new Services.
 
   Information You Share with Third Party Services:
 
     You may access Third Party Services through the Services, for example by
     clicking on externally-pointing links. You may also choose to share
     information that you provide to us, like blog posts, with those Third
-    Party Services (for example, by syndicating posts to Twitter or Facebook).
+    Party Services (for example, by sharing posts to Twitter or Facebook).
     This Privacy Policy only governs information we collect and you are
     responsible for reading and understanding those Third Party Services'
     privacy policies.
@@ -298,17 +288,16 @@ With Whom Your Information Is Shared
   Services:
 
     In some cases, we share information that we store (such as IP Addresses)
-    with third parties, such as our service providers, consultants and other
-    agents ("Agents"), for the purposes of operating and improving the
-    Services. For example, we may share information with service providers in
-    order to fight spam, and third-party consultants may have access to
-    information in the process of improving our processes and technology.
-    Agents with whom we share such information for these reasons are generally
-    bound by confidentiality obligations and, unless we tell you differently,
-    our Agents do not have any right to use Personal Information or other
-    information we share with them beyond the scope and duration of what is
-    necessary to assist us. You hereby consent to our sharing of Personal
-    Information with our Agents.
+    with third parties, such as service providers, consultants, and other
+    agents ("Agents"), for the purposes of operating, enhancing, and improving
+    the Services, and developing new products and services. For example, we may
+    share information with service providers in order to fight spam, and
+    third-party consultants may have access to information in the process of
+    improving our processes and technology. Agents with whom we share such
+    information for these reasons are generally bound by confidentiality
+    obligations and, unless we tell you differently, our Agents do not have any
+    right to use information we share with them beyond the scope and duration
+    of what is necessary to assist us.
 
   Information Shared with Third Parties:
 
@@ -334,15 +323,15 @@ With Whom Your Information Is Shared
     reserve the right to access, preserve, and disclose any information as we
     reasonably believe is necessary, in our sole discretion, to (i) satisfy
     any law, regulation, legal process, governmental request, or governmental
-    order, (ii) enforce this Privacy Policy and our [Terms of Service],
+    order, (ii) enforce this Privacy Policy and our Terms of Service,
     including investigation of potential violations hereof, (iii) detect,
-    prevent, or otherwise address fraud, security or technical issues
-    (including exchanging information with other companies and organizations
-    for fraud protection and spam/malware prevention), (iv) respond to user
-    support requests, or (v) protect the rights, property, health or safety of
-    us, our users, any third parties or the public in general, including but
-    not limited to situations involving possible violence, suicide, or
-    self-harm.
+    prevent, or otherwise address fraud, security, trust and safety, or
+    technical issues (including exchanging information with other companies and
+    organizations for the purposes of improving security and preventing fraud,
+    spam, and malware), (iv) respond to user support requests, or (v) protect
+    the rights, property, health or safety of us, our users, any third parties
+    or the public in general, including but not limited to situations involving
+    possible violence, suicide, or self-harm.
 
   Information We Share with Your Consent or at Your Request:
 
@@ -351,13 +340,14 @@ With Whom Your Information Is Shared
 
 The Security of Your Information
 
-  Your Account information is protected by a password for your privacy and
-  security. You need to prevent unauthorized access to your Account and
-  Personal Information by selecting and protecting your password appropriately
+  Your Account Information is protected by a password for your privacy and
+  security. We may enable additional security features in the future, like
+  multi-factor authentication. You need to prevent unauthorized access to your
+  Account and information by creating a unique, secure, and protected password
   and limiting access to your computer and browser by signing off after you
   have finished accessing your Account on the Services.
 
-  We seek to protect your information (including your Account information) to
+  We seek to protect your information (including your Account Information) to
   ensure that it is kept private; however, we can't guarantee the security of
   any information. Unauthorized entry or use, hardware or software failure,
   and other factors, may compromise the security of user information at any
@@ -365,10 +355,10 @@ The Security of Your Information
 
 What Information You Can Access
 
-  If you are a registered user, you can access and delete most information
-  associated with your Account by logging into the Services and checking your
-  Account Settings page. Registered and unregistered users can access and
-  delete cookies through their web browser settings.
+  If you are a registered user, you can access most information associated with
+  your Account by logging into the Services and checking your Account Settings
+  page. Registered and unregistered users can access and delete cookies through
+  their web browser settings.
 
   Your California Privacy Rights: Under California Civil Code sections
   1798.83-1798.84, California residents are entitled to ask us for a notice
@@ -381,29 +371,29 @@ What Information You Can Access
 
 How to Delete Your Account and What Happens When You Delete Your Account
 
-  If you want to delete your Account, you can do so from your [Preferences]
-  page or by [emailing us] and providing proof of authority over the Account.
+  If you want to delete your Account, you can do so from your Account Settings
+  page or by emailing us and providing proof of authority over the Account.
   What constitutes "proof of authority" will vary depending on the
   circumstances, but generally will require sufficient identifying information
   so that we can be confident you are the Account owner. Deleting your Account
   may not fully remove the content you have published from our systems, as
-  caching of, backups of, copies of, or references to your Account information
+  caching of, backups of, copies of, or references to your Account Information
   may not be immediately removed. In addition, given the nature of sharing on
   the Services, some of the public activity on your Account prior to deletion
-  (such as Reblogs of your blog posts) may remain stored on our servers and
+  (such as reblogs of your blog posts) may remain stored on our servers and
   accessible to the public.
 
 Changes to This Privacy Policy
 
   We may amend this Privacy Policy from time to time, using the process for
-  modifications set forth in our [Terms of Service]. Use of information we
-  collect now is subject to the Privacy Policy in effect at the time such
-  information is used.
+  modifications set forth in our Terms of Service. Use of information we
+  collect is subject to the Privacy Policy in effect at the time such
+  information is collected.
 
 Where to Direct Questions or Concerns
 
   If you have any questions or concerns regarding privacy using the Services,
-  [please send us a detailed message].
+  please send us a detailed message.
 
 Link to Prior Versions
 
