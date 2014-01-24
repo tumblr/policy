@@ -91,6 +91,19 @@ What We Collect and How We Use It
     may be copied and shared throughout the Internet, including through actions
     or features native to the Services, such as "reblogging."
 
+  Native Actions:
+
+    The Services allow you to perform native actions that are integral to our
+    products, such as "liking" a post, reblogging a post, "replying" to a post,
+    and following a blog. Liking, reblogging, and replying are public actions –
+    anyone can expand the "notes" view on a post, for example, to see who
+    liked, reblogged, or replied to a post. We use information about native 
+    actions to improve the Services, develop new Services, and, particularly,
+    to personalize your Tumblr experience. Personalization using this
+    information may include presenting you with new posts relevant to what
+    you've liked, providing you with better search results, and showing you
+    advertising more relevant to your interests.
+
   Information About User Content:
 
     In some cases, we may collect information about content you provide to the
