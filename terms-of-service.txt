@@ -529,13 +529,15 @@ us if you have any questions or suggestions!
         behalf of the owner of the copyright that has been allegedly
         infringed.
 
-    After removing material pursuant to a valid DMCA notice, Tumblr will
-    immediately notify the Subscriber responsible for the allegedly infringing
-    material that it has removed or disabled access to the material. Tumblr
-    will terminate, under appropriate circumstances, the Accounts of
-    Subscribers who are repeat copyright infringers, and reserves the right, in
-    its sole discretion, to terminate any Subscriber for actual or apparent
-    copyright infringement.
+    Please also note that the information provided in a notice of copyright
+    infringement may be forwarded to the Subscriber who posted the allegedly
+    infringing content. After removing material pursuant to a valid DMCA
+    notice, Tumblr will immediately notify the Subscriber responsible for the
+    allegedly infringing material that it has removed or disabled access to the
+    material. Tumblr will terminate, under appropriate circumstances, the
+    Accounts of Subscribers who are repeat copyright infringers, and reserves
+    the right, in its sole discretion, to terminate any Subscriber for actual
+    or apparent copyright infringement.
 
   Submitting a DMCA Counter-Notification:
 
