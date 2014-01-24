@@ -18,14 +18,12 @@ What This Privacy Policy Covers
   that we share with our partners.
 
   This Privacy Policy does not apply to the practices of third parties that we
-  do not own or control, including but not limited to any third party
-  websites, services and applications ("Third Party Services") that you elect
-  to access through the Service or to individuals that we don't manage or
-  employ. While we try to facilitate access only to those Third Party Services
-  that share our respect for your privacy, we don't take responsibility for
-  the content or privacy policies of those Third Party Services. We encourage
-  you to carefully review the privacy policies of all Third Party Services you
-  access.
+  do not own, control, or manage, including but not limited to any third party
+  websites, services, applications, or businesses ("Third Party Services").
+  While we try to work only with those Third Party Services that share our
+  respect for your privacy, we don't take responsibility for the content or
+  privacy policies of those Third Party Services. We encourage you to carefully
+  review the privacy policies of all Third Party Services you access.
 
   Also: This Privacy Policy also doesn't govern what our users do on their
   Tumblr blogs and we aren't responsible for the information collection and use
@@ -73,16 +71,12 @@ What We Collect and How We Use It
 
   Information Obtained from Third Party Services:
 
-    In some cases, when you connect your Account with your accounts on Third
-    Party Services, we may obtain information about you from those Third Party
-    Services. Such information could include, for example, your gender, if you
-    have disclosed that information to that third party and made it available
-    for Tumblr to access. To the extent we obtain such information, we may use
-    the information about you that we receive from Third Party Services to
-    improve and personalize the Services. As a general practice, we strongly
-    urge you to make careful judgments about any personal information you
-    disclose to Internet services, including Tumblr and linked Third Party
-    Services, regardless of whether you choose to link your accounts together.
+    In some cases, we partner with Third Party Services that may provide
+    information about you. Such information could include, for example, your
+    gender, if you have disclosed that information to that third party and made
+    it available for Tumblr to access. To the extent we obtain such
+    information, we may use it to develop new Services or to improve or enhance
+    the Services.
 
   User Content:
 
