@@ -80,9 +80,7 @@ What Tumblr is not for:
   Username and URL Abuse.
 
     Tumblr's URLs (usernames) are for the use and enjoyment of our users.
-    Don't squat, hoard, collect, trade, or sell Tumblr URLs, and don't
-    register a URL for the purpose of impersonating an individual,
-    organization, or brand.
+    Don't squat, hoard, collect, trade, or sell Tumblr URLs.
 
   Spam.
 
@@ -126,12 +124,18 @@ What Tumblr is not for:
     policy to respond to notices of alleged copyright infringement as per our
     [Terms of Service] and the Digital Millennium Copyright Act.
 
-  Impersonation, Stalking, or Harassment.
+  Confusion or Impersonation.
 
-    Treat the community the way you'd like to be treated. Don't attempt to
-    circumvent the Block feature. If you want to parody or ridicule a public
-    figure (and who doesn't?), don't try to trick readers into thinking you
-    are actually that public figure.
+    Don't do things that would cause confusion between you or your blog and a
+    person or company, like registering a deliberately confusing URL. Don't
+    impersonate anyone. While you're free to ridicule, parody, or marvel at the
+    alien beauty of Benedict Cumberbatch, you can't pretend to actually be
+    Benedict Cumberbatch.
+
+  Harassment.
+
+    Don't attempt to circumvent the Ignore feature or otherwise try to
+    communicate with someone who has asked you to stop.
 
   Privacy Violations.
 
