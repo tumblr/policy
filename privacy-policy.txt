@@ -1,14 +1,15 @@
 Last Modified: 2012-03-22
 
 Tumblr, Inc. ("Tumblr", "we", "us", or "our") takes the private nature of your
-personal information very seriously. This policy regarding our privacy
-practices (the "Privacy Policy") describes how we treat the information we
-collect when you visit and use the website available at tumblr.com (the
-"Site") and/or Tumblr's other domains, products, services, and/or content
-(collectively with the Site, the "Services"). When you use the Services, you
-are consenting to the collection, transfer, manipulation, storage, disclosure
-and other uses of your information as described in this Privacy Policy; please
-read it carefully.
+personal information very seriously. Note that Tumblr was acquired by, and is
+now, a wholly-owned subsidiary of, Yahoo! Inc. ("Yahoo") as of June 19, 2013.
+This policy regarding our privacy practices (the "Privacy Policy") describes
+how we treat the information we collect when you visit and use the website
+available at tumblr.com (the "Site") and/or Tumblr's other domains, products,
+services, and/or content (collectively with the Site, the "Services"). When you
+use the Services, you are consenting to the collection, transfer, manipulation,
+storage, disclosure and other uses of your information as described in this
+Privacy Policy; please read it carefully.
 
 Also: This Privacy Policy doesn't govern what our users do on their own blogs
 and we aren't responsible for the information collection and use practices of
@@ -254,6 +255,16 @@ With Whom Your Information Is Shared
 
     (c) that information is aggregate information or other information that
         does not identify you.
+
+  Information Shared with and Received from our Corporate Parent:
+
+    We are a wholly-owned subsidiary of Yahoo, and, as such, Yahoo may receive
+    any information we do, and may share information it has with us. Yahoo may
+    use the information it receives from us to help us provide, understand, and
+    improve the Services (including by providing us analytics) and in
+    connection with Yahoo's products and services (including by providing you
+    with a more personalized experience). For details about how Yahoo treats
+    the information it collects, please review Yahoo's Privacy Policy.
 
   Information Shared with the Public Through the Services:
 

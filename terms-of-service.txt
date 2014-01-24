@@ -12,12 +12,13 @@ us if you have any questions or suggestions!
   (the "Site") and/or the other domains, websites, products, applications,
   mobile applications, services, and/or Content provided by Tumblr, Inc. (all
   of those collectively with the Site, the "Services") (Tumblr, Inc., a
-  Delaware corporation, collectively with its agents, representatives,
-  consultants, employees, officers and directors, "Tumblr," "we," or "us"). By
-  using or accessing the Services, you ("Subscriber" or "you") agree to be
-  bound by all the terms and conditions of this Agreement. If you don't agree
-  to all the terms and conditions of this Agreement, you shouldn't and aren't
-  permitted to use the Services.
+  Delaware corporation and wholly-owned subsidiary of Yahoo! Inc., a Delaware
+  corporation, collectively with its agents, representatives, consultants,
+  employees, officers and directors, "Tumblr," "we," or "us"). By using or
+  accessing the Services, you ("Subscriber" or "you") agree to be bound by all
+  the terms and conditions of this Agreement. If you don't agree to all the
+  terms and conditions of this Agreement, you shouldn't and aren't permitted to
+  use the Services.
 
 2. Modifications to this Agreement
 
