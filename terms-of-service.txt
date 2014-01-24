@@ -335,34 +335,43 @@ us if you have any questions or suggestions!
   information, whether oral or written, obtained from Tumblr or through the
   Services, will create any warranty not expressly made herein.
 
-13. Release From Liability
+13. Time Limitation on Claims and Releases From Liability
 
-  You release, to the fullest extent permitted by law, Tumblr, its directors,
-  officers, shareholders, employees, representatives, consultants, agents,
-  suppliers, and/or distributors from responsibility, liability, claims,
-  demands, and/or damages (actual and consequential) of every kind and nature,
-  known and unknown, arising out of or in any way connected with the
-  following:
+  You agree that any claim you may have arising out of or related to this
+  Agreement or your relationship with Tumblr must be filed within one year
+  after such claim arose; otherwise, your claim is permanently barred.
+
+  You further release, to the fullest extent permitted by law, Tumblr, its
+  directors, officers, shareholders, employees, representatives, consultants,
+  agents, suppliers, and/or distributors from responsibility, liability,
+  claims, demands, and/or damages (actual and consequential) of every kind and
+  nature, known and unknown (including but not limited to claims of
+  negligence), arising out of or related to the following:
 
     - Disputes between Subscribers, including those between you and other
       Subscribers.
 
-    - Third party sites and services, including content found on such sites
-      and services.
+    - The acts of third parties generally (i.e., individuals or entities who
+      are not Tumblr or a Tumble Affiliate), including third party sites and
+      services.
 
     - Disputes concerning any use of or action taken using your Account by you
       or a third party.
 
-    - Claims relating to the unauthorized access to any data communications or
-      Content stored under or relating to your Account, including unauthorized
-      use or alteration of such communications or your Content.
+    - Claims relating to the unauthorized access to any data communications
+      relating to, or Content stored under or relating to, your Account,
+      including but not limited to unauthorized interception, use, or
+      alteration of such communications or your Content. For the sake of
+      clarity, this includes any and all claims related to the security of your
+      Account credentials.
 
-    - Claims relating to in any way to any face-to-face meetings in any way
+    - Claims relating to any face-to-face meetings in any way
       related to Tumblr at any venues ("Meetups"), including without
       limitation claims related to the actions or omissions of any Subscribers
       or third parties who organize, attend, or are otherwise involved in any
-      Meetups; see our Meetups page for more information. Tumblr does not
-      sponsor, oversee, or in any manner control Meetups.
+      Meetups; see our Meetups page for more information. Unless otherwise
+      expressly disclosed in writing, Tumblr does not sponsor, oversee, or in
+      any manner control Meetups.
 
   If you are a California resident, you waive California Civil Code §1542,
   which says: "A general release does not extend to claims which the creditor
