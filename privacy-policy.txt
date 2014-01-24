@@ -183,34 +183,40 @@ What We Collect and How We Use It
     authentication for Account login. We will always ask you whether it's OK
     for us to collect and store your phone number.
 
-  Information Collected Using Cookies:
+  Information Collected Using Cookies and Web Tags:
 
-    Cookies are pieces of text that may be sent to and saved by your web
-    browser when you access a website; your web browser stores these cookies
-    in a way associated with each website you visit, and you can see your
-    cookies through your browser settings. We use cookies to enable our
-    servers to recognize your web browser and tell us how and when you use the
-    Services. Our cookies do not, by themselves, contain information that
-    personally identifies you, and we don't combine the general information
-    collected through cookies with other such information to tell us who you
-    are. However, we do use cookies to identify that you have logged in and
-    that your web browser has accessed aspects of the Services, and we may
-    associate that information with your Account if you have one. This
-    information, in turn, is sometimes used to personalize your experiences on
-    the Services, such as by presenting you with a different iFrame (allowing
-    you to follow a blog) when you are logged in and visit a blog hosted by
-    Tumblr. Most web browsers have an option for turning off the cookie
+    Cookies are text files that may be sent to and saved by your web browser
+    when you access a website; your web browser stores these cookies in a way
+    associated with each website you visit, and you can generally see your
+    cookies through your browser settings, depending on what browser you're
+    using. A web tag is code or a pixel embedded in a web page, or email, that
+    allows Tumblr or a third party to see that you have looked at that page.
+    We use cookies and web tags to enable our servers to recognize your web
+    browser and tell us how and when you use the Services, as described above
+    in "Information Related to Use of the Services." Our cookies do not, by
+    themselves, contain information that personally identifies you, and we
+    don't combine the general information collected through cookies with other
+    such information to tell us who you are. However, we do use cookies to
+    identify that you have logged in, that your web browser has accessed the
+    Services, and we may associate that information with your Account if you
+    have one. We may also store unique or near-unique identifiers that we
+    associate with your Account in our cookies. This information, in turn, is
+    sometimes used as described above in "Information Related to Use of the
+    Services." Most web browsers have an option for turning off the cookie
     feature, which will prevent your browser from accepting new cookies, as
-    well as (depending on the sophistication of your web browser software)
-    allowing you to decide on acceptance of each new cookie in a variety of
-    ways. If you disable cookies, you won't be able to log into your Account,
-    and so will not be able to use the vast majority of our Services; as such,
-    we don't recommend disabling your cookies when using the Services. Some
-    third-party services that we use, such as Google Analytics and Quantcast,
-    may also place their own cookies on your browser, and individual blogs on
-    our network may contain code that places their own cookies. Note that this
-    Privacy Policy covers our use of cookies only and does not cover the use
-    of cookies by third parties.
+    well as (depending on the sophistication of your web browser) allowing you
+    to decide on acceptance of each new cookie in a variety of ways. If you
+    disable cookies, you won't be able to log into your Account, and so won't
+    be able to use the vast majority of our Services; as such, we don't
+    recommend disabling your cookies when using the Services. Some services
+    that we use (including Third Party Services), such as Google Analytics and
+    Yahoo Web Analytics, use web tags and may also place their own cookies on
+    your browser, and individual blogs on our network may contain code that
+    places their own cookies. We also run limited-time studies using web tags,
+    sometimes with third parties, to, for example, measure the effectiveness of
+    our advertising or email. Note that, unless otherwise disclosed, this
+    Privacy Policy covers our use of cookies only and does not cover the use of
+    cookies by third parties.
 
   Information About Your Contacts:
 
@@ -234,11 +240,6 @@ What We Collect and How We Use It
     (for example, what kinds of blogs you follow or what kind of posts you
     view, "like", and reblog). We use this information for all of the purposes
     set forth in "Information Related to Use of the Services," above.
-
-  Email Tracking:
-
-    We may place information in our emails to you (such as a web beacon) that
-    allows us to measure our email deliverability.
 
 With Whom Your Information Is Shared
 
