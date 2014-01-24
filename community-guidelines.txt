@@ -11,115 +11,118 @@ What Tumblr is for:
 
 What Tumblr is not for:
 
-  Malicious Bigotry.
+  Malicious Speech.
 
-    Don't actively promote violence or extreme hatred against individuals or
-    groups, on the basis of race, ethnic origin, religion, disability, gender,
-    age, veteran status, or sexual orientation. While we firmly believe that
-    the best response to hateful speech is not censorship but more speech, we
-    will take down malicious bigotry, as defined here.
+    Don't encourage violence or hatred on the basis of things like race, ethnic
+    origin, religion, disability, gender, age, veteran status, or sexual
+    orientation. We encourage you to dismantle negative speech through argument
+    rather than censorship. We will, however, remove anything that is overtly
+    malicious.
 
   Harm to Minors.
 
-    Be thoughtful when posting anything involving a minor. Don't post anything
-    relating to minors that is sexually suggestive or violent. Don't bully
-    minors, even if you are one. Life as a teenager is hard enough without the
-    fear, anguish, and isolation caused by online bullying.
+    Be thoughtful when posting anything involving a minor. Don't post or
+    solicit anything relating to minors that is sexually suggestive or violent.
+    Don't bully minors, even if you are one. Being a teenager is complicated
+    enough without the anxiety, sadness, and isolation caused by bullying.
 
-  Promotion and Glorification of Self-Harm.
+  Promotion or Glorification of Self-Harm.
 
     Don't post content that actively promotes or glorifies self-harm. This
-    includes content that urges or encourages readers to cut or injure
+    includes content that urges or encourages others to cut or injure
     themselves; embrace anorexia, bulimia, or other eating disorders; or
     commit suicide rather than, e.g., seeking counseling or treatment, or
     joining together in supportive conversation with those suffering or
     recovering from depression or other conditions. Dialogue about these
     behaviors is incredibly important and online communities can be
     extraordinarily helpful to people struggling with these difficult
-    conditions. We aim to sustain Tumblr as a place that facilitates
-    awareness, support and recovery, and to remove only those blogs that cross
-    the line into active promotion or glorification of self-harm.
+    conditions. We aim for Tumblr to be a place that facilitates awareness,
+    support and recovery, and we will remove only those posts or blogs that
+    cross the line into active promotion or glorification of self-harm.
 
-  Gore and Mutilation Content.
+  Gore, Mutilation, Beastiality, or Necrophilia.
 
     Don't post gore just to be shocking. Don't showcase the mutilation or
-    torture of human beings, animals, or their remains.
+    torture of human beings, animals, or their remains. Dick.
 
   Unflagged NSFW Blogs.
 
-    Tumblr is home to millions of readers and bloggers from a variety of
-    locations, cultures, and backgrounds with different points of view
+    Tumblr is home to millions of readers and creators from a variety of
+    locations, cultures, and backgrounds who hold different points of view
     concerning adult-oriented content. If you regularly post sexual or
     adult-oriented content, respect the choices of people in our community who
     would rather not see such content by flagging your blog (which you can do
-    from the Settings page of each blog) as Not Suitable for Work ("NSFW").
-    This action does not prevent you and your readers from using any of
-    Tumblr's social features, but rather allows Tumblr users who don't want to
-    see NSFW content to avoid seeing it.
+    on your blog's Settings page) as Not Suitable for Work ("NSFW"). This
+    action doesn't prevent you or your readers from using any of Tumblr's
+    social features, but rather screens your blog's content from Tumblr users
+    who would prefer not to see NSFW material.
 
   Uploading Sexually Explicit Video.
 
-    You can embed anything as long as it follows the other guidelines on this
-    page. But please don't use Tumblr's Upload Video feature to host any
-    sexually explicit videos. We're not in the business of profiting from
-    adult-oriented videos and hosting this stuff is fucking expensive. You can
-    use services like [xhamster.com] to host those instead.
+    You can embed anything in a Tumblr post as long as it's lawful and it
+    follows our other guidelines, but please don't use Tumblr's Upload Video
+    feature to upload sexually explicit video. We're not in the business of
+    hosting adult-oriented videos (it's fucking expensive).
 
   Non-Genuine Social Gesture Schemes.
 
-    Don't participate in schemes to gain non-genuine gestures like follows or
-    reblogs. Don't orchestrate or engage in "follow trains," where users are
-    encouraged to follow lists of other users to gain more followers for
+    Don't participate in schemes to drive up non-genuine follows, likes,
+    reblogs, etc. Don't orchestrate or engage in "follow trains," where users
+    are encouraged to follow lists of other users to gain more followers for
     themselves. Don't scatter deceptive links to your blog or Follow pages.
     Don't make bulk or indiscriminate use of messaging features like Fan Mail
-    or Asks to bait followers.
+    or Asks, to, for example, bait reblogs/follows or drive traffic to your
+    blog or website. If you want people to like you, just play it cool and be
+    yourself.
 
-  Username and URL Abuse.
+  Username / URL Abuse or Squatting.
 
-    Tumblr's URLs (usernames) are for the use and enjoyment of our users.
-    Don't squat, hoard, collect, trade, or sell Tumblr URLs.
+    Tumblr's usernames/URLs are meant for the use and enjoyment of all of our
+    users. Don't squat, hoard, amass, accumulate, accrue, stockpile, rack up,
+    buy, trade, sell, launder, invest in, ingest, get drunk on, cyber with,
+    grope, or jealously guard Tumblr usernames/URLs.
 
   Spam.
 
-    Don't abuse social gestures, send unwanted messages, or aggregate content
-    in a less-than-meaningful way. Don't put tags on your posts that will
-    mislead or deceive searchers (for example, tagging a photo of your car
-    with "#lady gaga" and "#britney spears"); of course, meaningful uses are
-    always fine (for example, ironic "punchline" tags that add to or playfully
-    subvert a post itself). Don't put deceptive links or dubious code in your
-    posts. That includes using Javascript to inject unwanted ads in blogs, or
-    embedding links to interstitial or pop-up ad services. Don't use deceptive
-    means to generate revenue or traffic, or create blogs with the primary
-    purpose of affiliate marketing. Spam doesn't belong on Tumblr.
+    Don't spam people. Don't make spammy posts, don't post spammy replies,
+    don't send people spammy messages. Be a regular human. Don't put tags on
+    your posts that will mislead or deceive searchers. For example, don't tag a
+    photo of your cat with "doctor who" unless the name of your cat is actually
+    Doctor Who, and don't overload your posts with #barely #relevant #tags. Of
+    course, meaningful uses of tags are always fine (for example, ironic
+    "punchline" tags that add meaning or context to a post). Don't put
+    deceptive links or dubious code in your posts, like using Javascript to
+    cause redirects or inject unwanted ads in blogs. Don't use deceptive means
+    to generate revenue or traffic, or create blogs with the primary purpose of
+    affiliate marketing. Spam doesn't belong on Tumblr.
 
-  Mass Registration and Automation.
+  Mass Registration or Automation.
 
     Don't register accounts or post content automatically, systematically, or
     programmatically.
 
   Unauthorized Contests, Sweepstakes, or Giveaways.
 
-    Take a look at our [guidelines] for contests, sweepstakes, and giveaways,
-    which are incorporated here by reference, for more information.
+    Please follow our guidelines for contests, sweepstakes, and giveaways.
 
-  Third-Party Theme Distribution.
+  Themes Distributed by Third Parties.
 
-    To manage the safety and stability of blog themes, the vast majority of
-    which are contributed by the Tumblr community, it's important that themes
-    are distributed through our centralized Theme Garden. Third-party theme
-    directories are often used to inject nefarious code that results in spam,
-    ads, or phishing attacks. Since anyone can host and promote their themes
-    in the Theme Garden, don't create or use third-party services to
-    distribute source code for Tumblr themes. Creating blogs or directories
-    that curate themes in the Theme Garden is a-okay.
+    To ensure the safety and stability of our blog network, it's important that
+    themes are distributed through tumblr.com/themes. It's easy, it's secure,
+    and any interested developer can use it to host and promote their work.
+    Besides the inconvenience involved in using them, third-party theme
+    repositories are often used to inject nefarious code that subjects users to
+    spam, ads, or phishing attacks. Don't use them. Creating blogs or
+    directories that curate themes from tumblr.com/themes is a-okay.
 
-  Copyright and Trademark Infringement.
+  Copyright or Trademark Infringement.
 
-    Respect the copyrights and trademarks of others. If you aren't authorized
-    to use someone else's copyrighted or trademarked work (either expressly or
-    by legal exceptions and limitations like [fair use]), don't. It is our
+    Respect the copyrights and trademarks of others. If you aren't allowed to
+    use someone else's copyrighted or trademarked work (either by license or by
+    legal exceptions/limitations like fair use), don't post it. It is our
     policy to respond to notices of alleged copyright infringement as per our
-    [Terms of Service] and the Digital Millennium Copyright Act.
+    Terms of Service and the Digital Millennium Copyright Act. Please see our 
+    DMCA notification form to file a claim online.
 
   Confusion or Impersonation.
 
@@ -137,18 +140,18 @@ What Tumblr is not for:
   Privacy Violations.
 
     Don't use Tumblr to deceptively obtain personal information. Don't post
-    content that violates anyone's privacy, including personally identifying
+    content that violates anyone's privacy, especially personally identifying
     or confidential information like credit card numbers, social security
     numbers, unlisted contact information, or private photos of your ex's junk
-    (no matter how attractive).
+    (no matter how remarkable).
 
-  Disruptions, Exploits, and Resource Abuse.
+  Disruptions, Exploits, or Resource Abuse.
 
-    Our servers and the valiant engineers who support them work hard for you.
-    Don't attempt unauthorized use, disruption, or exploitation of Tumblr.com
-    or our other products and services, or otherwise abuse Tumblr's resources.
+    Our servers and the valiant engineers behind them work hard for you. Don't
+    attempt unauthorized use, disruption, or exploitation of Tumblr.com or our
+    other products and services, or otherwise abuse Tumblr's resources.
 
-  Unlawful Uses and Content.
+  Unlawful Uses or Content.
 
     This one's pretty obvious, but Tumblr is not a place for illegal behavior,
     including fraud, phishing, or illegally inciting violence.
