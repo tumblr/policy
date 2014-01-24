@@ -582,6 +582,17 @@ us if you have any questions or suggestions!
     Email: dmca@tumblr.com
     Copyright notice form: http://www.tumblr.com/dmca
 
+21. Open Source Disclosures
+
+  You can find disclosures related to our use of open source software packages
+  at the following locations:
+
+    - http://www.tumblr.com/policy/en/ios_credits
+
+    - http://www.tumblr.com/policy/en/android_credits
+
+    - http://www.tumblr.com/policy/en/web_credits
+
 Link to Prior Versions
 
     You will find prior versions of our Terms of Service on GitHub, which will
