@@ -171,14 +171,13 @@ What Tumblr is not for:
     including fraud, phishing, or illegally inciting violence.
 
 If we conclude that you are violating these guidelines, you may receive a
-notice via email. If you don't explain or correct your behavior, your account
-may be suspended and/or your IP address may be blocked. We do our best to
-ensure fair outcomes, but in all cases we reserve the right to suspend
-accounts, or remove content, without notice, for any reason, but particularly
-to protect our services, infrastructure, users, and community. We reserve the
-right to enforce, or not enforce, these guidelines in our sole discretion, and
-these guidelines don't create a duty or contractual obligation for us to act in
-any particular manner.
+notice via email. If you don't explain or correct your behavior, we may take
+action against your account. We do our best to ensure fair outcomes, but in all
+cases we reserve the right to suspend accounts, or remove content, without
+notice, for any reason, but particularly to protect our services,
+infrastructure, users, and community. We reserve the right to enforce, or not
+enforce, these guidelines in our sole discretion, and these guidelines don't
+create a duty or contractual obligation for us to act in any particular manner.
 
 You can report violations of these guidelines to us directly.
 
