@@ -502,4 +502,4 @@ Link to Prior Versions
   have stored these versions on GitHub, which will also allow you to
   compare different versions and see what terms have changed:
 
-  http://github.com/ThinkUpLLC/policy/commits/master/terms-of-service
+  http://github.com/ThinkUpLLC/policy/
