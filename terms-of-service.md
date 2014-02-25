@@ -498,8 +498,8 @@ Link to Prior Versions
 
   "You can see the changes we've made to this agreement."
 
-    You will find a link to prior versions of our Terms of Service below. We
-    have stored these versions on GitHub, which will also allow you to
-    compare different versions and see what terms have changed:
+  You will find a link to prior versions of our Terms of Service below. We
+  have stored these versions on GitHub, which will also allow you to
+  compare different versions and see what terms have changed:
 
-    http://github.com/ThinkUpLLC/policy/commits/master/terms-of-service
+  http://github.com/ThinkUpLLC/policy/commits/master/terms-of-service
