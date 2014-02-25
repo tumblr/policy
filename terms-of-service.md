@@ -139,7 +139,7 @@ to emphasize key sections.
 
   Definitions:
 
-  "Content meants text, pctures and other stuff; Subscriber Content is your 
+  "Content meants text, pictures and other stuff; Subscriber Content is your 
   stuff."
 
     For purposes of this Agreement: (1) the term "Content" means any work of
