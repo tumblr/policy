@@ -1,71 +1,66 @@
-Last Modified: 2014-01-13
+Last Modified: 2014-02-13
 
-Hi and welcome! You are now reading ThinkUp's Terms of Service. This is the
-contract between you and ThinkUp when you use ThinkUp's site, services, and
-products. You should read this carefully before you use ThinkUp. We've tried
-to be both fair and clear -- if you have any suggestions for improvement,
-feel free to email us at help@thinkup.com. We've also included annotations
-throughout this contract; these annotations aren't a part of the contract
-itself, but are intended to help you follow the text and to emphasize key
-sections.
+Hi and welcome! You are now reading ThinkUp's Terms of Service. This is the 
+legal contract between you and ThinkUp when you use ThinkUp's site, services, 
+and products. You should read this carefully before you use our site, our 
+services or products. We've tried to be both fair and clear -- if you have any 
+suggestions for improvement, feel free to email us at help@thinkup.com. We've 
+also included annotations throughout this contract; these annotations aren't a 
+part of the contract itself, but are intended to help you follow the text and 
+to emphasize key sections.
 
 1. Accepting the Terms of Service
 
   "We are ThinkUp and you're agreeing to these terms."
 
-  These are the definitions we'll use in this contract:
+  These are some of the definitions we'll use in this contract:
 
   * "Agreement": These Terms of Service, along with our Privacy Policy.
-  * "Site": ThinkUp.com and/or the other domains, products, services, and/or
+  * "Services": ThinkUp.com and/or the other domains, products, services, and/or
     content provided by ThinkUp LLC.
-  * "ThinkUp": ThinkUp LLC., a Delaware corporation, along with its agents,
-    consultants, employees, officers and directors. Also known as "we" or "us".
+  * "ThinkUp": ThinkUp LLC., a Delaware limited liability company. Also known 
+    as "we" or "us".
   * "Subscriber": That is you, who we'll also call "you".
 
-  By using or accessing the Services, you agree to become bound by all the terms
-  and conditions of this Agreement. If you do not agree to all the terms and
-  conditions of this Agreement, you shouldn't and aren't permitted to use the
+  By creating a Services Account or using or accessing the Services, you agree 
+  to become bound by all the terms and conditions of this Agreement, including 
+  agreement between you and ThinkUp in Section 15 to arbitrate certain claims 
+  instead of going to court. If you do not agree to all the terms and 
+  conditions of this Agreement, you shouldn't and aren't permitted to use the 
   Services.
 
 2. Modifications to this Agreement
 
   "We can change this agreement if needed, and when we do, we'll let you know."
 
-  ThinkUp reserves the right, in its sole discretion, to modify this Agreement
-  at any time by posting a revised Agreement through the Services. When we do,
-  we will provide notice to you that this Agreement has changed, generally via
-  e-mail, and also through the Services (such as through notification in your
-  ThinkUp dashboard) when possible. You are responsible for reviewing and
-  becoming familiar with any modifications to this Agreement. If any part of
-  this agreement is unclear, you should contact us at help@thinkup.com for
-  clarification.
-
-  Modifications are effective when posted, and your use of the Services
-  following once a modification is posted and notice of the modification has
-  been provided constitutes your acceptance of the terms and conditions of this
-  Agreement as modified. If you have prepaid for any Paid Services (as defined
-  below) before this Agreement is modified, then your use of those prepaid Paid
-  Services is governed by the version of this Agreement that was in effect at
-  the time we received your prepayment.
+  ThinkUp may make modifications, deletions and/or additions to this Agreement 
+  (“Changes”) at any time.  Changes will be effective: (i) thirty (30) days 
+  after ThinkUp provides notice of the Changes, whether such notice is 
+  provided through the Services user interface, is sent to the e-mail address 
+  associated with your Services account or otherwise; or (ii) when you opt-in 
+  or otherwise expressly agree to the Changes or a version of this Agreement 
+  incorporating the Changes, whichever comes first.
 
 3. Use of the Services
 
   Eligibility:
 
-  "You have to be thirteen or older."
+  "You have to be eighteen or older."
 
-    No individual under the age of thirteen (13) may use the Services or
+    No individual under the age of eighteen (18) may use the Services or
     provide any information to ThinkUp or otherwise through the Services
     (including, for example, a name, address, telephone number, or email
-    address). You otherwise may only use the Services if you can form a
-    binding contract with ThinkUp and are not legally prohibited from using the
-    Services.
+    address). If you are a parent and believe your child under the age of 
+    thirteen (13) has created a Services account or otherwise provided personal
+    information to ThinkUp, please contact us at help@thinkup.com. You 
+    otherwise may only use the Services if you are not legally prohibited from 
+    using the Services.
 
   Service Changes and Limitations:
 
   "We are going to be changing and updating the service regularly."
 
-    The Services change frequently, and their form and functionality may
+    The Services may change frequently, and their form and functionality may
     change without prior notice to you. ThinkUp retains the right to create
     limits on and related to use of the Services its sole discretion at any
     time with or without notice. We will work to notify you of any such limits,
@@ -76,9 +71,9 @@ sections.
     notice or liability. Generally, this will only happen when needed to
     maintain the service or to make necessary updates to the service. ThinkUp
     may change, suspend, or discontinue any or all of the Services at any time,
-    including he availability of any product, feature, database, or Content (as
-    defined below). ThinkUp may also suspend Accounts (as defined below) at any
-    time, in its sole discretion.
+    including the availability of any product, feature, database, or Content 
+    (as defined below). ThinkUp may also suspend Accounts (as defined below) at 
+    any time, in its sole discretion.
 
   Limitations on Automated Use:
 
@@ -94,13 +89,13 @@ sections.
     than through our currently available, published interfaces that are
     provided by ThinkUp (and only pursuant to those terms and conditions),
     unless you have been specifically allowed to do so in a separate agreement
-    with ThinkUp, or unless permitted by ThinkUp's robots.txt file or other
-    robot exclusion mechanisms; (d) scrape the Services, and particularly
-    scrape Content (as defined below) from the Services, without ThinkUp's
-    express prior written consent; (e) use the Services to send altered,
-    deceptive, or false source-identifying information, including without
-    limitation by forging TCP-IP packet headers or e-mail headers; or (f)
-    interfere with, or disrupt, (or attempt to do so), the access of any
+    with ThinkUp, or unless specifically permitted by ThinkUp's robots.txt file 
+    or other robot exclusion mechanisms; (d) scrape the Services, and 
+    particularly scrape Content (as defined below) from the Services, without 
+    ThinkUp's express prior written consent; (e) use the Services to send 
+    altered, deceptive, or false source-identifying information, including 
+    without limitation by forging TCP-IP packet headers or e-mail headers; or 
+    (f) interfere with, or disrupt, (or attempt to do so), the access of any
     Subscriber, host or network, including, without limitation, by sending a
     virus to, spamming, or overloading the Services, or by scripted use of the
     Services in such a manner as to interfere with or create an undue burden
@@ -115,20 +110,21 @@ sections.
   which will serve as a default URL of the form [username].thinkup.com (a
   "ThinkUp URL").
 
-  You should provide ThinkUp with accurate, complete, and updated registration
+  You must provide ThinkUp with accurate, complete, and updated registration
   information, particularly your e-mail address, and failure to do so may
   result in suspension of your Account.
 
   You agree that you shall not select or use as a ThinkUp URL a name of another
-  person or entity with the intent to impersonate that person or entity or
-  with the intent to otherwise cause confusion as to the origin or provenance
-  of your Account. ThinkUp reserves the right to refuse registration of,
-  cancel, or modify a ThinkUp URL in its sole discretion.
+  person or entity, particularly with the intent to impersonate that person or 
+  entity or with the intent to otherwise cause confusion as to the origin or 
+  provenance of your Account. ThinkUp reserves the right to refuse registration 
+  of, cancel, or modify a ThinkUp URL in its sole discretion.
 
   You are also responsible for maintaining the confidentiality of your Account
   password and for the security of your Account, and you will notify ThinkUp
   immediately of any actual or suspected loss, theft, or unauthorized use of
-  your Account or Account password.
+  your Account or Account password. You are responsible for all activities 
+  occurring under your Account.
 
 5. Privacy
 
@@ -139,42 +135,81 @@ sections.
   understand that through your use of the Services you consent to the
   collection and use (as set forth in the Privacy Policy) of this information.
 
-6. Content and Subscriber Content
+6. Content and Intellectual Property Rights
 
   Definitions:
 
-  "Content is the stuff we make available; Subscriber Content is your stuff."
+  "Content meants text, pctures and other stuff; Subscriber Content is your 
+  stuff."
 
-    For purposes of this Agreement: (1) the term "Content" means a creative
-    expression and includes, without limitation, video, audio, photographs,
+    For purposes of this Agreement: (1) the term "Content" means any work of
+    authorship and includes, without limitation, video, audio, photographs,
     images, illustrations, animations, logos, tools, written posts, replies,
     and comments, information, data, text, software, scripts, executable
-    files, graphics, and interactive features, any of which may be generated,
-    provided, or otherwise made accessible on or through the Services; (2)
-    the term "Subscriber Content" is all Content that is posted or otherwise
-    provided or transferred to the Services by a Subscriber (including,
-    without limitation, by you); and Content also includes, without
-    limitation, all Subscriber Content.
+    files, graphics, and interactive features; (2) the term "Subscriber 
+    Content" is all Content made available through user social networking
+    accounts (such as a Facebook or Twitter account) that registered users of
+    the Services link to their Accounts, such as pictures and Tweets.
 
   Ownership:
 
-  "You own anything that you upload or share with us, and we own our stuff."
+  "You own your stuff, and we own our stuff."
 
-    Subscribers retain ownership of all intellectual property rights in their
-    Subscriber Content, and ThinkUp and/or third parties retain ownership of
-    all intellectual property rights in all Content other than Subscriber
-    Content.
+    As between you and ThinkUp, you retain ownership of all intellectual 
+    property rights in your Subscriber Content, and ThinkUp and/or its 
+    licensors retain ownership of all intellectual property rights in the 
+    Services and all Content made available through the Services other than 
+    your Subscriber Content.  You agree not to sell, license, distribute, 
+    copy, modify, publicly perform or display, transmit, publish, edit, adapt, 
+    create derivative works from, or otherwise make unauthorized use of the 
+    Services of any Content made available through the Services (other than 
+    your Subscriber Content).  
 
-  Content License to You:
+  Content License from You:
 
-  "You can use our content within the context of using ThinkUp."
+  "You allow us to use your content in the context of using running our 
+  services and operating our business."
 
-    As a Subscriber of the Services, ThinkUp grants you a worldwide,
-    non-exclusive, non-sublicensable, and non-transferable license to
-    download, store, view, display, perform, redistribute, and create
-    derivative works of Content solely in connection with your use of, and in
-    accordance with the functionality and restrictions of, the Services
-    (including, without limitation, Paid Services, as defined below).
+    As a Subscriber of the Services, you grant to ThinkUp a worldwide,
+    non-exclusive, royalty-free, full-paid, irrevocable (other than a 
+    termination of this Agreement), transferable right and license to download, 
+    copy, store, view, display, perform, and analyze the Subscriber Content for
+    (1) purposes of operating and providing the Services (including, without 
+    limitation, for purposes of making available Subscriber Content at your
+    ThinkUp URL) and (2) ThinkUp's internal business purposes, including 
+    without limitation for analyzing usage of and improving its Services.
+
+  Subscriber Content:
+
+  "You have the right to let us use your content.  We don’t warrant other 
+  user’s content."
+
+    You represent and warrant that you either own your Subscriber Content or 
+    have all necessary rights, licenses and consents relating thereto in order 
+    to grant ThinkUp the license rights granted herein without infringement or 
+    violation of the rights of any third party. You agree that your Subscriber 
+    Content will not: (i) include material that is not authorized by the 
+    copyright owner, protected by trade secret or otherwise subject to third 
+    party proprietary rights, including privacy and publicity rights, unless 
+    you are the owner of such rights or have permission from their rightful 
+    owner to post and sell the material and to grant ThinkUp all of the license 
+    rights granted herein; (ii) include falsehoods or misrepresentations that 
+    could damage ThinkUp or any third party; (iii) include material that is 
+    unlawful, defamatory, libelous, threatening, pornographic, harassing, 
+    hateful, racially or ethnically offensive or encourages conduct that would 
+    be considered a criminal offense, give rise to civil liability, violate 
+    any law or is otherwise inappropriate.  ThinkUp does not endorse any 
+    Subscriber Content or any opinion, recommendation, or advice expressed 
+    therein, and ThinkUp expressly disclaims any and all liability in 
+    connection with Subscriber Content.  If notified by a user or a content 
+    owner of any Subscriber Content that allegedly does not conform to this 
+    Agreement, ThinkUp may investigate the allegation and determine in good 
+    faith and in its sole discretion whether to remove the Subscriber Content 
+    from the Services, which it reserves the right to do at any time. 
+    Additionally, ThinkUp may, at any time, remove from the Services any 
+    Subscriber Content that in the sole judgment of ThinkUp violates this 
+    Agreement.
+
 
   Termination and Deletion:
 
@@ -190,39 +225,31 @@ sections.
 
 7. Use of Trademarks
 
-  "You should get our permission to use our ThinkUp branding and trademarks."
+  "You must get our permission to use our ThinkUp branding and trademarks."
 
-  Any use of ThinkUp's trademarks, branding, logos and other such assets in
-  connection with the Services should be in accordance with our guidelines. If
-  you need to use these assets, contact us at help@thinkup.com and we can
-  advise you of the proper guidelines.
+  Any use of ThinkUp's trademarks, branding, logos and other such assets 
+  requires the express written permission of ThinkUp. If you need to use these 
+  assets, contact us at help@thinkup.com. Any such use will be subject to 
+  compliance with our trademark guidelines.
 
 8. Paid Services
 
   "Paying gives you access to a set of Paid Services for a period of time."
 
   Some of the Services require payment of fees (the "Paid Services"). All
-  fees are stated in United States dollars. You shall pay all applicable fees,
-  as described in the applicable Services, in connection with such Services,
-  and any related taxes or additional charges.
+  fees are stated in United States dollars. You agree to pay all applicable 
+  fees, for all Paid Services that you sign up for, as well as any related 
+  taxes or additional charges. You represent and warrant that you have all 
+  rights to use the payment method used by you to pay for any Paid Services. By
+  submitting payment instrument information to ThinkUp, you hereby authorize
+  ThinkUp to use (or cause its third party payment processing services provider
+  to use) that payment instrument to charge all fees you may incur in 
+  connection with Paid Services.
 
-  Paid Services are limited licenses for you to use particular for-pay aspects
-  of the Services. Usage of terms like sell, sale, buy, purchase, or similar
-  terms all refer to your acquisition of a license to use Paid Services, and
-  do not represent any transfer of any right, title, or ownership interest of
-  any kind. You may not relicense, resell, transfer, or exchange Paid Services
-  within or outside of the Services, except as expressly allowed by the rules
-  of the Services.
-
-  ThinkUp may, in its sole discretion, modify the functionality of, or
-  eliminate, Paid Services, or the terms and conditions under which Paid
-  Services are provided.
-
-  Purchases of Paid Services are final and non-refundable (particularly those
-  Paid Services that may be used immediately, such as Promotions, as defined
-  below), except at ThinkUp's sole discretion and in accordance with the rules
-  governing each such Paid Service. Termination of your Account or your rights
-  under this Agreement may result in forfeiture of existing Paid Services.
+  Purchases of Paid Services are final and non-refundable, except at ThinkUp's 
+  sole discretion and in accordance with the rules governing each such Paid 
+  Service. Termination of your Account or your rights under this Agreement may 
+  result in forfeiture of existing Paid Services.
 
   ThinkUp may change its prices for Paid Services at any time. To the extent
   applicable, ThinkUp will provide you reasonable notice of any such pricing
@@ -235,29 +262,32 @@ sections.
 
   "We want ThinkUp to be great for you, but it's not warrantied."
 
-  Your access to and use of the Services or any Content is at your own risk.
-  YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED TO YOU ON AN "AS IS"
-  AND "AS AVAILABLE" BASIS. WITHOUT LIMITING THE FOREGOING, TO THE FULL EXTENT
-  PERMITTED BY LAW, THINKUP DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF
-  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
-  ThinkUp makes no representations or warranties of any kind with respect to
-  the Services, including any representation or warranty that the use of the
-  Services will (a) be timely, uninterrupted or error-free or operate in
-  combination with any other hardware, software, system or data, (b) meet your
-  requirements or expectations, (c) be free from errors or that defects will
-  be corrected, or (d) be free of viruses or other harmful components. ThinkUp
-  also makes no representations or warranties of any kind with respect to
-  Content; Subscriber Content, in particular, is provided by and is solely the
-  responsibility of, the Subscribers providing that Content. No advice or
-  information, whether oral or written, obtained from ThinkUp or through the
-  Services, will create any warranty not expressly made herein.
+  YOUR ACCESS TO AND USE OF THE SERVICES OR ANY CONTENT IS AT YOUR OWN RISK. 
+  THE SERVICES AND ANY ANALYTICS PROVIDED THROUGH THE SERVICES ARE PROVIDED FOR
+  INFORMATION PURPOSES ONLY AND THINKUP IS NOT RESPONSIBLE OR LIABLE FOR ANY 
+  ACTIONS OR OMISSIONS BASED ON SUCH ANALYTICS. YOU UNDERSTAND AND AGREE THAT 
+  THE SERVICES ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS. 
+  WITHOUT LIMITING THE FOREGOING, TO THE FULL EXTENT PERMITTED BY LAW, THINKUP 
+  DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR 
+  A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. ThinkUp makes no representations 
+  or warranties of any kind with respect to the Services, including any 
+  representation or warranty that the use of the Services will (a) be timely, 
+  uninterrupted or error-free or operate in combination with any other 
+  hardware, software, system or data, (b) meet your requirements or 
+  expectations, (c) be free from errors or that defects will be corrected, or 
+  (d) be free of viruses or other harmful components. ThinkUp also makes no 
+  representations or warranties of any kind with respect to Content; Subscriber 
+  Content, in particular, is provided by and is solely the responsibility of, 
+  the Subscribers providing that Content. No advice or information, whether 
+  oral or written, obtained from ThinkUp or through the Services, will create 
+  any warranty not expressly made herein.
 
 10. Release From Liability
 
-  "We're not liable for damages in disputes between you and others."
+  "We're not liable for certain issues that could arise from using ThinkUp."
 
   You release, to the fullest extent permitted by law, ThinkUp, its directors,
-  officers, shareholders, employees, representatives, consultants, agents,
+  officers, members, employees, representatives, consultants, agents,
   suppliers, and/or distributors from responsibility, liability, claims,
   demands, and/or damages (actual and consequential) of every kind and nature,
   known and unknown, arising out of or in any way connected with the
@@ -273,40 +303,43 @@ sections.
       or a third party.
 
     - Claims relating to the unauthorized access to any data communications or
-      Content stored under or relating to your Account, including unauthorized
-      use or alteration of such communications or your Content.
+      Subscriber Content stored under or relating to your Account, including 
+      unauthorized use or alteration of such communications or your Subscriber
+      Content.
 
-  If you are a California resident, you waive California Civil Code §1542,
-  which says: "A general release does not extend to claims which the creditor
-  does not know or suspect to exist in his favor at the time of executing the
-  release, which if known by him must have materially affected his settlement
-  with the debtor."
+  You hereby waive applicability of California Civil Code §1542, and any 
+  similar statute or principle of common law. California Civil Code §1542 says: 
+  "A general release does not extend to claims which the creditor does not 
+  know or suspect to exist in his or her favor at the time of executing the
+  release, which if known by him or her must have materially affected his or 
+  her settlement with the debtor."
 
 11. Limitation of Liability
 
-  "As much as the law allows, ThinkUp's team isn't personally liable."
+  "As much as the law allows, ThinkUp and its team isn't liable for certain
+  types of damages. ThinkUp's total liability to you is limited, too."
 
   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THINKUP, ITS DIRECTORS,
-  OFFICERS, SHAREHOLDERS, EMPLOYEES, REPRESENTATIVES, CONSULTANTS, AGENTS,
-  SUPPLIERS, AND/OR DISTRIBUTORS SHALL NOT BE LIABLE FOR: (A) ANY INDIRECT,
-  INCIDENTAL, EXEMPLARY PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND
-  WHATSOEVER; (B) LOSS OF: PROFITS, REVENUE, DATA, USE, GOOD-WILL, OR OTHER
-  INTANGIBLE LOSSES; (C) DAMAGES RELATING TO YOUR ACCESS TO, USE OF, OR
-  INABILITY TO ACCESS OR USE THE SERVICES; (D) DAMAGES RELATING TO ANY CONDUCT
-  OR CONTENT OF ANY THIRD PARTY OR SUBSCRIBER USING THE SERVICES, INCLUDING
-  WITHOUT LIMITATION, DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OR CONTENT;
-  AND/OR (E) DAMAGES IN ANY MANNER RELATING TO ANY CONTENT. THIS LIMITATION
-  APPLIES TO ALL CLAIMS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY
-  OTHER LEGAL THEORY, WHETHER OR NOT THINKUP HAS BEEN INFORMED OF THE
-  POSSIBILITY OF SUCH DAMAGE, AND FURTHER WHERE A REMEDY SET FORTH HEREIN IS
-  FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.
+  OFFICERS, MEMBERS, EMPLOYEES, REPRESENTATIVES, CONSULTANTS, AGENTS,
+  SUPPLIERS, LICENSORS, AND/OR DISTRIBUTORS SHALL NOT BE LIABLE FOR: (A) ANY 
+  INDIRECT, INCIDENTAL, EXEMPLARY PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY 
+  KIND WHATSOEVER; (B) LOSS OF: PROFITS, REVENUE, DATA, USE, GOOD-WILL, OR 
+  OTHER INTANGIBLE LOSSES; (C) DAMAGES RELATING TO YOUR INABILITY TO ACCESS OR 
+  USE THE SERVICES; (D) DAMAGES RELATING TO ANY CONDUCT OR CONTENT OF ANY THIRD 
+  PARTY OR SUBSCRIBER USING THE SERVICES, INCLUDING WITHOUT LIMITATION, 
+  DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OR CONTENT; AND/OR (E) DAMAGES IN 
+  ANY MANNER RELATING TO ANY SUBSCRIBER CONTENT. THIS LIMITATION APPLIES TO ALL 
+  CLAIMS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, 
+  WHETHER OR NOT THINKUP HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, 
+  AND FURTHER WHERE A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED ITS 
+  ESSENTIAL PURPOSE.
 
   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF
-  THINKUP AND ITS DIRECTORS, OFFICERS, SHAREHOLDERS, EMPLOYEES,
-  REPRESENTATIVES, CONSULTANTS, AGENTS, SUPPLIERS, AND/OR DISTRIBUTORS, FOR
-  ANY CLAIM UNDER THIS AGREEMENT, INCLUDING FOR ANY IMPLIED WARRANTIES, IS
-  LIMITED TO THE GREATER OF FIFTY DOLLARS (US$50.00) OR THE AMOUNT YOU PAID US
-  TO USE THE APPLICABLE SERVICE(S).
+  THINKUP AND ITS DIRECTORS, OFFICERS, MEMBERS, EMPLOYEES, REPRESENTATIVES, 
+  CONSULTANTS, AGENTS, SUPPLIERS, LICENSORS AND/OR DISTRIBUTORS, FOR ANY CLAIM 
+  UNDER THIS AGREEMENT, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE 
+  GREATER OF FIFTY DOLLARS (US$50.00) OR THE AMOUNT YOU PAID US TO USE THE 
+  PPLICABLE SERVICE(S).
 
 12. Exclusions to Warranties and Limitation of Liability
 
@@ -316,7 +349,28 @@ sections.
   exclusion/limitation of liability as set forth in Section 14, so the
   limitations above may not apply to you.
 
-13. Termination
+13. Legal Compliance; Indemnification
+
+  "You won't use ThinkUp to do illegal things."
+
+  As a condition of your use of the Services, you represent and warrant that 
+  you will not use the Services for any purpose that is unlawful or prohibited 
+  by this Agreement. Access to the Services from territories where their 
+  contents are illegal is strictly prohibited. You agree to comply with all 
+  rules, laws, and regulations relating in any way to your use of the Services 
+  including, without limitation, rules about intellectual property rights, the 
+  Internet, technology, data, email and privacy.
+
+  You agree to indemnify and hold ThinkUp, and its directors, officers, 
+  members, employees, representatives, consultants, agents, suppliers, 
+  licensors and/or distributors, harmless from and against any demands, 
+  suits, actions, claims, losses, damages, liabilities, judgments, 
+  settlements, costs or expenses, including attorney’s fees, arising out of or 
+  relating to your use or misuse of the Services, violation of this Agreement 
+  or violation of the rights of any other person or entity.  
+
+
+14. Termination
 
   "If you want to cancel this agreement, just cancel your account. Same goes
   for us."
@@ -339,154 +393,106 @@ sections.
   of any obligations arising or accruing prior to such termination or limit
   any liability which you otherwise may have to ThinkUp or any third party.
 
-14. Legal Disputes
+15. Arbitration
 
-  "If there's any dispute about this, we'll handle it in New York."
+  "If there's a dispute, we'll arbitrate instead of going to court."
 
-  You and ThinkUp agree that we will resolve any claim or controversy at law or
-  equity that arises out of this Agreement or the Services in accordance with
-  this Section or as you and ThinkUp otherwise agree in writing. Before
-  resorting to litigation, we strongly encourage you to contact us at
+  “We will arbitrate certain disputes instead of going to court.”
+  Any claim where the total amount of the award sought by either you or ThinkUp 
+  is less than $10,000 shall be resolved via binding non-appearance-based 
+  arbitration initiated through the American Arbitration Association (“AAA”). 
+  The AAA Rules are available online at www.adr.org or by calling the AAA at 
+  1-800-778-7879. In any such arbitration, the parties and AAA must comply 
+  with the following rules: (a) the arbitration shall be conducted by 
+  telephone, online and/or be solely based on written submissions, the specific 
+  manner shall be chosen by the party initiating the arbitration; (b) the 
+  arbitration shall not involve any personal appearance by the parties or 
+  witnesses unless otherwise mutually agreed by the parties; (c) the arbitrator 
+  may award injunctive or declaratory relief only in favor of the individual 
+  party seeking relief and only to the extent necessary to provide relief 
+  warranted by that party's individual claim; and (d) any judgment on the award 
+  rendered by the arbitrator may be entered in any court of competent 
+  jurisdiction. Notwithstanding anything in this Agreement, (1) either party 
+  may seek remedies in small claims court of competent jurisdiction and (2) 
+  either party may seek injunctive or other equitable relief in any court of 
+  competent jurisdiction.
+
+16. Jurisdiction
+
+  "This agreement is covered by New York law.  If there is a dispute between us 
+  not subject to arbitration, we'll handle it in New York."
+
+  Before resorting to litigation, we strongly encourage you to contact us at 
   help@thinkup.com to seek a resolution.
+  
+  This Agreement shall be governed in all respects by the laws of the State of 
+  New York as they apply to agreements entered into and to be performed 
+  entirely within New York between New York residents, without regard to 
+  conflict of law provisions. You agree that any claim or dispute you may have 
+  against ThinkUp that isn’t subject to mandatory arbitration under Section 14 
+  must be resolved exclusively by a state or federal court located in New York 
+  County, New York, except as otherwise agreed by the parties. Each party 
+  agrees to submit to the personal jurisdiction of the courts located within 
+  New York County, New York for the purpose of litigating all such claims or 
+  disputes.
 
-  Law and Forum for Legal Disputes: This Agreement shall be governed in all
-  respects by the laws of the State of New York as they apply to agreements
-  entered into and to be performed entirely within New York between New York
-  residents, without regard to conflict of law provisions. You agree that any
-  claim or dispute you may have against ThinkUp must be resolved exclusively by
-  a state or federal court located in New York County, New York, except as
-  otherwise agreed by the parties. You agree to submit to the personal
-  jurisdiction of the courts located within New York County, New York for the
-  purpose of litigating all such claims or disputes.
-
-15. Miscellaneous
-
-  "This is the whole agreement between us."
-
-  This Agreement, as modified from time to time, constitutes the entire
-  agreement between you and ThinkUp with respect to the subject matter hereof.
-  This Agreement replaces all prior or contemporaneous understandings or
-  agreements, written or oral, regarding the subject matter hereof and
-  constitutes the entire and exclusive agreement between the parties. The
-  failure of either party to exercise in any respect any right provided for
-  herein shall not be deemed a waiver of any further rights hereunder. If any
-  provision of this Agreement is found to be unenforceable or invalid, that
-  provision shall be limited or eliminated to the minimum extent necessary so
-  that this Agreement shall otherwise remain in full force and effect and
-  enforceable. This Agreement is not assignable, transferable, or
-  sublicensable by you except with ThinkUp's prior written consent. ThinkUp may
-  assign this Agreement in whole or in part at any time without your consent.
-  No agency, partnership, joint venture, or employment is created as a result
-  of this Agreement and you do not have any authority of any kind to bind
-  ThinkUp in any respect whatsoever. Any notice to ThinkUp that is required or
-  permitted by this Agreement shall be in writing and shall be deemed
-  effective upon receipt, when delivered in person by nationally recognized
-  overnight courier or mailed by first class, registered or certified mail,
-  postage prepaid, to ThinkUp LLC., 220 East 23rd Street, Suite 601, New York,
-  NY, 10010, Attn: Legal Department.
-
-16. Special Provisions for Subscribers Located Outside of the United States
+17. Special Provisions for Subscribers Located Outside of the United States
 
   "We're in the United States, so we'll follow U.S. law."
 
-  ThinkUp provides global products and services and enables a global community
-  for individuals. ThinkUp's operations are, however, located in the United
-  States, and ThinkUp's policies and procedures are based on United States law.
-  As such, the following provisions apply specifically to Subscribers located
-  outside of the United States: (1) you consent to the transfer, storage, and
-  processing of your information, including but not limited to Subscriber
-  Content and any personal information, to and in the United States and/or
-  other countries; and (2) if you are using the Services from a country
-  embargoed by the United States, or are on the United States Treasury
-  Department's list of "Specially Designated Nationals," you agree that you
-  will not conduct any commercial activities using or through the Services.
+  ThinkUp provides global products and services and enables a global community 
+  for individuals. ThinkUp's operations are, however, located in the United 
+  States, and ThinkUp's policies and procedures are based on United States 
+  law. As such, the following provisions apply specifically to Subscribers 
+  located outside of the United States: (1) you consent to the transfer, 
+  storage, and processing of your information, including but not limited to 
+  Subscriber Content and any personal information, to and in the United States 
+  and/or other countries; and (2) if you are using the Services from a country 
+  embargoed by the United States, or are on the United States Treasury 
+  Department's list of "Specially Designated Nationals," you agree that you 
+  will not use the Services.
 
-17. DMCA Copyright Policy
 
-  "If you want to file a DMCA claim, you should contact us."
+18. Miscellaneous
 
-  ThinkUp has adopted the following policy toward copyright infringement on the
-  Services in accordance with the Digital Millennium Copyright Act (a copy of
-  which is located at [http://www.loc.gov/copyright/legislation/dmca.pdf], the
-  "DMCA"). The address of ThinkUp's Designated Agent for copyright takedown
-  notices ("Designated Agent") is listed below.
+  "This is the whole agreement between us."
 
-  Reporting Instances of Copyright Infringement:
+  This Agreement, including as it may be modified from time to time as set 
+  forth in Section 2 above, constitutes the entire agreement between you and 
+  ThinkUp with respect to the subject matter hereof. This Agreement replaces 
+  all prior or contemporaneous understandings or agreements, written or oral, 
+  regarding the subject matter hereof and constitutes the entire and exclusive 
+  agreement between the parties. The failure of either party to exercise in any 
+  respect any right provided for herein shall not be deemed a waiver of any 
+  further rights hereunder. If any provision of this Agreement is found to be 
+  unenforceable or invalid, that provision shall be limited or eliminated to 
+  the minimum extent necessary so that this Agreement shall otherwise remain in 
+  full force and effect and enforceable. This Agreement is not assignable, 
+  transferable, or sublicensable by you except with ThinkUp's prior written 
+  consent. ThinkUp may assign this Agreement in whole or in part at any time 
+  without your consent. No agency, partnership, joint venture, or employment is 
+  created as a result of this Agreement and you do not have any authority of 
+  any kind to bind ThinkUp in any respect whatsoever. Any notice to ThinkUp 
+  that is required or permitted by this Agreement shall be in writing and 
+  shall be deemed effective upon receipt, when delivered in person by 
+  nationally recognized overnight courier or mailed by first class, registered 
+  or certified mail, postage prepaid, to ThinkUp LLC., 220 East 23rd Street, 
+  Suite 601, New York, NY, 10010, Attn: Legal Department. ThinkUp may provide 
+  notices to you via e-mail to the e-mail address associated with your Account 
+  or by mail to your mailing address. The Services are provided by ThinkUp, 
+  LLC, which may be contacted at the mailing address above, by e-mail at 
+  team@thinkup.com or by telephone at +1 646 833 8659. 
 
-    If you believe that Content residing or accessible on or through the
-    Services infringes a copyright, please send a notice of copyright
-    infringement containing the following information to the Designated Agent
-    at the address below:
+19. Special Notice to California Residents
+  "The state of California makes us tell you this.”
 
-      - Identification of the work or material being infringed.
+  If you are a California resident, we are required to inform you that you may 
+  reach the Complaint Assistance Unit of the Division of Consumer Services of 
+  the California Department of Consumer Affairs via mail at 1625 North Market 
+  Blvd., Suite N112, Sacramento, CA 95834 or telephone at (916) 445-1254 or 
+  (800) 952-5210. Hearing impaired users can reach the Complaint Assistance 
+  Unit at TDD (800) 326-2297 or TDD (916) 322-1700.
 
-      - Identification of the material that is claimed to be infringing,
-        including its location, with sufficient detail so that ThinkUp is
-        capable of finding it and verifying its existence.
-
-      - Contact information for the notifying party (the "Notifying Party"),
-        including name, address, telephone number and e-mail address.
-
-      - A statement that the Notifying Party has a good faith belief that the
-        material is not authorized by the copyright owner, its agent or law.
-
-      - A statement made under penalty of perjury that the information
-        provided in the notice is accurate and that the Notifying Party is
-        authorized to make the complaint on behalf of the copyright owner.
-
-      - A physical or electronic signature of a person authorized to act on
-        behalf of the owner of the copyright that has been allegedly
-        infringed.
-
-    After removing material pursuant to a valid DMCA notice, ThinkUp will
-    immediately notify the Subscriber responsible for the allegedly infringing
-    material that it has removed or disabled access to the material. ThinkUp
-    reserves the right, in its sole discretion, to immediately terminate the
-    account of any Subscriber who is the subject of repeated DMCA
-    notifications.
-
-  Submitting a DMCA Counter-Notification:
-
-  "If someone has filed a DMCA notice and you want to dispute it, contact us."
-
-    If you believe you are the wrongful subject of a DMCA notification, you
-    may file a counter-notification with ThinkUp by providing the following
-    information to the Designated Agent at the address below:
-
-      - The specific URLs of material that ThinkUp has removed or to which
-        ThinkUp has disabled access.
-
-      - Your name, address, telephone number, and email address.
-
-      - A statement that you consent to the jurisdiction of Federal District
-        Court for the judicial district in which your address is located (or
-        the federal district courts located in New York County, New York if
-        your address is outside of the United States), and that you will
-        accept service of process from the person who provided the original
-        DMCA notification or an agent of such person.
-
-      - The following statement: "I swear, under penalty of perjury, that I
-        have a good faith belief that the material was removed or disabled as
-        a result of a mistake or misidentification of the material to be
-        removed or disabled."
-
-      - Your signature.
-
-    Upon receipt of a valid counter-notification, ThinkUp will forward it to
-    Notifying Party who submitted the original DMCA notification. The original
-    Notifying Party (or the copyright holder he or she represents) will then
-    have ten (10) days to notify us that he or she has filed legal action
-    relating to the allegedly infringing material. If ThinkUp does not receive
-    any such notification within ten (10) days, we may restore the material to
-    the Services.
-
-  Designated Agent
-
-    ThinkUp LLC.
-    220 East 23rd Street, Suite 601
-    New York, NY 10010
-    Attn: Copyright Agent
-    Email: [dmca@thinkup.com]
 
 Link to Prior Versions
 
