@@ -1,6 +1,6 @@
 Last Modified: 2014-02-13
 
-Hi and welcome! You are now reading ThinkUp's Terms of Service. This is the 
+**Hi and welcome! You are now reading ThinkUp's Terms of Service.** This is the 
 legal contract between you and ThinkUp when you use ThinkUp's site, services, 
 and products. You should read this carefully before you use our site, our 
 services or products. We've tried to be both fair and clear -- if you have any 
@@ -11,7 +11,7 @@ to emphasize key sections.
 
 1. Accepting the Terms of Service
 
-  "We are ThinkUp and you're agreeing to these terms."
+  **"We are ThinkUp and you're agreeing to these terms."**
 
   These are some of the definitions we'll use in this contract:
 
@@ -31,7 +31,7 @@ to emphasize key sections.
 
 2. Modifications to this Agreement
 
-  "We can change this agreement if needed, and when we do, we'll let you know."
+  **"We can change this agreement if needed, and when we do, we'll let you know."**
 
   ThinkUp may make modifications, deletions and/or additions to this Agreement 
   (“Changes”) at any time.  Changes will be effective: (i) thirty (30) days 
@@ -45,7 +45,7 @@ to emphasize key sections.
 
   Eligibility:
 
-  "You have to be eighteen or older."
+  **"You have to be eighteen or older."**
 
     No individual under the age of eighteen (18) may use the Services or
     provide any information to ThinkUp or otherwise through the Services
@@ -58,7 +58,7 @@ to emphasize key sections.
 
   Service Changes and Limitations:
 
-  "We are going to be changing and updating the service regularly."
+  **"We are going to be changing and updating the service regularly."**
 
     The Services may change frequently, and their form and functionality may
     change without prior notice to you. ThinkUp retains the right to create
@@ -77,7 +77,7 @@ to emphasize key sections.
 
   Limitations on Automated Use:
 
-  "You shouldn't use bots or access the system in undocumented ways."
+  **"You shouldn't use bots or access the system in undocumented ways."**
 
     You may not do any of the following while accessing or using the Services:
     (a) access, tamper with, or use non-public areas of the Services, or the
@@ -103,7 +103,7 @@ to emphasize key sections.
 
 4. Registration, ThinkUp URLs, and Security
 
-  "Use accurate information when you register, and keep your password safe."
+  **"Use accurate information when you register, and keep your password safe."**
 
   As a condition to using certain of the Services, you may be required to
   create an account (an "Account") and select a password and ThinkUp username,
@@ -128,7 +128,7 @@ to emphasize key sections.
 
 5. Privacy
 
-  "We'll follow our privacy policy."
+  **"We'll follow our privacy policy."**
 
   Any information you provide to ThinkUp is subject to ThinkUp's [Privacy
   Policy], which governs our collection and use of your information. You
@@ -139,8 +139,8 @@ to emphasize key sections.
 
   Definitions:
 
-  "Content meants text, pictures and other stuff; Subscriber Content is your 
-  stuff."
+  **"Content meants text, pictures and other stuff; Subscriber Content is your 
+  stuff."**
 
     For purposes of this Agreement: (1) the term "Content" means any work of
     authorship and includes, without limitation, video, audio, photographs,
@@ -153,7 +153,7 @@ to emphasize key sections.
 
   Ownership:
 
-  "You own your stuff, and we own our stuff."
+  **"You own your stuff, and we own our stuff."**
 
     As between you and ThinkUp, you retain ownership of all intellectual 
     property rights in your Subscriber Content, and ThinkUp and/or its 
@@ -167,8 +167,8 @@ to emphasize key sections.
 
   Content License from You:
 
-  "You allow us to use your content in the context of using running our 
-  services and operating our business."
+  **"You allow us to use your content in the context of using running our 
+  services and operating our business."**
 
     As a Subscriber of the Services, you grant to ThinkUp a worldwide,
     non-exclusive, royalty-free, full-paid, irrevocable (other than a 
@@ -181,8 +181,8 @@ to emphasize key sections.
 
   Subscriber Content:
 
-  "You have the right to let us use your content.  We don’t warrant other 
-  user’s content."
+  **"You have the right to let us use your content.  We don’t warrant other 
+  user’s content."**
 
     You represent and warrant that you either own your Subscriber Content or 
     have all necessary rights, licenses and consents relating thereto in order 
@@ -213,7 +213,7 @@ to emphasize key sections.
 
   Termination and Deletion:
 
-  "We'll try to delete your information if you cancel your account."
+  **"We'll try to delete your information if you cancel your account."**
 
     On termination of your Account or upon your deletion of particular pieces
     of Subscriber Content from the Services, ThinkUp shall make reasonable
@@ -225,7 +225,7 @@ to emphasize key sections.
 
 7. Use of Trademarks
 
-  "You must get our permission to use our ThinkUp branding and trademarks."
+  **"You must get our permission to use our ThinkUp branding and trademarks."**
 
   Any use of ThinkUp's trademarks, branding, logos and other such assets 
   requires the express written permission of ThinkUp. If you need to use these 
@@ -234,7 +234,7 @@ to emphasize key sections.
 
 8. Paid Services
 
-  "Paying gives you access to a set of Paid Services for a period of time."
+  **"Paying gives you access to a set of Paid Services for a period of time."**
 
   Some of the Services require payment of fees (the "Paid Services"). All
   fees are stated in United States dollars. You agree to pay all applicable 
@@ -260,7 +260,7 @@ to emphasize key sections.
 
 9. Warranty Disclaimer; Services Available on an "AS-IS" Basis
 
-  "We want ThinkUp to be great for you, but it's not warrantied."
+  **"We want ThinkUp to be great for you, but it's not warrantied."**
 
   YOUR ACCESS TO AND USE OF THE SERVICES OR ANY CONTENT IS AT YOUR OWN RISK. 
   THE SERVICES AND ANY ANALYTICS PROVIDED THROUGH THE SERVICES ARE PROVIDED FOR
@@ -284,7 +284,7 @@ to emphasize key sections.
 
 10. Release From Liability
 
-  "We're not liable for certain issues that could arise from using ThinkUp."
+  **"We're not liable for certain issues that could arise from using ThinkUp."**
 
   You release, to the fullest extent permitted by law, ThinkUp, its directors,
   officers, members, employees, representatives, consultants, agents,
@@ -316,8 +316,8 @@ to emphasize key sections.
 
 11. Limitation of Liability
 
-  "As much as the law allows, ThinkUp and its team isn't liable for certain
-  types of damages. ThinkUp's total liability to you is limited, too."
+  **"As much as the law allows, ThinkUp and its team isn't liable for certain
+  types of damages. ThinkUp's total liability to you is limited, too."**
 
   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THINKUP, ITS DIRECTORS,
   OFFICERS, MEMBERS, EMPLOYEES, REPRESENTATIVES, CONSULTANTS, AGENTS,
@@ -343,7 +343,7 @@ to emphasize key sections.
 
 12. Exclusions to Warranties and Limitation of Liability
 
-  "We follow the law of your region in regard to warranties and liabilities."
+  **"We follow the law of your region in regard to warranties and liabilities."**
 
   Some jurisdictions may not allow the exclusion of certain warranties or the
   exclusion/limitation of liability as set forth in Section 14, so the
@@ -351,7 +351,7 @@ to emphasize key sections.
 
 13. Legal Compliance; Indemnification
 
-  "You won't use ThinkUp to do illegal things."
+  **"You won't use ThinkUp to do illegal things."**
 
   As a condition of your use of the Services, you represent and warrant that 
   you will not use the Services for any purpose that is unlawful or prohibited 
@@ -372,8 +372,8 @@ to emphasize key sections.
 
 14. Termination
 
-  "If you want to cancel this agreement, just cancel your account. Same goes
-  for us."
+  **"If you want to cancel this agreement, just cancel your account. Same goes
+  for us."**
 
   Either party may terminate this Agreement at any time by notifying the other
   party. ThinkUp may also terminate or suspend your access to or ability to use
@@ -395,7 +395,7 @@ to emphasize key sections.
 
 15. Arbitration
 
-  "If there's a dispute, we'll arbitrate instead of going to court."
+  **"If there's a dispute, we'll arbitrate instead of going to court."**
 
   “We will arbitrate certain disputes instead of going to court.”
   Any claim where the total amount of the award sought by either you or ThinkUp 
@@ -419,8 +419,8 @@ to emphasize key sections.
 
 16. Jurisdiction
 
-  "This agreement is covered by New York law.  If there is a dispute between us 
-  not subject to arbitration, we'll handle it in New York."
+  **"This agreement is covered by New York law.  If there is a dispute between us 
+  not subject to arbitration, we'll handle it in New York."**
 
   Before resorting to litigation, we strongly encourage you to contact us at 
   help@thinkup.com to seek a resolution.
@@ -438,7 +438,7 @@ to emphasize key sections.
 
 17. Special Provisions for Subscribers Located Outside of the United States
 
-  "We're in the United States, so we'll follow U.S. law."
+  **"We're in the United States, so we'll follow U.S. law."**
 
   ThinkUp provides global products and services and enables a global community 
   for individuals. ThinkUp's operations are, however, located in the United 
@@ -455,7 +455,7 @@ to emphasize key sections.
 
 18. Miscellaneous
 
-  "This is the whole agreement between us."
+  **"This is the whole agreement between us."**
 
   This Agreement, including as it may be modified from time to time as set 
   forth in Section 2 above, constitutes the entire agreement between you and 
@@ -484,7 +484,7 @@ to emphasize key sections.
   team@thinkup.com or by telephone at +1 646 833 8659. 
 
 19. Special Notice to California Residents
-  "The state of California makes us tell you this.”
+  **"The state of California makes us tell you this.”**
 
   If you are a California resident, we are required to inform you that you may 
   reach the Complaint Assistance Unit of the Division of Consumer Services of 
@@ -496,7 +496,7 @@ to emphasize key sections.
 
 Link to Prior Versions
 
-  "You can see the changes we've made to this agreement."
+  **"You can see the changes we've made to this agreement."**
 
   You will find a link to prior versions of our Terms of Service below. We
   have stored these versions on GitHub, which will also allow you to
