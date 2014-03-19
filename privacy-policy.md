@@ -328,7 +328,7 @@ that the information will be shared, and with whom; or
 (c) that information is aggregate information or other information that
     does not identify you.
 
-### 6. Information Shared with the Public Through the Services:
+#### Information Shared with the Public Through the Services:
 
 > "Your ThinkUp stream is public by default."
 
@@ -360,8 +360,7 @@ example, by sharing insights to Twitter or Facebook). This Privacy Policy
 only governs information we collect and you are responsible for reading
 and understanding those Third Party Services' privacy policies.
 
-#### Information Shared with Our Agents in Order to Operate and Improve the
-Services:
+#### Information Shared with Our Agents in Order to Operate and Improve the Services:
 
 > "If we hire a contractor or consultant, they'll follow the same policy here."
 
@@ -427,7 +426,7 @@ self-harm.
 If you ask us to release information that we have about your Account, we
 will do so if reasonable and not unduly burdensome.
 
-### 7. The Security of Your Information
+### 6. The Security of Your Information
 
 > "Keep your password safe. We're doing everything we can to keep your data safe."
 
@@ -443,7 +442,7 @@ guarantee the security of any information. Unauthorized entry or use,
 hardware or software failure, and other factors, may compromise the security 
 of user information at any time.
 
-### 8. What Information You Can Access
+### 7. What Information You Can Access
 
 > "You can see your account information in your Settings page."
 
@@ -461,7 +460,7 @@ you are a California resident and would like a copy of this notice, please
 submit a written request to the following address: 220 East 23rd Street,
 Suite 601, New York NY 10010.
 
-### 9. How to Delete Your Account and What Happens When You Delete Your Account
+### 8. How to Delete Your Account and What Happens When You Delete Your Account
 
 > "You can email us to cancel your account, and we'll delete your account. Some
 information may persist for a while after your account is deleted."
