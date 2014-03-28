@@ -60,7 +60,7 @@ name as your username, you are disclosing your identity to the public.
 
 #### Email Communications with Us:
 
-> "ThinkUp uses your email address to send necessary notificaitions."
+> "ThinkUp uses your email address to send necessary notifications."
 
 As part of the Services, you may occasionally receive email and other
 communications from us, such as administrative communications relating to
