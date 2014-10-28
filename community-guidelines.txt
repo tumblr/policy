@@ -132,11 +132,47 @@ What Tumblr is not for:
   Copyright or Trademark Infringement.
 
     Respect the copyrights and trademarks of others. If you aren't allowed to
-    use someone else's copyrighted or trademarked work (either by license or by
-    legal exceptions/limitations like fair use), don't post it. It is our
-    policy to respond to notices of alleged copyright infringement as per our
-    Terms of Service and the Digital Millennium Copyright Act. Please see our 
-    DMCA notification form to file a claim online.
+    use someone else's copyrighted or trademarked work (either by license or
+    by legal exceptions and limitations such as fair use), don't post it.
+
+    Intellectual property is a tricky issue, so now is as good a time as any
+    to explain some aspects of the process we use for handling copyright and
+    trademark complaints. We respond to notices of alleged copyright
+    infringement as per our Terms of Service and the Digital Millennium
+    Copyright Act; please see our DMCA notification form to file a copyright
+    claim online. Please note that we require a valid DMCA notice before
+    removing content. Parties asserting a trademark infringement claim should
+    identify the allegedly infringing work and the legal basis for their
+    claim, and include the registration and/or application number(s)
+    pertaining to their trademark. Each claim is reviewed by a trained member
+    of our Trust and Safety team.
+
+    If we remove material in response to a copyright or trademark claim, the
+    user who posted the allegedly infringing material will be provided with
+    information from the complainant's notice (like identification of the
+    rightsholder and the allegedly infringed work) so they can determine the
+    basis of the claim.
+
+    We always want to make sure there is room in any copyright or trademark
+    complaint for both parties to make their case. With regard to copyright
+    claims, the posting user can file a DMCA counter-notification with us, as
+    described in our Terms of Service. Counter-notifications that we determine
+    to be valid will result in restoration of the content at issue following
+    the required waiting period prescribed by the DMCA. With regard to
+    trademark claims, the posting user can send us an appeal explaining their
+    side of the situation, along with any relevant materials we should look
+    at. A successful trademark appeal will also result in restoration of the
+    content at issue.
+
+    With regard to repeat copyright infringement, we use a three-strike system
+    to evaluate the standing of a user's account, where, generally, each valid
+    copyright infringement notice constitutes a strike, and three strikes
+    results in the termination of a user's account. When a user submits a
+    valid DMCA counter-notification, we remove the associated strike from
+    their record.
+
+    Whew. It's a complex process, but one we're proud of, and that we think
+    strikes all the appropriate balances.
 
   Confusion or Impersonation.
 
