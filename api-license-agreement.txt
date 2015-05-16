@@ -9,7 +9,7 @@ execute a separate services agreement governing their access to that resource
 (the “MSA”). If you are entering into this Agreement on behalf of a company
 or other entity, you represent and warrant that you have authority to bind
 such company or other entity to this Agreement. Before building applications
-on Tumblr's platform, particularly those using the Tumblr firehose and/or API, 
+on Tumblr's platform, particularly those using the Tumblr Firehose and/or API, 
 you have to agree to this contract.
 
 By building applications that interact with Tumblr's products and services (the
@@ -66,7 +66,7 @@ provisions herein, please contact us at [api@tumblr.com].
      Firehose, to manipulate information and Content from the Tumblr Firehose for
      the purposes of non-public analysis and search; and (d) use and display the
      Tumblr Marks only to identify that the Licensed Materials originate from the
-     Tumblr Services.Licensee Applications do not include those applications that
+     Tumblr Services. Licensee Applications do not include those applications that
      use or access the Tumblr API, Tumblr Firehose, or Tumblr Services in order
      to monitor the availability, performance, or functionality of any of the
      Tumblr API, Tumblr Firehose, or Tumblr Services, or for any other
@@ -171,7 +171,7 @@ provisions herein, please contact us at [api@tumblr.com].
 
         Tumblr should be the single point of origin for any apps, extensions, or
         code that we provide tools to aggregate. That includes blog themes and
-        our official apps. 
+        our official apps.
 
         This is a serious security and quality issue for our business and our
         bloggers. For example, themes not hosted in our [Theme Garden] have not
@@ -221,7 +221,7 @@ provisions herein, please contact us at [api@tumblr.com].
 
      l. No Phishing, Malware, or Identity Theft. You will not publish or
         link to malicious content intended to damage, disrupt, compromise, or
-        exploit a user’s browser, computer, mobile (or other) device, or Tumblr
+        exploit a user’s browser, computer, mobile (or any other) device, or Tumblr
         account or to compromise a user’s privacy in any manner. In addition,
         you won't collect, or try to collect, a user’s Tumblr credentials,
         including but not limited to usernames or passwords.
