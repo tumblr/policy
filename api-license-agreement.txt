@@ -5,7 +5,7 @@ effective as of the date of acceptance of this Agreement (the “Effective
 Date”), is by and between Tumblr, Inc. (“Tumblr”) and you, or the individual,
 company or other entity that you represent (“Licensee” or “you”). Consumers 
 of the Tumblr Firehose, as defined below, may additionally be required to 
-execute a separate services agreement governing their access to that resource 
+execute a separate master services agreement governing their access to that resource 
 (the “MSA”). If you are entering into this Agreement on behalf of a company
 or other entity, you represent and warrant that you have authority to bind
 such company or other entity to this Agreement. Before building applications
