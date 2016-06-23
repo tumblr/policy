@@ -13,11 +13,14 @@ What Tumblr is not for:
 
   Malicious Speech.
 
-    Don't encourage violence or hatred on the basis of things like race, ethnic
-    origin, religion, disability, gender, age, veteran status, or sexual
-    orientation. We encourage you to dismantle negative speech through argument
-    rather than censorship. We will, however, remove anything that is overtly
-    malicious.
+    Don't encourage violence or hatred. Don’t make violent threats or statements
+    that incite violence, including threatening or promoting terrorism. Especially
+    don’t do so on the basis of things like race, ethnic origin, religion,
+    disability, gender, gender identity, age, veteran status, or sexual orientation.
+    If you encounter negative speech that doesn’t rise to the level of violence or
+    threats of violence, we encourage you to dismantle negative speech through argument
+    rather than censorship. That said, if you encounter anything especially heinous,
+    tell us about it.
 
   Harm to Minors.
 
@@ -95,6 +98,13 @@ What Tumblr is not for:
     users. Don't squat, hoard, amass, accumulate, accrue, stockpile, rack up,
     buy, trade, sell, launder, invest in, ingest, get drunk on, cyber with,
     grope, or jealously guard Tumblr usernames/URLs.
+
+  Account Dormancy.
+
+    Use Tumblr! Use Tumblr all the time! Or at the very least, use Tumblr once
+    a year. If you don’t, we may mark your account as dormant. Your content won't
+    go anywhere—it'll be archived exactly as you left it—but your URL(s) will be
+    released for someone else to use.
 
   Spam.
 
@@ -184,16 +194,19 @@ What Tumblr is not for:
 
   Harassment.
 
-    Don't attempt to circumvent the Ignore feature or otherwise try to
-    communicate with someone who has asked you to stop.
+    Don’t engage in targeted abuse or harassment. If anyone is sending you
+    unwanted messages or reblogging your posts in an abusive way, we encourage
+    you to be proactive and block the hell out of them. And if someone blocks you,
+    don't attempt to circumvent the block feature or otherwise try to communicate
+    with them. Just stop.
 
   Privacy Violations.
 
-    Don't use Tumblr to deceptively obtain personal information. Don't post
-    content that violates anyone's privacy, especially personally identifying
-    or confidential information like credit card numbers, social security
-    numbers, unlisted contact information, or private photos of your ex's junk
-    (no matter how remarkable).
+    Don't use Tumblr to deceptively obtain personal information. Don't post content
+    that violates anyone's privacy, especially personally identifying or confidential
+    information like credit card numbers, social security numbers, or unlisted contact
+    information. Absolutely do not post non-consensual pornography—that is, private
+    photos or videos taken or posted without the subject’s consent.
 
   Disruptions, Exploits, or Resource Abuse.
 
@@ -203,8 +216,8 @@ What Tumblr is not for:
 
   Unlawful Uses or Content.
 
-    This one's pretty obvious, but Tumblr is not a place for illegal behavior,
-    including fraud, phishing, or illegally inciting violence.
+    Don’t use Tumblr to conduct illegal behavior, like fraud or phishing.
+    That should be pretty obvious to you, a decent human being.
 
 If we conclude that you are violating these guidelines, you may receive a
 notice via email. If you don't explain or correct your behavior, we may take
