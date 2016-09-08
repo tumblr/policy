@@ -175,6 +175,11 @@ us if you have any questions or suggestions!
     You also agree that you will respect the intellectual property rights of
     others, and represent and warrant that you have all of the necessary rights
     to grant us this license for all Subscriber Content you transfer to us.
+    
+    Tumblr may add its own affiliate code to links posted on Tumblr at its 
+    discretion, provided a user has not previously included their own affiliate
+    code into the applicable link. Users may opt out of this functionality 
+    here: https://www.tumblr.com/settings/blog.
 
   Content License to You:
 
