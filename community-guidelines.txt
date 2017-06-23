@@ -43,6 +43,23 @@ What Tumblr is not for:
     support and recovery, and we will remove only those posts or blogs that
     cross the line into active promotion or glorification of self-harm.
 
+  Unmarked sensitive content.
+
+    Tumblr is common ground for millions of people from a wide variety of locations,
+    cultures, and backgrounds. Some of them are okay with seeing sensitive content
+    on their dashboard, and some aren't, and that’s fine—that's what Safe Mode is for.
+    While we attempt to automatically categorize content that might not be suitable for
+    all viewers, you can help us respect the choices of people in the community by
+    pre-emptively marking any sensitive material you post.
+
+        If you're thinking about posting something that contains sensitive content,
+        please flip the "Mark as sensitive" switch before publishing it (you'll see
+        that switch in the post form). Some examples of sensitive content might include
+        nudity in an artistic, educational, or photojournalistic context.
+
+        If you regularly post sexually explicit material, we ask that you mark your
+        Tumblr as "Explicit" (which you can do on your blog's settings page).
+
   Gore, Mutilation, Bestiality, or Necrophilia.
 
     Don't post gore just to be shocking. Don't showcase the mutilation or
