@@ -7,27 +7,25 @@ us if you have any questions or suggestions!
 
 1. Accepting the Terms of Service
 
-  Please read these Terms of Service and our Community Guidelines
-  (collectively, the "Agreement") carefully before using tumblr.com
-  (the "Site") and/or the other domains, websites, products, applications,
-  mobile applications, services, and/or Content provided by Tumblr, Inc. (all
-  of those collectively with the Site, the "Services") (Tumblr, Inc., a Delaware
-  corporation and wholly-owned subsidiary of Yahoo Holdings, Inc., a Delaware
-  corporation, collectively with its agents, representatives, consultants,
-  employees, officers, and directors, "Tumblr," "we," or "us"). By using or
-  accessing the Services, you ("Subscriber" or "you") agree to be bound by all
-  the terms and conditions of this Agreement. If you don’t agree to all the
-  terms and conditions of this Agreement, you shouldn't, and aren't permitted
-  to, use the Services.
+  Please read these Terms of Service and our Community Guidelines (collectively,
+  the "Agreement") carefully before using tumblr.com (the "Site") and/or the
+  other domains, websites, products, applications, mobile applications,
+  services, and/or Content provided by Tumblr, Inc. (all of those collectively
+  with the Site, the "Services") (Tumblr, Inc., a Delaware corporation and
+  wholly-owned subsidiary of Yahoo Holdings, Inc., a Delaware
+  corporation("Yahoo"), collectively with its agents, representatives,
+  consultants, employees, officers, and directors, "Tumblr," "we," or "us"). By
+  using or accessing the Services, you ("Subscriber" or "you") agree to be bound
+  by all the terms and conditions of this Agreement. If you don’t agree to all
+  the terms and conditions of this Agreement, you shouldn't, and aren't
+  permitted to, use the Services.
 
-    We’re just letting you know, here, that Yahoo! Inc. plans to sell its
-    operating business, including Tumblr, to Verizon Communications Inc. and we
-    anticipate the close to occur in June 2017. Upon the completion of this
-    proposed transaction, Tumblr Inc. will be owned by a new Verizon-owned
-    company called Yahoo Holdings, Inc. and these Terms of Service, which apply
-    to your use of Tumblr, are being updated to reflect this change. This
-    section also includes an agreement where you're agreeing to agree to the
-    terms of this agreement.
+    We’re just letting you know, here, that Tumblr, along with Yahoo, is now
+    part of Oath, a digital and mobile media company with more than 50 brands
+    globally, and a member of the Verizon family of companies, and these Terms
+    of Service, which apply to your use of Tumblr, are being updated to reflect
+    this change. This section also includes an agreement where you're agreeing
+    to agree to the terms of this agreement.
 
 2. Modifications to this Agreement
 
