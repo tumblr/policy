@@ -11,14 +11,23 @@ us if you have any questions or suggestions!
   (collectively, the "Agreement") carefully before using tumblr.com
   (the "Site") and/or the other domains, websites, products, applications,
   mobile applications, services, and/or Content provided by Tumblr, Inc. (all
-  of those collectively with the Site, the "Services") (Tumblr, Inc., a
-  Delaware corporation and wholly-owned subsidiary of Yahoo! Inc., a Delaware
+  of those collectively with the Site, the "Services") (Tumblr, Inc., a Delaware
+  corporation and wholly-owned subsidiary of Yahoo Holdings, Inc., a Delaware
   corporation, collectively with its agents, representatives, consultants,
-  employees, officers and directors, "Tumblr," "we," or "us"). By using or
+  employees, officers, and directors, "Tumblr," "we," or "us"). By using or
   accessing the Services, you ("Subscriber" or "you") agree to be bound by all
-  the terms and conditions of this Agreement. If you don't agree to all the
-  terms and conditions of this Agreement, you shouldn't and aren't permitted to
-  use the Services.
+  the terms and conditions of this Agreement. If you don’t agree to all the
+  terms and conditions of this Agreement, you shouldn't, and aren't permitted
+  to, use the Services.
+
+    We’re just letting you know, here, that Yahoo! Inc. plans to sell its
+    operating business, including Tumblr, to Verizon Communications Inc. and we
+    anticipate the close to occur in June 2017. Upon the completion of this
+    proposed transaction, Tumblr Inc. will be owned by a new Verizon-owned
+    company called Yahoo Holdings, Inc. and these Terms of Service, which apply
+    to your use of Tumblr, are being updated to reflect this change. This
+    section also includes an agreement where you're agreeing to agree to the
+    terms of this agreement.
 
 2. Modifications to this Agreement
 
@@ -175,10 +184,10 @@ us if you have any questions or suggestions!
     You also agree that you will respect the intellectual property rights of
     others, and represent and warrant that you have all of the necessary rights
     to grant us this license for all Subscriber Content you transfer to us.
-    
-    Tumblr may add its own affiliate code to links posted on Tumblr at its 
+
+    Tumblr may add its own affiliate code to links posted on Tumblr at its
     discretion, provided a user has not previously included their own affiliate
-    code into the applicable link. Users may opt out of this functionality 
+    code into the applicable link. Users may opt out of this functionality
     here: https://www.tumblr.com/settings/blog.
 
   Content License to You:
