@@ -159,13 +159,13 @@ us if you have any questions or suggestions!
     or media through which the Services are available), and create derivative
     works of, such Subscriber Content. The rights you grant in this license are
     for the limited purposes of allowing Tumblr to operate the Services in
-    accordance with their functionality, improve the Services, and develop new
-    Services. The reference in this license to "creat[ing] derivative works" is
-    not intended to give Tumblr a right to make substantive editorial changes
-    or derivations, but does, for example, enable "reblogging," which allows
-    Tumblr Subscribers to redistribute Subscriber Content from one Tumblr blog
-    to another in a manner that allows them to add their own text or other
-    Content before or after your Subscriber Content.
+    accordance with their functionality, improve and promote the Services, and
+    develop new Services. The reference in this license to "creat[ing]
+    derivative works" is not intended to give Tumblr a right to make substantive
+    editorial changes or derivations, but does, for example, enable
+    "reblogging," which allows Tumblr Subscribers to redistribute Subscriber
+    Content from one Tumblr blog to another in a manner that allows them to add
+    their own text or other Content before or after your Subscriber Content.
 
     You also agree that this license includes the right for Tumblr to make all
     publicly-posted Content available to third parties selected by Tumblr, so
