@@ -1,15 +1,15 @@
-Last modified: Jan 8, 2014
+Last modified: September 12, 2018
 
 This Application Developer and API License Agreement (the “Agreement”),
 effective as of the date of acceptance of this Agreement (the “Effective
 Date”), is by and between Tumblr, Inc. (“Tumblr”) and you, or the individual,
-company or other entity that you represent (“Licensee” or “you”). Consumers 
-of the Tumblr Firehose, as defined below, may additionally be required to 
-execute a separate services agreement governing their access to that resource 
+company or other entity that you represent (“Licensee” or “you”). Consumers
+of the Tumblr Firehose, as defined below, may additionally be required to
+execute a separate services agreement governing their access to that resource
 (the “MSA”). If you are entering into this Agreement on behalf of a company
 or other entity, you represent and warrant that you have authority to bind
 such company or other entity to this Agreement. Before building applications
-on Tumblr's platform, particularly those using the Tumblr firehose and/or API, 
+on Tumblr's platform, particularly those using the Tumblr firehose and/or API,
 you have to agree to this contract.
 
 By building applications that interact with Tumblr's products and services (the
@@ -26,668 +26,679 @@ protection of our network, our users, and our business. If you feel that we
 should make changes to this Agreement, or if you seek a waiver from certain
 provisions herein, please contact us at [api@tumblr.com].
 
-  1. Purpose.
-
-    a. Use of Licensed Materials. This Agreement governs your use of
-       the following, all of which collectively are the “Licensed Materials”,
-       to develop applications: (a) Tumblr's application programming interface
-       (“API”) and any accompanying or related documentation, source code,
-       executable applications and other materials (collectively, the “Tumblr
-       API”), including, but not limited to, as made available through
-       Tumblr’s developer website (the “Developer Website”), as modified from
-       time to time; (b) the Tumblr feed of realtime or near realtime post
-       information (the “Tumblr Firehose”) (c) information in any way related
-       to accounts, blogs, and/or websites hosted on the Tumblr Services (the
-       “Blog Information”); (d) content posted to the Tumblr Services (the
-       “Posted Content”); (e) Tumblr user profile information (“Tumblr
-       User Information”); and (f) any other content or material made available
-       through the Tumblr API or Tumblr Firehose, including but not limited to
-       private messages sent and/or received by Tumblr users and native Tumblr
-       actions such as Tumblr likes, reblogs, and replies (collectively with
-       the Blog Information, the Posted Content, and Tumblr User Information,
-       the “Content”).
-
-    b. Use of Tumblr Marks. This Agreement also governs your use, and
-       restrictions on such use, of Tumblr’s name, trademarks, service marks,
-       logos, and other branding made available for use in connection with the
-       Licensed Materials (the “Tumblr Marks”).
-
-  2. License. Subject to the terms and conditions of this Agreement,
-     including the restrictions set forth in the Section titled “Restrictions”,
-     Tumblr grants you a nonexclusive, nontransferable, nonsublicensable,
-     worldwide, revocable right and license during the Term to: (a) use and
-     make calls to the Tumblr API and Tumblr Firehose, and to make use of the
-     Tumblr Services (and Licensed Materials accessible therefrom) to develop,
-     implement and distribute software applications, services or products (the
-     “Licensee Applications”); (b) use, reproduce, distribute, transmit,
-     display and perform the Content, and modify (i.e., alter in any manner)
-     the Content only to the extent necessary to format and display it through
-     the Licensee Applications; (c) additionally in the case of the Tumblr 
-     Firehose, to manipulate information and Content from the Tumblr Firehose for
-     the purposes of non-public analysis and search; and (d) use and display the
-     Tumblr Marks only to identify that the Licensed Materials originate from the
-     Tumblr Services.Licensee Applications do not include those applications that
-     use or access the Tumblr API, Tumblr Firehose, or Tumblr Services in order
-     to monitor the availability, performance, or functionality of any of the
-     Tumblr API, Tumblr Firehose, or Tumblr Services, or for any other
-     benchmarking or other competitive purposes.
-
-     As part of allowing applications to be built on and connected to Tumblr's
-     products and services, whether or not using the Tumblr API, we give you
-     access to a bunch of tools, including the API itself, the developer
-     documents and content posted to Tumblr blogs. This license gives you the
-     right to use those materials to make apps of all kinds, and also gives you
-     the right to use Tumblr’s trademarks to identify that the apps are
-     built on top of Tumblr's products and services.
-
-  3. Restrictions. The licenses granted in the Section titled
-     “License” are explicitly conditioned on your adherence to the following
-     restrictions.
-
-     There are a few things you aren't allowed to do as a Tumblr application
-     developer...
-
-     a. Compliance with this Agreement and Tumblr's Policies and
-        Guidelines. You must comply with this Agreement, the Tumblr Terms of
-        Service, the [Tumblr Privacy Policy], the [Tumblr Trademark Guidelines], and
-        the [Tumblr Community Guidelines] (together, the “Tumblr Policies”) in all
-        uses of the Licensed Materials. If Tumblr believes, in its sole
-        discretion, that you have violated or attempted to violate any term,
-        condition, or the spirit of this Agreement, you're license to and ability
-        to use and access the Licensed Materials may be temporarily or
-        permanently revoked, with or without notice. 
-        
-        Complying with these restrictions is really important. In particular,
-        the spirit of the Agreement is clear, and if you find a strict
-        loophole in the language, we may still revoke your access. If you’re
-        concerned about whether or not your violating this Agreement, or any of
-        our other policies or guidelines, please e-mail us at [abuse@tumblr.com]
-
-     b. Obtaining and Maintaining an API Key. In order to use the
-        Tumblr API or Tumblr Firehose, you must obtain appropriate API
-        credentials (an “API Key”) via registration on the Developer Website.
-        You will not share your API Key, will keep your API Key secure, and will
-        use it as your sole means of accessing the Tumblr API or Tumblr
-        Firehose.
-
-     c. User Login via OAuth; Account Creation. Licensee Applications
-        must present users with the ability to log into the Tumblr Services
-        through the Tumblr API via the OAuth protocol. Users without an account
-        on the Tumblr Services must be presented with an opportunity to create
-        an account.
-
-     d. No Substantial Replication. You will not substantially
-        replicate products or services offered by Tumblr, but are explicitly
-        permitted to create specialized versions or extensions of such products
-        or services. For example, you aren't permitted to fully replicate the
-        Tumblr Dashboard or Tumblr mobile applications, but may create
-        specialized views of Content from blogs followed by a user. In addition,
-        you won't use the Licensed Materials or other information collected from
-        users of Licensee Applications to create or maintain a separate blogging
-        platform, social or media network, or other similar product or service.
-
-        Don't re-implement the Dashboard, and don't recreate complete Tumblr
-        functions or clients on a platform where Tumblr already has an official
-        client (like web, iPhone, Android, or Windows Phone 8).
-
-     e. No Modification of Tumblr Dashboards or Content Streams. You shall not
-        remove or insert Content when displaying a user's Tumblr Dashboard or
-        other streams of Content, including but not limited to (i) removing or
-        inserting any advertisements or other sponsored material or (ii)
-        removing other Content inserted by Tumblr. You shall further not reorder
-        Content in a user's Tumblr Dashboard and shall present that Content in
-        the order provided by the Tumblr API or Tumblr Firehose. In addition,
-        your advertisements or sponsored material cannot replicate the look and
-        feel of, or reasonably be confused by users as, a piece of Content and
-        should be clearly separated from Content.Don't mess around with the
-        order of posts in the Dashboard and don't inject in-stream ads or use
-        ads that look like Tumblr posts.
-
-     f. No Syndication or Distribution. Licensee Applications are
-        strictly prohibited from syndicating or distributing Content in
-        any manner, public or private, including but not limited to public
-        redisplay of any Content.
-
-     g. No In-Network Promotions. Licensee Applications may not promote
-        any Content to or within the Tumblr network (“In-Network Promotions”),
-        including if payment is received for such In-Network Promotions. For
-        example, Licensee Applications may not create ranking systems or
-        directories for Tumblr blogs or posts and promote those rankings or
-        directories within or outside of the Tumblr Services.
-
-        Don't inject in-stream ads. Don't offer special placement or promotion
-        to specific Tumblr blogs or content within your app, especially for
-        money, and don't implement ranking systems.
-
-     h. No Marketplaces or Other Aggregators or Repositories of Code or
-        Applications. You aren't permitted to create any sort of marketplace or
-        other aggregator or public repository (a “Marketplace”) of code or
-        applications that predominantly uses or collects the Licensed Materials
-        or Licensee Applications. Examples of such Marketplaces include, but are
-        not limited to, collections of Tumblr blog themes, collections of Tumblr
-        extensions or plugins, and non-general purpose collections comprised
-        solely of Licensee Applications. In addition, you shouldn't participate
-        in such prohibited Marketplaces.
-
-        Tumblr should be the single point of origin for any apps, extensions, or
-        code that we provide tools to aggregate. That includes blog themes and
-        our official apps. 
-
-        This is a serious security and quality issue for our business and our
-        bloggers. For example, themes not hosted in our [Theme Garden] have not
-        been vetted by our team and have historically been a significant vector
-        for spam and identity theft. To be clear, you are otherwise allowed and
-        encouraged to distribute your applications on general purpose app
-        stores.
-
-     i. No Export for the Purpose of Replication, Repackaging or Resale. You
-        won't, under any circumstances, export Content to a datastore intended
-        to replicate, in whole or in part, Tumblr’s datastore, nor will you
-        repackage and/or resell the Licensed Materials, including any Content,
-        in any manner, including but not limited to by offering access to the
-        Licensed Materials through your own API. For the sake of clarity, this
-        restriction is not intended to apply to Licensee Applications that may,
-        at the request of a user, export such user’s Content for the purposes of
-        data portability.
-
-        You won’t try to archive or resell Tumblr data, excluding data
-        portability applications.
-
-     j. No Compromising Tumblr Security. You aren't permitted to use
-        the Licensed Materials in any manner that does or could potentially
-        undermine the security of the Tumblr Services or the Licensed Materials.
-        In addition, you won't, and won't attempt to, (i) interfere with, modify
-        or disable any features, functionality or security controls of the
-        Tumblr Services, Tumblr API, or Tumblr Firehose, (ii) defeat, avoid,
-        bypass, remove, deactivate or otherwise circumvent any protection
-        mechanisms for the Licensed Materials, or (iii) reverse engineer,
-        decompile, disassemble or derive source code, underlying ideas,
-        algorithms, structure or organizational form from the Tumblr Services,
-        Tumblr API, or Tumblr Firehose.
-
-     k. Reporting Security Flaws and Unauthorized Access. You will
-        immediately report to Tumblr any security flaws you discover in any of
-        the Tumblr Services or the Licensed Materials. Tumblr reserves the
-        right, in its sole discretion, to determine what constitutes a security
-        flaw. You will also immediately report any actual or suspected
-        unauthorized access to the Tumblr API or Tumblr Firehose using your
-        credentials. Failure to report such flaws or unauthorized accesses,
-        particularly prior to public disclosure, shall be considered a material
-        breach of this Agreement.
-
-        Be a good citizen: report suspected security issues to us before making
-        them public. You can send security flaw reports to
-        [security@tumblr.com].
-
-     l. No Phishing, Malware, or Identity Theft. You will not publish or
-        link to malicious content intended to damage, disrupt, compromise, or
-        exploit a user’s browser, computer, mobile (or other) device, or Tumblr
-        account or to compromise a user’s privacy in any manner. In addition,
-        you won't collect, or try to collect, a user’s Tumblr credentials,
-        including but not limited to usernames or passwords.
-
-     m. No Spamming. You won't use the Tumblr Services, Tumblr API, or
-        Tumblr Firehose, and won't create Licensee Applications, for the purpose
-        of “spamming.” Tumblr reserves the right, in its sole discretion, to
-        determine what actions constitute “spamming”. “Spamming,” includes, but
-        isn't limited to, posting numerous substantially identical pieces of
-        Content, posting misleading or obfuscated links, and executing a large
-        number of native Tumblr actions (e.g., posting, reblogging, liking,
-        following) in an unnaturally short period of time.
-
-     n. Respect for Limitations. You will respect the letter and the
-        spirit of the programmatic limitations of the Tumblr API and Tumblr
-        Firehose and the restrictions of this Agreement in designing and
-        implementing Licensee Applications. For example, you won't work around
-        any explicit Tumblr API or Tumblr Firehose limitation, even if such is
-        possible by avoiding use of the Tumblr API or Tumblr Firehose. Specific
-        prohibited actions include “page scraping”, which is the process of
-        downloading and parsing whole Tumblr pages in order to build Licensee
-        Applications with capabilities beyond those provided by the Tumblr API
-        or Tumblr Firehose. In addition, you will comply with any limitations
-        imposed by Tumblr on the frequency of access, calls and use of the
-        Tumblr API and Tumblr Firehose.
-
-        We've put a tremendous amount of care into making Tumblr's API
-        functional and flexible enough for any projects you'll throw at it, and
-        while we add new features frequently, certain features and data are not
-        yet available. We ask that you respect these limitations, as well as any
-        rate limits that we may place on actions, which are designed to protect
-        our systems.
-
-     o. No Content Modifications. Unless you are legally permitted to
-        do so, you won't use the Licensed Materials to make any modifications to
-        any Content, other than to modify the formatting of such Content in
-        order to display it in a manner appropriate for the pertinent Licensee
-        Applications.
-
-     p. No Circumvention or Reverse Engineering; Maintenance of Proprietary
-        Notices. You won't, and won't attempt to: (i) interfere with, modify or
-        disable any features or functionality of the Tumblr Services, Tumblr
-        API, or Tumblr Firehose including, without limitation, any mechanisms
-        used to restrict or control the Tumblr Services, Tumblr API, or Tumblr
-        Firehose such as anti-circumvention measures; (ii) translate, reverse
-        engineer, decompile, disassemble or derive source code, underlying
-        ideas, algorithms, structure or organizational form from the Tumblr
-        Services or the Licensed Materials; (iii) defeat, avoid, bypass, remove,
-        deactivate or otherwise circumvent any protection mechanisms for the
-        Tumblr Services or the Licensed Materials; or (iv) remove or modify any
-        proprietary notices, attribution or marks from or delivered as part of
-        the Tumblr Services or the Licensed Materials.
-
-     q. Genuine Actions. You won't create Licensee Applications with
-        capabilities that do not reflect explicit, genuine expressions of user
-        intent and permission. For example, Licensee Applications should not
-        automatically follow blogs, should not like, reblog, or reply to Content
-        without explicit user direction to do so, and should not post to the
-        Tumblr Services on a user’s behalf without (i) a specific interaction
-        informing a user that such user is making a post, and notifying the user
-        where that post will go, and (ii) an explicit action by such user
-        evincing permission for making the post (e.g., a Licensee Application
-        should not automatically generate a post indicating that a user has
-        signed up for it). In addition, a Licensee Application should not
-        require a user to generate a post as a prerequisite to using the
-        application or a feature of the application.
-
-        Make sure any actions triggered on Tumblr are what your users expect and
-        intend. Don't automate user commands like following, liking, or
-        reblogging. Don't encourage insincere gestures, by for example, creating
-        “follow trains”.
-
-     r. No Continuous Playback. You won't use the Tumblr Services, the Tumblr
-        API, or the Tumblr Firehose in a manner that enables sequential,
-        continuous and/or uninterrupted playback of any Content, including but
-        not limited to video, audio, or images.
-
-        For performance reasons, at this time we don't allow apps that allow
-        continuous playback of media without user input.
-
-     s. Indicating Use of the Tumblr Services and the Licensed Materials. In a
-        prominent location in all Licensee Applications, you should, to the
-        extent reasonable based on the nature of the Licensee Application,
-        indicate that the application has been created using the Tumblr Services
-        and/or the Licensed Materials. You will comply with the [Tumblr Trademark
-        Guidelines] when making that indication.
-
-        Make sure to say somewhere in your application that you’re building an
-        application using resources from Tumblr.
-
-        For example, you could say “Powered by Tumblr”.
-
-     t. Use of Tumblr Marks. You won't, under any circumstances: (i) include in
-        or use the Tumblr Marks, or any marks that are confusingly similar to or
-        derivative of the Tumblr Marks (including without limitation, “TUMBL”,
-        “TUMBLOG”, “TUM” and “BLR”) (“Confusing Marks”), as part of your trade
-        name (registered or otherwise), logos, or other identifiers; (ii)
-        include in or use the Tumblr Marks or any Confusing Marks as part of any
-        names, domain names, logos, or other identifiers of Licensee
-        Applications; or (iii) use the Tumblr Marks or Confusing Marks in a
-        manner that creates or may create a sense of endorsement, sponsorship,
-        or association with Tumblr, unless expressly permitted by Tumblr, in
-        writing, to do so. All use of the Tumblr Marks, and any goodwill arising
-        out of such use, shall inure to the benefit of Tumblr. You may freely
-        state and disclose that you are using the Tumblr Services, Tumblr API,
-        or Tumblr Firehose, as long as you adhere to all restrictions on the use
-        of the Tumblr Marks stated in this Agreement, including those stated in
-        the [Tumblr Trademark Guidelines]. You have a responsibility to make sure
-        users know your app was not built or endorsed by Tumblr.
-
-     u. No Misleading Users. You may not, under any circumstances, whether
-        within a Licensee Application or in materials discussing or concerning a
-        Licensee Application, mislead, confuse or cause misapprehension or
-        confusion among users as to the features, functionality, origin,
-        capabilities, or other aspects of that Licensee Application, Tumblr, the
-        Tumblr Services, or the Licensed Materials.
-
-        You should not advertise or otherwise discuss your application in a way
-        that confuses or misleads users about the application or about Tumblr.
-
-     v. Monitoring. Tumblr reserves the right to monitor your use of the
-        Licensed Materials for any reason or no reason, including to ensure your
-        compliance with the terms and conditions of this Agreement.
-
-     w. Reporting and Statistics. You will ensure that all Licensee Applications
-        properly and accurately use all reporting functionality that is made
-        available through aspects of the Tumblr API or Tumblr Firehose that are
-        used by such Licensee Applications.
-        
-        When you register an application or report other data to us, you’ll make
-        an effort to ensure that that information is accurate.
-
-     x. Attribution. You agree to maintain proper attribution for all pieces of
-        Content to (1) the Tumblr blog that posted such Content (the “Posting
-        Blog”) and (2) the source of the Content, if such source was provided in
-        the Licensed Materials (the “Source”). At no time will you falsely
-        attribute Content. For the sake of clarity, this means that your
-        Licensee Applications won't display any Content without attribution to
-        the Posting Blog and Source (if available), as delivered in the Licensed
-        Materials. In addition, you and your Licensee Applications won't modify
-        or remove any proprietary notices, attribution or marks from the
-        Licensed Materials.
-        
-        Attribution is really important for bloggers and content creators. You
-        should make sure blog posts properly attribute both the posting blog
-        and the origin source (when available).
-
-  4. Modifications. You acknowledge and agree that Tumblr may modify (including
-     but not limited to updating) this Agreement, the Tumblr Services, the
-     Licensed Materials, and the Tumblr Policies from time to time (a
-     “Modification”). Except for modifications of the Tumblr Services, you will
-     generally be notified about Modifications through notifications or posts on
-     the Developer Website or through a form of direct communication from Tumblr
-     to you, including but not limited to e-mail or notifications provided
-     through the Tumblr Services. A Modification to this Agreement will become
-     effective fourteen days after we have posted the Modification and provided
-     you notification of the Modification. You otherwise acknowledge and agree that
-     the Tumblr Services and the Licensed Materials may be modified at any time and
-     without any notice to you. You will, within thirty (30) days from the date
-     of first notice of any Modification(s) (or such shorter period of time
-     specified in the notice of the Modification(s)) comply with such
-     modification(s) by implementing and using the most current version of the
-     Licensed Materials and making any changes to Licensee Applications that may
-     be required as a result of such Modification(s). You acknowledge that a
-     Modification may have an adverse effect on your Licensee Applications,
-     including but not limited to changing the manner in which those Licensee
-     Applications communicate with the Tumblr Services and display Content. Your
-     sole recourse for such adverse effects is to terminate this Agreement
-     pursuant to the Section titled “Termination”. Your continued access to or
-     use of the Tumblr Services or any Licensed Materials following such thirty
-     (30) day period shall constitute binding acceptance of the applicable
-     Modification(s). Tumblr will attempt, but is not obligated, to provide
-     thirty (30) days notice of any Modification that is not backwards
-     compatible or that Tumblr reasonably believes will remove or materially
-     alter significant functionality of the Tumblr API.
-
-     We often have to modify our services and APIs, and also may have to modify
-     this agreement, so here we reserve that right. We’ll give you as much
-     notice as we can, but you need to comply with the modifications within 30
-     days or your access to Tumblr and/or our APIs may be revoked.
-
-  5. Ownership.
-
-     Tumblr and/or its users own and have all rights to everything except your
-     application; you own and have all rights to your application excluding
-     all of the other stuff.
-
-     a. Tumblr. Tumblr and its licensors, particularly its users, retain all
-        worldwide right, title and interest in and to the Licensed Materials,
-        including all worldwide intellectual property rights therein. As between
-        you and Tumblr, Tumblr owns all right, title and interest in and to the
-        Tumblr Services, the Tumblr API, the Tumblr Firehose, the Tumblr Marks,
-        any Tumblr-owned Content, and any derivative works or enhancements
-        thereof, including but not limited to all worldwide intellectual
-        property rights therein. You agree not to act in any manner inconsistent
-        with such ownership. Any of Tumblr’s rights not expressly granted under
-        this Agreement are withheld. You agree that you will not challenge
-        Tumblr’s ownership of the Tumblr Services, the Tumblr API, the Tumblr
-        Firehose, the Tumblr Marks, or any Tumblr-owned Content, challenge the
-        validity of the licenses granted under this Agreement, or otherwise copy
-        or exploit the Tumblr Services, the Tumblr API, the Tumblr Firehose, the
-        Tumblr Marks, or any Tumblr-owned Content during or after the
-        termination of this Agreement, except as expressly authorized under this
-        Agreement. If you acquire any rights in the Tumblr Services, the Tumblr
-        API, the Tumblr Firehose, the Tumblr Marks (or any confusingly similar
-        marks), or any Tumblr-owned Content, by operation of law or otherwise,
-        you will, at no expense to Tumblr, immediately effectuate an assignment
-        of such rights to Tumblr.
-
-     b. Licensee. As between you and Tumblr, you retain all worldwide right,
-        title and interest in and to the Licensee Applications, excluding the
-        Tumblr Services, the Licensed Materials, the Tumblr Marks, and any
-        derivative works or enhancements thereof, including but not limited to
-        all intellectual property rights therein.
-
-     c. Feedback. You may provide Tumblr with feedback or comments related to
-        the Licensed Materials and/or your experience with and use thereof
-        (“Feedback”). You agree that Tumblr and its designees and assigns shall
-        be free to copy, modify, create derivative works of, publicly display,
-        disclose, distribute, license, sublicense, incorporate, and otherwise
-        use Feedback, including all derivative works thereto, for any and all
-        purposes, commercial or otherwise, with no obligation of any kind to
-        you.
-
-  6. Support.
-
-     a. This Agreement does not entitle you to any support for the Licensed
-        Materials, unless you make separate arrangements with Tumblr. Any such
-        support provided by Tumblr shall be subject to the terms of this
-        Agreement as modified by a separate support agreement. You are solely
-        responsible for providing all support and technical assistance to end
-        users of your Licensee Applications. You acknowledge and agree that
-        Tumblr has no obligation to provide support or technical assistance
-        directly to your end users and you shall not represent to any of your
-        end users that Tumblr is available to provide such support.
-
-        We’ll do our best, but we can't guarantee any support for you or your
-        Licensee Applications. We also can’t support your users. You promise
-        that you’ll do your best to support your own applications.
-
-  7. Content.
-
-     a. Creation of Content. If a Licensee Application allows a user to post
-        Content (i.e., to generate material that will be hosted on the Tumblr
-        Services): (i) the Licensee Application will acquire that user’s
-        affirmative permission to post such Content, (ii) the Licensee
-        Application will promptly provide such Content to the Tumblr Services;
-        (iii) the Licensee Application will provide the user a prominent and
-        clear disclosure detailing how you may use such Content separately from
-        transmitting that Content to the Tumblr Services and seeking the
-        necessary licenses for you to use that Content as disclosed; (iv) your
-        use of Content must adhere to the restrictions set forth in the Section
-        titled “Restrictions”; (v) you must provide the user prominent access
-        via URL to the Tumblr Policies; and (vi) you may provide Tumblr with an
-        application identifier that Tumblr may display in conjunction with the
-        Content.
-
-        If your application allows people to post to Tumblr, you need to: get
-        their consent, be open with them about their rights and responsibilities
-        regarding their content and actually provide that content to Tumblr.
-
-     b. Changes to Content. When you have been notified (for example, through
-        the Tumblr API), you will within twenty-four hours after such notification,
-        honor any changes made on or related to Content (including, but not
-        limited to, by modifying applicable Licensee Applications), including but
-        not limited to: (i) deleting or removing Content that has been deleted
-        or removed from the Tumblr Services; (ii) disabling access to Content on
-        suspended or terminated blogs; (iii) modify Content that has been modified
-        on the Tumblr Services; and (iv) change the treatment, in your Licensee
-        Applications, of Content that has had its sharing options modified. (e.g.,
-        by removing from display any Content that has been placed behind a password
-        protected blog). For Content received from the Tumblr Firehose, such
-        changes must be reflected immediately. 
-
-        When users content is changed on Tumblr, your application is
-        required to reflect those changes.
-
-     c. Storage and Caching of Content. Under no circumstances will you
-        or your Licensee Applications store or cache Content for longer than
-        three (3) days; after three (3) days, you and/or your Licensee
-        Applications will re-request any such Content. Notwithstanding the
-        foregoing, storage and caching of Content received from the Tumblr
-        Firehose will be governed by the terms and duration stated in the 
-        applicable MSA and in the absence of such terms, storage of such Content
-        shall be governed by this clause.
-
-        Apps are not allowed to cache content for more than three days.
-
-   8. Privacy.
-
-     a. Tumblr User Information. To  the extent you have access to  and are
-        permitted to use Tumblr User Information through the Licensed Materials
-        for a specific Licensee Application, that access and use shall be in
-        accordance with the then-current [Tumblr Privacy Policy]. You will ensure
-        that Tumblr User Information disclosed in Content, inadvertently or
-        otherwise, is not exploited for improper purposes such as identity
-        theft, fraud, or spamming.
-
-        We take privacy seriously, and so should you. If you have access to any
-        information about a Tumblr user, you have to adhere to our [Privacy
-        Policy] and otherwise have to make sure that information is treated
-        carefully.
-
-     b. Licensee User Information. You may choose to collect
-        information relating to users of your Licensee Applications (“Licensee
-        Application User Information”). If you collect Licensee Application User
-        Information, you will provide to users an applicable privacy policy that
-        clearly discloses your information collection, storage, and sharing
-        practices, including the extent to which such Licensee Application User
-        Information is disclosed to third parties like Tumblr. Your privacy
-        policy must: (i) comply and be consistent with all applicable laws and
-        guidelines, including, but not limited to, data protection regulations
-        in applicable territories and the applicable guidelines of the U.S.
-        Federal Trade Commission; (ii) allow disclosure of Licensee Application
-        User Information to Tumblr, to the extent necessary for your use of the
-        Licensed Materials, in accordance with the then-current [Tumblr Privacy
-        Policy]; and (iii) be no less protective of applicable end users than
-        the then-current [Tumblr Privacy Policy]. You should also ensure that any
-        collection or sharing of information that would be unusual for the
-        Tumblr Services is conspicuously noted and that appropriate consents are
-        obtained from your users.
-
-        If you are asking users for more information than Tumblr does, you'll
-        have to have your own privacy policy that is at least as protective as
-        ours, and make sure you notify users and get their consent as needed.
-
-  9.  Confidentiality. You may from time to time, gain access to
-      proprietary information, technical data, trade secrets or know-how,
-      including, but not limited to, source code, research, product plans,
-      products, services, customers, customer lists, markets, software,
-      developments, inventions, processes, formulas, technology, designs,
-      drawings, engineering, hardware configuration information, marketing,
-      finances, or other business information that is either marked as
-      “confidential” or disclosed in such a manner that it would be reasonably
-      apparent it should be treated confidentially (“Confidential Information”).
-      You may use Confidential Information only to the extent necessary to
-      exercise your rights under this Agreement. You may not disclose
-      Confidential Information to a third party without the prior express
-      consent of Tumblr, provided in writing or by email. You agree that you
-      will protect Confidential Information from unauthorized use, access, or
-      disclosure in the same manner that you would use to protect its own
-      confidential and proprietary information of a similar nature and in any
-      event with no less than a reasonable degree of care.
-
-  10. Term and Termination; Survival. This Agreement shall commence
-      on the Effective Date and will remain in effect until terminated pursuant
-      to this Section. Either party may terminate this Agreement at any time,
-      for any reason, or for no reason including, but not limited to, if you
-      violate any provision of this Agreement. Any termination of this Agreement
-      shall also terminate the licenses granted hereunder. Upon termination of
-      this Agreement for any reason, you will stop using, and either return to
-      Tumblr, or destroy and remove from all computers, hard drives, networks,
-      and other storage media, all copies of the Licensed Materials and any
-      Confidential Information in your possession, and shall certify to Tumblr
-      that such actions have occurred. The Sections titled “Restrictions”,
-      “Ownership”, “Support”, “Confidentiality”, “Representations and
-      Warranties”, “Indemnification”, “Disclaimer”, “Limitation of Liability”,
-      and “Miscellaneous” shall survive termination of this Agreement.
-
-  11. Representations and Warranties. You represent and warrant that:
-      (i) you have the necessary power and authority to enter into this
-      Agreement, and that the performance of your obligations will not
-      constitute a breach or otherwise violate any other Agreement or the rights
-      of any third party arising therefrom; (ii) you will maintain, throughout
-      the Term, all required rights and licenses related to the Licensee
-      Applications and the Licensee Applications shall not infringe or otherwise
-      violate any third party rights, including but not limited to third party
-      intellectual property rights; and (iii) your uses of the Licensed
-      Materials do and shall comply with all applicable foreign, federal, state
-      and local laws, rules, and regulations.
-
-  12. Indemnification. You will indemnify and hold Tumblr, its subsidiaries,
-      affiliates (i.e., any other persons or entities that directly or indirectly
-      control, or are under common control with, or are directly or indirectly
-      controlled by, Tumblr) employees, and agents harmless from any and all
-      claims, damages, losses, liabilities, actions, judgments, costs, and expenses
-      brought by a third party arising out of or in connection with: (i) any act
-      or omission by you in connection with your use of the Tumblr Services or
-      the Licensed Materials; (ii) your use of the Tumblr Services or the Licensed
-      Materials, including but not limited to other than as expressly allowed by
-      this Agreement; (iii) your breach of this Agreement, including but not
-      limited to your representations and warranties herein; or (iv) any Licensee
-      Application.
-
-  13. Disclaimer. The Tumblr Services and the Licensed Materials are provided
-      “as is” without warranty of any kind. Tumblr disclaims all warranties,
-      whether express, implied or statutory, regarding the Licensed Materials
-      and the Tumblr Services, including without limitation any and all implied
-      warranties of merchantability, accuracy, results of use, reliability,
-      fitness for a particular purpose, title, interference with quiet
-      enjoyment, non-infringement of third-party rights and any warranties or
-      conditions arising out of course of dealing or usage of trade. Further,
-      Tumblr disclaims any warranty that your use of the Licensed Materials or
-      the Tumblr Services will meet any or all of your requirements or that such
-      use will be uninterrupted, error-free, virus-free, or secure. Some states
-      do not allow the exclusion or limitation of implied warranties, so the
-      above limitations and exclusions may not apply to you.
-
-      These two items are especially important. Please make sure you understand
-      them.
-
-  14. Limitation of Liability. In no event shall Tumblr be liable to
-      you for any special, incidental, indirect, direct, exemplary, punitive,
-      compensatory, or consequential damages (including loss of use, data,
-      business or profits) arising out of or in connection with this Agreement,
-      whether such liability arises from any claim based upon contract,
-      warranty, tort (including negligence), strict liability or otherwise, and
-      whether or not Tumblr has been advised of the possibility of such loss or
-      damage. Any claim arising our of or relating to this Agreement must be
-      brought within one (1) year. In any case, Tumblr’s aggregate liability
-      under this Agreement will not exceed fifty U.S. dollars (US$50.00). The
-      foregoing limitations will survive and apply even if any limited remedy
-      specified in this agreement is found to have failed of its essential
-      purpose. Some states do not allow the exclusion or limitation of
-      incidental or consequential damages, so the above limitations and
-      exclusions may not apply to you.
-
-  15. Miscellaneous. This Agreement constitutes the entire agreement
-      among the parties with respect to the subject matter of this Agreement and
-      supersedes and merges all prior proposals, understandings, and
-      contemporaneous communications, whether oral, written or electronic. If
-      any provision of this Agreement is found to be unenforceable or invalid,
-      that provision will be limited or eliminated to the minimum extent
-      necessary so that this Agreement will otherwise remain in full force and
-      effect and enforceable. Any modification of or changes to this Agreement
-      must be in a writing duly authorized by an authorized representative of
-      Tumblr or pursuant to the Section titled “Modifications”. You may not
-      assign any of the rights or obligations granted under this Agreement,
-      voluntarily or by operation of law (including without limitation in
-      connection with a merger, acquisition, or sale of assets) except with the
-      express written consent of Tumblr, and any attempted assignment in
-      violation of this paragraph is void. Tumblr may assign, transfer or
-      delegate any of its rights and obligations hereunder without notice or
-      consent. No agency, partnership, joint venture, or employment relationship
-      is created as a result of this Agreement and neither party has any
-      authority of any kind to bind the other in any respect. This Agreement
-      shall be governed by and construed in accordance with the laws of the
-      State of New York, including its conflicts of law rules, and the United
-      States of America. You agree that any dispute arising from or relating to
-      the subject matter of this Agreement shall be governed by the exclusive
-      jurisdiction and venue of the state and federal courts of New York County,
-      New York. You agree that any claim you may have arising out of or related
-      to this Agreement and/or your use of the Licensed Materials must be filed
-      within one year after such claim arose; otherwise, your claim is permanently
-      barred. The section and paragraph headings in this Agreement, along with
-      all provided annotations, are for convenience only and shall not affect
-      the interpretation of this Agreement. The failure of Tumblr to enforce any
-      part of this Agreement shall not constitute a waiver of its right to later
-      enforce that or any other part of this Agreement. Waiver of compliance in
-      any particular instance does not mean that Tumblr will waive compliance in
-      the future. In order for any waiver of any covenant or right under this
-      Agreement to be binding, such waiver must be memorialized in a writing
-      duly authorized by Tumblr. Unless otherwise specified, all notices under
-      this Agreement will be in writing and will be deemed to have been duly
-      given when received, if personally delivered or sent by certified or
-      registered mail, return receipt requested; when receipt is electronically
-      confirmed, if transmitted by facsimile or e-mail; or the day after it is
-      sent, if sent for next day delivery by recognized overnight delivery
-      service. All notices to Tumblr shall be sent to [legal@tumblr.com]. All
-      notices to you shall be sent to the location or email address specified in
-      your Tumblr API or Tumblr Firehose access registration information.
-
-  Link to Prior Versions
-  
-  You will find a link to prior versions of our Application Developer and API
-  License Agreement below. We have stored these versions on GitHub, which will
-  also allow you to compare different versions and see what terms have changed:
-
-  http://github.com/tumblr/policy/commits/master/api-license-agreement.txt
+1. Purpose.
+
+
+    a. Use of Licensed Materials. This Agreement governs your use of
+       the following, all of which collectively are the “Licensed Materials”,
+       to develop applications: (a) Tumblr's application programming interface
+       (“API”) and any accompanying or related documentation, source code,
+       executable applications and other materials (collectively, the “Tumblr
+       API”), including, but not limited to, as made available through
+       Tumblr’s developer website (the “Developer Website”), as modified from
+       time to time; (b) the Tumblr feed of realtime or near realtime post
+       information (the “Tumblr Firehose”) (c) information in any way related
+       to accounts, blogs, and/or websites hosted on the Tumblr Services (the
+       “Blog Information”); (d) content posted to the Tumblr Services (the
+       “Posted Content”); (e) Tumblr user profile information (“Tumblr
+       User Information”); and (f) any other content or material made available
+       through the Tumblr API or Tumblr Firehose, including but not limited to
+       private messages sent and/or received by Tumblr users and native Tumblr
+       actions such as Tumblr likes, reblogs, and replies (collectively with
+       the Blog Information, the Posted Content, and Tumblr User Information,
+       the “Content”).
+
+    b. Use of Tumblr Marks. This Agreement also governs your use, and
+       restrictions on such use, of Tumblr’s name, trademarks, service marks,
+       logos, and other branding made available for use in connection with the
+       Licensed Materials (the “Tumblr Marks”).
+
+2. License. Subject to the terms and conditions of this Agreement,
+   including the restrictions set forth in the Section titled “Restrictions”,
+   Tumblr grants you a nonexclusive, nontransferable, nonsublicensable,
+   worldwide, revocable right and license during the Term to: (a) use and
+   make calls to the Tumblr API and Tumblr Firehose, and to make use of the
+   Tumblr Services (and Licensed Materials accessible therefrom) to develop,
+   implement and distribute software applications, services or products (the
+   “Licensee Applications”); (b) use, reproduce, distribute, transmit,
+   display and perform the Content, and modify (i.e., alter in any manner)
+   the Content only to the extent necessary to format and display it through
+   the Licensee Applications; (c) additionally in the case of the Tumblr
+   Firehose, to manipulate information and Content from the Tumblr Firehose for
+   the purposes of non-public analysis and search; and (d) use and display the
+   Tumblr Marks only to identify that the Licensed Materials originate from the
+   Tumblr Services.Licensee Applications do not include those applications that
+   use or access the Tumblr API, Tumblr Firehose, or Tumblr Services in order
+   to monitor the availability, performance, or functionality of any of the
+   Tumblr API, Tumblr Firehose, or Tumblr Services, or for any other
+   benchmarking or other competitive purposes.
+
+   As part of allowing applications to be built on and connected to Tumblr's
+   products and services, whether or not using the Tumblr API, we give you
+   access to a bunch of tools, including the API itself, the developer
+   documents and content posted to Tumblr blogs. This license gives you the
+   right to use those materials to make apps of all kinds, and also gives you
+   the right to use Tumblr’s trademarks to identify that the apps are
+   built on top of Tumblr's products and services.
+
+3. Restrictions. The licenses granted in the Section titled
+   “License” are explicitly conditioned on your adherence to the following
+   restrictions.
+
+   There are a few things you aren't allowed to do as a Tumblr application
+   developer...
+
+   a. Compliance with this Agreement and Tumblr's Policies and
+   Guidelines. You must comply with this Agreement, the Tumblr Terms of
+   Service, the [Tumblr Privacy Policy], the [Tumblr Trademark Guidelines], and
+   the [Tumblr Community Guidelines] (together, the “Tumblr Policies”) in all
+   uses of the Licensed Materials. If Tumblr believes, in its sole
+   discretion, that you have violated or attempted to violate any term,
+   condition, or the spirit of this Agreement, your license to and ability
+   to use and access the Licensed Materials may be temporarily or
+   permanently revoked, with or without notice.
+
+   Complying with these restrictions is really important. In particular,
+   the spirit of the Agreement is clear, and if you find a strict
+   loophole in the language, we may still revoke your access. If you’re
+   concerned about whether or not your violating this Agreement, or any of
+   our other policies or guidelines, please e-mail us at [abuse@tumblr.com]
+
+   b. Obtaining and Maintaining an API Key. In order to use the
+   Tumblr API or Tumblr Firehose, you must obtain appropriate API
+   credentials (an “API Key”) via registration on the Developer Website.
+   You will not share your API Key, will keep your API Key secure, and will
+   use it as your sole means of accessing the Tumblr API or Tumblr
+   Firehose.
+
+   c. User Login via OAuth; Account Creation. Licensee Applications
+   must present users with the ability to log into the Tumblr Services
+   through the Tumblr API via the OAuth protocol. Users without an account
+   on the Tumblr Services must be presented with an opportunity to create
+   an account.
+
+   d. No Substantial Replication. You will not substantially
+   replicate products or services offered by Tumblr, but are explicitly
+   permitted to create specialized versions or extensions of such products
+   or services. For example, you aren't permitted to fully replicate the
+   Tumblr Dashboard or Tumblr mobile applications, but may create
+   specialized views of Content from blogs followed by a user. In addition,
+   you won't use the Licensed Materials or other information collected from
+   users of Licensee Applications to create or maintain a separate blogging
+   platform, social or media network, or other similar product or service.
+
+   Don't re-implement the Dashboard, and don't recreate complete Tumblr
+   functions or clients on a platform where Tumblr already has an official
+   client (like web, iPhone, Android, or Windows Phone 8).
+
+   e. No Modification of Tumblr Dashboards or Content Streams. You shall not
+   remove or insert Content when displaying a user's Tumblr Dashboard or
+   other streams of Content, including but not limited to (i) removing or
+   inserting any advertisements or other sponsored material or (ii)
+   removing other Content inserted by Tumblr. You shall further not reorder
+   Content in a user's Tumblr Dashboard and shall present that Content in
+   the order provided by the Tumblr API or Tumblr Firehose. In addition,
+   your advertisements or sponsored material cannot replicate the look and
+   feel of, or reasonably be confused by users as, a piece of Content and
+   should be clearly separated from Content.Don't mess around with the
+   order of posts in the Dashboard and don't inject in-stream ads or use
+   ads that look like Tumblr posts.
+
+   f. No Syndication or Distribution. Licensee Applications are
+   strictly prohibited from syndicating or distributing Content in
+   any manner, public or private, including but not limited to public
+   redisplay of any Content.
+
+   g. No In-Network Promotions. Licensee Applications may not promote
+   any Content to or within the Tumblr network (“In-Network Promotions”),
+   including if payment is received for such In-Network Promotions. For
+   example, Licensee Applications may not create ranking systems or
+   directories for Tumblr blogs or posts and promote those rankings or
+   directories within or outside of the Tumblr Services.
+
+   Don't inject in-stream ads. Don't offer special placement or promotion
+   to specific Tumblr blogs or content within your app, especially for
+   money, and don't implement ranking systems.
+
+   h. No Marketplaces or Other Aggregators or Repositories of Code or
+   Applications. You aren't permitted to create any sort of marketplace or
+   other aggregator or public repository (a “Marketplace”) of code or
+   applications that predominantly uses or collects the Licensed Materials
+   or Licensee Applications. Examples of such Marketplaces include, but are
+   not limited to, collections of Tumblr blog themes, collections of Tumblr
+   extensions or plugins, and non-general purpose collections comprised
+   solely of Licensee Applications. In addition, you shouldn't participate
+   in such prohibited Marketplaces.
+
+   Tumblr should be the single point of origin for any apps, extensions, or
+   code that we provide tools to aggregate. That includes blog themes and
+   our official apps.
+
+   This is a serious security and quality issue for our business and our
+   bloggers. For example, themes not hosted in our [Theme Garden] have not
+   been vetted by our team and have historically been a significant vector
+   for spam and identity theft. To be clear, you are otherwise allowed and
+   encouraged to distribute your applications on general purpose app
+   stores.
+
+   i. No Use of Tumblr Data for Surveillance, Profiling or Manipulation Purposes. You are not permitted to use, repackage or otherwise make available Content in any way that would enable any public entity to use such Content to investigate, track, monitor, surveil, profile or manipulate Tumblr users. 
+
+
+     j. No violating Tumblr Users’ Rights. You agree not to use or otherwise make available Content from the Tumblr API or the Tumblr Firehose in any way that     violates laws, regulations, or the rights of any person - this includes but      is not limited to intellectual property rights, rights of privacy, rights of     personality, or human rights as described in the Universal Declaration of        Human Rights, the International Covenant on Civil and Political Rights, and      the International Covenant on Economic, Social, and Cultural Rights. Any use that isolates a group of individuals or any single individual for any unlawful or discriminatory purpose or in a manner not consistent with Tumblr users’ reasonable expectations of privacy is not allowed.  You will not target, segment, or profile individuals based on protected characteristics or on any sensitive categories of personal information protected by law. Law     Enforcement Requests. You are required to notify Tumblr of any legal process you receive relating to Content, the Licensed Materials, or otherwise relating to Tumblr, unless you are legally prohibited from providing such notice.
+
+     k. No Export for the Purpose of Replication, Repackaging or Resale. You
+        won't, under any circumstances, export Content to a datastore intended
+        to replicate, in whole or in part, Tumblr’s datastore, nor will you
+        repackage and/or resell the Licensed Materials, including any Content,
+        in any manner, including but not limited to by offering access to the
+        Licensed Materials through your own API. For the sake of clarity, this
+        restriction is not intended to apply to Licensee Applications that may,
+        at the request of a user, export such user’s Content for the purposes of
+        data portability.
+
+        You won’t try to archive or resell Tumblr data, excluding data
+        portability applications.
+
+     l. No Compromising Tumblr Security. You aren't permitted to use
+        the Licensed Materials in any manner that does or could potentially
+        undermine the security of the Tumblr Services or the Licensed Materials.
+        In addition, you won't, and won't attempt to, (i) interfere with, modify
+        or disable any features, functionality or security controls of the
+        Tumblr Services, Tumblr API, or Tumblr Firehose, (ii) defeat, avoid,
+        bypass, remove, deactivate or otherwise circumvent any protection
+        mechanisms for the Licensed Materials, or (iii) reverse engineer,
+        decompile, disassemble or derive source code, underlying ideas,
+        algorithms, structure or organizational form from the Tumblr Services,
+        Tumblr API, or Tumblr Firehose.
+
+     m. Reporting Security Flaws and Unauthorized Access. You will
+        immediately report to Tumblr any security flaws you discover in any of
+        the Tumblr Services or the Licensed Materials. Tumblr reserves the
+        right, in its sole discretion, to determine what constitutes a security
+        flaw. You will also immediately report any actual or suspected
+        unauthorized access to the Tumblr API or Tumblr Firehose using your
+        credentials. Failure to report such flaws or unauthorized accesses,
+        particularly prior to public disclosure, shall be considered a material
+        breach of this Agreement.
+
+        Be a good citizen: report suspected security issues to us before making
+        them public. You can send security flaw reports to
+        [security@tumblr.com].
+
+     n. No Phishing, Malware, or Identity Theft. You will not publish or
+        link to malicious content intended to damage, disrupt, compromise, or
+        exploit a user’s browser, computer, mobile (or other) device, or Tumblr
+        account or to compromise a user’s privacy in any manner. In addition,
+        you won't collect, or try to collect, a user’s Tumblr credentials,
+        including but not limited to usernames or passwords.
+
+     o. No Spamming. You won't use the Tumblr Services, Tumblr API, or
+        Tumblr Firehose, and won't create Licensee Applications, for the purpose
+        of “spamming.” Tumblr reserves the right, in its sole discretion, to
+        determine what actions constitute “spamming”. “Spamming,” includes, but
+        isn't limited to, posting numerous substantially identical pieces of
+        Content, posting misleading or obfuscated links, and executing a large
+        number of native Tumblr actions (e.g., posting, reblogging, liking,
+        following) in an unnaturally short period of time.
+
+     p. Respect for Limitations. You will respect the letter and the
+        spirit of the programmatic limitations of the Tumblr API and Tumblr
+        Firehose and the restrictions of this Agreement in designing and
+        implementing Licensee Applications. For example, you won't work around
+        any explicit Tumblr API or Tumblr Firehose limitation, even if such is
+        possible by avoiding use of the Tumblr API or Tumblr Firehose. Specific
+        prohibited actions include “page scraping”, which is the process of
+        downloading and parsing whole Tumblr pages in order to build Licensee
+        Applications with capabilities beyond those provided by the Tumblr API
+        or Tumblr Firehose. In addition, you will comply with any limitations
+        imposed by Tumblr on the frequency of access, calls and use of the
+        Tumblr API and Tumblr Firehose.
+
+        We've put a tremendous amount of care into making Tumblr's API
+        functional and flexible enough for any projects you'll throw at it, and
+        while we add new features frequently, certain features and data are not
+        yet available. We ask that you respect these limitations, as well as any
+        rate limits that we may place on actions, which are designed to protect
+        our systems.
+
+     q. No Content Modifications. Unless you are legally permitted to
+        do so, you won't use the Licensed Materials to make any modifications to
+        any Content, other than to modify the formatting of such Content in
+        order to display it in a manner appropriate for the pertinent Licensee
+        Applications.
+
+     r. No Circumvention or Reverse Engineering; Maintenance of Proprietary
+        Notices. You won't, and won't attempt to: (i) interfere with, modify or
+        disable any features or functionality of the Tumblr Services, Tumblr
+        API, or Tumblr Firehose including, without limitation, any mechanisms
+        used to restrict or control the Tumblr Services, Tumblr API, or Tumblr
+        Firehose such as anti-circumvention measures; (ii) translate, reverse
+        engineer, decompile, disassemble or derive source code, underlying
+        ideas, algorithms, structure or organizational form from the Tumblr
+        Services or the Licensed Materials; (iii) defeat, avoid, bypass, remove,
+        deactivate or otherwise circumvent any protection mechanisms for the
+        Tumblr Services or the Licensed Materials; or (iv) remove or modify any
+        proprietary notices, attribution or marks from or delivered as part of
+        the Tumblr Services or the Licensed Materials.
+
+     s. Genuine Actions. You won't create Licensee Applications with
+        capabilities that do not reflect explicit, genuine expressions of user
+        intent and permission. For example, Licensee Applications should not
+        automatically follow blogs, should not like, reblog, or reply to Content
+        without explicit user direction to do so, and should not post to the
+        Tumblr Services on a user’s behalf without (i) a specific interaction
+        informing a user that such user is making a post, and notifying the user
+        where that post will go, and (ii) an explicit action by such user
+        evincing permission for making the post (e.g., a Licensee Application
+        should not automatically generate a post indicating that a user has
+        signed up for it). In addition, a Licensee Application should not
+        require a user to generate a post as a prerequisite to using the
+        application or a feature of the application.
+
+        Make sure any actions triggered on Tumblr are what your users expect and
+        intend. Don't automate user commands like following, liking, or
+        reblogging. Don't encourage insincere gestures, by for example, creating
+        “follow trains”.
+
+     t. No Continuous Playback. You won't use the Tumblr Services, the Tumblr
+        API, or the Tumblr Firehose in a manner that enables sequential,
+        continuous and/or uninterrupted playback of any Content, including but
+        not limited to video, audio, or images.
+
+        For performance reasons, at this time we don't allow apps that allow
+        continuous playback of media without user input.
+
+     u. Indicating Use of the Tumblr Services and the Licensed Materials. In a
+        prominent location in all Licensee Applications, you should, to the
+        extent reasonable based on the nature of the Licensee Application,
+        indicate that the application has been created using the Tumblr Services
+        and/or the Licensed Materials. You will comply with the [Tumblr Trademark
+        Guidelines] when making that indication.
+
+        Make sure to say somewhere in your application that you’re building an
+        application using resources from Tumblr.
+
+        For example, you could say “Powered by Tumblr”.
+
+     v. Use of Tumblr Marks. You won't, under any circumstances: (i) include in
+        or use the Tumblr Marks, or any marks that are confusingly similar to or
+        derivative of the Tumblr Marks (including without limitation, “TUMBL”,
+        “TUMBLOG”, “TUM” and “BLR”) (“Confusing Marks”), as part of your trade
+        name (registered or otherwise), logos, or other identifiers; (ii)
+        include in or use the Tumblr Marks or any Confusing Marks as part of any
+        names, domain names, logos, or other identifiers of Licensee
+        Applications; or (iii) use the Tumblr Marks or Confusing Marks in a
+        manner that creates or may create a sense of endorsement, sponsorship,
+        or association with Tumblr, unless expressly permitted by Tumblr, in
+        writing, to do so. All use of the Tumblr Marks, and any goodwill arising
+        out of such use, shall inure to the benefit of Tumblr. You may freely
+        state and disclose that you are using the Tumblr Services, Tumblr API,
+        or Tumblr Firehose, as long as you adhere to all restrictions on the use
+        of the Tumblr Marks stated in this Agreement, including those stated in
+        the [Tumblr Trademark Guidelines]. You have a responsibility to make sure
+        users know your app was not built or endorsed by Tumblr.
+
+     w. No Misleading Users. You may not, under any circumstances, whether
+        within a Licensee Application or in materials discussing or concerning a
+        Licensee Application, mislead, confuse or cause misapprehension or
+        confusion among users as to the features, functionality, origin,
+        capabilities, or other aspects of that Licensee Application, Tumblr, the
+        Tumblr Services, or the Licensed Materials.
+
+        You should not advertise or otherwise discuss your application in a way
+        that confuses or misleads users about the application or about Tumblr.
+
+     x. Monitoring. Tumblr reserves the right to monitor your use of the
+        Licensed Materials for any reason or no reason, including to ensure your
+        compliance with the terms and conditions of this Agreement.
+
+     y. Reporting and Statistics. You will ensure that all Licensee Applications
+        properly and accurately use all reporting functionality that is made
+        available through aspects of the Tumblr API or Tumblr Firehose that are
+        used by such Licensee Applications.
+
+        When you register an application or report other data to us, you’ll make
+        an effort to ensure that that information is accurate.
+
+     z. Attribution. You agree to maintain proper attribution for all pieces of
+        Content to (1) the Tumblr blog that posted such Content (the “Posting
+        Blog”) and (2) the source of the Content, if such source was provided in
+        the Licensed Materials (the “Source”). At no time will you falsely
+        attribute Content. For the sake of clarity, this means that your
+        Licensee Applications won't display any Content without attribution to
+        the Posting Blog and Source (if available), as delivered in the Licensed
+        Materials. In addition, you and your Licensee Applications won't modify
+        or remove any proprietary notices, attribution or marks from the
+        Licensed Materials.
+
+        Attribution is really important for bloggers and content creators. You
+        should make sure blog posts properly attribute both the posting blog
+        and the origin source (when available).
+
+        aa. Sensitive Content.  You will not use the Tumblr API to programmatically or otherwise bulk upload or post sensitive content to the Tumblr Services. Sensitive content is anything that might not be suitable for some members of the Tumblr community, such as nudity (even if it is in an artistic, educational, or photojournalistic context) or sexually explicit content.
+
+4. Modifications. You acknowledge and agree that Tumblr may modify (including
+   but not limited to updating) this Agreement, the Tumblr Services, the
+   Licensed Materials, and the Tumblr Policies from time to time (a
+   “Modification”). Except for modifications of the Tumblr Services, you will
+   generally be notified about Modifications through notifications or posts on
+   the Developer Website or through a form of direct communication from Tumblr
+   to you, including but not limited to e-mail or notifications provided
+   through the Tumblr Services. A Modification to this Agreement will become
+   effective fourteen days after we have posted the Modification and provided
+   you notification of the Modification. You otherwise acknowledge and agree that
+   the Tumblr Services and the Licensed Materials may be modified at any time and
+   without any notice to you. You will, within thirty (30) days from the date
+   of first notice of any Modification(s) (or such shorter period of time
+   specified in the notice of the Modification(s)) comply with such
+   modification(s) by implementing and using the most current version of the
+   Licensed Materials and making any changes to Licensee Applications that may
+   be required as a result of such Modification(s). You acknowledge that a
+   Modification may have an adverse effect on your Licensee Applications,
+   including but not limited to changing the manner in which those Licensee
+   Applications communicate with the Tumblr Services and display Content. Your
+   sole recourse for such adverse effects is to terminate this Agreement
+   pursuant to the Section titled “Termination”. Your continued access to or
+   use of the Tumblr Services or any Licensed Materials following such thirty
+   (30) day period shall constitute binding acceptance of the applicable
+   Modification(s). Tumblr will attempt, but is not obligated, to provide
+   thirty (30) days notice of any Modification that is not backwards
+   compatible or that Tumblr reasonably believes will remove or materially
+   alter significant functionality of the Tumblr API.
+
+   We often have to modify our services and APIs, and also may have to modify
+   this agreement, so here we reserve that right. We’ll give you as much
+   notice as we can, but you need to comply with the modifications within 30
+   days or your access to Tumblr and/or our APIs may be revoked.
+
+5. Ownership.
+
+   Tumblr and/or its users own and have all rights to everything except your
+   application; you own and have all rights to your application excluding
+   all of the other stuff.
+
+   a. Tumblr. Tumblr and its licensors, particularly its users, retain all
+   worldwide right, title and interest in and to the Licensed Materials,
+   including all worldwide intellectual property rights therein. As between
+   you and Tumblr, Tumblr owns all right, title and interest in and to the
+   Tumblr Services, the Tumblr API, the Tumblr Firehose, the Tumblr Marks,
+   any Tumblr-owned Content, and any derivative works or enhancements
+   thereof, including but not limited to all worldwide intellectual
+   property rights therein. You agree not to act in any manner inconsistent
+   with such ownership. Any of Tumblr’s rights not expressly granted under
+   this Agreement are withheld. You agree that you will not challenge
+   Tumblr’s ownership of the Tumblr Services, the Tumblr API, the Tumblr
+   Firehose, the Tumblr Marks, or any Tumblr-owned Content, challenge the
+   validity of the licenses granted under this Agreement, or otherwise copy
+   or exploit the Tumblr Services, the Tumblr API, the Tumblr Firehose, the
+   Tumblr Marks, or any Tumblr-owned Content during or after the
+   termination of this Agreement, except as expressly authorized under this
+   Agreement. If you acquire any rights in the Tumblr Services, the Tumblr
+   API, the Tumblr Firehose, the Tumblr Marks (or any confusingly similar
+   marks), or any Tumblr-owned Content, by operation of law or otherwise,
+   you will, at no expense to Tumblr, immediately effectuate an assignment
+   of such rights to Tumblr.
+
+   b. Licensee. As between you and Tumblr, you retain all worldwide right,
+   title and interest in and to the Licensee Applications, excluding the
+   Tumblr Services, the Licensed Materials, the Tumblr Marks, and any
+   derivative works or enhancements thereof, including but not limited to
+   all intellectual property rights therein.
+
+   c. Feedback. You may provide Tumblr with feedback or comments related to
+   the Licensed Materials and/or your experience with and use thereof
+   (“Feedback”). You agree that Tumblr and its designees and assigns shall
+   be free to copy, modify, create derivative works of, publicly display,
+   disclose, distribute, license, sublicense, incorporate, and otherwise
+   use Feedback, including all derivative works thereto, for any and all
+   purposes, commercial or otherwise, with no obligation of any kind to
+   you.
+
+6. Support.
+
+   a. This Agreement does not entitle you to any support for the Licensed
+   Materials, unless you make separate arrangements with Tumblr. Any such
+   support provided by Tumblr shall be subject to the terms of this
+   Agreement as modified by a separate support agreement. You are solely
+   responsible for providing all support and technical assistance to end
+   users of your Licensee Applications. You acknowledge and agree that
+   Tumblr has no obligation to provide support or technical assistance
+   directly to your end users and you shall not represent to any of your
+   end users that Tumblr is available to provide such support.
+
+   We’ll do our best, but we can't guarantee any support for you or your
+   Licensee Applications. We also can’t support your users. You promise
+   that you’ll do your best to support your own applications.
+
+7. Content.
+
+   a. Creation of Content. If a Licensee Application allows a user to post
+   Content (i.e., to generate material that will be hosted on the Tumblr
+   Services): (i) the Licensee Application will acquire that user’s
+   affirmative permission to post such Content, (ii) the Licensee
+   Application will promptly provide such Content to the Tumblr Services;
+   (iii) the Licensee Application will provide the user a prominent and
+   clear disclosure detailing how you may use such Content separately from
+   transmitting that Content to the Tumblr Services and seeking the
+   necessary licenses for you to use that Content as disclosed; (iv) your
+   use of Content must adhere to the restrictions set forth in the Section
+   titled “Restrictions”; (v) you must provide the user prominent access
+   via URL to the Tumblr Policies; and (vi) you may provide Tumblr with an
+   application identifier that Tumblr may display in conjunction with the
+   Content.
+
+   If your application allows people to post to Tumblr, you need to: get
+   their consent, be open with them about their rights and responsibilities
+   regarding their content and actually provide that content to Tumblr.
+
+   b. Changes to Content. When you have been notified (for example, through
+   the Tumblr API), you will within twenty-four hours after such notification,
+   honor any changes made on or related to Content (including, but not
+   limited to, by modifying applicable Licensee Applications), including but
+   not limited to: (i) deleting or removing Content that has been deleted
+   or removed from the Tumblr Services; (ii) disabling access to Content on
+   suspended or terminated blogs; (iii) modify Content that has been modified
+   on the Tumblr Services; and (iv) change the treatment, in your Licensee
+   Applications, of Content that has had its sharing options modified. (e.g.,
+   by removing from display any Content that has been placed behind a password
+   protected blog). For Content received from the Tumblr Firehose, such
+   changes must be reflected immediately.
+
+   When users content is changed on Tumblr, your application is
+   required to reflect those changes.
+
+   c. Storage and Caching of Content. Under no circumstances will you
+   or your Licensee Applications store or cache Content for longer than
+   three (3) days; after three (3) days, you and/or your Licensee
+   Applications will re-request any such Content. Notwithstanding the
+   foregoing, storage and caching of Content received from the Tumblr
+   Firehose will be governed by the terms and duration stated in the
+   applicable MSA and in the absence of such terms, storage of such Content
+   shall be governed by this clause.
+
+   Apps are not allowed to cache content for more than three days.
+
+8. Privacy.
+
+   a. Tumblr User Information. To the extent you have access to and are
+   permitted to use Tumblr User Information through the Licensed Materials
+   for a specific Licensee Application, that access and use shall be in
+   accordance with the then-current [Tumblr Privacy Policy]. You will ensure
+   that Tumblr User Information disclosed in Content, inadvertently or
+   otherwise, is not exploited for improper purposes such as identity
+   theft, fraud, or spamming. Additionally, you agree not to, and shall not allow or in any way enable any third party to, merge any Tumblr User Information with any other personally identifiable information or otherwise use such Tumblr User Information to attempt to discern the true identity of any Tumblr user.
+
+   We take privacy seriously, and so should you. If you have access to any
+   information about a Tumblr user, you have to adhere to our [Privacy
+   Policy] and otherwise have to make sure that information is treated
+   carefully.
+
+   b. Licensee User Information. You may choose to collect
+   information relating to users of your Licensee Applications (“Licensee
+   Application User Information”). If you collect Licensee Application User
+   Information, you will provide to users an applicable privacy policy that
+   clearly discloses your information collection, storage, and sharing
+   practices, including the extent to which such Licensee Application User
+   Information is disclosed to third parties like Tumblr. Your privacy
+   policy must: (i) comply and be consistent with all applicable laws and
+   guidelines, including, but not limited to, data protection regulations
+   in applicable territories and the applicable guidelines of the U.S.
+   Federal Trade Commission; (ii) allow disclosure of Licensee Application
+   User Information to Tumblr, to the extent necessary for your use of the
+   Licensed Materials, in accordance with the then-current [Tumblr Privacy
+   Policy]; and (iii) be no less protective of applicable end users than
+   the then-current [Tumblr Privacy Policy]. You should also ensure that any
+   collection or sharing of information that would be unusual for the
+   Tumblr Services is conspicuously noted and that appropriate consents are
+   obtained from your users.
+
+   If you are asking users for more information than Tumblr does, you'll
+   have to have your own privacy policy that is at least as protective as
+   ours, and make sure you notify users and get their consent as needed.
+
+9. Confidentiality. You may from time to time, gain access to
+   proprietary information, technical data, trade secrets or know-how,
+   including, but not limited to, source code, research, product plans,
+   products, services, customers, customer lists, markets, software,
+   developments, inventions, processes, formulas, technology, designs,
+   drawings, engineering, hardware configuration information, marketing,
+   finances, or other business information that is either marked as
+   “confidential” or disclosed in such a manner that it would be reasonably
+   apparent it should be treated confidentially (“Confidential Information”).
+   You may use Confidential Information only to the extent necessary to
+   exercise your rights under this Agreement. You may not disclose
+   Confidential Information to a third party without the prior express
+   consent of Tumblr, provided in writing or by email. You agree that you
+   will protect Confidential Information from unauthorized use, access, or
+   disclosure in the same manner that you would use to protect its own
+   confidential and proprietary information of a similar nature and in any
+   event with no less than a reasonable degree of care.
+
+10. Term and Termination; Survival. This Agreement shall commence
+    on the Effective Date and will remain in effect until terminated pursuant
+    to this Section. Either party may terminate this Agreement at any time,
+    for any reason, or for no reason including, but not limited to, if you
+    violate any provision of this Agreement. Any termination of this Agreement
+    shall also terminate the licenses granted hereunder. Upon termination of
+    this Agreement for any reason, you will stop using, and either return to
+    Tumblr, or destroy and remove from all computers, hard drives, networks,
+    and other storage media, all copies of the Licensed Materials and any
+    Confidential Information in your possession, and shall certify to Tumblr
+    that such actions have occurred. The Sections titled “Restrictions”,
+    “Ownership”, “Support”, “Confidentiality”, “Representations and
+    Warranties”, “Indemnification”, “Disclaimer”, “Limitation of Liability”,
+    and “Miscellaneous” shall survive termination of this Agreement.
+
+11. Representations and Warranties. You represent and warrant that:
+    (i) you have the necessary power and authority to enter into this
+    Agreement, and that the performance of your obligations will not
+    constitute a breach or otherwise violate any other Agreement or the rights
+    of any third party arising therefrom; (ii) you will maintain, throughout
+    the Term, all required rights and licenses related to the Licensee
+    Applications and the Licensee Applications shall not infringe or otherwise
+    violate any third party rights, including but not limited to third party
+    intellectual property rights; and (iii) your uses of the Licensed
+    Materials do and shall comply with all applicable foreign, federal, state
+    and local laws, rules, and regulations.
+
+12. Indemnification. You will indemnify and hold Tumblr, its subsidiaries,
+    affiliates (i.e., any other persons or entities that directly or indirectly
+    control, or are under common control with, or are directly or indirectly
+    controlled by, Tumblr) employees, and agents harmless from any and all
+    claims, damages, losses, liabilities, actions, judgments, costs, and expenses
+    brought by a third party arising out of or in connection with: (i) any act
+    or omission by you in connection with your use of the Tumblr Services or
+    the Licensed Materials; (ii) your use of the Tumblr Services or the Licensed
+    Materials, including but not limited to other than as expressly allowed by
+    this Agreement; (iii) your breach of this Agreement, including but not
+    limited to your representations and warranties herein; or (iv) any Licensee
+    Application.
+
+13. Disclaimer. The Tumblr Services and the Licensed Materials are provided
+    “as is” without warranty of any kind. Tumblr disclaims all warranties,
+    whether express, implied or statutory, regarding the Licensed Materials
+    and the Tumblr Services, including without limitation any and all implied
+    warranties of merchantability, accuracy, results of use, reliability,
+    fitness for a particular purpose, title, interference with quiet
+    enjoyment, non-infringement of third-party rights and any warranties or
+    conditions arising out of course of dealing or usage of trade. Further,
+    Tumblr disclaims any warranty that your use of the Licensed Materials or
+    the Tumblr Services will meet any or all of your requirements or that such
+    use will be uninterrupted, error-free, virus-free, or secure. Some states
+    do not allow the exclusion or limitation of implied warranties, so the
+    above limitations and exclusions may not apply to you.
+
+    These two items are especially important. Please make sure you understand
+    them.
+
+14. Limitation of Liability. In no event shall Tumblr be liable to
+    you for any special, incidental, indirect, direct, exemplary, punitive,
+    compensatory, or consequential damages (including loss of use, data,
+    business or profits) arising out of or in connection with this Agreement,
+    whether such liability arises from any claim based upon contract,
+    warranty, tort (including negligence), strict liability or otherwise, and
+    whether or not Tumblr has been advised of the possibility of such loss or
+    damage. Any claim arising our of or relating to this Agreement must be
+    brought within one (1) year. In any case, Tumblr’s aggregate liability
+    under this Agreement will not exceed fifty U.S. dollars (US$50.00). The
+    foregoing limitations will survive and apply even if any limited remedy
+    specified in this agreement is found to have failed of its essential
+    purpose. Some states do not allow the exclusion or limitation of
+    incidental or consequential damages, so the above limitations and
+    exclusions may not apply to you.
+
+15. Audit. Tumblr or an affiliate or agent of Tumblr may audit, examine or otherwise monitor any Licensee Application and/or any of your records relevant to your use of the Licensed Materials to ensure your use of the Tumblr API, the Tumblr Firehose and/or the Content complies with this Agreement. If requested, you must provide Tumblr with proof that your Licensee Application and your use of Content complies with the terms of this Agreement.
+
+16. Miscellaneous. This Agreement constitutes the entire agreement
+    among the parties with respect to the subject matter of this Agreement and
+    supersedes and merges all prior proposals, understandings, and
+    contemporaneous communications, whether oral, written or electronic. If
+    any provision of this Agreement is found to be unenforceable or invalid,
+    that provision will be limited or eliminated to the minimum extent
+    necessary so that this Agreement will otherwise remain in full force and
+    effect and enforceable. Any modification of or changes to this Agreement
+    must be in a writing duly authorized by an authorized representative of
+    Tumblr or pursuant to the Section titled “Modifications”. You may not
+    assign any of the rights or obligations granted under this Agreement,
+    voluntarily or by operation of law (including without limitation in
+    connection with a merger, acquisition, or sale of assets) except with the
+    express written consent of Tumblr, and any attempted assignment in
+    violation of this paragraph is void. Tumblr may assign, transfer or
+    delegate any of its rights and obligations hereunder without notice or
+    consent. No agency, partnership, joint venture, or employment relationship
+    is created as a result of this Agreement and neither party has any
+    authority of any kind to bind the other in any respect. This Agreement
+    shall be governed by and construed in accordance with the laws of the
+    State of New York, including its conflicts of law rules, and the United
+    States of America. You agree that any dispute arising from or relating to
+    the subject matter of this Agreement shall be governed by the exclusive
+    jurisdiction and venue of the state and federal courts of New York County,
+    New York. You agree that any claim you may have arising out of or related
+    to this Agreement and/or your use of the Licensed Materials must be filed
+    within one year after such claim arose; otherwise, your claim is permanently
+    barred. The section and paragraph headings in this Agreement, along with
+    all provided annotations, are for convenience only and shall not affect
+    the interpretation of this Agreement. The failure of Tumblr to enforce any
+    part of this Agreement shall not constitute a waiver of its right to later
+    enforce that or any other part of this Agreement. Waiver of compliance in
+    any particular instance does not mean that Tumblr will waive compliance in
+    the future. In order for any waiver of any covenant or right under this
+    Agreement to be binding, such waiver must be memorialized in a writing
+    duly authorized by Tumblr. Unless otherwise specified, all notices under
+    this Agreement will be in writing and will be deemed to have been duly
+    given when received, if personally delivered or sent by certified or
+    registered mail, return receipt requested; when receipt is electronically
+    confirmed, if transmitted by facsimile or e-mail; or the day after it is
+    sent, if sent for next day delivery by recognized overnight delivery
+    service. All notices to Tumblr shall be sent to [legal@tumblr.com]. All
+    notices to you shall be sent to the location or email address specified in
+    your Tumblr API or Tumblr Firehose access registration information.
+
+Link to Prior Versions
+
+You will find a link to prior versions of our Application Developer and API
+License Agreement below. We have stored these versions on GitHub, which will
+also allow you to compare different versions and see what terms have changed:
+
+http://github.com/tumblr/policy/commits/master/api-license-agreement.txt
+
