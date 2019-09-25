@@ -274,8 +274,8 @@ Tras la recepción de la contranotificación válida, Tumblr la enviará a la Pa
 AGENTE DESIGNADO
 
 Tumblr, Inc.
-770 Broadway
-New York, NY 10003
+12 E. 49th St. 11th Flr.
+New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
 EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
