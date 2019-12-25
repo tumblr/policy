@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Last Modified: 2019-02-19
+=======
+PRIVACY POLICY  LAST MODIFIED: 2019-09-25
+>>>>>>> parent of 59e689d... Update to refresh cla bot
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
