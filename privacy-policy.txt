@@ -1,12 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 Last Modified: 2019-02-19
-=======
-PRIVACY POLICY  LAST MODIFIED: 2019-09-25
->>>>>>> parent of 59e689d... Update to refresh cla bot
-=======
-Last Modified: 2018-04-17
->>>>>>> parent of 11ec241... update english privacy policy
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
@@ -101,4 +93,3 @@ If you have any questions or concerns regarding privacy using the Services, send
 LINK TO PRIOR VERSIONS
 
 You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed:
-
