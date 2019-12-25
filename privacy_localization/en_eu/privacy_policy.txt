@@ -15,9 +15,9 @@ In the course of providing the Services, we collect and receive various types of
 
 We mainly rely on three separate bases to lawfully collect and use your information.
 
-  * First, we need to process your information in certain ways to provide our Services to you, in accordance with ourTerms of Service (https://www.tumblr.com/policy/en/terms-of-service) . This processing is necessary to perform the contract between you and us and our Terms of Service make it clear that processing of your information for the purposes of personalized content and ads is a necessary part of the Services which we provide.
-  * Second, where you have given us consent to use your information in certain ways, we will rely on your consent (which you may revoke at any time).
-  * Third, as described in more detail below, in certain cases we may process your information where necessary to further legitimate interests, whether ours or those of visitors, users or partners, where those legitimate interests are not overridden by your rights or interests.
+  * First, we need to process your information in certain ways to provide our Services to you, in accordance with ourTerms of Service (https://www.tumblr.com/policy/en/terms-of-service) . This processing is necessary to perform the contract between you and us and our Terms of Service make it clear that processing of your information for the purposes of personalized content and ads is a necessary part of the Services which we provide. 
+  * Second, where you have given us consent to use your information in certain ways, we will rely on your consent (which you may revoke at any time). 
+  * Third, as described in more detail below, in certain cases we may process your information where necessary to further legitimate interests, whether ours or those of visitors, users or partners, where those legitimate interests are not overridden by your rights or interests. 
 
 Occasionally, Tumblr may rely on other legal bases to process your information, such as to protect your vital interests or those of others (such as where there is a risk of imminent harm), where necessary in the public interest, or to comply with a legal obligation, a court order, or to exercise and defend legal claims.
 
@@ -66,38 +66,6 @@ INFORMATION ABOUT YOUR CONTACTS: Certain features of the Services allow you to p
 We won’t look at (or be able to look at) your contact list unless you ask us to. Why would you ask us to? Because that’s how you would find out if any of your contacts are on Tumblr. We discard this information immediately afterward.
 
 DERIVED INFORMATION: As described above in “Native Actions” and “Information Related to Use of the Services,” we analyze your actions on the Services in order to derive or infer characteristics that may be descriptive of your Account (for example, what kinds of blogs you follow or what kinds of posts you view, like, or reblog). We use this information for the purposes described in “Information Related to Use of the Services,” above.
-
-PERSONALIZED ADVERTISING ON TUMBLR
-
-In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements. We, and our parent company, Oath, work with online advertising companies to provide you with advertising that is as relevant and useful as possible. To make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services. The ads we show you often reflect these interests and educated guesses.
-
-You can read more about our parent company Oath and its advertising partners here.
-
-And to learn more about how we select the ads you see, you can check out Tumblr’s Advertising and affiliate policies and Oath’s privacy and advertising practices.
-
-Managing your choices for personalized advertising experiences: If you do not prefer personalized advertising experiences, you may opt-out. Note that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.
-
-When using web-based versions of Tumblr, you may opt-out of interest-based or personalized advertising by using the following industry opt-out pages:
-
-(EU) European Interactive Digital Advertising Alliance (EDAA) - www.youronlinechoices.com
-(US) Network Advertising Initiative (NAI) - www.networkadvertising.org
-(US) Digital Advertising Alliance (DAA) - www.aboutads.info
-(Japan) Data Driven Advertising Initiative (DDAI) - www.ddai.info
-
-These industry advertising organizations offer web browser-based tools for limiting the use of your web viewing data for interest-based or personalized advertising. Any choices made via these industry tools will only apply to the web browser in use for the choices made. These advertising choices are not propagated among all of your devices.
-
-When using the mobile app version of Tumblr on Apple iOS devices you can opt out of personalized advertising by selecting "Limit Ad Tracking" in the iOS settings. For more information about these iOS options:
-
-1. Open Settings;
-2. Select Privacy; and
-3. Select Advertising and follow the on-screen instructions.
-
-When using the mobile app version of Tumblr on Android devices you can opt-out of personalized advertising by selecting "Opt out of Interest Based Ads” in Google settings. For more information about these Android options:
-
-1. Open Settings;
-2. Select Google;
-3. Select Privacy; and
-4. Select Ads and follow the on-screen instructions.
 
 WITH WHOM YOUR INFORMATION IS SHARED
 
@@ -175,7 +143,7 @@ If you withdraw your consent to the use or sharing of your information for purpo
 
 COMPLAIN. Without prejudice to any other rights you may have, you also have the right to file a complaint against us with your local supervisory authority. Click here (http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) to find your local supervisory authority.
 
-TRANSFERS
+TRANSFERS 
 
 Because Tumblr is a US company, your information will be collected and processed in the US. The United States has different laws on data protection and rules in relation to government access to information, and may not have the same data protection safeguards as your home country. You can choose whether or not you want to use our Services. However, if you want to use our Services, you need to agree to our Terms of Service which set out the terms of the contract between us and you. To the extent that Tumblr is deemed to transfer your information outside the EEA, Tumblr relies on the fact that such a transfer is necessary in order to deliver our Services to you, in accordance with the contract between us.
 
