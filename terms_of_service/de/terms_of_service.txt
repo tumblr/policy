@@ -39,7 +39,7 @@ Du musst das Mindestalter erreicht haben, um Tumblr nutzen zu dürfen. Wir meine
 
 Die Dienste unterliegen regelmäßigen Änderungen und ihre Form und Funktionen können ohne vorherige Mitteilung an dich geändert werden. Tumblr behält sich das Recht vor, jederzeit nach freiem Ermessen mit oder ohne Vorankündigung Beschränkungen der Dienste oder der Nutzung der Dienste vorzunehmen. Tumblr kann zudem Beschränkungen bestimmter Dienste oder von Teilen solcher Dienste vornehmen oder deinen Zugriff auf die Dienste ganz oder teilweise beschränken, ohne dies vorher anzukündigen und ohne dafür haftbar zu sein. Tumblr kann die Dienste jederzeit ganz oder teilweise ändern, aussetzen oder einstellen. Dies schließt auch die Verfügbarkeit von Produkten, Funktionen, Datenbanken oder Inhalten (wie nachfolgend definiert) ein. Tumblr kann zudem jederzeit Accounts (wie nachfolgend definiert) nach freiem Ermessen sperren oder kündigen.
 
-Tumblr ist eine Plattform in steter Entwicklung. Wir führen ständig neue Produkte, Dienste und Funktionen ein und benötigen die Flexibilität, Änderungen vorzunehmen, Begrenzungen zu setzen und gelegentlich bestimmte Angebote auszusetzen oder zu beenden (beispielsweise Funktionen, die nicht angenommen werden). Zudem können wir Accounts jederzeit kündigen oder sperren. Dies mag harsch klingen, aber wir nutzen diese Berechtigung nur, wenn ein entsprechender Grund vorliegt, wie in diesen Allgemeinen Geschäftsbedingungen, unserer Datenschutzerklärung (https://www.tumblr.com/privacy) und unseren Community-Richtlinien (https://www.tumblr.com/policy/community) dargelegt.
+Tumblr ist eine Plattform in steter Entwicklung. Wir führen ständig neue Produkte, Dienste und Funktionen ein und benötigen die Flexibilität, Änderungen vorzunehmen, Begrenzungen zu setzen und gelegentlich bestimmte Angebote auszusetzen oder zu beenden (beispielsweise Funktionen, die nicht angenommen werden). Zudem können wir Accounts jederzeit kündigen oder sperren. Dies mag harsch klingen, aber wir nutzen diese Berechtigung nur, wenn ein entsprechender Grund vorliegt, wie in diesen Allgemeinen Geschäftsbedingungen, unserer Datenschutzerklärung (https://www.tumblr.com/privacy/automattic) und unseren Community-Richtlinien (https://www.tumblr.com/policy/community) dargelegt.
 
 BESCHRÄNKUNGEN AUTOMATISCHER NUTZUNG:
 
@@ -61,14 +61,14 @@ Du bist zudem dafür verantwortlich, dass die Vertraulichkeit deines Account-Pas
 
 5. DATENSCHUTZ
 
-Informationen darüber, wie Tumblr deine Daten erfasst, nutzt und weitergibt, findest du in unserer Datenschutzerklärung (https://www.tumblr.com/privacy) . Durch Nutzung der Dienste erkennst du an, dass du die Datenschutzerklärung gelesen hast, in der beschrieben ist, wie wir die Daten erfassen, nutzen und weitergeben (wie in der Datenschutzerklärung dargelegt), einschließlich der Übertragung dieser Daten in die Vereinigten Staaten und/oder andere Länder zu Zwecken der Speicherung, Verarbeitung und Nutzung durch Tumblr und Tumblr-Konzernunternehmen (wie nachfolgend definiert).
+Informationen darüber, wie Tumblr deine Daten erfasst, nutzt und weitergibt, findest du in unserer Datenschutzerklärung (https://www.tumblr.com/privacy/automattic) . Durch Nutzung der Dienste erkennst du an, dass du die Datenschutzerklärung gelesen hast, in der beschrieben ist, wie wir die Daten erfassen, nutzen und weitergeben (wie in der Datenschutzerklärung dargelegt), einschließlich der Übertragung dieser Daten in die Vereinigten Staaten und/oder andere Länder zu Zwecken der Speicherung, Verarbeitung und Nutzung durch Tumblr und Tumblr-Konzernunternehmen (wie nachfolgend definiert).
 
 
 6. INHALTE UND ABONNENTEN-INHALTE
 
 DEFINITIONEN:
 
-Für die Zwecke dieses Vertrages gelten folgende Definitionen: (1) "INHALTE": Ein kreativer Ausdruck, der ohne Einschränkung Video, Tonaufnahmen, Fotografien, Bilder, Illustrationen, Animationen, Logos, Tools, schriftliche Beiträge, Antworten, Kommentare, Informationen, Daten, Texte, Software, Skripts, ausführbare Dateien, Grafiken, Templates (wie nachfolgend definiert) und interaktive Funktionen, die in den Diensten oder durch die Dienste geschaffen, bereitgestellt oder auf sonstige Weise zugänglich gemacht werden, umfasst. (2) "ABONNENTEN-INHALTE": Inhalte, die ein Abonnent einstellt, überträgt oder auf sonstige Weise für die Dienste bereitstellt. Zu den Inhalten gehören ohne Einschränkung sämtliche Abonnenten-Inhalte.
+Für die Zwecke dieses Vertrages gelten folgende Definitionen: (1) "INHALTE": Ein kreativer Ausdruck, der ohne Einschränkung Video, Tonaufnahmen, Fotografien, Bilder, Illustrationen, Animationen, Logos, Tools, schriftliche Einträge, Antworten, Kommentare, Informationen, Daten, Texte, Software, Skripts, ausführbare Dateien, Grafiken, Templates (wie nachfolgend definiert) und interaktive Funktionen, die in den Diensten oder durch die Dienste geschaffen, bereitgestellt oder auf sonstige Weise zugänglich gemacht werden, umfasst. (2) "ABONNENTEN-INHALTE": Inhalte, die ein Abonnent einstellt, überträgt oder auf sonstige Weise für die Dienste bereitstellt. Zu den Inhalten gehören ohne Einschränkung sämtliche Abonnenten-Inhalte.
 
 DEINE RECHTE AN ABONNENTEN-INHALTEN:
 
@@ -98,7 +98,7 @@ Tumblr kann im eigenen Ermessen einen eigenen Affiliate-Code an Links anhängen,
 
 DEINE LIZENZ AN INHALTEN:
 
-Tumblr räumt dir als Abonnent der Dienste eine weltweite, widerrufliche, nicht-exklusive, nicht unterlizenzierbare und nicht übertragbare Lizenz ein, Inhalte herunterzuladen, zu speichern, anzusehen, darzustellen, aufzuführen, weiterzuverbreiten und abgeleitete Werke aus Inhalten zu erstellen, jedoch ausschließlich in Verbindung mit deiner Nutzung von und unter strikter Einhaltung der Funktionen und Beschränkungen der Dienste (insbesondere gebührenpflichtiger Dienste, wie nachfolgend definiert). Dies bedeutet beispielsweise, dass wir Inhalte an dich für Zwecke des Rebloggings lizenzieren.
+Tumblr räumt dir als Abonnent der Dienste eine weltweite, widerrufliche, nicht-exklusive, nicht unterlizenzierbare und nicht übertragbare Lizenz ein, Inhalte herunterzuladen, zu speichern, anzusehen, darzustellen, aufzuführen, weiterzuverbreiten und abgeleitete Werke aus Inhalten zu erstellen, jedoch ausschließlich in Verbindung mit deiner Nutzung von und unter strikter Einhaltung der Funktionen und Beschränkungen der Dienste (insbesondere gebührenpflichtiger Dienste, wie nachfolgend definiert). Dies bedeutet beispielsweise, dass wir Inhalte an dich für Zwecke des Rebloggens lizenzieren.
 
 KONFORMITÄT MIT DEN COMMUNITY RICHTLINIEN:
 
@@ -222,7 +222,7 @@ Dieser Vertrag stellt in seiner jeweils geltenden Fassung den gesamten Vertrag z
 
 Tumblr, Inc.
 12 E. 49th St. 11th Flr.
-New York, NY 10017,
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,11 +274,10 @@ Nach Eingang einer gültigen Gegendarstellung wird Tumblr diese an die Partei we
 DESIGNIERTER VERTRETER
 
 Tumblr, Inc.
-770 Broadway
-New York, NY 10003
+12 E. 49th St. 2nd Flr.
+New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
 FORMULAR FÜR BENACHRICHTIGUNGEN WEGEN URHEBERRECHTSVERLETZUNGEN:https://www.tumblr.com/dmca
 
 

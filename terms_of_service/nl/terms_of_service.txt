@@ -39,7 +39,7 @@ WIJZIGINGEN EN BEPERKINGEN VAN DE SERVICES:
 
 De Services veranderen regelmatig, en de vorm en functionaliteit ervan kunnen zonder kennisgeving vooraf veranderen. Tumblr behoudt zich het recht voor om op elk gewenst moment, met of zonder kennisgeving, beperkingen in te stellen aan en in verband met het gebruik van de Services. Tumblr kan ook beperkingen opleggen voor bepaalde Services of delen van die Services of je toegang tot de Services deels of geheel beperken, zonder kennisgeving of aansprakelijkheid. Tumblr kan op elk gewenst moment delen of de gehele Services wijzigen, opschorten of beëindigen, inclusief de beschikbaarheid van producten, functies, databases of Content (zoals hieronder uiteengezet). Tumblr kan ook Accounts op elk gewenst moment beëindigen of opschorten (zoals hieronder uiteengezet), geheel naar eigen goeddunken.
 
-Tumblr is een platform dat zich continu ontwikkelt. Met nieuwe producten, services en functies die regelmatig worden gelanceerd, hebben we de flexibiliteit nodig om wijzigingen door te voeren, beperkingen in te stellen en zo nu en dan bepaalde aanbiedingen op te schorten of te beëindigen (zoals functies die jammerlijk zijn mislukt). We kunnen ook een account op elk gewenst ogenblik beëindigen of opschorten. Dat klinkt nogal hard, maar we doen dat alleen wanneer we er een goede reden voor hebben, zoals omschreven in deze Servicevoorwaarden, ons Privacybeleid (https://www.tumblr.com/privacy) en onze Community-richtlijnen (https://www.tumblr.com/policy/community).
+Tumblr is een platform dat zich continu ontwikkelt. Met nieuwe producten, services en functies die regelmatig worden gelanceerd, hebben we de flexibiliteit nodig om wijzigingen door te voeren, beperkingen in te stellen en zo nu en dan bepaalde aanbiedingen op te schorten of te beëindigen (zoals functies die jammerlijk zijn mislukt). We kunnen ook een account op elk gewenst ogenblik beëindigen of opschorten. Dat klinkt nogal hard, maar we doen dat alleen wanneer we er een goede reden voor hebben, zoals omschreven in deze Servicevoorwaarden, ons Privacybeleid (https://www.tumblr.com/privacy/automattic) en onze Community-richtlijnen (https://www.tumblr.com/policy/community).
 
 BEPERKINGEN VOOR GEAUTOMATISEERD GEBRUIK:
 
@@ -61,7 +61,7 @@ Je bent ook verantwoordelijk voor het onderhouden van de vertrouwelijkheid van j
 
 5. PRIVACY
 
-Voor informatie over hoe Tumblr je informatie verzamelt, gebruikt en deelt, kun je ons Privacybeleid (https://www.tumblr.com/privacy) bekijken. Door onze Services te gebruiken verklaar je dat je het Privacybeleid hebt gelezen, waarin wordt beschreven hoe wij dergelijke informatie verzamelen, gebruiken en delen (zoals omschreven in het Privacybeleid), inclusief de overdracht van deze informatie naar de Verenigde Staten en/of andere landen voor opslag, verwerking en gebruik door Tumblr en de Tumblr-partners (zoals hieronder uiteengezet).
+Voor informatie over hoe Tumblr je informatie verzamelt, gebruikt en deelt, kun je ons Privacybeleid (https://www.tumblr.com/privacy/automattic) bekijken. Door onze Services te gebruiken verklaar je dat je het Privacybeleid hebt gelezen, waarin wordt beschreven hoe wij dergelijke informatie verzamelen, gebruiken en delen (zoals omschreven in het Privacybeleid), inclusief de overdracht van deze informatie naar de Verenigde Staten en/of andere landen voor opslag, verwerking en gebruik door Tumblr en de Tumblr-partners (zoals hieronder uiteengezet).
 
 
 6. CONTENT EN ABONNEECONTENT
@@ -221,8 +221,8 @@ Als je (a) een Amerikaanse federale, staats- of plaatselijke overheidsinstelling
 Deze Overeenkomst, zoals van tijd tot tijd gewijzigd, vormt de volledige overeenkomst tussen jou en Tumblr met betrekking tot het onderwerp hiervan. Deze Overeenkomst vervangt alle voorgaande of gelijktijdige afspraken of overeenkomsten, schriftelijk of mondeling, met betrekking tot het onderwerp hiervan en vormt de volledige en exclusieve overeenkomst tussen de partijen. Het falen van een van beide partijen om op enigerlei wijze enig recht uit te oefenen dat hierin is voorzien, wordt niet beschouwd als een verklaring van afstand van enige verdere rechten hieronder. Als een bepaling van deze Overeenkomst niet uit te voeren of ongeldig is, dan wordt die bepaling beperkt of verwijderd voor zover dat minimaal noodzakelijk is, zodat deze Overeenkomst uitvoerbaar en volledig van kracht is en blijft. Deze Overeenkomst kan door jou niet worden toegewezen, overgedragen of in sublicentie worden gegeven, behalve met voorafgaande schriftelijke toestemming van Tumblr. Tumblr kan deze Overeenkomst geheel of gedeeltelijk op enig moment en zonder jouw toestemming toewijzen. Geen enkel agentschap, partnerschap, gedeelde verantwoordelijkheid, joint venture of dienstverband is tot stand gekomen als resultaat van deze Overeenkomst, en je hebt geen enkele bevoegdheid om Tumblr op welke manier dan ook hiertoe te verplichten. Enige kennisgeving aan Tumblr die is vereist of toegestaan door deze Overeenkomst, moet schriftelijk zijn en wordt geacht van kracht te zijn na ontvangst, wanneer persoonlijk afgeleverd door een nationaal erkende koerierdienst of per gefrankeerde, aangetekende of gecertificeerde post, aan
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,12 +274,11 @@ Na ontvangst van een geldige tegenmelding zal Tumblr deze naar de Aanmeldende pa
 TOEGEWEZEN AGENT
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-DMCA-MELDINGSFORMULIER:https://www.tumblr.com/dmca
+DMCA-MELDINGSFORMULIER: https://www.tumblr.com/dmca
 
 
 21. VRIJWARINGEN OPEN SOURCE

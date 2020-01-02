@@ -39,7 +39,7 @@ MODIFICHE E LIMITAZIONI AL SERVIZIO:
 
 I Servizi cambiano spesso, pertanto forma e funzionalità potrebbero venire modificate senza alcun preavviso all'utente. Tumblr si riserva il diritto di prevedere limitazioni su, e in relazione all'utilizzo dei Servizi, a sua esclusiva discrezione e in qualsiasi momento, con o senza preavviso. Tumblr potrebbe inoltre imporre limiti a determinati Servizi o a parti di tali Servizi o limitare parzialmente o interamente l'accesso dell'utente ai Servizi senza preavviso o responsabilità. In qualsiasi momento, Tumblr può modificare, sospendere o interrompere tutti o alcuni dei Servizi, inclusa la disponibilità di qualsiasi prodotto, funzione, database o Contenuto (come di seguito definito). Inoltre, in qualsiasi momento Tumblr può terminare o sospendere gli Account (come di seguito definiti) a sua esclusiva discrezione.
 
-Tumblr è una piattaforma in continua evoluzione. Presentando continuamente nuovi prodotti, servizi e funzioni, è necessario disporre di flessibilità per effettuare modifiche, imporre limiti e occasionalmente sospendere o terminare determinate offerte (come, ad esempio, le funzioni che non hanno successo). Possiamo anche terminare o sospendere qualsiasi account in qualsiasi momento. Sembra un atteggiamento severo, ma ci avvaliamo di tale potere quando sussiste un motivo, come descritto nelle presenti Condizioni generali di utilizzo del Servizio, nella nostra Informativa sulla Privacy (https://www.tumblr.com/privacy) e nelle nostre Linee guida della Community (https://www.tumblr.com/policy/community).
+Tumblr è una piattaforma in continua evoluzione. Presentando continuamente nuovi prodotti, servizi e funzioni, è necessario disporre di flessibilità per effettuare modifiche, imporre limiti e occasionalmente sospendere o terminare determinate offerte (come, ad esempio, le funzioni che non hanno successo). Possiamo anche terminare o sospendere qualsiasi account in qualsiasi momento. Sembra un atteggiamento severo, ma ci avvaliamo di tale potere quando sussiste un motivo, come descritto nelle presenti Condizioni generali di utilizzo del Servizio, nella nostra Informativa sulla Privacy (https://www.tumblr.com/privacy/automattic) e nelle nostre Linee guida della Community (https://www.tumblr.com/policy/community).
 
 LIMITAZIONI RELATIVE ALL'UTILIZZO AUTOMATICO:
 
@@ -61,7 +61,7 @@ L'utente è inoltre responsabile di mantenere la riservatezza della password e d
 
 5. PRIVACY
 
-Per informazioni sul modo in cui Tumblr raccoglie, utilizza e condivide le informazioni dell'utente, si consulti la nostra Informativa sulla Privacy  (https://www.tumblr.com/privacy) Utilizzando i Servizi l'utente accetta di aver letto l'Informativa sulla Privacy, in cui viene descritto il modo in cui noi raccogliamo, utilizziamo e condividiamo (come indicato nell'Informativa sulla Privacy) tali informazioni, incluso il loro trasferimento negli Stati Uniti e/o verso altri Paesi ai fini della loro archiviazione, trattamento e utilizzo da parte di Tumblr e delle società sue Affiliate (come di seguito definite).
+Per informazioni sul modo in cui Tumblr raccoglie, utilizza e condivide le informazioni dell'utente, si consulti la nostra Informativa sulla Privacy  (https://www.tumblr.com/privacy/automattic) Utilizzando i Servizi l'utente accetta di aver letto l'Informativa sulla Privacy, in cui viene descritto il modo in cui noi raccogliamo, utilizziamo e condividiamo (come indicato nell'Informativa sulla Privacy) tali informazioni, incluso il loro trasferimento negli Stati Uniti e/o verso altri Paesi ai fini della loro archiviazione, trattamento e utilizzo da parte di Tumblr e delle società sue Affiliate (come di seguito definite).
 
 
 6. CONTENUTO E CONTENUTO DELL'ABBONATO
@@ -221,8 +221,8 @@ Se l'utente è (a) un'agenzia o entità governativa locale, statale o federale d
 Il presente Accordo, come di volta in volta modificato, costituisce l'accordo integrale tra l'utente e Tumblr relativamente all'oggetto del contratto stesso. Questo Accordo sostituisce tutti gli accordi e intese informali, precedenti o contemporanei, scritti o orali, relativi all'oggetto dello stesso e costituisce l'intero e unico accordo tra le parti. Il mancato esercizio di ciascuna parte, in qualsiasi modo, di uno dei diritti qui previsti non costituisce una rinuncia a ogni ulteriore diritto previsto dal presente Accordo. Qualora una qualsiasi previsione di questo Accordo sia ritenuta nulla o inapplicabile, tale previsione sarà eliminata o applicata nella misura massima necessaria, in modo tale che l'Accordo rimanga valido e applicabile. L'utente non ha facoltà di cedere, trasferire o sub-licenziare il presente Accordo se non previa autorizzazione scritta di Tumblr. Tumblr può cedere il presente Accordo, in tutto o in parte, in qualsiasi momento senza l'autorizzazione dell'utente. Il presente Accordo, non crea alcun rapporto di agenzia, partnership, responsabilità condivisa, joint venture o dipendenza e l'utente non dispone di alcuna autorità per vincolare Tumblr sotto qualsivoglia profilo. Qualsiasi comunicazione rivolta a Tumblr, richiesta o autorizzata dal presente Accordo, deve essere inviata in forma scritta e sarà considerata valida al ricevimento della stessa, quando consegnata personalmente da un corriere espresso riconosciuto nazionalmente, tramite posta prioritaria, posta raccomandata o posta certificata, o in buste preaffrancate, a
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,12 +274,11 @@ Una volta ricevuta la contronotifica, Tumblr la rinvierà alla Parte Notificante
 AGENTE DESIGNATO
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-MODULO PER SEGNALAZIONI IN MATERIA DI COPYRIGHT:https://www.tumblr.com/dmca
+MODULO PER SEGNALAZIONI IN MATERIA DI COPYRIGHT: https://www.tumblr.com/dmca
 
 
 21. INFORMAZIONI SULL'OPEN SOURCE

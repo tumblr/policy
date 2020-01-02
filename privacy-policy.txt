@@ -1,4 +1,4 @@
-PRIVACY POLICY  LAST MODIFIED: 2019-09-25
+PRIVACY POLICY LAST MODIFIED: 2019-12-26
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
@@ -69,7 +69,7 @@ PERSONALIZED ADVERTISING ON TUMBLR
 
 In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements. We, and our parent company, Automattic, work with online advertising companies to provide you with advertising that is as relevant and useful as possible. To make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services. The ads we show you often reflect these interests and educated guesses.
 
-To learn more about how we select the ads you see, you can check out  Tumblr’s Advertising (https://tumblr.zendesk.com/hc/articles/231707827-Tumblr-ads-and-you?soc_src=mail&soc_trk=ma) and affiliate policies.
+To learn more about how we select the ads you see, you can check out  Tumblr’s Advertising (https://tumblr.zendesk.com/hc/en-us/articles/360035272334-Tumblr-ads-you) and affiliate policies.
 
 Managing your choices for personalized advertising experiences: If you do not prefer personalized advertising experiences, you may opt-out. Note that if you opt-out you will continue to see advertisements on Tumblr, though they will be less relevant and useful to you.
 
@@ -120,7 +120,7 @@ Information Disclosed Pursuant to Business Transfers: In some cases, we may choo
 
 Should we happen to get acquired (again!) or go out of business (no way), the transfer of assets from us to our buyer may very well include user information. They are allowed to use it only in the ways outlined here, in the Privacy Policy you are reading right now.
 
-Information Disclosed for Our Protection and the Protection of Others: We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service (/policy/terms-of-service), including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.
+Information Disclosed for Our Protection and the Protection of Others: We believe in freedom of expression, and, to the extent reasonable, we try to protect our community from baseless legal demands. That said, we also reserve the right to access, preserve, and disclose any information as we reasonably believe is necessary, in our sole discretion, to (i) satisfy any law, regulation, legal process, governmental request, or governmental order, (ii) enforce this Privacy Policy and our Terms of Service (/policy/terms-of-service/automattic), including investigation of potential violations hereof, (iii) detect, prevent, or otherwise address fraud, security, trust and safety, or technical issues (including exchanging information with other companies and organizations for the purposes of improving security and preventing fraud, spam, and malware), (iv) respond to user support requests, or (v) protect the rights, property, health or safety of us, our users, any third parties or the public in general, including but not limited to situations involving possible violence, suicide, or self-harm.
 
 Don’t make us narc on you. We don’t want to. But we do need to protect everyone who uses Tumblr from harming us, each other, or themselves. We work hard to balance privacy and community, and we’re sure you can appreciate the challenges in that, and the seriousness with which we take those challenges.
 
@@ -156,9 +156,14 @@ What won’t get scrubbed are Reblogs of your posts. Those will remain on whatev
 
 
 
+CALIFORNIA USERS
+
+If you’re a California resident, you have a number of rights and choices. To learn more, see the Supplemental Privacy Notice for California Residents below.
+
+
 CHANGES TO THIS PRIVACY POLICY
 
-We may amend this Privacy Policy from time to time, using the process for modifications set forth in our Terms of Service (/policy/terms-of-service). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+We may amend this Privacy Policy from time to time, using the process for modifications set forth in our Terms of Service (/policy/terms-of-service/automattic). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
 
 WHERE TO DIRECT QUESTIONS OR CONCERNS
@@ -171,3 +176,40 @@ LINK TO PRIOR VERSIONS
 You will find a link to prior versions of our Privacy Policy below. We have stored these versions on GitHub, which will also allow you to compare different versions and see what terms have changed:
 
 https://github.com/tumblr/policy/commits/master/privacy-policy.txt
+
+
+SUPPLEMENTAL PRIVACY NOTICE FOR CALIFORNIA RESIDENTS
+
+The Notice supplements the information in our Privacy Policy above for California residents.
+
+
+SUMMARY OF INFORMATION WE COLLECT
+
+If you’re a California resident, California law requires us to provide you with some additional information about how we collect, use, and disclose your “personal information,” as defined in the California Consumer Privacy Act ("CCPA").
+
+Throughout our Privacy Policy, we describe the specific pieces of personal information we collect and how we share that information. Under the CCPA, we also have to provide you with the "categories" of personal information we collect and disclose for “business purposes” (as those terms are defined by applicable law). Those categories are identifiers (such as username and email address); commercial information (such as transaction data); financial data (such as credit card and other financial account information); internet or other network or device activity (such as unique identifiers, browsing history or other usage data); geolocation information (general location); inference data about you; legally protected classifications (such as gender); physical characteristics or description (such as when you voluntarily submit a photo); other information that identifies or can be reasonably associated with you.
+
+We use these categories of personal information consistent with the various business and commercial purposes we describe in this Privacy Policy. Please see the relevant sections of the Privacy Policy for more information.
+
+We may use the categories of personal information for compliance with applicable laws and regulations. We may aggregate the information we collect or de-identify it in order to limit or prevent the identification of any particular user or device.
+
+
+CALIFORNIA PRIVACY RIGHTS
+
+If you’re a California resident, the CCPA provides you with a number of rights regarding your personal information.
+
+Access: The CCPA gives you the right to request a copy of certain information we hold about you, as well as a summary of: the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, and the categories of third parties with whom we shared that information. As described in the section ‘What Information You Can Access,’ you can access much of your information by logging into your Tumblr account. You can also request a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log into your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket here (/support) or email us at ccpa@tumblr.com to request a copy of your information.
+
+Delete: The CCPA also gives you the right to delete certain information we have about you. You can delete much of your information by logging into your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket here (/support), or email us at ccpa@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
+
+Financial Incentives: You may have the right to receive information about the financial incentives that we offer to you (if any).
+
+Consequences of Exercising Rights: You also have the right not to be discriminated against (as provided for in applicable law) for exercising certain of your rights.
+
+Certain information may be exempt from these rights under applicable law. For example, we need certain types of information so that we can provide you with the Services. If you ask us to delete them, you may no longer be able to access or use the Services.
+
+Before we can satisfy your request, you’ll need to give us enough information so that we can be certain  of your identity.  To do that, you’ll need to log in to your account or give us certain information about you and/or your use of the Services. You can also designate an authorized agent to make a request on your behalf.  To do so, you have to give us written authorization for the agent to act on your behalf.  You’ll still need to verify your identity directly with us.
+
+Personalized Advertising Opt-Out: Tumblr selectively runs advertisements so we can provide you with Tumblr content for free. To help select which ads to show you, we may share some of your information with advertising partners, or allow our advertising partners to “collect” certain information. The personal information we share includes online identifiers and internet or other network or device activity (such as cookie information, other device identifiers, and IP address), and geolocation data (approximate location information from your IP address). Under the CCPA, this may be considered a “sale.” To learn more about how we select the ads you see, you can check out Tumblr’s Advertising and affiliate policies (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you). We do not sell (or share) information that identifies you personally, like your name or contact information, in our ads program.
+
+Learn how you can opt out by going to California: Do Not Sell My Personal Information (https://tumblr.zendesk.com/hc/en-us/articles/360041012973).
