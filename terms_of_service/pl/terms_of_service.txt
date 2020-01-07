@@ -39,7 +39,7 @@ ZMIANY I OGRANICZENIA USŁUG:
 
 Usługi są często zmieniane, a ich postać i funkcjonalność mogą podlegać zmianom bez wcześniejszego powiadomienia. Firma Tumblr pozostawia sobie prawo do określania limitów związanych z używaniem usług według własnego uznania w dowolnej chwili za powiadomieniem lub bez niego. Firma Tumblr może też nakładać ograniczenia na pewne usługi lub aspekty tych usług albo ograniczać dostęp użytkownika do części lub całości usług bez powiadomienia i ponoszenia odpowiedzialności. Firma Tumblr może w każdej chwili zmienić lub zawiesić dowolne usługi albo zaprzestać ich świadczenia. Obejmuje to dostępność dowolnego produktu, funkcji, bazy danych czy zawartości (zdefiniowanej poniżej). Firma Tumblr może również w każdej chwili usunąć lub zawiesić konta (zdefiniowane poniżej) według własnego uznania.
 
-Serwis Tumblr to cały czas ewoluująca platforma. W związku z ciągłym wprowadzaniem nowych produktów, usług i funkcji potrzebna nam jest elastyczność we wprowadzaniu zmian, nakładaniu ograniczeń i czasowo zawieszaniu lub wyłączaniu pewnych ofert (takich jak funkcje, które się nie udały). Możemy też zamknąć lub zawiesić każde konto w każdej chwili. Brzmi to nieprzyjemnie, ale korzystamy z tych uprawnień tylko, gdy mamy powód, co zostało opisane w niniejszych Warunkach świadczenia usług, naszej Polityce prywatności (https://www.tumblr.com/privacy) i naszych Wytycznych dla społeczności (https://www.tumblr.com/policy/community).
+Serwis Tumblr to cały czas ewoluująca platforma. W związku z ciągłym wprowadzaniem nowych produktów, usług i funkcji potrzebna nam jest elastyczność we wprowadzaniu zmian, nakładaniu ograniczeń i czasowo zawieszaniu lub wyłączaniu pewnych ofert (takich jak funkcje, które się nie udały). Możemy też zamknąć lub zawiesić każde konto w każdej chwili. Brzmi to nieprzyjemnie, ale korzystamy z tych uprawnień tylko, gdy mamy powód, co zostało opisane w niniejszych Warunkach świadczenia usług, naszej Polityce prywatności (https://www.tumblr.com/privacy/automattic) i naszych Wytycznych dla społeczności (https://www.tumblr.com/policy/community).
 
 OGRANICZENIA AUTOMATYCZNEGO UŻYWANIA:
 
@@ -61,7 +61,7 @@ Użytkownik odpowiada również za zachowanie poufności hasła do swojego konta
 
 5. PRYWATNOŚĆ
 
-Aby uzyskać informacje o tym, jak serwis Tumblr gromadzi, wykorzystuje i udostępnia informacje użytkownika, zapoznaj się z naszą Polityką prywatności (https://www.tumblr.com/privacy). Korzystając z usług użytkownik potwierdza, że przeczytał Politykę prywatności, która opisuje, jak gromadzimy, używamy i udostępniamy (zgodnie z opisem w Polityce prywatności) takie informacje, a w tym przesyłanie tych informacji do Stanów Zjednoczonych lub innych krajów w celu przechowania, przetworzenia i wykorzystania przez firmę Tumblr i podmioty stowarzyszone firmy Tumblr (zdefiniowane poniżej).
+Aby uzyskać informacje o tym, jak serwis Tumblr gromadzi, wykorzystuje i udostępnia informacje użytkownika, zapoznaj się z naszą Polityką prywatności (https://www.tumblr.com/privacy/automattic). Korzystając z usług użytkownik potwierdza, że przeczytał Politykę prywatności, która opisuje, jak gromadzimy, używamy i udostępniamy (zgodnie z opisem w Polityce prywatności) takie informacje, a w tym przesyłanie tych informacji do Stanów Zjednoczonych lub innych krajów w celu przechowania, przetworzenia i wykorzystania przez firmę Tumblr i podmioty stowarzyszone firmy Tumblr (zdefiniowane poniżej).
 
 
 6. ZAWARTOŚĆ ORAZ ZAWARTOŚĆ SUBSKRYBENTA
@@ -221,8 +221,8 @@ Jeśli (a) reprezentuje agencję lub organ rządu federalnego, stanowego lub lok
 Niniejsza umowa, modyfikowana od czasu do czasu, stanowi całość umowy między użytkownikiem i firmą Tumblr dotyczącej niniejszego przedmiotu. Niniejsza umowa zastępuje wszystkie wcześniejsze porozumienia lub umowy, pisemne lub ustne, dotyczące niniejszego przedmiotu oraz stanowi całą i wyłączną umowę między stronami. Niedopełnienie przez którąkolwiek ze stron, w jakikolwiek sposób, jakichkolwiek praw określonych tutaj nie będzie uważane za rezygnację z jakichkolwiek dalszych przedstawionych tu praw. Jeśli którekolwiek postanowienie niniejszej umowy okaże się niemożliwe do wykonania lub nieważne, to postanowienie zostanie ograniczone lub wyeliminowane w minimalnym koniecznym zakresie, a niniejsza umowa pozostanie nadal wykonalna w pełnym zakresie i z pełnymi skutkami. Niniejszej umowy nie można przenieść, przekazać ani sublicencjonować, chyba że za wcześniejszą pisemną zgodą firmy Tumblr. Firma Tumblr może w każdej chwili scedować tę umowę w całości lub części bez zgody użytkownika. W rezultacie niniejszej umowy nie zostanie utworzona żadna agencja, spółka, wspólna administracja, wspólne przedsięwzięcie ani miejsca pracy oraz użytkownik nie ma żadnych uprawnień do angażowania firmy Tumblr w jakikolwiek sposób. Wszelkie powiadomienia firmy Tumblr, które są wymagane lub dopuszczane przez niniejszą umowę, powinny być przesłane na piśmie i powinny być uważane za skuteczne od chwili odbioru w przypadku dostarczenia przez znaną w kraju całodobową firmę kurierską lub wysłania listem priorytetowym, listem poleconym z uiszczoną opłatą pocztową do firmy
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,12 +274,11 @@ Po otrzymaniu prawidłowego kontrzawiadomienia firma Tumblr przekaże je stronie
 WYZNACZONY AGENT
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-FORMULARZ POWIADOMIENIA O PRAWIE AUTORSKIM:https://www.tumblr.com/dmca
+FORMULARZ POWIADOMIENIA O PRAWIE AUTORSKIM: https://www.tumblr.com/dmca
 
 
 21. UJAWNIENIE MATERIAŁU OPEN SOURCE

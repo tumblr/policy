@@ -39,7 +39,7 @@ SERVICE CHANGES AND LIMITATIONS:
 
 The Services change frequently, and their form and functionality may change without prior notice to you. Tumblr retains the right to create limits on and related to use of the Services in its sole discretion at any time with or without notice. Tumblr may also impose limits on certain Services or aspects of those Services or restrict your access to parts or all of the Services without notice or liability. Tumblr may change, suspend, or discontinue any or all of the Services at any time, including the availability of any product, feature, database, or Content (as defined below). Tumblr may also terminate or suspend Accounts (as defined below) at any time, in its sole discretion.
 
-Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our Privacy Policy (https://www.tumblr.com/privacy) , and our Community Guidelines (https://www.tumblr.com/policy/community).
+Tumblr is an ever-evolving platform. With new products, services, and features launching all the time, we need flexibility to make changes, impose limits, and occasionally suspend or terminate certain offerings (like features that flop). We can also terminate or suspend any account at any time. That sounds harsh, but we only use that power when we have a reason, as outlined in these Terms of Service, our Privacy Policy (https://www.tumblr.com/privacy/automattic) , and our Community Guidelines (https://www.tumblr.com/policy/community).
 
 LIMITATIONS ON AUTOMATED USE:
 
@@ -61,7 +61,7 @@ You are also responsible for maintaining the confidentiality of your Account pas
 
 5. PRIVACY
 
-For information about how Tumblr collects, uses, and shares your information, please review our Privacy Policy (https://www.tumblr.com/privacy). By using the Services you agree you have read the Privacy Policy, which describes our collection, use, and sharing (as set forth in the Privacy Policy) of such information, including the transfer of this information to the United States and/or other countries for storage, processing, and use by Tumblr and the Tumblr Affiliates (as defined below).
+For information about how Tumblr collects, uses, and shares your information, please review our Privacy Policy (https://www.tumblr.com/privacy/automattic). By using the Services you agree you have read the Privacy Policy, which describes our collection, use, and sharing (as set forth in the Privacy Policy) of such information, including the transfer of this information to the United States and/or other countries for storage, processing, and use by Tumblr and the Tumblr Affiliates (as defined below).
 
 
 6. CONTENT AND SUBSCRIBER CONTENT
@@ -221,8 +221,8 @@ If you are (a) a United States federal, state, or local government agency or bod
 This Agreement, as modified from time to time, constitutes the entire agreement between you and Tumblr with respect to the subject matter hereof. This Agreement replaces all prior or contemporaneous understandings or agreements, written or oral, regarding the subject matter hereof and constitutes the entire and exclusive agreement between the parties. The failure of either party to exercise, in any way, any right provided for herein shall not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain enforceable and in full force and effect. This Agreement is not assignable, transferable, or sublicensable by you except with Tumblr's prior written consent. Tumblr may assign this Agreement in whole or in part at any time without your consent. No agency, partnership, joint controllership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Tumblr in any respect whatsoever. Any notice to Tumblr that is required or permitted by this Agreement shall be in writing and shall be deemed effective upon receipt, when delivered in person by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,12 +274,11 @@ Upon receipt of a valid counter-notification, Tumblr will forward it to Notifyin
 DESIGNATED AGENT
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-COPYRIGHT NOTICE FORM:https://www.tumblr.com/dmca
+COPYRIGHT NOTICE FORM: https://www.tumblr.com/dmca
 
 
 21. OPEN SOURCE DISCLOSURES

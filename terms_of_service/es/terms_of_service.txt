@@ -39,7 +39,7 @@ CAMBIOS Y LIMITACIONES EN EL SERVICIO:
 
 Los Servicios cambian frecuentemente, por lo que tanto la forma como la funcionalidad de estos podrían cambiar sin que se te avise previamente. Tumblr se reserva el derecho de aplicar limitaciones en el uso, o con relación a este, de los Servicios a su entera discreción y en cualquier momento con o sin previo aviso. Tumblr podrá limitar también algunos Servicios o aspectos de dichos Servicios o restringir tu acceso a partes de ellos sin ningún aviso o responsabilidad. Tumblr podrá cambiar, suspender o dejar de prestar algún Servicio, o todos ellos, en cualquier momento, incluida la disponibilidad de cualquier producto, función, base de datos o Contenido (tal como se define más adelante). Tumblr podrá cancelar o suspender Cuentas (tal como se define más adelante) en cualquier momento y a su entera discreción.
 
-Tumblr es una plataforma en constante evolución. Lanzamos productos, servicios y funciones continuamente y necesitamos la flexibilidad suficiente para realizar cambios, imponer límites y, en ocasiones, suspender o cancelar determinadas ofertas (como las funciones que no tengan éxito). También podemos cancelar o suspender una cuenta en cualquier momento. Puede que suene duro, pero solo recurrimos a esto cuando tenemos motivos para ello, tal como se describe en estas Condiciones del servicio, en la Política de privacidad (https://www.tumblr.com/privacy) y en las Normas de la comunidad (https://www.tumblr.com/policy/community).
+Tumblr es una plataforma en constante evolución. Lanzamos productos, servicios y funciones continuamente y necesitamos la flexibilidad suficiente para realizar cambios, imponer límites y, en ocasiones, suspender o cancelar determinadas ofertas (como las funciones que no tengan éxito). También podemos cancelar o suspender una cuenta en cualquier momento. Puede que suene duro, pero solo recurrimos a esto cuando tenemos motivos para ello, tal como se describe en estas Condiciones del servicio, en la Política de privacidad (https://www.tumblr.com/privacy/automattic) y en las Normas de la comunidad (https://www.tumblr.com/policy/community).
 
 LIMITACIONES EN EL USO AUTOMATIZADO:
 
@@ -61,7 +61,7 @@ También eres responsable de mantener la confidencialidad de la contraseña de l
 
 5. PRIVACIDAD
 
-Para obtener información sobre cómo Tumblr recopila, utiliza y comparte su información, consulta nuestra Política de privacidad (https://www.tumblr.com/privacy). Al utilizar los Servicios, declaras haber leído la Política de privacidad, en la que se describe cómo recopilamos, usamos y compartimos (tal como se especifica en la Política de privacidad) esta información, incluida la transferencia de información a Estados Unidos y/u otros países para su almacenamiento, tratamiento y uso por parte de Tumblr y los Afiliados de Tumblr (tal como se define a continuación).
+Para obtener información sobre cómo Tumblr recopila, utiliza y comparte su información, consulta nuestra Política de privacidad (https://www.tumblr.com/privacy/automattic). Al utilizar los Servicios, declaras haber leído la Política de privacidad, en la que se describe cómo recopilamos, usamos y compartimos (tal como se especifica en la Política de privacidad) esta información, incluida la transferencia de información a Estados Unidos y/u otros países para su almacenamiento, tratamiento y uso por parte de Tumblr y los Afiliados de Tumblr (tal como se define a continuación).
 
 
 6. CONTENIDO Y CONTENIDO DEL SUSCRIPTOR
@@ -221,8 +221,8 @@ Si (a) formas parte de un organismo o una entidad gubernamental federal, estatal
 Este Acuerdo, que se modifica cada cierto tiempo, constituye el Acuerdo completo entre Tumblr y tú con respecto al contenido del presente documento. Este Acuerdo reemplaza todos los entendimientos o acuerdos, anteriores o actuales, orales o escritos, en relación con el contenido del presente documento, además de constituir el Acuerdo completo y exclusivo entre las partes. El incumplimiento de alguna de las partes en el ejercicio, de cualquier forma, de cualquier derecho mencionado en el presente documento no se considerará una renuncia a ningún derecho en lo sucesivo. Si cualquier cláusula de este Acuerdo se considerara no aplicable o no válida, dicha cláusula se limitará o eliminará en la medida mínima necesaria, de modo que este Acuerdo siga aplicable en plena vigencia y efecto. No podrás ceder, transferir o sublicenciar este Acuerdo, salvo que tengas el consentimiento previo de Tumblr por escrito. Tumblr podrá ceder este Acuerdo de forma total o parcial en cualquier momento y sin su consentimiento. No se creará ningún tipo de relación de agencia, asociación, responsabilidad conjunta, joint venture o relación laboral como resultado de este Acuerdo, y no tendrás autoridad de ningún tipo para obligar a Tumblr en ningún aspecto. Cualquier aviso a Tumblr que requiera o permita este Acuerdo deberá realizarse por escrito y considerarse efectivo en el momento de su recepción; cuando se entregue en persona al día siguiente a través de una empresa de mensajería nacionalmente reconocida; o se envíe por franqueo pagado o por correo de primera clase, normal o certificado a:
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -274,12 +274,11 @@ Tras la recepción de la contranotificación válida, Tumblr la enviará a la Pa
 AGENTE DESIGNADO
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-FORMULARIO DE AVISO POR INFRACCIÓN DE DERECHOS DE AUTOR:https://www.tumblr.com/dmca
+FORMULARIO DE AVISO POR INFRACCIÓN DE DERECHOS DE AUTOR: https://www.tumblr.com/dmca
 
 
 21. DECLARACIONES DE CÓDIGO ABIERTO
