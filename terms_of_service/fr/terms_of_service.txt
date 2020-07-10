@@ -39,7 +39,7 @@ CHANGEMENTS ET MODIFICATIONS DES SERVICES :
 
 Les Services changent fréquemment, et leur forme et leurs fonctionnalités peuvent changer sans que vous en soyez avisé au préalable. Tumblr se réserve le droit de fixer des limites à l'utilisation des Services ou en lien avec ceux-ci, à sa discrétion, à tout moment, avec ou sans préavis. Tumblr peut également imposer des limites sur certains Services ou aspects de ces Services, ou encore restreindre votre accès à tout ou partie des Services sans préavis et sans engager sa responsabilité. Tumblr peut à tout moment modifier, suspendre ou supprimer tout ou partie des Services, y compris la disponibilité de tout produit, fonctionnalité, base de données ou Contenu (tel que défini ci-dessous). Tumblr peut également résilier ou suspendre des Comptes (tels que définis ci-dessous) à tout moment et à sa seule discrétion.
 
-Tumblr est une plateforme en constante évolution. Avec les nouveaux produits, services et fonctionnalités que nous proposons régulièrement, c'est pourquoi nous avons besoin de flexibilité pour apporter des changements, fixer des limites et, occasionnellement, suspendre ou mettre fin à certaines offres (comme des fonctionnalités qui ne rencontrent pas le succès escompté). Nous pouvons également résilier ou suspendre tout compte à tout moment. Cela peut sembler sévère, mais nous le faisons uniquement lorsque c'est justifié, comme indiqué dans les présentes CGU, dans notre Politique relative à la vie privé (https://www.tumblr.com/privacy) et dans nos Règles communautaires (https://www.tumblr.com/policy/community).
+Tumblr est une plateforme en constante évolution. Avec les nouveaux produits, services et fonctionnalités que nous proposons régulièrement, c'est pourquoi nous avons besoin de flexibilité pour apporter des changements, fixer des limites et, occasionnellement, suspendre ou mettre fin à certaines offres (comme des fonctionnalités qui ne rencontrent pas le succès escompté). Nous pouvons également résilier ou suspendre tout compte à tout moment. Cela peut sembler sévère, mais nous le faisons uniquement lorsque c'est justifié, comme indiqué dans les présentes CGU, dans notre Politique relative à la vie privé (https://www.tumblr.com/privacy/automattic) et dans nos Règles communautaires (https://www.tumblr.com/policy/community).
 
 RESTRICTIONS LIÉES À L'UTILISATION AUTOMATISÉE DES SERVICES :
 
@@ -61,7 +61,7 @@ Vous êtes également garant de la confidentialité du mot de passe de votre Com
 
 5. CONFIDENTIALITÉ
 
-Pour obtenir des informations sur la manière dont Tumblr collecte, utilise et partage vos informations, veuillez consulter notre Politique relative à la vie privée (https://www.tumblr.com/privacy). En utilisant les Services, vous reconnaissez avoir lu la Politique relative à la vie privée, qui décrit la manière dont nous collectons, utilisons et partageons vos informations, y compris la manière dont nous transférons ces informations vers les États-Unis et/ou d'autres pays afin qu'elles soient stockées, traitées et utilisées par Tumblr et les Affiliées Tumblr (comme défini ci-dessous).
+Pour obtenir des informations sur la manière dont Tumblr collecte, utilise et partage vos informations, veuillez consulter notre Politique relative à la vie privée (https://www.tumblr.com/privacy/automattic). En utilisant les Services, vous reconnaissez avoir lu la Politique relative à la vie privée, qui décrit la manière dont nous collectons, utilisons et partageons vos informations, y compris la manière dont nous transférons ces informations vers les États-Unis et/ou d'autres pays afin qu'elles soient stockées, traitées et utilisées par Tumblr et les Affiliées Tumblr (comme défini ci-dessous).
 
 
 6. CONTENU ET CONTENU D'UTILISATEUR
@@ -80,7 +80,7 @@ LICENCE ACCORDÉE À TUMBLR SUR LE CONTENU D'UTILISATEUR :
 
 Lorsque vous fournissez du Contenu d'Utilisateur à Tumblr par l'intermédiaire des Services, vous accordez à Tumblr un droit et une licence non exclusifs, pour le territoire du monde, à titre gracieux, pouvant faire l'objet d'une sous-licence et transférable, l'autorisant à utiliser, héberger, stocker, mettre en cache, reproduire, publier, afficher (publiquement ou autrement), représenter (publiquement ou autrement), distribuer, transmettre, modifier, adapter (y compris, sans s'y limiter, afin de respecter les exigences de tout réseau, appareil, service ou média par l'intermédiaire duquel les Services sont mis à disposition) ledit Contenu d'Utilisateur, et d'en créer des œuvres dérivées. Les droits que vous accordez dans le cadre de cette licence ont pour seul but de permettre à Tumblr d'exploiter les Services conformément à leurs fonctionnalités, d'améliorer et de promouvoir les Services et d'en développer de nouveaux. La référence dans cette licence à la « création d'œuvres dérivées » n'a pas pour but de donner le droit à Tumblr d'effectuer des adaptations ou des modifications éditoriales substantielles, mais permet par exemple de mettre à disposition la fonctionnalité de REBLOGGING, qui permet aux Utilisateurs sur Tumblr de republier sur leur blog Tumblr du Contenu d'Utilisateur provenant d'un autre blog Tumblr, d'une manière leur permettant d'ajouter leur propre texte ou un autre Contenu avant ou après le Contenu d'Utilisateur qu'ils ont republié.
 
-Lorsque vous transférez vos créations sur Tumblr, vous nous donnez l'autorisation de les rendre disponibles de toutes les manières prévisibles (par exemple, via votre blog, un flux RSS, le tableau de bord Tumblr, etc.). Nous ne voulons jamais utiliser votre travail d'une façon inattendue.
+Lorsque vous importez vos créations sur Tumblr, vous nous donnez l'autorisation de les rendre disponibles de toutes les manières prévisibles (par exemple, via votre blog, un flux RSS, le tableau de bord Tumblr, etc.). Nous ne voulons jamais utiliser votre travail d'une façon inattendue.
 
 Autre point important : un nombre incalculable de blogs Tumblr ont donné naissance à des livres, des films, des albums, des marques et bien plus encore. Il va sans dire que toutes les redevances ou indemnisations que vous obtenez pour vos créations restent entièrement à vous. Il s'agit de votre travail, et nous sommes fiers de jouer un rôle (aussi minime soit-il) dans ce que vous accomplissez.
 
@@ -221,8 +221,8 @@ Si vous (a) êtes une agence ou un organisme gouvernemental fédéral, étatique
 Le présent Contrat, tel que mis à jour de temps en temps, constitue l'intégralité de l'accord passé entre vous et Tumblr relativement à l'objet des présentes. Le présent Contrat remplace tous les accords ou contrats antérieurs ou concomitants, écrits ou oraux, relatifs à l'objet des présentes, et constitue l'intégralité et le seul accord entre les parties. Le défaut, pour l'une ou l'autre partie, d'exercer, de quelque façon que ce soit, tout droit en vertu des présentes ne sera pas considéré comme une renonciation à exercer un quelconque droit en vertu des présentes. Dans l'éventualité où une stipulation du présent Contrat serait considérée comme inapplicable ou invalide, cette stipulation sera limitée ou supprimée dans la mesure minimale nécessaire, de sorte que les autres stipulations du présent Contrat restent applicables, en vigueur et de plein effet. Vous ne pouvez pas céder, transférer ou sous-licencier le présent Contrat, sauf accord préalable et écrit de Tumblr. Tumblr peut céder le présent Contrat en tout ou en partie, à tout moment et sans votre consentement. Aucune relation de mandat, de partenariat, de contrôle conjoint, de joint venture ou d'emploi salarié n'est créée aux termes du présent Contrat, et vous ne disposez d'aucun pouvoir pour engager Tumblr juridiquement de quelque manière que ce soit. Tout notification destinée à Tumblr, requise ou permise en vertu du présent Contrat doit être faite par écrit et sera réputée valablement faite à sa réception, en cas de remise en personne par un service de messagerie reconnu à l'échelle nationale qui effectue des expéditions sous 24 heures, ou posté par courrier recommandé ou prioritaire et affranchi, à l'attention du Département juridique (Legal Department) à
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -233,7 +233,7 @@ Tumblr fournit des produits et des services à l'échelle mondiale et permet aux
 ADRESSER UNE NOTIFICATION DE VIOLATION DE DROITS D'AUTEUR 
 
 
-20. POLITIQUE DMCA EN MATIÈRE DE DROIT D'AUTEUR
+20. Politique DMCA en matière de droit d'auteur (undefined)
 
 Tumblr a adopté la politique suivante en matière de violation de droits d'auteur sur les Services conformément à la loi Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) (le « DMCA »). Vous trouverez ci-dessous l'adresse de l'agent en charge des notifications de violation de droits d'auteur, désigné par Tumblr (« AGENT PRÉPOSÉ »). Vous pouvez adresser une notification en vertu de la loi DMCA en utilisant notre formulaire de notification DMCA de violation de droits d'auteur (https://www.tumblr.com/dmca).
 
@@ -274,12 +274,11 @@ Dès réception d'une notification de contestation valide, Tumblr la transmettra
 AGENT DÉSIGNÉ
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS D'AUTEUR :https://www.tumblr.com/dmca
+FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS D'AUTEUR : https://www.tumblr.com/dmca
 
 
 21. INFORMATIONS RELATIVES AUX LOGICIELS LIBRES

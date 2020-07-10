@@ -39,7 +39,7 @@ LIMITAÇÕES E ALTERAÇÕES AO SERVIÇO:
 
 Os Serviços estão sujeitos a alterações frequentes, sendo que o respetivo formato e funcionamento podem mudar sem aviso prévio ao utilizador. O Tumblr mantém o direito de criar limites sobre, ou relacionados com, a utilização dos Serviços, a seu exclusivo critério e em qualquer altura ou sem aviso prévio. O Tumblr também poderá impor limites sobre determinados Serviços ou aspetos dos referidos Serviços, assim como poderá restringir o acesso do utilizador a parte ou à totalidade dos Serviços sem aviso prévio ou responsabilidade. O Tumblr poderá alterar, suspender ou descontinuar um ou todos os Serviços a qualquer altura, incluindo a disponibilidade de qualquer produto, funcionalidade, base de dados ou Conteúdo (nos termos abaixo definidos). O Tumblr poderá também rescindir ou suspender Contas (conforme definido abaixo) a qualquer altura, a seu exclusivo critério.
 
-O Tumblr é uma plataforma em constante evolução. Com novos produtos, serviços e funcionalidades sempre a serem lançados, precisamos de flexibilidade para efetuar alterações, impor limites e, ocasionalmente, suspender ou cessar determinadas ofertas (por exemplo, funcionalidades que não têm sucesso). Podemos também rescindir ou suspender contas a qualquer altura. Tal pode parecer extremo, mas só recorremos a esta medida quando temos motivo para tal, conforme indicado nos presentes Termos de serviço, na nossa Política de Privacidade (https://www.tumblr.com/privacy) e nas nossas Normas de Comunidade (https://www.tumblr.com/policy/community).
+O Tumblr é uma plataforma em constante evolução. Com novos produtos, serviços e funcionalidades sempre a serem lançados, precisamos de flexibilidade para efetuar alterações, impor limites e, ocasionalmente, suspender ou cessar determinadas ofertas (por exemplo, funcionalidades que não têm sucesso). Podemos também rescindir ou suspender contas a qualquer altura. Tal pode parecer extremo, mas só recorremos a esta medida quando temos motivo para tal, conforme indicado nos presentes Termos de serviço, na nossa Política de Privacidade (https://www.tumblr.com/privacy/automattic) e nas nossas Normas de Comunidade (https://www.tumblr.com/policy/community).
 
 LIMITAÇÕES À UTILIZAÇÃO AUTOMATIZADA:
 
@@ -61,7 +61,7 @@ Tu aceitas fornecer ao Tumblr informações de registo exatas, completas e atual
 
 5. PRIVACIDADE
 
-Para obter informações sobre a forma como o Tumblr recolhe, utiliza e partilha as tuas informações, consulta a nossa Política de Privacidade (https://www.tumblr.com/privacy) . Ao utilizar os Serviços, afirmas que leste a Política de privacidade, a qual descreve a forma como efetuamos recolha, utilização e partilha (conforme definido na Política de privacidade) dessas informações, incluindo a transferência das referidas informações para os Estados Unidos e/ou outros países para efeitos de armazenamento, processamento e utilização por parte do Tumblr e de Afiliados do Tumblr (conforme abaixo definido).
+Para obter informações sobre a forma como o Tumblr recolhe, utiliza e partilha as tuas informações, consulta a nossa Política de Privacidade (https://www.tumblr.com/privacy/automattic) . Ao utilizar os Serviços, afirmas que leste a Política de privacidade, a qual descreve a forma como efetuamos recolha, utilização e partilha (conforme definido na Política de privacidade) dessas informações, incluindo a transferência das referidas informações para os Estados Unidos e/ou outros países para efeitos de armazenamento, processamento e utilização por parte do Tumblr e de Afiliados do Tumblr (conforme abaixo definido).
 
 
 6. CONTEÚDOS E CONTEÚDOS DE SUBSCRITORES
@@ -221,8 +221,8 @@ Se (a) for uma agência ou entidade governamental local, estadual ou federal dos
 O presente Acordo, conforme modificações periódicas do mesmo, constitui a totalidade do acordo entre ti e o Tumblr relativamente à matéria abrangida pelo presente. O presente Acordo substitui todos os anteriores ou atuais entendimentos de acordos, verbais ou escritos, relativos à matéria do presente, sendo que constitui o acordo total e exclusivo entre as partes. O não exercício, por qualquer uma das partes e de qualquer modo, de algum direito expresso pelo presente não será considerado uma renúncia de qualquer um dos outros direitos expressos no presente. Caso se determine que alguma das disposições no presente Acordo é inválida ou não aplicável, essa disposição será limitada ou eliminada na medida máxima necessária, pelo que o presente Acordo continuará, nas restantes disposições, a ser aplicável e totalmente em vigor. O presente Acordo não pode ser delegado, transferido ou sublicenciável pelo utilizador, exceto mediante acordo prévio escrito por parte do Tumblr. O Tumblr poderá delegar o presente Acordo na sua totalidade ou em parte, a qualquer altura e sem teu consentimento. Não é criada nenhuma representação, parceria, controlo conjunto, joint venture ou emprego como consequência do presente Acordo; não possuis qualquer autoridade para vincular o Tumblr em qualquer dimensão. Qualquer notificação ao Tumblr que seja necessária ou permitida pelo presente Contrato será feita por escrito e será determinada como em vigor aquando da receção, quando entregue pessoalmente por um serviço de entregas urgentes reconhecido a nível nacional ou enviado por correio urgente, registado ou certificado, com envio pré-pago, para
 
 Tumblr, Inc.
-770 Broadway
-New York, NY, 10003,
+12 E. 49th St. 11th Flr.
+New York, NY, 10017,
 Attn: Legal Department
 .
 
@@ -233,7 +233,7 @@ O Tumblr fornece produtos e serviços globais e permite que uma comunidade mundi
 ENVIAR UM AVISO POR INFRAÇÃO 
 
 
-20. POLÍTICA DE DIREITOS DE AUTOR DO DMCA
+20. Política de direitos de autor do DMCA (undefined)
 
 O Tumblr adotou a seguinte política para infração de direitos de autor nos Serviços, de acordo com o Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) (o "DMCA"). O endereço do Agente Designado do Tumblr para avisos de retirada por direitos de autor ("AGENTE DESIGNADO") encontra-se abaixo. Podes enviar um aviso ao abrigo do DMCA com o nosso formulário de aviso de direitos de autor (https://www.tumblr.com/dmca).
 
@@ -274,12 +274,11 @@ Aquando da receção de uma contranotificação válida, o Tumblr irá encaminha
 AGENTE DESIGNADO
 
 Tumblr, Inc.
-12 E. 49th St. 11th Flr.
+12 E. 49th St. 2nd Flr.
 New York, NY 10017
 ATTN: Copyright Agent
 FAX: +1 (646) 513-4321
-EMAIL: dmca@tumblr.com     (mailto:dmca@tumblr.com?body=%0A%0A----------------------------------%0APlease%20do%20not%20delete%20this%20information.%20It%20will%20help%20Tumblr%20address%20your%20issue.%0APlease%20include%20your%20Tumblr%20URL%20and%20the%20email%20attached%20to%20your%20account%20in%20your%20message.%0AIP%20Address%3A%20%2089.101.251.49%0ABrowser%3A%20%20Mozilla%2F5.0%20%28Windows%20NT%206.1%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F64.0.3282.186%20Safari%2F537.36%0A----------------------------------)
-FORMULÁRIO DE AVISO DE DIREITOS DE AUTOR:https://www.tumblr.com/dmca
+FORMULÁRIO DE AVISO DE DIREITOS DE AUTOR: https://www.tumblr.com/dmca
 
 
 21. DIVULGAÇÕES DE OPEN SOURCE
