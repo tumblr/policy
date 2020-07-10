@@ -194,6 +194,7 @@ We use these categories of personal information consistent with the various busi
 We may also use the categories of personal information for compliance with applicable laws and regulations. We may aggregate the information we collect or de-identify it in order to limit or prevent the identification of any particular user or device.
 
 
+
 CALIFORNIA PRIVACY RIGHTS
 
 If you’re a California resident, the CCPA provides you with rights regarding your personal information.
@@ -205,6 +206,7 @@ Delete: The CCPA also gives you the right to delete certain information we have 
 Financial Incentives: You may have the right to receive information about the financial incentives that we offer to you (if any).
 
 Consequences of Exercising Rights: You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
+
 
 Certain information may be exempt from these rights under applicable law. For example, we need certain types of information so that we can provide you with the Services. If you ask us to delete them, you may no longer be able to access or use the Services.
 

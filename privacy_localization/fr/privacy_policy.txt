@@ -110,7 +110,7 @@ Nous ne partageons jamais les informations que nous recevons à votre sujet sauf
 
 INFORMATIONS PARTAGÉES ET REÇUES AVEC NOTRE SOCIÉTÉ MÈRE : Nous sommes une filiale appartenant entièrement à Automattic (http://automattic.com), une société de développement web dont les produits pour but de connecter les créateurs/éditeurs de contenus aux communautés du monde entier. Comme nous sommes une filiale à part entière, Automattic et les autres sociétés de notre famille d'entreprises peuvent recevoir toutes les informations que nous recevons et partager avec nous les informations dont elles disposent. Notre famille d'entreprises peut utiliser les informations qu'elle reçoit de nous pour nous aider à fournir, comprendre et améliorer les Services (notamment en nous fournissant des analyses statistiques) et en faire de même avec leurs produits et services (y compris en vous proposant une expérience plus personnalisée). Pour savoir comment Automattic traite les informations qu'elle collecte, consultez ce document (https://automattic.com/privacy/).
 
-Nous appartenons à Automattic et partageons des informations avec elle ainsi qu'avec notre famille d'entreprises Automattic.
+NOUS APPARTENONS À AUTOMATTIC ET PARTAGEONS DES INFORMATIONS AVEC ELLE AINSI QU'AVEC NOTRE FAMILLE D'ENTREPRISES AUTOMATTIC.
 
 INFORMATIONS PARTAGÉES AVEC LE GRAND PUBLIC PAR L'INTERMÉDIAIRE DES SERVICES : Comme indiqué dans les paragraphes « Contenus d'Utilisateur » et « Actions natives » figurant ci-dessus, par défaut, les contenus publiés par l'intermédiaire des Services et de nombre de vos activités sur les Services sont, par défaut, partagés avec le grand public. Comme ce type d'informations peut être vu par tout le monde et être indexé par les moteurs de recherche, vous devez être attentif aux informations que vous rendez publiques et vérifier qu'il s'agit bien d'informations que vous souhaitez partager avec tout le monde.
 
@@ -120,17 +120,17 @@ INFORMATIONS PARTAGÉES ENTRE LES SERVICES : Nous pouvons, lorsque cela est poss
 
 INFORMATIONS QUE VOUS PARTAGEZ AVEC LES SERVICES TIERS : Vous pouvez accéder aux Services Tiers par l'intermédiaire des Services, par exemple en cliquant sur des liens redirigeant vers des pages externes. Vous pouvez également choisir de partager les informations que vous nous fournissez, comme les publications de vos blogs, avec ces Services Tiers (par exemple, en partageant des publications sur Twitter ou Facebook). La présente Politique relative à la vie privée régit uniquement les informations que nous collectons, et il relève de votre responsabilité de lire et comprendre les politiques de confidentialité de ces Services Tiers.
 
-Vous pouvez automatiquement publier vos billets Tumblr sur d'autres sites (comme Facebook ou Twitter). C'est là que notre Politique relative à la vie privée cesse de s'appliquer et que leurs propres politiques de confidentialité commencent à s'appliquer. Assurez-vous donc de connaître les politiques des services sur lesquels vous envisagez de partager du contenu avant d'associer ces derniers à votre compte Tumblr.
+VOUS POUVEZ AUTOMATIQUEMENT PUBLIER VOS BILLETS TUMBLR SUR D'AUTRES SITES (COMME FACEBOOK OU TWITTER). C'EST LÀ QUE NOTRE POLITIQUE RELATIVE À LA VIE PRIVÉE CESSE DE S'APPLIQUER ET QUE LEURS PROPRES POLITIQUES DE CONFIDENTIALITÉ COMMENCENT À S'APPLIQUER. ASSUREZ-VOUS DONC DE CONNAÎTRE LES POLITIQUES DES SERVICES SUR LESQUELS VOUS ENVISAGEZ DE PARTAGER DU CONTENU AVANT D'ASSOCIER CES DERNIERS À VOTRE COMPTE TUMBLR.
 
 INFORMATIONS PARTAGÉES AVEC NOS AGENTS À DES FINS DE FONCTIONNEMENT ET D'AMÉLIORATION DES SERVICES : Dans certains cas, nous partageons des informations que nous stockons (comme les adresses IP) avec des tiers, tels que les fournisseurs de services, les consultants et d'autres agents (« AGENTS ») dans le but de fournir, optimiser et améliorer les Services, et de développer de nouveaux produits et services. Par exemple, nous pouvons partager des informations avec des fournisseurs de services afin de lutter contre les courriers indésirables (spams), et des consultants tiers peuvent avoir accès à des informations dans le cadre de l'amélioration de nos procédures et de notre technologie. Les Agents avec lesquels nous partageons de telles informations à ces fins sont généralement liés par des obligations de confidentialité et, sauf indication contraire de votre part, nos Agents n'ont aucun droit d'utiliser les informations que nous partageons avec eux en dehors du cadre et de la durée nécessaires à leur collaboration avec nous.
 
 INFORMATIONS DIVULGUÉES AU TERME DE TRANSFERTS D'ACTIFS : Dans certains cas, nous pouvons être amenés à acquérir ou vendre des actifs commerciaux. Dans le cadre de ces transactions, les informations des utilisateurs font généralement partie des actifs commerciaux transférés. En outre, si nous, ou en substance l'ensemble de nos actifs, étions acquis par un tiers ou si nous faisions faillite, les informations des utilisateurs seraient l'un des actifs transférés à un tiers ou acquis par celui-ci. De tels transferts peuvent survenir et être effectués dans l'intérêt légitime des parties impliquées. Après ces transferts, notre acquéreur ou l'acquéreur de nos actifs pourrait continuer à utiliser vos informations dans les conditions prévues par la présente Politique.
 
-Si nous venions à être rachetés (encore !) ou faire banqueroute (plutôt mourir !), le transfert de nos actifs commerciaux pourrait très bien inclure les informations personnelles de nos utilisateurs. L'acquéreur serait alors autorisé à les utiliser, mais uniquement aux fins mentionnées ici, dans la Politique relative à la vie privée que vous êtes en train de consulter.
+SI NOUS VENIONS À ÊTRE RACHETÉS (ENCORE !) OU FAIRE BANQUEROUTE (PLUTÔT MOURIR !), LE TRANSFERT DE NOS ACTIFS COMMERCIAUX POURRAIT TRÈS BIEN INCLURE LES INFORMATIONS PERSONNELLES DE NOS UTILISATEURS. L'ACQUÉREUR SERAIT ALORS AUTORISÉ À LES UTILISER, MAIS UNIQUEMENT AUX FINS MENTIONNÉES ICI, DANS LA POLITIQUE RELATIVE À LA VIE PRIVÉE QUE VOUS ÊTES EN TRAIN DE CONSULTER.
 
 INFORMATIONS DIVULGUÉES POUR NOTRE PROTECTION ET CELLE D'AUTRUI : Nous croyons en la liberté d'expression et, dans la mesure du raisonnable, nous essayons de protéger notre communauté des revendications juridiquement infondées. Ceci étant, nous nous réservons également le droit d'accéder à toutes informations, de les conserver et de les divulguer, à notre seule discrétion, si nous estimons raisonnablement que cela est nécessaire pour (i) respecter toute loi, règlement, procédure judiciaire, demande du gouvernement ou injonction du gouvernement, (ii) faire appliquer la présente Politique relative à la vie privée, nos Conditions Générales d'Utilisation (https://www.tumblr.com/policy/terms-of-service) et tout autre accord que nous avons avec vous, y compris dans le cadre d'investigations sur de potentielles violations de ces documents contractuels, (iii) détecter, empêcher, enquêter ou lutter de toute autre façon contre les problèmes de fraude, de sécurité, de confidentialité ou des problèmes techniques (y compris les échanges d'informations avec d'autres entreprises et organisations dans le but d'améliorer la sécurité et lutter contre la fraude, les courriers indésirables (spams) et des programmes malveillants), (iv) répondre aux demandes d'assistance des utilisateurs ou (v) protéger les droits, propriété, santé ou sécurité de Tumblr, de nos utilisateurs, de tiers ou du grand public en général, y compris, sans s'y limiter, dans des situations impliquant un risque de violences, de suicide ou d'automutilation.
 
-Ne nous obligez pas à vous fliquer. Nous ne voulons pas en arriver là. Toutefois, nous devons empêcher toute personne utilisant Tumblr de nous nuire et de nuire à autrui ou à elle-même. Nous faisons notre maximum pour maintenir un équilibre entre la confidentialité et la communauté, et nous sommes certains que vous comprenez les enjeux que cela représente et le sérieux avec lequel nous les appréhendons.
+NE NOUS OBLIGEZ PAS À VOUS FLIQUER. NOUS NE VOULONS PAS EN ARRIVER LÀ. TOUTEFOIS, NOUS DEVONS EMPÊCHER TOUTE PERSONNE UTILISANT TUMBLR DE NOUS NUIRE ET DE NUIRE À AUTRUI OU À ELLE-MÊME. NOUS FAISONS NOTRE MAXIMUM POUR MAINTENIR UN ÉQUILIBRE ENTRE LA CONFIDENTIALITÉ ET LA COMMUNAUTÉ, ET NOUS SOMMES CERTAINS QUE VOUS COMPRENEZ LES ENJEUX QUE CELA REPRÉSENTE ET LE SÉRIEUX AVEC LEQUEL NOUS LES APPRÉHENDONS.
 
 INFORMATIONS QUE NOUS PARTAGEONS AVEC VOTRE CONSENTEMENT OU À VOTRE DEMANDE : Sans préjudice de vos droits mentionnés ci-dessous si vous êtes un utilisateur de l'Union européenne, si vous nous demandez de vous fournir des informations à propos de votre Compte, nous le ferons à condition que votre requête soit raisonnable et pas indûment contraignante.
 
@@ -156,19 +156,31 @@ Nous sommes également susceptibles d'utiliser vos informations à des fins de s
 
 Vous avez le droit de vous opposer à n'importe lequel de ces traitements d'informations. Pour ce faire, veuillez contacter le support de Tumblr.
 
-
-INFORMATIONS AUXQUELLES VOUS POUVEZ ACCÉDER
-
-Si vous êtes un utilisateur enregistré, vous pouvez accéder à la plupart des informations associées à votre Compte en vous connectant aux Services et en consultant la page Paramètres de compte. Les utilisateurs inscrits et non inscrits peuvent accéder aux cookies et les supprimer par le biais des paramètres de leur navigateur Internet.
-
 SUPPRESSION DU COMPTE ET CONSÉQUENCES
 
 Si vous souhaitez supprimer votre Compte, vous pouvez le faire en accédant à la page des Paramètres de Compte (https://www.tumblr.com/settings/account) ou en nous  envoyant un e-mail (https://www.tumblr.com/support) et en fournissant une preuve que vous êtes le titulaire dudit Compte. Les éléments prouvant que vous êtes le titulaire du Compte pourront varier selon les circonstances, mais en général, vous devez nous fournir suffisamment d'informations d'identification pour que nous puissions être sûrs que vous êtes bien le titulaire du Compte. En outre, de par la nature même des fonctions de partage sur les Services, certaines activités publiques sur votre Compte et antérieures à la suppression (telles que les reblogs des publications de votre blog) peuvent demeurer sur nos serveurs et rester accessibles au public.
 
-Vous ferez sûrement de grandes choses sur Tumblr, mais si jamais vous décidez de nous quitter, vous êtes libre de supprimer votre compte à tout moment et pour quelque raison que ce soit. La suppression sera effective immédiatement pour la majeure partie de vos informations, mais cela peut prendre un certain temps avant que tout ne doit entièrement supprimé de nos archives et de nos sauvegardes.
 
-Les reblogs de vos publications ne seront pas supprimés. Vos publications resteront sur les blogs qui les ont rebloguées. Comme nous l'avons déjà indiqué, à partir du moment où un contenu est publié sur Internet, il peut devenir vraiment difficile de l'effacer complètement, donc assurez-vous de ne publier que des contenus que vous êtes sûr et certain de vouloir rendre publics.
+DROITS ET MOYENS DE CONTRÔLE EN MATIÈRE DE CONFIDENTIALITÉ AU SEIN DE L'UE
 
+SI VOUS RÉSIDEZ HABITUELLEMENT DANS L'UNION EUROPÉENNE, TUMBLR EST LE RESPONSABLE DU TRAITEMENT DE VOS INFORMATIONS. CONFORMÉMENT À LA RÉGLEMENTATION EUROPÉENNE, VOUS DISPOSEZ D'UN CERTAIN NOMBRE DE DROITS ET DE CHOIX CONCERNANT L'UTILISATION DE VOS INFORMATIONS.
+
+ACCÈS ET PORTAGE. COMME DÉCRIT DANS LA SECTION « INFORMATIONS AUXQUELLES VOUS POUVEZ ACCÉDER », VOUS POUVEZ ACCÉDER À LA PLUPART DE VOS INFORMATIONS EN VOUS CONNECTANT À VOTRE COMPTE TUMBLR. SI VOUS AVEZ BESOIN D'UN ACCÈS SUPPLÉMENTAIRE OU SI VOUS N'AVEZ PAS DE COMPTE TUMBLR, contactez-nous (https://www.tumblr.com/support) POUR NOUS DEMANDER UNE COPIE DE VOS INFORMATIONS. DANS LES CAS OÙ LA LOI L'EXIGE, NOUS POURRONS VOUS FOURNIR CES INFORMATIONS DANS UN FORMAT FACILEMENT ACCESSIBLE ET VOUS ASSISTER DANS LE TRANSFERT DE CERTAINES DE CES INFORMATIONS À DES TIERS.
+
+RECTIFICATION, LIMITATION, SUPPRESSION. VOUS POUVEZ ÉGALEMENT RECTIFIER, LIMITER OU SUPPRIMER LA PLUPART DE VOS INFORMATIONS EN VOUS CONNECTANT À VOTRE COMPTE TUMBLR. SI VOUS N'Y PARVENEZ PAS OU SI VOUS NE POSSÉDEZ PAS DE COMPTE TUMBLR, contactez-nous (https://www.tumblr.com/support). POUR EN SAVOIR PLUS SUR LA SUPPRESSION DE VOTRE COMPTE OU SUR LE FAIT DE QUITTER TUMBLR, REPORTEZ-VOUS À LA SECTION « SUPPRESSION DE VOTRE COMPTE ».
+
+OPPOSITION. DANS CERTAINES CIRCONSTANCES, TELLES QUE CELLES DÉCRITES DANS LA SECTION « INTÉRÊTS LÉGITIMES » FIGURANT CI-DESSUS, VOUS AVEZ ÉGALEMENT LE DROIT DE VOUS OPPOSER AU TRAITEMENT DE VOS INFORMATIONS PAR NOS SOINS. DANS CE CAS, NOUS CESSERONS DE TRAITER VOS INFORMATIONS SAUF SI NOUS AVONS DES INTÉRÊTS LÉGITIMES IMPÉRIEUX DE CONTINUER DE LES TRAITER OU SI CELA EST EXIGÉ PAR LA LOI. DANS LES CAS OÙ NOUS UTILISONS VOS DONNÉES À DES FINS DE PROSPECTION, VOUS POUVEZ TOUJOURS VOUS Y OPPOSER EN UTILISANT LE LIEN DE DÉSINSCRIPTION FIGURANT DANS CES COMMUNICATIONS, EN MODIFIANT VOS Paramètres de Compte (https://www.tumblr.com/settings/account) OU EN nous contactant (https://www.tumblr.com/support).
+
+RETRAIT DE VOTRE CONSENTEMENT. VOUS ÊTES EN DROIT DE RETIRER À TOUT MOMENT VOTRE CONSENTEMENT AU TRAITEMENT DE VOS INFORMATIONS ET DE VOTRE UTILISATION DE NOS SERVICES. DE LA MÊME FAÇON QUE VOUS POUVEZ DONNER VOTRE CONSENTEMENT EN INTERAGISSANT AVEC NOS SERVICES, VOUS POUVEZ ÉGALEMENT LE RETIRER PAR L'INTERMÉDIAIRE DE NOS SERVICES. VOUS POUVEZ DÉCIDER DE SUPPRIMER VOTRE COMPTE TUMBLR COMME DÉCRIT CI-DESSUS.
+
+SI VOUS RETIREZ VOTRE CONSENTEMENT POUR L'UTILISATION OU LE PARTAGE DE VOS INFORMATIONS POUR LES FINALITÉS ÉNONCÉES DANS LA PRÉSENTE POLITIQUE RELATIVE À LA VIE PRIVÉE, IL SE PEUT QUE VOUS N'AYEZ PAS ACCÈS À TOUT OU PARTIE DE NOS SERVICES ET QUE NOUS NE SOYONS PAS EN MESURE DE VOUS FOURNIR TOUT OU PARTIE DES SERVICES EN VERTU DE LA PRÉSENTE POLITIQUE RELATIVE À LA VIE PRIVÉE ET DE NOS CONDITIONS GÉNÉRALES D'UTILISATION. DANS CERTAINS CAS, NOUS POUVONS CONTINUER À TRAITER VOS INFORMATIONS APRÈS LE RETRAIT DE VOTRE CONSENTEMENT SI CELA REPOSE SUR UN FONDEMENT JURIDIQUE NOUS PERMETTANT DE LE FAIRE OU SI LE RETRAIT DE VOTRE CONSENTEMENT SE LIMITE À CERTAINS TRAITEMENTS. PAR EXEMPLE, NOUS POUVONS CONSERVER DES INFORMATIONS SI NOUS SOMMES DANS L'OBLIGATION LÉGALE DE LE FAIRE.
+
+RÉCLAMATIONS. SANS PRÉJUDICE DE TOUS LES AUTRES DROITS DONT VOUS POUVEZ DISPOSER, VOUS AVEZ ÉGALEMENT LE DROIT DE FORMER UNE RÉCLAMATION AUPRÈS DE L'AUTORITÉ DE CONTRÔLE DE VOTRE PAYS. Cliquez ici (http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm) POUR TROUVER VOTRE AUTORITÉ DE CONTRÔLE LOCALE.
+
+
+TRANSFERTS
+
+COMME TUMBLR EST UNE ENTREPRISE AMÉRICAINE, VOS INFORMATIONS SERONT COLLECTÉES ET TRAITÉES AUX ÉTATS-UNIS. LES ÉTATS-UNIS DISPOSENT DE LOIS DIFFÉRENTES SUR LA PROTECTION DES DONNÉES ET DE RÈGLES DIFFÉRENTES S'AGISSANT DE L'ACCÈS AUX INFORMATIONS DONT DISPOSE LE GOUVERNEMENT, ET IL SE PEUT QU'IL N'EXISTE PAS LES MÊMES GARANTIES EN MATIÈRE DE PROTECTION DES DONNÉES QUE DANS VOTRE PAYS D'ORIGINE. VOUS POUVEZ CHOISIR D'UTILISER OU NON NOS SERVICES. CEPENDANT, SI VOUS SOUHAITEZ LES UTILISER, VOUS DEVEZ ACCEPTER NOS CONDITIONS GÉNÉRALES D'UTILISATION, QUI ÉTABLISSENT LES CONDITIONS DU CONTRAT NOUS LIANT À VOUS. DANS LA MESURE OÙ TUMBLR EST CONSIDÉRÉE COMME TRANSFÉRANT VOS INFORMATIONS EN DEHORS DE L'EEE (ESPACE ÉCONOMIQUE EUROPÉEN), TUMBLR S'APPUIE SUR LE FAIT QUE CE TRANSFERT EST NÉCESSAIRE POUR VOUS PROPOSER NOS SERVICES, CONFORMÉMENT AU CONTRAT QUI NOUS LIE.
 
 DROITS ET MOYENS DE CONTRÔLE EN MATIÈRE DE CONFIDENTIALITÉ AU SEIN DE L'UE
 
@@ -196,7 +208,6 @@ MODIFICATIONS DE LA PRÉSENTE POLITIQUE RELATIVE À LA VIE PRIVÉE
 
 Nous pouvons être amenés à modifier la présente Politique relative à la vie privée. Vous devez donc la consulter régulièrement. Si nous y apportons des modifications essentielles, nous vous en informerons en publiant de façon très visible une notification relative à ces modifications avant qu'elles n'entrent en vigueur ou en vous envoyant directement une notification. Reportez-vous à la date de « Dernière modification » pour savoir quand la Politique relative à la vie privée a été mise à jour pour la dernière fois.
 
-
 OÙ ADRESSER VOS QUESTIONS
 
 Si vous avez des questions ou des préoccupations liées à la protection de votre vie privée dans le cadre de votre utilisation des Services, contactez-nous en cliquant ici (https://www.tumblr.com/support).
@@ -208,9 +219,8 @@ Business Centre, No.1 Lower Mayor Street
 International Financial Services Centre
 Dublin 1, Ireland
 
-
 LIEN VERS LES VERSIONS PRÉCÉDENTES
 
-Vous trouverez ci-dessous un lien vers les versions précédentes de notre Politique relative à la vie privée. Nous avons stocké ces versions sur GitHub, ce qui vous permet de comparer les différentes versions et d'identifier les parties qui ont été modifiées :
+VOUS TROUVEREZ CI-DESSOUS UN LIEN VERS LES VERSIONS PRÉCÉDENTES DE NOTRE POLITIQUE RELATIVE À LA VIE PRIVÉE. NOUS AVONS STOCKÉ CES VERSIONS SUR GITHUB, CE QUI VOUS PERMET DE COMPARER LES DIFFÉRENTES VERSIONS ET D'IDENTIFIER LES PARTIES QUI ONT ÉTÉ MODIFIÉES :
 
 https://github.com/tumblr/policy/commits/master/privacy_localization/en_eu/privacy_policy.txt
