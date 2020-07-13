@@ -75,7 +75,7 @@ INFORMAÇÕES DERIVADAS: conforme descrito acima, em "Ações nativas" e "Inform
 
 PUBLICIDADE PERSONALIZADA NO TUMBLR
 
-O Tumblr funciona com publicidade, de modo a proporcionar-te todos estes conteúdos de graça. Nós e a nossa empresa mãe, a Automattic, trabalhamos com empresas de publicidade online para te oferecer publicidade o mais relevante e útil possível. E, para que os nossos anúncios sejam relevantes e úteis, fazemos suposições informadas sobre os teus interesses, baseando-nos na tua atividade nos nossos sites e serviços. Os anúncios que te mostramos refletem sempre esses interesses e escolhas informadas.
+O Tumblr mostra anúncios selecionados aos utilizadores com sessão iniciada, de modo a proporcionar-te todos estes conteúdos gratuitamente. Nós e a nossa empresa mãe, a Automattic, trabalhamos com empresas de publicidade online para te oferecer publicidade o mais relevante e útil possível. E, para que os nossos anúncios sejam relevantes e úteis, fazemos suposições informadas sobre os teus interesses, baseando-nos na tua atividade nos nossos sites e serviços. Os anúncios que te mostramos refletem sempre esses interesses e escolhas informadas.
 
 Para mais informação sobre como selecionamos os anúncios que vês, consulta as políticas de publicidade (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you) e de afiliados do Tumblr.
 

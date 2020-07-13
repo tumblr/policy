@@ -75,7 +75,7 @@ INFORMACJE POCHODNE: Zgodnie z powyższym opisem w sekcjach "Natywne działania"
 
 SPERSONALIZOWANE REKLAMY NA TUMBLRZE
 
-Aby móc oferować Ci treści na Tumblrze za darmo, czasem wyświetlamy Ci reklamy. Razem z naszą firmą macierzystą Automattic współpracujemy z agencjami reklamowymi, aby zapewnić Ci reklamy, które są dla Ciebie istotne i użyteczne. Aby nasze reklamy były coraz bardziej trafne, kierujemy się przypuszczeniami o Twoich zainteresowaniach, które opieramy na Twojej dotychczasowej aktywności podczas korzystania z naszych stron i usług. Reklamy, które Ci wyświetlamy, często odzwierciedlają te zainteresowania i nasze przypuszczenia.
+Aby móc oferować treści na Tumblrze za darmo, czasami wyświetlamy naszym zalogowanym użytkownikom reklamy. Razem z naszą firmą macierzystą Automattic współpracujemy z agencjami reklamowymi, aby zapewnić Ci reklamy, które są dla Ciebie istotne i użyteczne. Aby nasze reklamy były coraz bardziej trafne, kierujemy się przypuszczeniami o Twoich zainteresowaniach, które opieramy na Twojej dotychczasowej aktywności podczas korzystania z naszych stron i usług. Reklamy, które Ci wyświetlamy, często odzwierciedlają te zainteresowania i nasze przypuszczenia.
 
 Aby dowiedzieć się więcej o tym, czym kierujemy się przy wyborze reklam, które widzisz, sprawdź Politykę reklam i linków afiliacyjnych (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you).
 
@@ -157,7 +157,7 @@ MOŻEMY RÓWNIEŻ WYKORZYSTYWAĆ TWOJE DANE DO CELÓW BEZPIECZEŃSTWA I OCHRONY,
 MASZ PRAWO SPRZECIWIĆ SIĘ PRZETWARZANIU INFORMACJI. JEŚLI CHCESZ WYRAZIĆ SPRZECIW, SKONTAKTUJ SIĘ Z CENTRUM POMOCY TUMBLRA.
 
 
-DO JAKICH INFORMACJI UŻYTKOWNIK MOŻE MIEĆ DOSTĘP
+DO JAKICH INFORMACJI MOŻESZ MIEĆ DOSTĘP
 
 JEŚLI JEST ZAREJESTROWANYM UŻYTKOWNIKIEM, MOŻE UZYSKAĆ DOSTĘP DO WIĘKSZOŚCI INFORMACJI SKOJARZONYCH Z JEGO KONTEM, LOGUJĄC SIĘ W USŁUDZE I SPRAWDZAJĄC STRONĘ USTAWIEŃ KONTA. ZAREJESTROWANI I NIEZAREJESTROWANI UŻYTKOWNICY MOGĄ UZYSKAĆ DOSTĘP I USUNĄĆ PLIKI COOKIE ZA POMOCĄ USTAWIEŃ PRZEGLĄDARKI.
 
@@ -169,12 +169,11 @@ OCZYWIŚCIE UŻYTKOWNIK ROBI WSPANIAŁE RZECZY W SERWISIE TUMBLR, ALE JEŚLI NAD
 
 TYM, CO NIE ZOSTANIE SKASOWANE, SĄ PONOWNE BLOGI WPISÓW UŻYTKOWNIKA. POZOSTANĄ ONE NA KAŻDYM BLOGU, W KTÓRYM JE PONOWNIE WYKORZYSTANO. JAK JUŻ MÓWILIŚMY, MOŻE BYĆ BARDZO, ALE TO BARDZO TRUDNO USUNĄĆ COŚ, GDY JUŻ DOSTANIE SIĘ DO INTERNETU, WIĘC UŻYTKOWNIK POWINIEN PAMIĘTAĆ O PUBLIKOWANIU TYLKO TAKICH MATERIAŁÓW, KTÓRE NAPRAWDĘ CHCE OPUBLIKOWAĆ.
 
-
 ORGANY KONTROLNE UE I PRAWA DO PRYWATNOŚCI
 
 JEŚLI ZAZWYCZAJ MIESZKASZ NA TERENIE UE, TUMBLR JEST ADMINISTRATOREM DANYCH OSOBOWYCH. ZGODNIE Z PRAWEM UE MASZ WIELE PRAW I WYBORÓW DOTYCZĄCYCH KORZYSTANIA Z TWOICH INFORMACJI.
 
-DOSTĘP I PRZENIESIENIE.  JAK OPISANO W SEKCJI "DO JAKICH INFORMACJI UŻYTKOWNIK MOŻE MIEĆ DOSTĘP", MOŻESZ UZYSKAĆ DOSTĘP DO WIĘKSZOŚCI INFORMACJI SKOJARZONYCH Z TWOIM KONTEM, LOGUJĄC SIĘ W USŁUDZE. JEŚLI POTRZEBUJESZ DODATKOWEGO DOSTĘPU LUB NIE MASZ KONTA NA TUMBLRZE, skontaktuj się z nami (https://www.tumblr.com/support), ABY WYSŁAĆ ŻĄDANIE O KOPIĘ INFORMACJI O TOBIE. W PRZYPADKU GDY JEST TO WYMAGANE PRZEZ PRAWO, MOŻEMY DOSTARCZYĆ INFORMACJI O UŻYTKOWNIKU W ŁATWO DOSTĘPNYM FORMACIE I POMÓC W PRZEKAZANIU CZĘŚCI INFORMACJI STRONOM TRZECIM.
+DOSTĘP I PRZENIESIENIE.  JAK OPISANO W SEKCJI "DO JAKICH INFORMACJI MOŻESZ MIEĆ DOSTĘP" MOŻESZ UZYSKAĆ DOSTĘP DO WIĘKSZOŚCI INFORMACJI SKOJARZONYCH Z TWOIM KONTEM, LOGUJĄC SIĘ W USŁUDZE. JEŚLI POTRZEBUJESZ DODATKOWEGO DOSTĘPU LUB NIE MASZ KONTA NA TUMBLRZE, skontaktuj się z nami (https://www.tumblr.com/support), ABY WYSŁAĆ ŻĄDANIE O KOPIĘ INFORMACJI O TOBIE. W PRZYPADKU GDY JEST TO WYMAGANE PRZEZ PRAWO, MOŻEMY DOSTARCZYĆ INFORMACJI O UŻYTKOWNIKU W ŁATWO DOSTĘPNYM FORMACIE I POMÓC W PRZEKAZANIU CZĘŚCI INFORMACJI STRONOM TRZECIM.
 
 KORYGOWANIE, OGRANICZANIE, USUWANIE.  MOŻESZ RÓWNIEŻ KORYGOWAĆ, OGRANICZAĆ LUB USUWAĆ WIELEINFORMACJI O TOBIE, LOGUJĄC SIĘ NA SWOJE KONTO NA TUMBLRZE. JEŚLI NIE MOŻESZ PODJĄĆ TYCH KROKÓW LUB NIE MASZ KONTA NA TUMBLRZE, skontaktuj się z nami (https://www.tumblr.com/support). ABY UZYSKAĆ WIĘCEJ INFORMACJI NA TEMAT USUWANIA LUB ZAMYKANIA KONTA NA TUMBLRZE, ZAPOZNAJ SIĘ Z SEKCJĄ "JAK USUNĄĆ SWOJE KONTO".
 

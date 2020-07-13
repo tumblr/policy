@@ -75,7 +75,7 @@ DERIVED INFORMATION: As described above in “Native Actions” and “Informati
 
 PERSONALIZED ADVERTISING ON TUMBLR
 
-In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements. We, and our parent company, Automattic, work with online advertising companies to provide you with advertising that is as relevant and useful as possible. To make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services. The ads we show you often reflect these interests and educated guesses.
+In order to provide you with all of this Tumblr content for free, Tumblr selectively runs advertisements to users who are logged into Tumblr. We, and our parent company, Automattic, work with online advertising companies to provide you with advertising that is as relevant and useful as possible. To make our ads more relevant and useful, we make educated guesses about your interests based on your activity on our sites and services. The ads we show you often reflect these interests and educated guesses.
 
 To learn more about how we select the ads you see, you can check out Tumblr’s Advertising (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you) and affiliate policies.
 
