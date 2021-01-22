@@ -1,7 +1,8 @@
 TERMS OF SERVICE LAST MODIFIED: 2018-04-17
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
- THESE TERMS OF SERVICE CONTAIN LIMITATIONS OF TUMBLR'S LIABILITY IN SECTION 14. 
+
+THESE TERMS OF SERVICE CONTAIN LIMITATIONS OF TUMBLR'S LIABILITY IN SECTION 14. 
 
 Hello! Welcome to Tumblr’s Terms of Service. Please read this carefully before using our site, services, or products. This is a contract between you and Tumblr. We've also included several annotations that aren't a part of the contract itself, but are intended to emphasize key sections and help you follow the text. We’ve tried to be fair and straightforward. Please feel free to contact us (https://www.tumblr.com/support) if you have any questions or suggestions!
 
@@ -27,9 +28,9 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 ELIGIBILITY:
 
-No individual under the age of thirteen (13), or sixteen (16) if you live in the European Economic Area (“EEA”), may use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address). You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), or (ii) for users in the European Union, sixteen (16) (or the lower age that your country has provided for you to consent to the processing of your personal data) . You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
-You have to be at least 13 years old (or 16 years old if you live in the EEA) to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're younger than 13 (or 16 if you live in the EEA), don't use Tumblr. Ask your parents for a Playstation 4, or try books.
+You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
 
 SERVICE CHANGES AND LIMITATIONS:
 
@@ -185,7 +186,7 @@ Some jurisdictions may not allow the exclusion of certain warranties or the excl
 
 Either party may terminate this Agreement at any time by notifying the other party. Tumblr may terminate or suspend your access to or ability to use any and all Services immediately, without prior notice or liability, for any reason or no reason, including but not limited to if you breach any of the terms or conditions of this Agreement. In particular, Tumblr may immediately terminate or suspend Accounts that have been flagged for repeat copyright infringement.
 
-Upon termination of your access to or ability to use a Service, including but not limited to suspension of your Account on a Service, your right to use or access that Service and any Content will immediately cease. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability. Termination of your access to and use of the Services shall not relieve you of any obligations arising or accruing prior to such termination or limit any liability that you otherwise may have to Tumblr or any third party and shall not relieve you of your rights if you are an EEA user which are described in the Privacy Policy .
+Upon termination of your access to or ability to use a Service, including but not limited to suspension of your Account on a Service, your right to use or access that Service and any Content will immediately cease. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability. Termination of your access to and use of the Services shall not relieve you of any obligations arising or accruing prior to such termination or limit any liability that you otherwise may have to Tumblr or any third party and shall not relieve you of your rights if you are a user in the European Economic Area which are described in the Privacy Policy.
 
 17. CHOICE OF LAW AND VENUE
 
