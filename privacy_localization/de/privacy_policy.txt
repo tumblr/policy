@@ -75,7 +75,7 @@ ABGELEITETE DATEN: Wie oben in den Abschnitten "Systemeigene Aktionen" und "Date
 
 INDIVIDUALISIERTE WERBUNG AUF TUMBLR
 
-Um dir die ganzen Tumblr-Inhalte kostenlos zur Verfügung stellen zu können, schaltet Tumblr selektiv Werbeanzeigen für eingeloggte User. Wir und unsere Muttergesellschaft Automattic arbeiten mit Online-Werbeunternehmen zusammen, um dir möglichst relevante und nützliche Werbung anzubieten. Um unsere Anzeigen relevanter und nützlicher zu machen, versuchen wir uns nach den Interessen zu richten, die wir basierend auf deinen Aktivitäten auf unseren Websites und Services vermuten. Die Anzeigen, die wir dir zeigen, spiegeln oft diese vermuteten Interessen wider.
+Um dir die ganzen Tumblr-Inhalte kostenlos zur Verfügung stellen zu können, schaltet Tumblr selektiv Werbeanzeigen. Wir und unsere Muttergesellschaft Oath arbeiten mit Online-Werbeunternehmen zusammen, um dir möglichst relevante und nützliche Werbung anzubieten. Um unsere Anzeigen relevanter und nützlicher zu machen, versuchen wir uns nach den Interessen zu richten, die wir basierend auf deinen Aktivitäten auf unseren Websites und Services vermuten. Die Anzeigen, die wir dir zeigen, spiegeln oft diese vermuteten Interessen wider.
 
 In Tumblrs Werbe- und Affiliate-Richtlinien (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you) erfährst du mehr darüber, wie wir die Anzeigen für dich aussuchen.
 

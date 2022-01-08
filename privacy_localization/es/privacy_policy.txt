@@ -75,7 +75,7 @@ INFORMACIÓN DERIVADA: Tal como se describe anteriormente en los apartados «Acc
 
 ANUNCIOS PERSONALIZADOS EN TUMBLR
 
-Para poder proporcionarte todo el contenido de Tumblr de forma gratuita, la plataforma incluye anuncios seleccionados en función de una serie de criterios para todos los usuarios que hayan iniciado sesión. Tanto nosotros como nuestra empresa matriz, Automattic, colaboramos con empresas de publicidad en línea para proporcionarte anuncios que sean lo más relevantes y útiles posible. Para lograr este objetivo, nos basamos en los intereses que pareces tener en función de tu actividad en nuestra página y el resto de nuestros servicios. Los anuncios que te mostramos suelen reflejar estos intereses y, como ya hemos mencionado, están basados en suposiciones a partir de tus datos.
+Para poder proporcionarte todo el contenido de Tumblr de forma gratuita, la plataforma incluye anuncios seleccionados en función de una serie de criterios. Tanto nosotros como nuestra empresa matriz, Automattic, colaboramos con empresas de publicidad en línea para proporcionarte anuncios que sean lo más relevantes y útiles posibles. Para intentar lograr este objetivo, nos basamos en los intereses que pareces tener en función de tu actividad en nuestra página y el resto de nuestros servicios. Los anuncios que te mostramos suelen reflejar estos intereses y, como ya hemos mencionado, están basados en suposiciones a partir de tus datos.
 
 Si quieres saber cómo seleccionamos los anuncios que ves, puedes leer este documento de ayuda sobre la publicidad y la política de afiliación en Tumblr (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you).
 
