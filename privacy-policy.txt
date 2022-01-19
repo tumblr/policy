@@ -199,7 +199,7 @@ CALIFORNIA PRIVACY RIGHTS
 
 If you’re a California resident, the CCPA provides you with rights regarding your personal information.
 
-You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report at here.
+You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report at here (/transparency).
 
 Access: The CCPA gives you the right to request a copy of certain information we hold about you, as well as a summary of: the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, and the categories of third parties with whom we shared that information. As described in the section ‘What Information You Can Access,’ you can access much of your information by logging in to your Tumblr account. You can also request a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket here (/support) or email us at ccpa@tumblr.com.
 
