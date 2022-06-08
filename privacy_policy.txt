@@ -1,0 +1,216 @@
+EUROPÄISCHE DATENSCHUTZERKLÄRUNG  ZULETZT GEÄNDERT: 25.09.2019
+
+Diese Datenschutzrichtlinie ist im Original auf Englisch verfasst. Sollte eine übersetzte Version mit dieser Datenschutzrichtlinie nicht übereinstimmen, hat die Englische Fassung stets Vorrang.
+
+Tumblr, Inc. ("TUMBLR", "WIR", "UNS" bzw. "UNSER/E") nimmt den privaten Charakter deiner Daten sehr ernst. Wir sind bestrebt, in transparenter Weise darüber zu informieren, wie wir deine Daten erfassen und verarbeiten, deine Daten zu schützen und dir sinnvolle Auswahlmöglichkeiten zu bieten. Diese Erklärung zu unseren Datenschutzpraktiken (die "DATENSCHUTZERKLÄRUNG") erläutert, wie wir mit den Informationen umgehen, die wir sammeln oder erhalten, wenn du tumblr.com (die "WEBSITE") und/oder andere Domains, Produkte, Werbeprodukte, Dienstleistungen und/oder Inhalte von Tumblr besuchst und nutzt, einschließlich unserer mobilen iOS- und Android-Apps (zusammen mit der Website: die "DIENSTE"). Tumblr ist jetzt Teil von Automattic (https://automattic.com/), einem Technologieunternehmen, das es Menschen ermöglicht, attraktive Websites zu erstellen, ihre Geschichten zu erzählen und ihr Publikum zu finden und zu erweitern. Die Art und Weise, wie wir mit deinen Daten umgehen, hat sich nicht geändert, sodass diese Datenschutzerklärung immer noch gilt, wenn du bei Tumblr bist, eine Tumblr-App verwendest oder mit unseren Produkten, Dienstleistungen oder Technologien interagierst. Diese Datenschutzerklärung gilt nicht für die Praktiken anderer Automattic-Tochtergesellschaften oder Unternehmen, die Automattic weder besitzt noch kontrolliert.
+
+
+GELTUNGSBEREICH DIESER DATENSCHUTZERKLÄRUNG
+
+Diese Datenschutzerklärung bezieht sich auf die Verarbeitung von Daten, die wir sammeln, wenn du unsere Dienste nutzt oder darauf zugreifst. Diese Datenschutzerklärung deckt zudem unsere Handhabung von Daten über dich ab, die entweder unsere Partner an uns weitergeben oder die wir an unsere Partner weitergeben.
+
+Diese Datenschutzerklärung findet keine Anwendung auf die Praktiken von Dritten, die uns nicht gehören und die wir nicht kontrollieren oder verwalten, darunter Websites, Dienste, Anwendungen und Unternehmen von Dritten ("DIENSTE VON DRITTEN"). Wir sind zwar bestrebt, nur mit Diensten von Dritten zu arbeiten, die unseren Respekt für den Schutz deiner Daten teilen, übernehmen aber keine Verantwortung für die Richtlinien dieser Dritten bezüglich Inhalten und Datenschutz. Wir möchten dich dazu anhalten, die Datenschutzrichtlinien sämtlicher Dienste von Dritten zur Kenntnis zu nehmen, auf die du zugreifst.
+
+Des Weiteren regelt diese Datenschutzerklärung nicht, was unsere Nutzer auf ihren Tumblr-Blogs tun und wir übernehmen insoweit keine Verantwortung für die Praktiken der Erfassung und Nutzung von Daten der einzelnen Blogs und Blogger. Eine der herausragenden Funktionen der Produkte von Tumblr ist die Möglichkeit zur individuellen Gestaltung und die Blogger besitzen große Flexibilität hinsichtlich der Eigenschaften ihrer Blogs. Wenn du einen Blog in unserem Netzwerk besuchst, sammelt dieser Blog möglicherweise mehr Daten als wir und kann Daten an Dritte weiterleiten, zu denen wir keine Beziehung haben, darunter an Werbetreibende.
+
+
+ERFASSUNG UND VERWENDUNG VON DATEN
+
+Im Rahmen der Bereitstellung der Dienste erfassen und erhalten wir verschiedene Arten von Informationen. Bestimmte Kategorien von Informationen, die von Tumblr gesammelt werden, sind für die Nutzung unserer Dienste erforderlich. Um unsere Dienste bereitzustellen, zu personalisieren und zu verbessern, kombinieren und verwenden wir die Informationen, die wir über dich haben (einschließlich der Informationen, die wir innerhalb und außerhalb unserer Dienste erhalten), um zu verstehen, wie du unsere Dienste und die Menschen oder Dinge, mit denen du interagierst und an denen du interessiert bist, nutzt. Im Folgenden werden diese Arten von Informationen und deren Verwendung näher beschrieben.
+
+Um deine Daten gesetzeskonform zu erfassen und zu verwenden, beachten wir vor allem drei Punkte.
+
+Zuerst müssen wir in Übereinstimmung mit unseren Allgmeinen Geschäftsbedingungen deine Daten auf bestimmte Weise verarbeiten, um dir unsere Dienste zur Verfügung zu stellen. Diese Verarbeitung ist notwendig, um den Vertrag zwischen dir und uns zu erfüllen, und unsere Allgemeinen Geschäftsbedingungen machen deutlich, dass die Verarbeitung deiner Daten im Zusammenhang mit personalisierten Inhalten und Anzeigen ein notwendiger Bestandteil der von uns angebotenen Dienste ist.
+Zweitens: Wenn du der Verwendung deiner Daten auf bestimmte Weise zugestimmt hast, verlassen wir uns auf deine Zustimmung (die du jederzeit widerrufen kannst).
+Drittens: Wie im Folgenden näher beschrieben, können wir in bestimmten Fällen deine Daten gegebenenfalls zu weiteren legitimen Zwecken verarbeiten, seien es unsere oder die von Besuchern, Usern oder Partnern, sofern diese legitimen Zwecke nicht durch deine Rechte oder Interessen außer Kraft gesetzt werden.
+
+Gelegentlich kann sich Tumblr auf andere Rechtsgrundlagen stützen, um deine Daten zu verarbeiten, z. B. um die Lebensinteressen von dir oder anderen zu schützen (z. B. wenn ein unmittelbarer Schaden droht), wenn dies im öffentlichen Interesse erforderlich ist, oder um einer rechtlichen Verpflichtung, einem Gerichtsbeschluss oder der Ausübung und Verteidigung von Rechtsansprüchen nachzukommen.
+
+ACCOUNTDATEN: Wenn du in den Diensten einen Account einrichtest ("ACCOUNT") bitten wir um Daten wie Nutzername, Passwort, Alter und E-Mail-Adresse ("ACCOUNTDATEN"), um dir die Dienste verfügbar machen zu können. Zudem können wir die Accountdaten (einzeln oder zusammen mit weiteren Daten) nutzen, um die Dienste zu erweitern oder zu verbessern, beispielsweise durch Personalisierung. Wir können dein Alter heranziehen, um zu bestätigen, dass es dir rechtlich gestattet ist, die Dienste zu nutzen. Wir nutzen deine E-Mail-Adresse, um deinen Account zu bestätigen und um mit dir zu kommunizieren. Dies wird nachfolgend genauer beschrieben. Wir räumen Nutzern die Möglichkeit ein, über die E-Mail-Adresse nach Bekannten zu suchen. Du kannst diese E-Mail-Suche in den Account-Einstellungen (https://www.tumblr.com/settings/account) aber abwählen..
+
+Du kannst auf Tumblr weitgehende Anonymität bewahren. Bedenke jedoch, dass deine Einträge, Blogs, Seiten und dein Nutzername standardmäßig öffentlich sichtbar sind. Wer deine E-Mail-Adresse kennt, kann ferner deine Blogs finden. In den Account-Einstellungen (https://www.tumblr.com/settings/account) kannst du dich austragen.
+
+KOMMUNIKATION MIT UNS PER E-MAIL: Als Teil der Dienste erhältst du gelegentlich E-Mails und weitere Kommunikationen von uns. Administrative Kommunikationen bezüglich deines Accounts (beispielsweise für Zwecke der Wiederherstellung des Accounts oder Zurücksetzung des Passwortes) gelten als Teil der Dienste und deines Accounts, die du ggf. nicht abwählen kannst. Wir senden dir zudem möglicherweise E-Mails anderer Art, die du jedoch in deinen Account-Einstellungen oder durch den Link zur Abwahl in den E-Mails abwählen kannst. HINWEIS: WIR BITTEN niemals PER E-MAIL UM DEIN PASSWORT ODER SONSTIGE ACCOUNTDATEN. WENN DU EINE SOLCHE E-MAIL ERHÄLTST, LEITE DIESE BITTE AN UNS WEITER. 
+
+Wir verschicken zwei Arten von E-Mails: Die eine Kategorie betrifft interessante Inhalte, die auf Tumblr zu finden sind; die andere Kategorie betrifft wichtige Informationen bezüglich deines Accounts. Die erste Kategorie kann abgewählt werden, die zweite nicht.
+
+DATEN ÜBER DEINE ACCOUNTS AUF DIENSTEN VON DRITTEN: Du kannst deinen Account mit bestimmten Diensten von Dritten verknüpfen. Um dies zu tun, kannst du uns deinen Nutzernamen oder eine sonstige Nutzerkennung für den Dienst eines Dritten angeben. Dann kann es erforderlich sein, sich bei diesem Dienst anzumelden. Nach diesem Anmeldevorgang erhalten wir ein Token, mit dem wir Zugriff auf deinen Account in diesem Dienst erhalten, damit wir beispielsweise deine Inhalte in diesem Dienst veröffentlichen können, wenn du dies wünschst. Weder erhalten noch speichern wir deine Passwörter für deine Accounts bei Diensten von Dritten.
+
+DATEN AUS DIENSTEN VON DRITTEN: In manchen Fällen arbeiten wir mit Diensten von Dritten zusammen, die Daten über dich bereitstellen könnten. Zu diesen Daten könnte beispielsweise dein Geschlecht gehören, wenn du dieses gegenüber einem Dritten offengelegt und es für Tumblr verfügbar gemacht hast. In dem Umfang, in dem wir solche Daten erhalten, können wir diese zur Entwicklung neuer Dienste oder zur Verbesserung und Erweiterung bestehender Dienste nutzen.
+
+Wenn du weitere Dienste mit deinem Tumblr-Account verknüpfst, könnten diese Dienste Daten über dich an uns weitergeben. Welche Daten weitergegeben werden, wird durch die Datenschutzrichtlinien dieser Dritten geregelt. Solltest du hierzu Fragen oder Bedenken haben, bitten wir dich, die Datenschutzrichtlinien der Dritten heranzuziehen.
+
+INHALTE VON NUTZERN: Sämtlicher Austausch in den Diensten ist standardmäßig öffentlich. Wenn du Inhalte bei uns einstellst, werden diese veröffentlicht und sind für jeden sichtbar. Wir stellen Werkzeuge bereit, darunter durch Passwörter geschützte Blogs, Fragen und Fanpost, mit denen du Inhalte privat veröffentlichen kannst. Sofern du keine anderen Einstellungen (https://www.tumblr.com/settings/account) vorgenommen hast, solltest du stets annehmen, dass alles, was du veröffentlichst, für jeden sichtbar ist. Bedenke zudem, dass Inhalte, die du privat mit anderen Nutzern teilst, im Anschluss von diesen Nutzern veröffentlicht werden könnten. Dies gilt insbesondere für Fragen, Fanpost und übermittelte Beiträge. Inhalte, die öffentlich zugänglich gemacht und weitergegeben werden, sind allgemein verfügbar, darunter auch für Suchmaschinen. Dies hat Auswirkungen auf deine Möglichkeiten der Kontrolle solcher Inhalte. Zudem können öffentlich zugänglich gemachte Daten kopiert und im Internet weitergegeben werden, darunter durch Aktionen oder Funktionen, die den Diensten systemeigen sind, wie beispielsweise Rebloggen.
+
+Tumblr ist seinem Wesen nach eine öffentliche Plattform. Habe keine Angst vor der Veröffentlichung von Inhalten, sei dir aber bewusst, dass es äußerst schwierig sein kann, Inhalte aus dem Internet zu entfernen, wenn diese einige Stufen des Rebloggens durchlaufen haben.
+
+SYSTEMEIGENE AKTIONEN: Die Dienste ermöglichen bestimmte Aktionen, die wesentliche Bestandteile unsere Produkte sind, beispielsweise Liken, Rebloggen und Antworten auf Einträge sowie die Möglichkeit, einem Blog zu folgen. Die Aktionen Liken, Rebloggen und Antworten sind öffentlich, d. h. alle Nutzer können beispielsweise die Kommentare eines Eintrags aufklappen, um zu sehen, wer ihn gelikt, gerebloggt oder auf ihn geantwortet hat. Wir nutzen Daten zu sytemeigenen Aktionen, um die Dienste zu verbessern, neue Dienste zu entwickeln und vor allem um deine Tumblr-Erfahrung zu personalisieren. Zur Personalisierung mittels solcher Daten kann gehören, dir neue Einträge zu zeigen, die einen thematischen Bezug zu deinen Likes haben, bessere Suchergebnisse für dich bereitzustellen und dir Werbung zu zeigen, die deinen Interessen entspricht.
+
+Die Aktionen Rebloggn, Liken und Antworten sind öffentlich. Bedenke also, was du veröffentlicht sehen möchtest. Aber warum? Sei ruhig stolz und nicht überkritisch mit dir selbst. Wir sehen dir in die Augen und finden dich ganz wunderbar.
+
+DATEN ÜBER INHALTE VON USERN: In manchen Fällen erfassen wir Daten über Inhalte, die du den Diensten bereitstellst. Wir erfassen beispielsweise Daten zu deiner Kamera und den Kameraeinstellungen oder EXIF-Daten (http://de.wikipedia.org/wiki/Exchangeable_image_file_format), wenn diese Bestandteil deiner Bilder sind. Mit diesen Informationen können wir unsere Dienste verbessern und zusätzliche Eigenschaften und Funktionen anbieten.
+
+FINANZDATEN: Wir sammeln manchmal Finanzdaten, wie z. B. Angaben zu deiner Zahlungsmethode (gültige Kreditkartennummer, Typ, Verfallsdatum oder andere Finanzdaten). Wir bitten dich um diese Informationen, wenn du dich entscheidest, einen kostenpflichtigen Dienst zu nutzen. Wir speichern diese Finanzdaten jedoch nicht; diese Daten werden von unserem Zahlungsdienstleister (der "ZAHLUNGSDIENSTLEISTER") gespeichert, und die Verwendung und Speicherung dieser Daten unterliegt den geltenden  Allgemeinen Geschäftsbedingungen (http://www.authorize.net/company/terms/) und der  Datenschutzerklärung (http://www.authorize.net/company/privacy/) des Zahlungsdienstleisters (der Zahlungsdienstleister kann auch andere Bedingungen haben, und du bist dafür verantwortlich, diese Bedingungen zu finden und dich mit ihnen vertraut zu machen, soweit anwendbar). Wir erhalten von unserem Zahlungsdienstleister bestimmte Informationen: (1) einen einzigartigen Token, den wir mit deinem Konto verbinden, damit du weitere Einkäufe mit den von unserem Zahlungsdienstleister gespeicherten Informationen tätigen kannst, und (2) in bestimmten Fällen die letzten vier Ziffern der Kreditkartennummer, die diesem Token zugeordnet sind, damit wir betrügerische Transaktionen und Identitätsdiebstahl verhindern können.
+
+DATEN MIT BEZUG ZUR NUTZUNG DER DIENSTE: Wir sammeln Informationen darüber, wie die Dienste genutzt werden, auch von Personen mit einem Account. Diese Daten können in unseren Protokolldateien erfasst werden, wann immer du mit den Diensten interagierst (d. h. eine Anfrage an sie stellst). Wir verwenden interne Tools und Anwendungen sowie Dienste von Drittanbietern (wie Google Analytics oder comScore), um diese Informationen zu erfassen und zu analysieren. Einige dieser Informationen können auch mit der Internet-Protokoll-Adresse ("IP-ADRESSE") verknüpft sein, die für den Zugriff auf die Dienste verwendet wird; andere können mit deinem Account verbunden sein; und wieder andere können nur in zusammengefasster Form gesammelt und verwendet werden (als statistische Kennzahl, das weder dich noch deinen Account identifizieren würde). Wir erfassen auch deine IP-Adresse, wenn du einen Eintrag postest, insbesondere wenn du eine anonyme "Frage" stellst. Wir können diese Informationen darüber, wie du und andere mit den Diensten interagieren, für eine Reihe von Dingen verwenden, die im Allgemeinen mit der Verbesserung, dem Schutz und der Entwicklung neuer Dienste zusammenhängen, einschließlich, aber nicht beschränkt auf: die Bereitstellung personalisierter Inhalte für Benutzer; die Bereitstellung gezielter Werbung für Benutzer; die Verbesserung unserer Suchergebnisse; die Identifizierung von angesagten und beliebten Inhalten; die Bekämpfung von Spam, Malware, Identitätsdiebstahl und die allgemeine Aufrechterhaltung der Sicherheit unserer User und der Community; und aus rechtlichen und Sicherheitsgründen, die in "Daten, die zu unserem Schutz und dem Schutz von anderen offengelegt werden" dargelegt sind.
+
+Wir nutzen Daten über deine Interaktionen mit Tumblr, um es für dich zu personalisieren, dich und die Community zu schützen und Tumblr für alle seine Nutzer zu verbessern.
+
+DATEN MIT BEZUG ZU DEINEM BROWSER: Wir erhalten automatisch Daten von deinem Browser und zeichnen diese auf, wenn du mit den Diensten interagierst, darunter Typ und Version deines Browsers, Art des von dir genutzten Geräts, das Betriebssystem und dessen Version, deine Spracheinstellung, die Website oder den Dienst, über den du zu den Diensten gelangst, Datum und Zeit jeder von dir an die Dienste gerichteten Anfrage, Daten deiner Bildschirmdarstellung und Daten von Cookies, die wir in deinem Browser gesetzt haben (wie nachfolgend dargelegt). Wir erkennen manchmal auch, ob du bestimmte Browser-Erweiterungen nutzt und speichern diese Daten in einer Weise, die mit deinem Account verknüpft ist. Wir nutzen Browserdaten für die Bereitstellung, Sicherheit, Verbesserung und Erweiterung der Dienste.
+
+STANDORTDATEN: In manchen Fällen erfassen und speichern wir Daten über deinen Standort. Beispielsweise kann deine IP-Adresse in einen ungefähren geografischen Standort umgesetzt werden. Wir können dich auch bitten, Daten über deinen Standort anzugeben, beispielsweise die Erlaubnis zur Nutzung geografischer Daten deines Mobilgerätes, um einem Eintrag ein Geotag zu geben. Wir können Standortdaten dazu nutzen, um die Dienste zu verbessern und für dich zu personalisieren, beispielsweise durch Anzeige relevanter örtlicher Inhalte.
+
+DATEN MIT BEZUG ZU DEINEM MOBILGERÄT: Wir können Daten mit Bezug zu deinem Mobilgerät erfassen und speichern. In manchen Fällen können wir eine eindeutige Kennung deines Mobilgerätes erhalten, generieren oder zuordnen. Dies geschieht für die oben im Abschnitt "Daten bezüglich der Nutzung der Dienste" dargelegten Zwecke. Wir könnten dich zudem um deine Telefonnummer bitten, um neue Produkte zu ermöglichen und die Dienste zu verbessern, beispielsweise durch mehrstufige Authentifizierung bei der Account-Anmeldung. Wir werden dich bezüglich Erfassung und Speicherung deiner Telefonnummer stets um deine Einwilligung bitten.
+
+DATEN, DIE ÜBER COOKIES UND WEB-TAGS ERFASST WERDEN: Cookies sind Textdateien, die beim Zugriff auf eine Website an deinen Webbrowser gesendet und dort gespeichert werden können; dein Webbrowser speichert diese Cookies und verknüpft sie dabei mit jeder von dir besuchten Website. Du kannst deine Cookies generell in deinen Browser-Einstellungen sehen, je nachdem, welchen Browser du verwendest. Ein Web-Tag ist ein Code oder ein Pixel, der in eine Webseite oder E-Mail eingebettet ist und es Tumblr oder einem Drittanbieter ermöglicht, zu sehen, dass du diese Seite besucht hast. Wir verwenden Cookies und Web-Tags, damit unsere Server deinen Webbrowser erkennen und uns mitteilen können, wie und wann du die Dienste nutzt, wie oben unter "Daten im Zusammenhang mit der Nutzung der Dienste" beschrieben. Unsere Cookies enthalten an sich keine Informationen, die dich direkt identifizieren, und wir kombinieren die durch Cookies erfassten allgemeinen Daten nicht mit anderen ähnlichen Daten, um festzustellen, wer du bist. Wir verwenden jedoch Cookies, um festzustellen, ob du eingeloggt bist und ob dein Webbrowser auf die Dienste zugegriffen hat, und wir können diese Informationen mit deinem Konto verknüpfen, falls du eines hast. Wir können auch eindeutige oder nahezu eindeutige Identifikatoren, die wir mit deinem Account verknüpfen, in unseren Cookies speichern. Diese Informationen wiederum werden manchmal wie oben unter "Daten im Zusammenhang mit der  Nutzung der Dienste" beschrieben verwendet. Die meisten Webbrowser haben eine Option zum Deaktivieren von Cookies, die verhindert, dass dein Browser neue Cookies akzeptiert, und (je nachdem, wie ausgereift dein Webbrowser ist) es dir ermöglicht, über die Annahme jedes neuen Cookies auf unterschiedliche Art und Weise zu entscheiden. Wenn du Cookies deaktivierst, kannst du dich nicht in deinen Account einloggen und somit den Großteil unserer Dienste nicht nutzen; daher empfehlen wir nicht, deine Cookies bei der Nutzung der Dienste zu deaktivieren. Einige von uns genutzte Dienste (einschließlich der Dienste von Drittanbietern), wie Google Analytics, verwenden Web-Tags und können auch ihre eigenen Cookies in deinem Browser setzen, und einzelne Blogs in unserem Netzwerk können Code enthalten, der ihre eigenen Cookies setzt. Weitere Informationen zu Google Analytics findest du hier (http://www.google.com/policies/privacy/partners). Wir führen auch zeitlich begrenzte Studien mit Web-Tags durch, manchmal auch mit Drittanbietern, um beispielsweise die Wirksamkeit unserer Werbung oder unserer E-Mails zu messen. Beachten bitte, dass diese Datenschutzerklärung, sofern nicht anders angegeben, nur für die Verwendung von Cookies durch uns gilt und nicht für die Verwendung von Cookies durch Drittanbieter.
+
+Die Anmeldung in deinem Account ist eine der vielen nützlichen Funktionen von Tumblr. Dies wird durch Cookies ermöglicht. Mit Cookies und Web-Tags können wir zudem herausfinden, wie Tumblr genutzt wird, was uns in die Lage versetzt, das Produkt für dich stetig weiter zu verbessern.
+
+DATEN ÜBER DEINE KONTAKTE: Bestimmte Funktionen der Dienste ermöglichen dir, uns deine Kontaktlisten zur Verfügung zu stellen, damit wir dich mit Personen in unseren Diensten verbinden können, die sich auch auf diesen Kontaktlisten befinden. Du kannst beispielsweise vorübergehend deine E-Mail-Kontaktdaten mit deinem Account verknüpfen, damit wir dir eine Liste deiner E-Mail-Kontakte geben können, die die Dienste nutzen. Des Weiteren könntest du uns über unsere mobilen Apps deine mobilen Kontaktdaten senden, was uns ermöglichen würde, dir eine Liste derjenigen Kontakte zu übermitteln, die die Dienste nutzen, damit du ihren Blogs folgen kannst. Du hast die Wahl, ob du uns diese Daten bereitstellst, und wir werden innerhalb des entsprechenden Features vollständig offenlegen, wie wir diese Daten nutzen.
+
+Wir haben keinen Zugriff auf deine Kontaktliste, es sei denn, du räumst uns diesen ein. Warum solltest du dies tun? Weil du so herausfinden kannst, ob deine Kontakte bereits auf Tumblr sind. Wir löschen diese Daten unmittelbar danach.
+
+ABGELEITETE DATEN: Wie oben in den Abschnitten "Systemeigene Aktionen" und "Daten im Zusammenhang mit der Nutzung der Dienste" beschrieben, analysieren wir deine Aktionen in den Diensten, um daraus bestimmte Merkmale deines Accounts abzuleiten (beispielsweise, welchen Blogs du folgst und welche Einträge du aufrufst, likst und rebloggst). Wir nutzen diese Daten für die Zwecke, die oben im Abschnitt "Daten im Zusammenhang mit der Nutzung der Dienste" dargelegt sind.
+
+
+INDIVIDUALISIERTE WERBUNG AUF TUMBLR
+
+Um dir die ganzen Tumblr-Inhalte kostenlos zur Verfügung stellen zu können, schaltet Tumblr selektiv Werbeanzeigen für eingeloggte User. Wir und unsere Muttergesellschaft Automattic arbeiten mit Online-Werbeunternehmen zusammen, um dir möglichst relevante und nützliche Werbung anzubieten. Um unsere Anzeigen relevanter und nützlicher zu machen, versuchen wir uns nach den Interessen zu richten, die wir basierend auf deinen Aktivitäten auf unseren Websites und Services vermuten. Die Anzeigen, die wir dir zeigen, spiegeln oft diese vermuteten Interessen wider.
+
+In Tumblrs Werbe- und Affiliate-Richtlinien (https://tumblr.zendesk.com/hc/articles/360035272334-Tumblr-ads-you) erfährst du mehr darüber, wie wir die Anzeigen für dich aussuchen.
+
+ENTSCHEIDE SELBST ÜBER DEINE PERSONALISIERTE WERBUNG: Wenn du keine sehen möchtest, deaktiviere sie einfach. Beachte bitte, dass du nach dem Ausloggen weiterhin Werbung auf Tumblr sehen wirst, diese für dich aber weniger relevant und nützlich sein wird.
+
+Wenn du web-basierte Versionen von Tumblr verwendest, kannst du dich auf den folgenden Opt-out-Seiten gegen interessenbezogene oder personalisierte Werbung entscheiden:
+
+(EU) European Interactive Digital Advertising Alliance (EDAA) - www.youronlinechoices.com
+(US) Network Advertising Initiative (NAI) - www.networkadvertising.org
+(US) Digital Advertising Alliance (DAA) - www.aboutads.info
+(Japan) Data Driven Advertising Initiative (DDAI) - www.ddai.info
+
+Diese Branchenwerbeunternehmen bieten webbrowserbasierte Tools an, um die Verwendung deiner Website-Daten für interessenbezogene oder personalisierte Werbung einzuschränken. Alle über diese Branchentools getroffenen Entscheidungen gelten nur für den Webbrowser, der für die getroffenen Entscheidungen verwendet wird. Diese Werbeoptionen werden nicht auf all deine Geräte übertragen.
+
+Wenn du die mobile App-Version von Tumblr auf iOS-Geräten von Apple verwendest, kannst du dich von personalisierter Werbung abmelden, indem du "Kein Ad-Tracking" in den iOS-Einstellungen wählst. Für weitere Informationen zu diesen iOS-Optionen:
+
+1. Öffne die Einstellungen;
+2. Wähle “Datenschutz”;
+3. Wähle “Werbung” und folge den Anweisungen.
+
+Wenn du die mobile App-Version von Tumblr auf Android-Geräten verwendest, kannst du dich von personalisierter Werbung abmelden, indem du "Interessenbezogene Werbung deaktivieren” in den Google-Einstellungen wählst. Für weitere Informationen zu diesen Android-Optionen:
+
+1. Öffne die Einstellungen;
+2. Wähle “Google”;
+3. Wähle “Datenschutz”;
+4. Wähle “Werbung” und folge den Anweisungen.
+
+
+WEITERGABE DEINER DATEN
+
+Wir geben Daten, die wir von dir erhalten, nicht weiter, außer wenn: (a) wir deine Einwilligung zur Weitergabe dieser Daten haben, um beispielsweise Dienste bereitzustellen, die du wünschst (auch wenn du dich mit Diensten von Drittanbietern verbindest); (b) wir dich vorab benachrichtigt haben, dass die Daten weitergegeben werden und an wen (wie in dieser Datenschutzerklärung); oder (c) es sich um zusammengefasste Daten oder sonstige Daten handelt, die dich nicht identifizieren. Du bestätigst, dass du über alle erforderlichen Einwilligungen und Berechtigungen verfügst, um personenbezogene Daten Dritter hochzuladen und weiterzugeben, und wenn dies für die Kontaktaufnahme (und im Falle von Tumblr für die Kontaktaufnahme in deinem Namen) mit diesen Dritten relevant ist.
+
+DATEN, DIE WIR AN VERBUNDENE UNTERNEHMEN WEITERGEBEN/VON DIESEN ERHALTEN: Wir sind eine hundertprozentige Tochtergesellschaft von Automattic (http://automattic.com), einem Technologieunternehmen, das es Menschen ermöglicht, tolle Websites zu bauen, ihre Geschichten zu erzählen und ihr Publikum zu finden und zu erweitern. Da wir eine hundertprozentige Tochtergesellschaft sind, können wir mit Automattic und den übrigen Mitgliedern unserer Unternehmensgruppe sämtliche Daten teilen. Unsere Unternehmensgruppe kann die Daten, die sie von uns erhält, dazu nutzen, uns dabei zu unterstützen, die Dienste bereitzustellen, zu untersuchen und zu verbessern (darunter zur Bereitstellung von Analysen) sowie mit ihren Produkten und Diensten zu verbinden (darunter zur Bereitstellung einer personalisierteren Erfahrung in ihren und unseren Diensten). Weitere Informationen darüber, wie Automattic mit erfassten Daten umgeht, findest du in dieser Datenschutzerklärung (https://automattic.com/privacy/).
+
+Wir unterstehen der Inhaberschaft von Automattic und wir tauschen Daten mit Automattic und der Unternehmensgruppe von Automattic aus.
+
+DATEN, DIE ÜBER DIE DIENSTE AN DIE ÖFFENTLICHKEIT WEITERGEGEBEN WERDEN: Wie oben in den Abschnitten "Inhalte von Usern" und "Systemeigene Aktionen" dargelegt, sind durch die Dienste publizierte Inhalte und viele Aktionen, die du in den Diensten ausführst, öffentlich. Da diese Daten öffentlich sichtbar sind und durch Suchmaschinen indexiert werden können (darunter die Google-Suche und die Yahoo-Suche) solltest du darauf achten, nur Informationen öffentlich zu machen, die du bedenkenlos mit allen teilen kannst.
+
+Inhalte, die du auf Tumblr erstellst, sind per Standardeinstellung öffentlich. Dies bedeutet, dass jedermann diese Inhalte sehen kann und dass Suchmaschinen sie indexieren können. Wenn du wünschst, dass dein Blog nicht öffentlich ist, ziehe bitte die zusätzlichen Datenschutzfunktionen (https://tumblr.zendesk.com/hc/articles/115011611747-Privacy-options) in Betracht, die wir anbieten.
+
+DATENAUSTAUSCH ZWISCHEN DEN DIENSTEN: Wir können Daten zu deiner Nutzung mehrerer Dienste zusammenfassen und solche konsolidierten Daten verwenden, um die Dienste zu erweitern und zu verbessern und neue Dienste zu entwickeln.
+
+DATEN, DIE DU MIT DIENSTEN VON DRITTANBIETERN AUSTAUSCHST: Du kannst in den Diensten Zugriff auf Dienste von Drittanbietern erhalten, beispielsweise durch das Anklicken externer Links. Es steht dir frei, Daten, die du uns zur Verfügung stellst (beispielsweise Blogeinträge) auch an Dienste von Drittanbietern weiterzugeben (beispielsweise durch das Teilen von Einträgen auf Twitter oder Facebook). Diese Datenschutzerklärung befasst sich allerdings nur mit Daten, die wir erfassen. Es obliegt dir, die Datenschutzrichtlinien der Drittanbieter-Dienste hinzuzuziehen.
+
+Einträge, die du auf Tumblr veröffentlichst, kannst du automatisch auch auf anderen Websites (beispielsweise Facebook oder Twitter) veröffentlichen. Dort endet allerdings unsere Datenschutzerklärung und die Datenschutzrichtlinien anderer Anbieter finden Anwendung. Du solltest dich der Richtlinien von Diensten bewusst sein, an die du Daten weitergibst, bevor du diese mit deinem Tumblr-Account verknüpfst.
+
+DATEN, DIE MIT UNSEREN BEAUFTRAGTEN AUSGETAUSCHT WERDEN, UM DIE DIENSTE ZU BETREIBEN UND ZU VERBESSERN: In manchen Fällen geben wir von uns gespeicherte Daten (beispielsweise IP-Adressen) an Dritte wie Dienstanbieter, Berater und andere Beauftragte, ("BEAUFTRAGTE"), weiter. Dies geschieht zum Zwecke des Betreibens, der Erweiterung und Verbesserung der Dienste sowie zur Entwicklung neuer Produkte und Dienste. Wir tauschen beispielsweise Daten mit Dienstanbietern aus, um Spam zu bekämpfen. Externe Berater können Zugriff auf Daten erhalten, wenn unsere Prozesse und Technologien verbessert werden. Die Beauftragten, an die wir solche Daten aus diesen Gründen weitergeben, sind generell durch entsprechende Vereinbarungen zur Vertraulichkeit verpflichtet. Unsere Beauftragten haben kein Recht, von uns erhaltene Daten über den Bereich und die Dauer hinaus zu nutzen, die zur Erfüllung ihrer Aufgaben notwendig sind.
+
+OFFENLEGUNG VON DATEN IM ZUGE VON UNTERNEHMENSÜBERTRAGUNGEN: In manchen Fällen können wir uns dazu entschließen, Unternehmensbereiche zu erwerben oder zu verkaufen. In solchen Transaktionen gehören die Daten von Usern gewöhnlich zu den geschäftlichen Aktiva, die übertragen werden. Werden wir bzw. unsere wesentlichen Aktiva erworben, oder beenden wir die geschäftliche Tätigkeit oder melden Insolvenz an, gehören Daten von Usern zu den Aktiva, die an Dritte übertragen oder von diesen erworben werden können. Solche Übertragungen können vorkommen und zu den berechtigten Interessen der beteiligten Parteien gehören. Nach einer solchen Übertragung kann der Käufer, der uns oder unsere Aktiva erworben hat, deine Daten weiterhin gemäß dieser Datenschutzerklärung nutzen.
+
+Sollten wir (erneut!) übernommen werden oder unsere geschäftliche Tätigkeit beenden (bestimmt nicht), kann die Übertragung von Aktiva von uns an den Käufer Daten von Nutzern umfassen. Käufern ist die Nutzung der Daten ausschließlich in der Weise gestattet, die in dieser Datenschutzerklärung dargelegt wird.
+
+DATEN, DIE ZU UNSEREM SCHUTZ UND DEM SCHUTZ ANDERER OFFENGELEGT WERDEN: Wir glauben an die Meinungsfreiheit und versuchen, unsere Community im Rahmen des Zumutbaren vor unbegründeten rechtlichen Forderungen zu schützen. Allerdings behalten wir uns auch das Recht vor, auf alle Informationen zuzugreifen, sie aufzubewahren und offenzulegen, die nach unserem Ermessen notwendig sind, um (i) Gesetze, Vorschriften, Gerichtsverfahren, behördliche Anfragen oder behördliche Anordnungen zu erfüllen, (ii) diese Datenschutzerklärung, unsere Allgemeinen Geschäftsbedingungen (https://www.tumblr durchzusetzen.com/policy/terms-of-service) und alle anderen Vereinbarungen, die wir mit dir getroffen haben, einschließlich der Untersuchung möglicher Verstöße gegen diese Bedingungen, durchzusetzen, (iii) Betrug, Sicherheitsfragen und technische Probleme aufzudecken, zu verhindern, zu untersuchen oder anderweitig zu behandeln (einschließlich des Austauschs von Informationen mit anderen Unternehmen und Organisationen zum Zwecke der Verbesserung der Sicherheit und der Bekämpfung von Betrug, Spam und Malware), (iv) auf Supportanfragen von Usern reagieren oder (v) die Rechte, das Eigentum, die Gesundheit oder die Sicherheit von uns, unseren Usern, Dritten oder der Öffentlichkeit im Allgemeinen zu schützen, einschließlich, aber nicht beschränkt auf Situationen, in denen Gewalt, Selbstmord oder Selbstverletzung möglich sind.
+
+Wir haben nicht den Wunsch, unsere Nutzer zu überwachen. Wir haben die Nutzer von Tumblr aber davor zu schützen sich, andere oder uns zu schädigen. Der Ausgleich zwischen Datenschutz und Community ist für uns ein stetiges Anliegen und wir sind sicher, dass unsere Nutzer Verständnis dafür haben, dass es sich hierbei um eine ernsthafte und komplexe Aufgabe handeln kann.
+
+WEITERGABE VON DATEN MIT DEINER EINWILLIGUNG ODER AUF DEINEN WUNSCH: Ungeachtet deiner nachfolgend erwähnten Rechte als User aus der EU werden wir, wenn du uns hierzu aufforderst, Daten über deinen Account freigeben, soweit dies sinnvoll und machbar ist.
+
+DATEN, DIE MIT WEITEREN DRITTEN AUSGETAUSCHT WERDEN: Wir können öffentliche, zusammengefasste oder anonymisierte Daten mit natürlichen oder juristischen Personen, mit denen wir geschäftlich tätig sind,  austauschen oder ihnen gegenüber offenlegen.
+
+
+SICHERHEIT UND AUFBEWAHRUNG DEINER DATEN
+
+Der Schutz unserer Systeme und der Daten unserer User ist von größter Bedeutung, um sicherzustellen, dass Tumblr-User eine sichere Benutzererfahrung genießen und uns weiterhin vertrauen.
+
+Deine Accountdaten sind durch ein Passwort geschützt. Künftig können weitere Sicherheitsfunktionen hinzukommen, wie beispielsweise eine mehrstufige Authentifizierung. Sorgst du für Schutz vor unbefugtem Zugriff auf deinen Account und dessen Daten, indem du ein individuelles, sicheres und geschütztes Passwort erstellst und den Zugriff auf deinen Computer und Browser beschränkst, indem du dich abmeldest, sobald du die Nutzung der Dienste und des Accounts beendest.
+
+Tumblr bewahrt deine Daten nur so lange auf, wie es für die gemäß dieser Datenschutzerklärung dargelegten Zwecke notwendig ist, solange dein Account bei Tumblr aktiv ist oder es notwendig ist, um die Dienste für dich bereitzustellen. Wenn du nicht mehr wünschst, dass Tumblr deine Daten verwendet, um die Dienste für dich bereitzustellen, kannst du deinen Account schließen und Tumblr wird die gespeicherten Daten löschen, soweit Tumblr nicht deine Daten zur Einhaltung rechtlicher Verpflichtungen, zur Beilegung von Streitfällen, zur Durchsetzung unserer Verträge oder wie anderweitig gesetzlich gestattet aufzubewahren und zu nutzen hat.
+
+Es ist äußerst wichtig, dass du für alle deine Accounts im Internet jeweils ein individuelles Passwort hast, einschließlich deines Tumblr-Accounts. Wenn du Probleme damit hast, dir Passwörter zu merken, solltest du die Nutzung eines Dienstes wie  1Password (https://agilebits.com/onepassword) oder LastPass (https://lastpass.com/) in Erwägung ziehen.
+
+
+BERECHTIGTE INTERESSEN
+
+Wir können deine Daten verwenden, um unsere Dienste und die Anzeigen und Inhalte, die wir dir zur Verfügung stellen, verbessern und anpassen zu können. Dazu kann auch die Weitergabe deiner Daten zu diesen Zwecken gehören. Wir tun das, wenn es notwendig ist, um unsere berechtigten Interessen und deine berechtigten Interessen am Erhalt personalisierter Inhalte und Dienste zu verfolgen. Die Verwendung und Weitergabe deiner Daten zu diesen Zwecken ist auch notwendig, damit wir unsere berechtigten Interessen verfolgen können, die darin bestehen, zu verstehen, wie unsere Dienste genutzt werden, und um Lösungen zu entwickeln, mit denen wir unsere Dienste so ändern können, dass sie für dich und andere User spannender und interessanter sind. Die Verwendung deiner Daten aus den in dieser Datenschutzerklärung beschriebenen Gründen ist auch notwendig, damit wir unsere berechtigten Interessen verfolgen können, die in der Verbesserung unserer Dienste, der Erkennung von Nutzungsmustern unserer Dienste, mehr Effizienz und Attraktivität unserer Dienste für die User liegen.
+
+Wir können deine Daten auch zu Sicherheits- und Schutzzwecken verwenden, einschließlich der Weitergabe deiner Daten zu diesen Zwecken, und wir tun dies, um unser und dein berechtigtes Interesse an der Gewährleistung der Sicherheit unserer Dienste zu verfolgen, einschließlich der Verbesserung des Schutzes der User vor Belästigung, IP-Eingriffen, Spam sowie Kriminalität und Sicherheitsrisiken aller Art.
+
+Du hast das Recht, einer solchen Verarbeitung zu widersprechen. Wenn du das tun möchtest, wende dich bitte an den Tumblr-Support.
+
+
+DATEN, AUF DIE DU ZUGREIFEN KANNST
+
+Als registrierter Nutzer hast du Zugriff auf die meisten der mit deinem Account verknüpften Daten. Melde dich dazu in den Diensten an und besuche die Seite mit den Account-Einstellungen. Nutzer haben in den Einstellungen ihres Browsers Zugriff auf Cookies und können diese löschen, und zwar unabhängig davon, ob sie bei uns registriert sind oder nicht.
+
+SCHLIESSUNG DEINES ACCOUNTS UND DESSEN FOLGEN
+
+Wenn du deinen Account löschen möchten, kannst du dies entweder in den Account-Einstellungen (https://www.tumblr.com/settings/account) tun oder indem du uns per E-Mail (https://www.tumblr.com/support) Nachweise schickst, dass der Account dir gehört. Was als Nachweis gilt, hängt von den jeweiligen Umständen ab. In der Regel werden jedoch Daten für eine hinreichende Identifizierung benötigt, damit wir sichergehen können, dass du der Eigentümer des Accounts bist. Da die Dienste jedoch durch das Teilen von Inhalten geprägt sind, könnten öffentliche Aktivitäten in deinem Account, die vor der Löschung stattfanden (beispielsweise das Rebloggen deiner Blogeinträge) auf unseren Servern gespeichert und öffentlich zugänglich bleiben.
+
+Wir schätzen dich als Nutzer von Tumblr. Solltest du uns jedoch verlassen wollen, steht es dir frei, deinen Account jederzeit und aus beliebigen Gründen zu löschen. Die Löschung wird zum größten Teil sofort wirksam, aber es kann einige Zeit in Anspruch nehmen, sämtliche Inhalte aus unseren Archiven und Backups zu entfernen.
+
+Es ist jedoch nicht möglich, Reblogs deiner Einträge zu entfernen. Diese verbleiben in den Blogs, in denen das Rebloggen vorgenommen wurde. Wie zuvor gesagt, kann es äußerst schwierig sein, etwas zu entfernen, das im Internet verbreitet wurde. Veröffentliche deshalb nur Inhalte, von denen du sicher bist, dass du sie veröffentlichen möchtest.
+
+
+EU-KONTROLLEN UND DATENSCHUTZRECHTE
+
+Wenn du deinen ständigen Wohnsitz in der EU hast, ist Tumblr dein Datenverantwortlicher. In Übereinstimmung mit dem EU-Recht hast du eine Reihe von Rechten und Entscheidungsmöglichkeiten hinsichtlich der Verwendung deiner Daten.
+
+ZUGRIFF UND PORTIERUNG. Wie im Abschnitt "Daten, auf die du zugreifen kannst" beschrieben, kannst du auf viele deiner Daten zugreifen, indem du dich in deinen Tumblr-Account einloggst. Wenn du zusätzlichen Zugriff benötigst oder wenn du keinen Tumblr-Account hast, kontaktiere uns (https://www.tumblr.com/support), um eine Kopie deiner Daten anzufordern. Soweit gesetzlich vorgeschrieben, können wir deine Daten in einem leicht zugänglichen Format zur Verfügung stellen und bei der Übermittlung einiger dieser Daten an Dritte helfen.
+
+KORRIGIEREN, EINSCHRÄNKEN, LÖSCHEN. Du kannst auch die meistendeiner Daten korrigieren, einschränken oder löschen, indem du dich auf Tumblr einloggst. Wenn du das nicht kannst oder du keinen Tumblr-Account hast, kontaktiere uns (https://www.tumblr.com/support) bitte. Weitere Informationen zum Löschen deines Accounts und zum Verlassen von Tumblr findest du im Abschnitt "Schließung deines Accounts".
+
+WIDERSPRUCH. Unter bestimmten Umständen, wie sie z. B. im Abschnitt "Berechtigte Interessen" oben beschrieben sind, hast du auch das Recht, der Verarbeitung deiner Daten durch uns zu widersprechen. In solchen Fällen werden wir die Verarbeitung deiner Daten einstellen, es sei denn, wir haben zwingende berechtigte Gründe für die Fortsetzung der Verarbeitung oder sie ist aus rechtlichen Gründen erforderlich. Wenn wir deine Daten zum Zwecke des Direktmarketings verwenden, kannst du jederzeit Einspruch erheben, indem du den Abmeldelink in derartigen Mitteilungen verwendest, deine Account-Einstellungen (https://www.tumblr.com/settings/account) änderst oder uns kontaktierst (https://www.tumblr.com/support).
+
+EINWILLIGUNG WIDERRUFEN. Du hast das Recht, deine Einwilligung zur Verarbeitung deiner Daten und zur Nutzung unserer Dienste jederzeit zu widerrufen. Ähnlich wie bei der Einwilligung durch Interaktion mit unseren Diensten kannst du auch über unsere Dienste deine Einwilligung widerrufen. Du kannst deinen Tumblr-Account wie oben beschrieben löschen.
+
+Wenn du deine Einwilligung zur Nutzung oder Weitergabe deiner Daten für die in dieser Datenschutzerklärung dargelegten Zwecke widerrufst, hast du möglicherweise keinen Zugang zu allen (oder einem) unserer Dienste und wir können dir möglicherweise nicht alle (oder einen) der Dienste im Rahmen dieser Datenschutzerklärung und unserer Allgemeinen Geschäftsbedingungen anbieten. In bestimmten Fällen können wir deine Daten weiterverarbeiten, nachdem du die Einwilligung widerrufen hast, und zwar wenn wir über eine entsprechende Rechtsgrundlage verfügen oder wenn dein Widerruf auf bestimmte Verarbeitungsvorgänge beschränkt war. So können wir beispielsweise Daten speichern, wenn wir dazu gesetzlich verpflichtet sind.
+
+BESCHWEREN. Unbeschadet deiner sonstigen Rechte hast du auch das Recht, eine Beschwerde gegen uns bei deiner örtlichen Aufsichtsbehörde einzureichen. Klicke hier (http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm), um deine örtliche Aufsichtsbehörde zu finden.
+
+
+ÜBERTRAGUNG
+
+Da Tumblr ein US-amerikanisches Unternehmen ist, werden deine Daten in den USA erfasst und verarbeitet. Die Vereinigten Staaten haben unterschiedliche Datenschutzgesetze und Regeln in Bezug auf den staatlichen Zugang zu Informationen und verfügen möglicherweise nicht über die gleichen Datenschutzvorkehrungen wie dein Heimatland. Du kannst entscheiden, ob du unsere Dienste nutzen möchtest oder nicht. Wenn du sie jedoch nutzen möchtest, musst du unseren Allgemeinen Geschäftsbedingungen zustimmen, die die Bedingungen des Vertrages zwischen uns und dir festlegen. Soweit davon ausgegangen wird, dass Tumblr deine Daten außerhalb des EWR überträgt, verlässt sich Tumblr auf die Tatsache, dass eine solche Übermittlung notwendig ist, um unsere Dienste an dich in Übereinstimmung mit dem Vertrag zwischen uns zu erbringen.
+
+
+ÄNDERUNGEN AN DIESER DATENSCHUTZERKLÄRUNG
+
+Wir können diese Datenschutzerklärung von Zeit zu Zeit ändern, daher solltest du sie von Zeit zu Zeit überprüfen. Wenn wir wesentliche Änderungen vornehmen, werden wir dich entweder durch einen deutlichen Hinweis vor Inkrafttreten dieser Änderungen oder durch eine direkte Benachrichtigung informieren. Das Datum der letzten Änderung sagt dir, wann die Datenschutzerklärung zuletzt aktualisiert wurde.
+
+
+FRAGEN UND BEDENKEN
+
+Solltest du Fragen oder Bedenken hinsichtlich des Datenschutzes bei der Nutzung der Dienste haben, kontaktiere uns bitte (https://www.tumblr.com/support).
+
+Du kannst uns auch über unser angeschlossenes Unternehmen in Europa erreichen, das, wie wir, zu Automattic gehört:
+
+AUT O’MATTIC A8C IRELAND LTD.
+Business Centre, No.1 Lower Mayor Street
+International Financial Services Centre
+Dublin 1, Ireland
+
+
+LINK ZU VORVERSIONEN
+
+Nachfolgend findest du einen Link zu Vorversionen unserer Datenschutzerklärung. Wir haben diese Versionen auf GitHub gespeichert. So kannst du die Versionen vergleichen und sehen, welche Bestimmungen sich geändert haben:
+
+https://github.com/tumblr/policy/commits/master/privacy_localization/en_eu/privacy_policy.txt
