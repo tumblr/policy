@@ -11,28 +11,43 @@ What Tumblr is for:
 
 What Tumblr is not for:
 
-  Malicious Speech.
+  Terrorism. 
+    
+    We don't tolerate content that promotes, encourages, or incites acts of 
+    terrorism. That includes content which supports or celebrates terrorist
+    organizations, their leaders, or associated violent activities.
 
-    Don't encourage violence or hatred. Don’t make violent threats or statements
-    that incite violence, including threatening or promoting terrorism. Especially
-    don’t do so on the basis of things like race, ethnic origin, religion,
-    disability, gender, gender identity, age, veteran status, or sexual orientation.
-    If you encounter negative speech that doesn’t rise to the level of violence or
-    threats of violence, we encourage you to dismantle negative speech through argument
-    rather than censorship. That said, if you encounter anything especially heinous,
-    tell us about it.
+  Hate Speech. 
+    
+    Don't encourage violence or hatred. Don't post content for the purpose
+    of promoting or inciting the hatred of, or dehumanizing, individuals or
+    groups based on race, ethnic or national origin, religion, gender, 
+    gender identity, age, veteran status, sexual orientation, disability or
+    disease. If you encounter content that violates our hate speech policies,
+    please report it.
 
-  Harm to Minors.
-
-    Be thoughtful when posting anything involving a minor. Don't post or
-    solicit anything relating to minors that is sexually suggestive or violent.
-    Don't bully minors, even if you are one. Being a teenager is complicated
-    enough without the anxiety, sadness, and isolation caused by bullying.
-
+    Keep in mind that a post might be mean, tasteless, or offensive without
+    necessarily encouraging violence or hatred. In cases like that, you can
+    always block the person who made the post—or, if you're up for it, you 
+    can express your concerns to them directly, or use Tumblr to speak up,
+    challenge ideas, raise awareness or generate discussion and debate.
+    
+  Harm to Minors. 
+    
+    Don't post or solicit content that features the abuse of a minor, that
+    includes suggestive or sexual content involving a minor or anyone that 
+    appears to be a minor, or that facilitates or promotes child sexual 
+    abuse. "Content" may include photos of real individuals, illustrations,
+    animation, or text. Posting or reblogging child sexual abuse material
+    is a serious crime for which we have no tolerance. We report all such
+    instances to child protection organizations and law enforcement around 
+    the world, including the National Center for Missing and Exploited 
+    Children.
+    
   Promotion or Glorification of Self-Harm.
 
     Don't post content that actively promotes or glorifies self-harm. This
-    includes content that urges or encourages others to cut or injure
+    includes content that urges or encourages others to: cut or injure
     themselves; embrace anorexia, bulimia, or other eating disorders; or
     commit suicide rather than, e.g., seeking counseling or treatment, or
     joining together in supportive conversation with those suffering or
@@ -43,46 +58,40 @@ What Tumblr is not for:
     support and recovery, and we will remove only those posts or blogs that
     cross the line into active promotion or glorification of self-harm.
 
-  Unmarked sensitive content.
+  Sexually Explicit Material. 
+  
+    Visual depictions of sexually explicit acts (or content with an overt focus on
+    genitalia) are not allowed on Tumblr. That includes pictures, videos, GIFs, 
+    drawings, CGI, or anything similar. Historically significant art that you may 
+    find in a mainstream museum and which depicts sex acts—such as from India’s 
+    Śuṅga Empire—are now allowed on Tumblr with proper labeling.
 
-    Tumblr is common ground for millions of people from a wide variety of locations,
-    cultures, and backgrounds. Some of them are okay with seeing sensitive content
-    on their dashboard, and some aren't, and that’s fine—that's what Safe Mode is for.
-    While we attempt to automatically categorize content that might not be suitable for
-    all viewers, you can help us respect the choices of people in the community by
-    pre-emptively marking any sensitive material you post.
+    Nudity and other kinds of adult material are generally welcome. We’re not here
+    to judge your art, we just ask that you add a Community Label to your mature 
+    content so that people can choose to filter it out of their Dashboard if they 
+    prefer.
 
-        If you're thinking about posting something that contains sensitive content,
-        please flip the "Mark as sensitive" switch before publishing it (you'll see
-        that switch in the post form). Some examples of sensitive content might include
-        nudity in an artistic, educational, or photojournalistic context.
+    You have the option to add a community label when making a new post,
+    reblogging a post, or editing an existing post. Depending on your content, you
+    can label it as generally mature or choose a specific category such as “Sexual
+    Themes” if your post contains sexually suggestive subject matter.
 
-        If you regularly post sexually explicit material, we ask that you mark your
-        Tumblr as "Explicit" (which you can do on your blog's settings page).
+    Blogs which have a focus on mature content may not be eligible for certain
+    Tumblr features, including monetization options. We need to consider the
+    policies of our partners in the payments space, so the rules there are a bit 
+    different.
 
-  Gore, Mutilation, Bestiality, or Necrophilia.
-
-    Don't post gore just to be shocking. Don't showcase the mutilation or
-    torture of human beings, animals, or their remains. Dick.
-
-  Unflagged NSFW Blogs.
-
-    Tumblr is home to millions of readers and creators from a variety of
-    locations, cultures, and backgrounds who hold different points of view
-    concerning adult-oriented content. If you regularly post sexual or
-    adult-oriented content, respect the choices of people in our community who
-    would rather not see such content by flagging your blog (which you can do
-    on your blog's Settings page) as Not Suitable for Work ("NSFW"). This
-    action doesn't prevent you or your readers from using any of Tumblr's
-    social features, but rather screens your blog's content from Tumblr users
-    who would prefer not to see NSFW material.
-
-  Uploading Sexually Explicit Video.
-
-    You can embed anything in a Tumblr post as long as it's lawful and it
-    follows our other guidelines, but please don't use Tumblr's Upload Video
-    feature to upload sexually explicit video. We're not in the business of
-    hosting adult-oriented videos (it's fucking expensive).
+    For more information about this guideline, and how to appeal decisions about
+    sexually explicit material, check out our Help Center article.
+    
+  Violent Content and Threats, Gore and Mutilation. 
+  
+    Don't post content which includes violent threats toward individuals or groups
+    - this includes threats of theft, property damage, or financial harm. Don't post
+    violent content or gore just to be shocking. Don't showcase the mutilation or
+    torture of human beings, animals (including bestiality), or their remains. 
+    Don't post content that encourages or incites violence, or glorifies acts of
+    violence or the perpetrators.
 
   Non-Genuine Social Gesture Schemes.
 
@@ -107,7 +116,9 @@ What Tumblr is not for:
     original sources. When you find something awesome on Tumblr, reblog it
     instead of reposting it. It's less work and more fun, anyway. When
     reblogging something, DO NOT inject a link back to your blog just to steal
-    attention from the original post.
+    attention from the original post. If you want to report the unauthorized 
+    posting of content you created or have a copyright for, please do so using 
+    this form.
 
   Username / URL Abuse or Squatting.
 
@@ -141,10 +152,11 @@ What Tumblr is not for:
 
     Don't register accounts or post content automatically, systematically, or
     programmatically.
-
-  Unauthorized Contests, Sweepstakes, or Giveaways.
-
-    Please follow our guidelines for contests, sweepstakes, and giveaways.
+    
+  Illegitimate Promotions. 
+  
+    Please see our Promotions Guidelines for requirements around contests, 
+    sweepstakes, and giveaways.
 
   Themes Distributed by Third Parties.
 
@@ -201,21 +213,24 @@ What Tumblr is not for:
     Whew. It's a complex process, but one we're proud of, and that we think
     strikes all the appropriate balances.
 
-  Confusion or Impersonation.
+  Impersonation and Non-Genuine Behavior
 
-    Don't do things that would cause confusion between you or your blog and a
-    person or company, like registering a deliberately confusing URL. Don't
-    impersonate anyone. While you're free to ridicule, parody, or marvel at the
-    alien beauty of Benedict Cumberbatch, you can't pretend to actually be
-    Benedict Cumberbatch.
+    Don't do things that may cause confusion between your blog and another
+    person, organization, or company, like registering a deliberately
+    confusing URL or pretending to be a celebrity or an elected official.
+    Don't impersonate anyone. While you're free to ridicule, parody, or 
+    marvel at the alien beauty of Benedict Cumberbatch, you can't pretend
+    that you're actually Benedict Cumberbatch.
 
   Harassment.
 
-    Don’t engage in targeted abuse or harassment. If anyone is sending you
-    unwanted messages or reblogging your posts in an abusive way, we encourage
-    you to be proactive and block the hell out of them. And if someone blocks you,
-    don't attempt to circumvent the block feature or otherwise try to communicate
-    with them. Just stop.
+    Don't engage in targeted abuse, bullying, or harassment. Don't engage
+    in the unwanted sexualization or sexual harassment of others. If 
+    someone is sending you unwanted messages, or reblogging your posts 
+    in an abusive way, we encourage you to be proactive. Report them, and
+    block the hell out of them. And if someone blocks you, don't attempt 
+    to circumvent the block feature or otherwise try to communicate with 
+    them.
 
   Privacy Violations.
 
@@ -233,8 +248,31 @@ What Tumblr is not for:
 
   Unlawful Uses or Content.
 
-    Don’t use Tumblr to conduct illegal behavior, like fraud or phishing.
-    That should be pretty obvious to you, a decent human being.
+    Don't use Tumblr to conduct illegal behavior, like fraud or phishing.
+    That should be pretty obvious to you, a decent human being. Don't use
+    Tumblr for any kind of exchange of regulated drugs, substances,
+    devices, goods, or weapons. Don't use Tumblr to buy them, sell them,
+    trade them, or to share instructions for manufacturing them. This
+    includes firearms, firearm parts, 3D-printed firearms or parts,
+    explosives, ammunition, or anything else designed to hurt others.
+    
+  Election Integrity. 
+  
+    You may not use Tumblr to defraud nor impede the integrity of the
+    United States Census or local, regional, or national public offic
+    elections. Bottom line: do not create or promote content designed
+    to suppress, intimidate, or confuse voters or U.S. census
+    participants. This includes spreading false information about how
+    to vote, when to vote, or where to vote.
+    
+  Human Trafficking and Prostitution. 
+  
+    Don't use Tumblr to facilitate sex trafficking, other forms of
+    human trafficking, or illegal prostitution. If you see this
+    activity on Tumblr, report it, and encourage victims to contact
+    law enforcement or the National Human Trafficking Hotline at
+    1-888-373-7888.
+
 
 If we conclude that you are violating these guidelines, you may receive a
 notice via email. If you don't explain or correct your behavior, we may take
