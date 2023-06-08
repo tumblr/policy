@@ -1,5 +1,5 @@
-Terms of Service Last Modified: 2023-06-01
-==========================================
+Terms of Service Last Modified: 2023-06-07
+=========================================
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
@@ -150,7 +150,7 @@ Some Paid Services on Tumblr automatically renew as recurring subscriptions ("Su
 
 By enrolling in a Subscription, you authorize the Subscription Fee (and any applicable taxes) to be automatically charged to your designated payment method at the beginning of each Subscription Period until you cancel the Subscription or payments are otherwise ended because the Subscription was terminated for other reasons.
 
-You must cancel your Subscription at least twenty-four (24) hours before the end of your current Subscription Period in order to avoid being charged for the next Subscription Period.
+You must cancel your Subscription at least 14 days before the end of your current Subscription Period in order to avoid being charged for the next Subscription Period.
 
 If you enrolled through the Tumblr Site, you can modify your payment method or cancel your Subscriptions at: [www.tumblr.com/settings/subscriptions](https://www.tumblr.com/settings/subscriptions). If you enrolled using an in-app payment platform, such as through an Apple or Android device, you must modify your payment method or cancel your Subscriptions directly with that platform.
 
