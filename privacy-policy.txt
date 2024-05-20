@@ -1,5 +1,5 @@
 PRIVACY POLICY 
-Last Modified: 2024-01-24
+Last Modified: 2024-05-07
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
 Tumblr, Inc. ("TUMBLR," "WE," "US," or "OUR") takes the private nature of your information very seriously. This policy regarding our privacy practices (the "PRIVACY POLICY") describes how we treat the information we collect or receive when you visit and use tumblr.com (the "SITE") and/or Tumblr’s other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "SERVICES"). Tumblr is a subsidiary of Automattic (https://automattic.com/), a technology company that empowers people to build beautiful websites, tell their stories, and find and grow their audience. The way we handle your information hasn’t changed, so this Privacy Policy still governs when you are on Tumblr, using a Tumblr app or interacting with our products, services or technologies. We may share non-personal information with our family companies for purposes such as product improvements, research and analysis, and to help them provide you with more relevant experiences. When you use the Services, you also consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy; please read it carefully.
@@ -179,7 +179,7 @@ https://github.com/tumblr/policy/commits/master/privacy-policy.txt
 
 SUPPLEMENTAL PRIVACY NOTICE
 
-Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. This Notice covers that required additional information as a supplement to the information in our privacy policy above.
+Laws in some US states require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it.
 
 
 SUMMARY OF INFORMATION WE COLLECT
@@ -230,7 +230,7 @@ In some circumstances we may deny your request to exercise one of these rights. 
 
 In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal.
 
-If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
+If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights.
 
 
 CONTACTING US ABOUT THESE RIGHTS
