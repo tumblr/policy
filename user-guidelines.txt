@@ -67,7 +67,7 @@ What Tumblr is not for:
     Śuṅga Empire—are now allowed on Tumblr with proper labeling.
 
     Nudity and other kinds of adult material are generally welcome. We’re not here
-    to judge your art, we just ask that you add a Community Label to your mature 
+    to judge your art, we just ask that you add a User Label to your mature 
     content so that people can choose to filter it out of their Dashboard if they 
     prefer.
 
@@ -298,7 +298,7 @@ Thanks for reading all of this, by the way. Welcome to Tumblr.
 
 Link to Prior Versions
 
-  You will find prior versions of our Community Guidelines on GitHub, which will allow you to
+  You will find prior versions of our User Guidelines on GitHub, which will allow you to
   compare historical versions and see which terms have been updated:
 
-  http://github.com/tumblr/policy/commits/master/community-guidelines.txt
+  http://github.com/tumblr/policy/commits/master/user-guidelines.txt
