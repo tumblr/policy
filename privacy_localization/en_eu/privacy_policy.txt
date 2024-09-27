@@ -26,7 +26,7 @@ Occasionally, Tumblr may rely on other legal bases to process your information, 
 
 ACCOUNT INFORMATION: When you create an account on the Services (an " ACCOUNT"), we’ll ask you for information such as your username, password, age, and email address (“ACCOUNT INFORMATION”) in order to provide you with the Services. We may also use Account Information, alone or together with other information, to enhance and improve the Services, such as by personalization. We use your age to verify that you can lawfully use the Services. We use your email address to verify your Account and to communicate with you, as described in more detail below.
 
-You can keep yourself fairly anonymous on Tumblr, but remember that your posts, blogs, pages, and username are all visible to the public by default. People that know your email address can also find your blogs. If you’d rather be unlisted, head over to your Account Settings (https://www.tumblr.com/settings/account).
+You can keep yourself fairly anonymous on Tumblr, but remember that your posts, blogs, pages, and username are all visible to the public by default.
 
 EMAIL COMMUNICATIONS WITH US: As part of the Services, you may occasionally receive email and other communications from us. Administrative communications relating to your Account (e.g., for purposes of Account recovery or password reset) are considered part of the Services and your Account, which you may not be able to opt-out from receiving. We also may send you other kinds of emails, which you can opt-out of either from your Account Settings page or by using the “Opt-Out” link in the emails themselves.     NOTE THAT WE WILL  EMAIL YOU TO ASK FOR YOUR PASSWORD        OR OTHER ACCOUNT INFORMATION; IF YOU RECEIVE SUCH AN EMAIL, PLEASE    FORWARD IT TO US. 
 
