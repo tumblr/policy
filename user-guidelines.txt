@@ -301,4 +301,4 @@ Link to Prior Versions
   You will find prior versions of our User Guidelines on GitHub, which will allow you to
   compare historical versions and see which terms have been updated:
 
-  http://github.com/tumblr/policy/commits/master/user-guidelines.txt
+  http://github.com/tumblr/policy/commits/master/user-guidelines.txt  
