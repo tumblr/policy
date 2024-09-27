@@ -1,5 +1,5 @@
 TERMOS DE SERVIÇO 
-Última alteração: 29-01-2014
+Última modificação: 06-09-2024
 O Tumblr é uma companhia norte-americana, sujeita às leis e jurisdição dos EUA. A versão original destes Termos de Serviço (e quaisquer outros termos, políticas ou regras que te fornecemos) estão escritas em inglês. Se se verificar existir alguma incongruência entre a versão traduzida destes Termos de Serviço (ou quaisquer outros termos, políticas ou regras que te fornecemos) e a versão inglesa original, a versão inglesa original prevalece.
 ESTES TERMOS DE SERVIÇO CONTÊM LIMITAÇÕES DA RESPONSABILIDADE DO TUMBLR NA SECÇÃO 15.
 
@@ -9,14 +9,14 @@ Olá! Bem-vindo aos Termos de serviço do Tumblr. Pedimos que leias este texto a
 
 1. ACEITAR OS TERMOS DE SERVIÇO
 
-O utilizador deve ler estes Termos de Serviço e as nossas Normas da Comunidade (https://www.tumblr.com/policy/community) (coletivamente, o "ACORDO") com atenção antes de aceder ao tumblr.com (o "SITE" ) e/ou aos outros domínios, sites, produtos, aplicações, aplicações móveis, serviços e/ou ao Conteúdo fornecido pela Tumblr, Inc. (todos aqueles em conjunto com o Site, os "SERVIÇOS") (Tumblr, Inc., uma empresa de Delaware e subsidiária integral da Automattic Inc., uma empresa Delaware ("AUTOMATTIC"), em conjunto com os seus agentes, representantes, consultores, colaboradores, executivos e diretores, "TUMBLR" ou "NÓS"). Ao utilizar ou aceder aos Serviços, o utilizador concorda em obedecer a todos os termos e condições deste Acordo. Se não concordar com todos os termos e condições deste Acordo, não deve, e não tem permissão para utilizar os Serviços. Os Serviços personalizados do Tumblr não podem ser fornecidos e os termos deste Contrato não podem ser executados sem que o Tumblr processe informações sobre o utilizador e outros utilizadores. O processamento das informações que o utilizador partilha com o Tumblr é essencial para os serviços personalizados que fornecemos e que este espera, incluindo Conteúdo personalizado (conforme descrito abaixo) e anúncios, e é uma parte necessária do nosso desempenho do acordo que temos com o utilizador.
+Lê atentamente estes Termos de Serviço e as nossas Normas dos Utilizador (https://www.tumblr.com/policy/user-guidelines) (coletivamente, o "CONTRATO") antes de utilizares o tumblr.com (o "SITE") e/ou os outros domínios, sites, produtos, aplicações, aplicações móveis, serviços e/ou Conteúdo fornecidos pela Tumblr, Inc. (todos eles coletivamente com o Site, os "SERVIÇOS") (Tumblr, Inc., uma empresa da Delaware e subsidiária integral da Automattic Inc., uma empresa da Delaware ("AUTOMATTIC"), em conjunto com os seus agentes, representantes, consultores, funcionários, responsáveis e diretores, "TUMBLR," ou "NÓS"). Ao utilizares ou acederes aos Serviços, aceitas ficar vinculado a todos os termos e condições do presente Contrato. Se não aceitares todos os termos e condições deste Contrato, não deves, nem estás autorizado, a utilizar os Serviços. Os Serviços personalizados do Tumblr não podem ser fornecidos e os termos deste Contrato não podem ser cumpridos sem que o Tumblr trate informações sobre ti e outros utilizadores. O tratamento das informações que partilhas com o Tumblr é essencial para os Serviços personalizados que fornecemos e que esperas, incluindo Conteúdo (conforme descrito abaixo) e anúncios personalizados, e é uma parte necessária do nosso cumprimento do contrato que temos contigo.
 
 Estamos, pelo presente, a informar-te de que o Tumblr faz agora parte da Automattic (https://automattic.com/), uma empresa tecnológica que empodera pessoas no sentido de criarem os seus próprios websites, contarem as suas histórias e encontrarem e aumentarem as suas audiências, sendo que os presentes Termos de Serviço (https://www.tumblr.com/policy/en/terms-of-service), que se aplicam à utilização do Tumblr por parte do utilizador, foram atualizados para refletir esta mudança. A presente secção inclui também um acordo no qual o utilizador aceita os termos do presente Acordo.
 
 
 2. MODIFICAÇÕES AO PRESENTE ACORDO
 
-O Tumblr reserva-se o direito de modificar os presentes Termos de Serviço ou as nossas Normas da Comunidade (https://www.tumblr.com/policy/community), avisando o utilizador. Iremos avisar o utilizador ao publicar uma versão revista dos Termos de Serviço modificados ou das Normas da Comunidade (https://www.tumblr.com/policy/community) nos Serviços e, em alguns casos, podemos enviar um aviso adicional por e-mail ou, caso contrário, através dos Serviços (nomeadamente através de uma notificação no teu Painel do Tumblr ou nas nossas aplicações móveis). As modificações não terão efeitos retroativos. O utilizador é responsável por rever e familiarizar-se com eventuais modificações ao presente Acordo.
+O Tumblr reserva-se o direito de modificar os presentes Termos de Serviço ou as nossas Normas do Utilizador (https://www.tumblr.com/policy/user-guidelines), mediante aviso prévio. Iremos avisar-te ao publicar uma versão revista dos Termos de Serviço ou das Normas do Utilizador (https://www.tumblr.com/policy/user-guidelines) modificados nos Serviços e, em alguns casos, podemos enviar um aviso adicional por e-mail ou, caso contrário, através dos Serviços (nomeadamente através de uma notificação no teu Painel do Tumblr ou nas nossas aplicações móveis). As modificações não terão efeitos retroativos. Tu és responsável por reveres e familiarizares-te com quaisquer modificações ao presente Contrato.
 
 Por vezes, poderemos solicitar que revejas e aceites explicitamente (ou rejeites) uma versão revista do presente Acordo. Nestes casos, as modificações entrarão em vigor quando tu aceitares a versão modificada do presente Acordo. Caso, aquando da revisão do Acordo, não aceites os mesmos, não te será permitido utilizar os Serviços.
 
@@ -31,7 +31,7 @@ Nota que, caso tenhas pré-pago Serviços pagos (conforme definidos abaixo) ante
 
 ELEGIBILIDADE:
 
-Não podes utilizar os Serviços, fornecer qualquer informação pessoal ao Tumblr ou de outra forma enviar informações pessoais através dos Serviços (incluindo, por exemplo, um nome, morada, número de telefone ou endereço de e-mail) se a tua idade for inferior à Idade Mínima. A Idade Mínima é (i) treze (13), (ii) dezasseis (16) para utilizadores na União Europeia ou no Reino Unido, ou (iii) dezoito (18) para utilizar algumas funcionalidades, como dar ou receber gorjetas ("FUNCIONALIDADE GORJETAS"). Só podes utilizar os Serviços se puderes concretizar um contrato vinculativo com o Tumblr e não estiveres legalmente proibido de utilizar os Serviços.
+Não podes utilizar os Serviços, fornecer qualquer informação pessoal ao Tumblr ou de outra forma enviar informações pessoais através dos Serviços (incluindo, por exemplo, um nome, morada, número de telefone ou endereço de e-mail) se a tua idade for inferior à Idade Mínima. A Idade Mínima é (i) treze (13), (ii) dezasseis (16) para utilizadores na União Europeia ou no Reino Unido, ou (iii) dezoito (18) para determinadas funcionalidades. Só podes utilizar os Serviços se puderes celebrar um contrato vinculativo com o Tumblr e não estiveres legalmente proibido de utilizar os Serviços.
 
 Terás de ter a idade mínima requerida para utilizar o Tumblr. Falamos a sério: trata-se de uma regra não negociável. Podes dizer "Mas tenho, tipo, quase essa idade!" Lamentamos, mas não é suficiente. Os utilizadores que não tenham a idade mínima requerida não podem utilizar o Tumblr. Devem antes pedir aos pais uma Playstation 4 ou ler um livro.
 
@@ -39,7 +39,7 @@ LIMITAÇÕES E ALTERAÇÕES AO SERVIÇO:
 
 Os Serviços estão sujeitos a alterações frequentes, sendo que o respetivo formato e funcionamento podem mudar sem aviso prévio ao utilizador. O Tumblr mantém o direito de criar limites sobre, ou relacionados com, a utilização dos Serviços, a seu exclusivo critério e em qualquer altura ou sem aviso prévio. O Tumblr também poderá impor limites sobre determinados Serviços ou aspetos dos referidos Serviços, assim como poderá restringir o acesso do utilizador a parte ou à totalidade dos Serviços sem aviso prévio ou responsabilidade. O Tumblr poderá alterar, suspender ou descontinuar um ou todos os Serviços a qualquer altura, incluindo a disponibilidade de qualquer produto, funcionalidade, base de dados ou Conteúdo (nos termos abaixo definidos). O Tumblr poderá também rescindir ou suspender Contas (conforme definido abaixo) a qualquer altura, a seu exclusivo critério.
 
-O Tumblr é uma plataforma em constante evolução. Com novos produtos, serviços e funcionalidades sempre a serem lançados, precisamos de flexibilidade para efetuar alterações, impor limites e, ocasionalmente, suspender ou cessar determinadas ofertas (por exemplo, funcionalidades que não têm sucesso). Podemos também rescindir ou suspender contas a qualquer altura. Tal pode parecer extremo, mas só recorremos a esta medida quando temos motivo para tal, conforme indicado nos presentes Termos de Serviço, na nossa Política de Privacidade (https://www.tumblr.com/privacy/automattic) e nas nossas Normas da Comunidade (https://www.tumblr.com/policy/community).
+O Tumblr é uma plataforma em constante evolução. Com novos produtos, serviços e funcionalidades sempre a serem lançados, precisamos de flexibilidade para efetuar alterações, impor limites e, ocasionalmente, suspender ou cessar determinadas ofertas (por exemplo, funcionalidades que não têm sucesso). Podemos também encerrar ou suspender qualquer conta a qualquer altura. Tal pode parecer extremo, mas só recorremos a esta medida quando temos motivo para tal, conforme indicado nos presentes Termos de Serviço, na nossa Política de Privacidade (https://www.tumblr.com/privacy/automattic) e nas nossas Normas do Utilizador (https://www.tumblr.com/policy/user-guidelines).
 
 LIMITAÇÕES À UTILIZAÇÃO AUTOMATIZADA:
 
@@ -104,9 +104,9 @@ LICENÇA DE CONTEÚDO PARA O UTILIZADOR:
 
 Na qualidade de Utilizador dos Serviços, o Tumblr concede-te uma licença global, revogável, não exclusiva, não sublicenciável e não transferível para transferir, armazenar, visualizar, apresentar, executar, redistribuir e criar trabalhos derivados dos Conteúdos exclusivamente relativamente à sua utilização de, e em estrita conformidade com as funcionalidades e restrições dos Serviços (incluindo, sem limitação, os Serviços Pagos, conforme abaixo definido). Tal significa, por exemplo, que te licenciamos os Conteúdos para fins de reblogagem.
 
-CONFORMIDADE COM AS NORMAS DA COMUNIDADE:
+CONFORMIDADE COM AS NORMAS DO UTILIZADOR:
 
-Concordas em não violar as Normas da Comunidade (https://www.tumblr.com/policy/community) do Tumblr. Estas Normas fornecem informações sobre algumas categorias de conteúdo que são prejudiciais para a nossa comunidade. Se violares as Normas, poderás não conseguir continuar a utilizar o Tumblr.
+Concordas em não violar as Normas do Utilizador (https://www.tumblr.com/policy/user-guidelines) do Tumblr. Estas Normas fornecem informações sobre algumas categorias de conteúdo que são prejudiciais para a nossa comunidade. Se violares as Normas, poderás não conseguir continuar a utilizar o Tumblr.
 
 RESCISÃO E ELIMINAÇÃO:
 
@@ -115,7 +115,7 @@ Aquando da rescisão da tua Conta ou eliminação de partes específicas de Cont
 
 7. DISPOSIÇÕES ESPECIAIS PARA PROGRAMADORES DE APLICAÇÕES
 
-Se desenvolveres software ou serviços com base nos Serviços ou em Conteúdos, quer estejas a utilizar a Interface de Programação de Aplicações do Tumblr (https://www.tumblr.com/developers) ou não, irás aceitar e respeitar o Contrato de licença de API de programadores de aplicações do Tumblr (https://www.tumblr.com/docs/api_agreement).
+Se desenvolveres software ou serviços com base nos Serviços ou qualquer Conteúdo, quer estejas a utilizar a Interface de Programação de Aplicações do Tumblr (https://www.tumblr.com/developers) ou não, irás aceitar e respeitar o contrato de licença para programadores de aplicações e API do Tumblr (https://www.tumblr.com/docs/api_agreement).
 
 
 8. UTILIZAÇÃO DE MARCAS COMERCIAIS
@@ -127,7 +127,7 @@ Qualquer utilização de marcas comerciais, imagem de marca, logótipos e outros
 
 O Tumblr disponibiliza código HTML e CSS especializado ("CÓDIGO DE MODELOS DO TUMBLR") para o design e esquema das páginas de blogues, disponível para utilização em alguns dos Serviços ("TEMAS"). Determinados Temas estão disponíveis para compra como Serviço Pago (conforme abaixo definido) (sendo esses Temas os "TEMAS PREMIUM"). Os Temas Premium comprados não podem ser transferidos entre Contas, entre blogues ou entre Serviços numa Conta individual, estando sujeitos aos presentes termos de pagamento.
 
-O Tumblr concede ao utilizador uma licença para personalizar o Código de modelo do Tumblr para criar os seus próprios Temas para utilização na sua página de blogue (sendo cada um deles um "TEMA PERSONALIZADO"). Podes optar também por contribuir com os teus Temas Personalizados para utilização por outros Utilizadores como Conteúdos de Utilizadores. No entanto, como condição da presente licença que te permite criar Temas Personalizados, aceitas não distribuir estes Temas Personalizados em locais que não os sites do Tumblr ou aprovados pelo Tumblr sem a nossa permissão, conforme definido nas nossas Normas da Comunidade (https://www.tumblr.com/policy/community).
+O Tumblr concede-te uma licença para personalizar o Código de Modelo do Tumblr para criares os seus próprios Temas para utilização na página do teu blogue (sendo cada um deles um "TEMA PERSONALIZADO"). Podes optar também por contribuir com os teus Temas Personalizados para utilização por outros Utilizadores como Conteúdo do Utilizador. No entanto, como condição da presente licença que te permite criar Temas Personalizados, aceitas não distribuir estes Temas Personalizados em locais que não os sites do Tumblr ou aprovados pelo Tumblr sem a nossa permissão, conforme definido nas nossas Normas do Utilizador (https://www.tumblr.com/policy/user-guidelines).
 
 Nota ainda que outros Utilizadores poderão utilizar os teus Temas Personalizados após os teres retirado de distribuição, sendo que concedes pelo presente uma licença irrevogável a esses Utilizadores para utilizarem os referidos Temas Personalizados tal como os disponibilizaste. Ou seja, podes remover e parar a distribuição dos teus Temas Personalizados, mas os teus Utilizadores que já os utilizam podem continuar a fazê-lo.
 
@@ -169,55 +169,12 @@ Quando registas um domínio, é-te pedido para forneceres informações de regis
 Para mais informações sobre o registo do teu domínio, como taxas associadas, como atualizar as tuas informações de contacto ou o que acontece durante o processo de expiração do domínio, consulta o documento de apoio sobre Domínios (https://help.tumblr.com/hc/articles/14449316040087).
 
 
-13. DISPOSIÇÕES ESPECIAIS PARA AS GORJETAS
-
-Os nossos Serviços podem permitir que os utilizadores rentabilizem o seu conteúdo através de funcionalidades como a funcionalidade das Gorjetas (Perguntas frequentes sobre as gorjetas (https://help.tumblr.com/hc/articles/4417356885527)), que permite aos utilizadores pagar gorjetas a outros utilizadores para apoiar blogues e conteúdos relacionados.
-
-Ao utilizar estas funcionalidades, os utilizadores não podem levar terceiros a enviar dinheiro através de atividades fraudulentas, phishing ou outros métodos semelhantes.
-
-TERMOS ADICIONAIS PARA OS DOADORES DE GORJETAS:
-
-Os utilizadores que pagam gorjetas através da Funcionalidade Gorjetas (“DOADORES DE GORJETAS”) estão a pagar ao destinatário da gorjeta (“BENEFICIÁRIO DE GORJETAS”) como uma forma de demonstrar apoio pelo Conteúdo do Utilizador disponibilizado pelo Beneficiário de Gorjetas. Enquanto Doador de Gorjetas, reconheces que as gorjetas são completamente voluntárias e opcionais, que podes não receber nada em troca e que as gorjetas que ofereceres podem ser enviadas para alguém ou utilizadas para um fim que não esperas. Não iremos resolver disputas que surjam entre os utilizadores relativamente à Funcionalidade Gorjetas. É importante compreender que oferecer gorjetas não te concede quaisquer direitos adicionais, nem te dá o direito a quaisquer privilégios relativamente a qualquer Conteúdo de Utilizador ou qualquer Beneficiário de Gorjetas. Não podes dar gorjetas em troca de – ou promover ou encorajar – conteúdo que viole as nossas Normas da Comunidade (https://www.tumblr.com/policy/en/community), ou que, de outra forma, seja ilegal, abusivo para com outras pessoas, que inspire ódio ou que possa resultar em comportamento auto-lesivo.
-
-O utilizador assume todos os riscos com a Funcionalidade Gorjetas, incluindo a indisponibilidade do Conteúdo do Utilizador ou o Beneficiário de Gorjetas ou a possibilidade de o Conteúdo do Post+ não corresponder às suas expetativas. Embora exijamos que o Beneficiário de Gorjetas seja responsável, não somos responsáveis pelo seu comportamento. Por este motivo, o utilizador apenas deve utilizar a Funcionalidade Gorjetas com Criadores de confiança. As opiniões expressas pelos Beneficiário de Gorjetas são da autoria dos mesmos e não representam necessariamente as nossas.
-
-Tem em conta que o processamento de pagamentos e as taxas da plataforma serão avaliados com base nas gorjetas, de acordo com os detalhas das taxas disponíveis aqui (https://tumblr.zendesk.com/hc/articles/4418113451671).
-
-CRIAR E MANTER UMA CONTA DE BENEFICIÁRIO DE GORJETAS:
-
-Para seres elegível para ser um Beneficiário de Gorjetas, tens de, no mínimo:
-
-Ser residente e estar localizado num país elegível;
-Criar ou associar com sucesso uma conta de pagamento e de receção de pagamentos aprovada (a tua "Conta Associada"). Em alguns casos, pode ser-te pedido para estabeleceres uma Conta Associada com a Stripe Inc. ou outro prestador de serviços de pagamento externo; nesse caso, concordas em (i) fornecer informações precisas relacionadas com o estabelecimento da tua Conta Associada, (ii) estar vinculado pelos Termos e condições da Stripe (ou os termos e condições de outros prestadores de serviços de pagamento externos aprovados pelo Tumblr) e (iii) celebrar um acordo diretamente com a Stripe Inc. (ou com outro prestador de serviços de pagamento externo aprovado pelo Tumblr);
-Conforme necessário para certas jurisdições e/ou tipos de transações, o Beneficiário designa o Tumblr como o seu agente com a única finalidade de aceitar e processar pagamentos em seu nome, e concorda que, em tais casos, a obrigação de um Utilizador efetuar o pagamento será satisfeita quando e na medida em que o Tumblr recolhe o pagamento desse Utilizador; e
-Cumprir todos os requisitos adicionais de elegibilidade de Beneficiário de Gorjetas definidos pelo Tumblr, incluindo ter, pelo menos, dezoito (18) anos para enviar ou receber fundos através da Funcionalidade Gorjetas.
-
-Podes desativar a tua conta do Tumblr em qualquer altura.
-
-O Tumblr não será responsável por quaisquer gorjetas que possas ou não receber, inclusive se o Tumblr suspender a tua conta ou impedir que peças ou aceites gorjetas.
-
-REQUISITOS DE CONDUTA DO BENEFICIÁRIO DE GORJETAS:
-
-Não violes as leis ou os direitos de terceiros: queremos lembrar-te que tu e o teu Conteúdo de Utilizador devem cumprir todos os requisitos deste Acordo e das nossas Normas da Comunidade. Por exemplo, o teu Conteúdo de Utilizador não pode violar qualquer lei, incluindo leis que protegem os direitos de propriedade intelectual de terceiros. Além disso, se receberes fundos em nome de outra pessoa, és responsável por cumprir todas as leis aplicáveis. Nós reservamo-nos o direito de suspender, eliminar ou encerrar a tua conta e/ou a tua participação na Funcionalidade Gorjetas, a qualquer momento, incluindo nos casos em que acreditamos que violaste este Acordo, as nossas Normas da Comunidade ou abusaste da Funcionalidade Gorjetas. Tu és responsável por todas as atividades na tua Conta, mesmo se outra pessoa a utilizar.
-Escolhe a honestidade: deves agir de maneira justa e honesta nas tuas interações com o Tumblr e os Doadores de Gorjetas. Não podes utilizar os nossos Serviços para levar outros a enviar-te gorjetas através de atividades fraudulentas, phishing ou outros métodos semelhantes.
-Resolve problemas com Doadores de Gorjetas: tu és o único responsável por resolver quaisquer disputas com Doadores de Gorjetas. Tu és responsável por todos os reembolsos devidos aos Doadores de Gorjetas, inclusive os resultantes de estornos solicitados por Doadores de Gorjetas ou pelo Tumblr. O utilizador autoriza que quaisquer valores reembolsados sejam pagos de qualquer saldo pendente na sua Conta do Comerciante ou compensados com os rendimentos das tuas gorjetas. O Tumblr reserva-se o direito de reter valores de pagamento e/ou efetuar reembolsos a Doadores de Gorjetas se considerar que os reembolsos são devidos.
-Não te esqueças dos impostos: o utilizador é responsável por todas as declarações de rendimentos e requisitos de retenção de impostos relacionados com as suas Contas de Comerciante. O Tumblr pode, mas não é obrigado a, deduzir impostos aplicáveis de quaisquer pagamentos feitos pelas tuas gorjetas na medida em que for exigido pelas leis aplicáveis.
-
-PAGAMENTOS AO BENEFICIÁRIO DE GORJETAS:
-
-Os pagamentos da Funcionalidade Gorjetas são calculados somando  as quantias pagas pelos teus Doadores de Gorjetas e subtraindo as taxas da plataforma do Tumblr, as taxas do processador de pagamento, os reembolsos/estornos e as taxas/retenções relacionadas. Os preços e o prazo da taxa do processador de pagamento irão depender da opção de pagamento que um Doador de Gorjetas utilize (ou seja, Stripe, Apple, Google, etc.). Podes ver mais informações sobre as taxas de pagamento aqui (https://tumblr.zendesk.com/hc/articles/4418113451671).
-
-O utilizador é responsável por fornecer informações precisas, incluindo as que podem ser necessárias para que o pagamento lhe seja disponibilizado. Os pagamentos são calculados exclusivamente com base em registos mantidos por ou em nome do Tumblr (ou o processador de pagamento relevante). O Tumblr reserva-se o direito de modificar o modo de pagamento, a qualquer momento, a seu exclusivo critério. Além disso, o Tumblr reserva-se o direito de reter, compensar ou cobrar a sua Conta de Comerciante devido a reembolsos, fraude, abuso, violação deste Acordo ou para mitigar o risco de tal. O utilizador concorda que não seremos responsáveis por quaisquer valores não ganhos devido à indisponibilidade dos Serviços, incluindo a manutenção do Site ou a nossa suspensão, exclusão ou encerramento da sua Conta ou acesso à Funcionalidade de Gorjetas.
-
-Os pagamentos serão determinados pelo Tumblr, a seu exclusivo critério, e tal determinação é final e vinculativa. Se o utilizador contestar qualquer pagamento feito, deverá notificar o Tumblr no prazo de trinta (30) dias do respetivo pagamento, fornecendo-nos uma descrição detalhada da sua disputa em www.tumblr.com/support. O utilizador concorda que, ao não o fazer, estará a renunciar a qualquer reclamação relativa ao pagamento contestado. O Tumblr não prescinde, de forma nenhuma, do seu direito absoluto de tomar uma decisão final sobre o pagamento que é devido ao utilizador.
-
-
-14. EXCLUSÃO DE RESPONSABILIDADE DE GARANTIA; SERVIÇOS DISPONÍVEIS "TAL COMO ESTÃO"
+13. EXCLUSÃO DE RESPONSABILIDADE DE GARANTIA; SERVIÇOS DISPONÍVEIS "TAL COMO ESTÃO"
 
 O teu acesso e utilização dos Serviços ou de qualquer Conteúdo é por tua própria conta e risco. O UTILIZADOR COMPREENDE E CONCORDA QUE OS SERVIÇOS LHE SÃO FORNECIDOS NA BASE "TAL COMO ESTÃO" E "CONFORME DISPONÍVEIS". SEM LIMITAR O ACIMA, ATÉ AO LIMITE PERMITIDO POR LEI, O TUMBLR ISENTA-SE DE TODAS AS GARANTIAS, EXPRESSAS OU IMPLÍCITAS, DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM DETERMINADO FIM OU NÃO VIOLAÇÃO. O Tumblr não faz representações ou garantias de qualquer tipo em relação aos Serviços, incluindo qualquer representação ou garantia de que a utilização dos Serviços (a) será oportuna, ininterrupta ou livre de erros ou irá funcionar em combinação com qualquer outro hardware, software, sistema ou dados, (b) atender aos seus requisitos ou expectativas, (c) estará livre de erros ou que os defeitos serão corrigidos, (d) estará livre de vírus ou outros componentes prejudiciais; ou (e) será totalmente segura ou que as informações que o utilizador partilha connosco estarão seguras. O Tumblr também não faz representações ou garantias de qualquer tipo relativamente ao Conteúdo; O Conteúdo do Utilizador, em particular, é fornecido e é de responsabilidade exclusiva dos Utilizadores que fornecem esse Conteúdo. Nenhum conselho ou informação, seja oral ou escrito, obtido do Tumblr ou através dos Serviços, irá criar qualquer garantia que não tenha sido expressamente expressa neste documento.
 
 
-15. LIMITAÇÃO TEMPORAL SOBRE QUEIXAS OU EXCLUSÕES DE RESPONSABILIDADE
+14. LIMITAÇÃO TEMPORAL SOBRE QUEIXAS OU EXCLUSÕES DE RESPONSABILIDADE
 
 Tu aceitas que quaisquer queixas resultantes ou relativas ao presente Acordo ou à tua relação com o Tumblr terão de ser enviadas no prazo de um ano após essa queixa surgir. Se tal não for o caso, essa mesma queixa ficará permanentemente invalidada.
 
@@ -236,26 +193,26 @@ As queixas relacionadas com encontros presenciais, de algum modo relacionados co
 Se resides no estado da Califórnia (EUA), expressas a tua renúncia ao n.º 1542 do Código Civil da Califórnia, o qual afirma: "As renúncias gerais não abrangem queixas que o credor não conheça, ou de cuja existência não suspeite, a seu favor aquando da execução da renúncia, as quais, se fossem do conhecimento do mesmo, teriam um impacto substancial no seu acordo com o devedor."
 
 
-16. LIMITAÇÃO DE RESPONSABILIDADE
+15. LIMITAÇÃO DE RESPONSABILIDADE
 
 NA MEDIDA PERMITIDA PELA LEGISLAÇÃO APLICÁVEL, O TUMBLR E OS AFILIADOS DO TUMBLR NÃO SE RESPONSABILIZAM POR: (A) QUAISQUER DANOS INDIRETOS, ACIDENTAIS, EXEMPLARES, PUNITIVOS OU CONSEQUENCIAIS, DE QUALQUER CARÁTER; (B) PERDA DE: LUCROS, RECEITA, DADOS, UTILIZAÇÃO, PRESTÍGIO OU OUTRAS PERDAS INTANGÍVEIS; (C) DANOS RELATIVOS AO SEU ACESSO A, UTILIZAÇÃO DE OU INCAPACIDADE DE UTILIZAÇÃO DOS SERVIÇOS; (D) DANOS RELACIONADOS COM QUAISQUER CONDUTAS OU CONTEÚDOS DE TERCEIROS OU SUBSCRITORES QUE UTILIZEM OS SERVIÇOS, INCLUINDO, MAS NÃO LIMITADO A, CONTEÚDOS OU CONDUTAS DIFAMATÓRIOS, OFENSIVOS OU ILEGAIS E/OU (E) DANOS DE QUALQUER TIPO RELATIVOS A CONTEÚDOS. A PRESENTE LIMITAÇÃO APLICA-SE A TODAS AS QUEIXAS, SEJAM BASEADAS EM GARANTIAS, CONTRATOS, DELITOS OU OUTRAS TEORIAS JURÍDICAS, QUER O TUMBLR TENHA OU NÃO SIDO INFORMADO DA POSSIBILIDADE DESSES DANOS, E AINDA AOS CASOS EM QUE UMA COMPENSAÇÃO DEFINIDA PELO PRESENTE TENHA FALHADO O RESPETIVO FIM FUNDAMENTAL.
 
 NA MEDIDA PERMITIDA PELA LEGISLAÇÃO APLICÁVEL, A RESPONSABILIDADE TOTAL DO TUMBLR E DOS AFILIADOS DO TUMBLR, EM RELAÇÃO A QUAISQUER QUEIXAS AO ABRIGO DO PRESENTE ACORDO, INCLUINDO PARA QUAISQUER GARANTIAS IMPLÍCITAS, ESTÁ LIMITADA AO MAIOR VALOR ENTRE CEM DÓLARES (100,00 USD) OU O MONTANTE QUE NOS TENHA PAGO PARA UTILIZAR O(S) SERVIÇO(S) APLICÁVEL(EIS).
 
 
-17. EXCLUSÕES DE GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE
+16. EXCLUSÕES DE GARANTIAS E LIMITAÇÃO DE RESPONSABILIDADE
 
 Determinadas jurisdições poderão não permitir a exclusão de determinadas garantias ou a exclusão/limitação de responsabilidades, conforme definido nas Secções 13 e 15, pelo que as limitações acima expressas poderão não se aplicar ao teu caso.
 
 
-18. RESCISÃO
+17. RESCISÃO
 
 Ambas as partes podem rescindir o presente Acordo a qualquer altura, mediante notificação à outra parte. O Tumblr pode rescindir ou suspender o teu acesso ou capacidade de utilizar alguns ou todos os Serviços imediatamente, sem responsabilidade ou aviso prévio, por qualquer motivo ou sem motivo, incluindo, sem limitação, se tu violares algum dos termos ou condições no presente Acordo. Especificamente, o Tumblr pode imediatamente rescindir ou suspender Contas que tenham sido sinalizadas por reincidência em infração de direitos de autor.
 
 Aquando da rescisão do acesso ou capacidade por parte do utilizador de utilizar um Serviço, incluindo, mas não limitado a, a suspensão da sua Conta num Serviço, o seu direito a utilizar ou aceder a esse Serviço e respetivos Conteúdos será imediatamente terminado. Todas as disposições do presente Acordo que, devido ao seu caráter, devam prevalecer após a rescisão, irão prevalecer após a rescisão, incluindo, mas não limitado a, disposições sobre propriedade, exclusões de responsabilidade de garantia e limitações de responsabilidade. A rescisão do acesso e utilização por tua parte aos Serviços não te isenta de quaisquer obrigações que surjam ou se acumulem antes dessa mesma rescisão nem limitarão qualquer responsabilidade que possas de outra forma ter para com o Tumblr ou terceiros nem te isentará de direitos se fores um utilizador no Espaço Económico Europeu, os quais estão descritos na Política de Privacidade.
 
 
-19. JURISDIÇÃO E FORO
+18. JURISDIÇÃO E FORO
 
 Tu e o Tumblr aceitam que iremos resolver qualquer queixa ou reclamação, por meios legais, resultante do presente Acordo ou dos Serviços, de acordo com a presente Secção, ou conforme aceite por ti e pelo Tumblr de outra forma por escrito. Antes de recorreres a uma resolução formal de litígio, encorajamos-te vivamente a contactar-nos (https://www.tumblr.com/support) com vista a chegar a uma resolução.
 
@@ -266,7 +223,7 @@ O presente Acordo será regido, em todos os aspetos, pela legislação do Estado
 Se (a) for uma agência ou entidade governamental local, estadual ou federal dos Estados Unidos, (b) estiver a utilizar os Serviços nos seus deveres oficiais e (c) não puderes, nos termos legais, aceitar as cláusulas da presente Secção, a mesma não se aplica em tal caso. No caso destas entidades, o presente Acordo e as ações relacionadas serão regidos pela legislação dos Estados Unidos da América, sem consideração por conflitos de disposições legais, e na eventualidade de inexistência de legislação federal e na medida permitida pela legislação federal, pelas leis do Estado de Nova Iorque, excluindo a escolha de lei.
 
 
-20. DIVERSOS
+19. DIVERSOS
 
 O presente Acordo, conforme modificações periódicas do mesmo, constitui a totalidade do acordo entre ti e o Tumblr relativamente à matéria abrangida pelo presente. O presente Acordo substitui todos os anteriores ou atuais entendimentos de acordos, verbais ou escritos, relativos à matéria do presente, sendo que constitui o acordo total e exclusivo entre as partes. O não exercício, por qualquer uma das partes e de qualquer modo, de algum direito expresso pelo presente não será considerado uma renúncia de qualquer um dos outros direitos expressos no presente. Caso se determine que alguma das disposições no presente Acordo é inválida ou não aplicável, essa disposição será limitada ou eliminada na medida máxima necessária, pelo que o presente Acordo continuará, nas restantes disposições, a ser aplicável e totalmente em vigor. O presente Acordo não pode ser delegado, transferido ou sublicenciável pelo utilizador, exceto mediante acordo prévio escrito por parte do Tumblr. O Tumblr poderá delegar o presente Acordo na sua totalidade ou em parte, a qualquer altura e sem teu consentimento. Não é criada nenhuma representação, parceria, controlo conjunto, joint venture ou emprego como consequência do presente Acordo; não possuis qualquer autoridade para vincular o Tumblr em qualquer dimensão. Qualquer notificação ao Tumblr que seja necessária ou permitida pelo presente Contrato será feita por escrito e será determinada como em vigor aquando da receção, quando entregue pessoalmente por um serviço de entregas urgentes reconhecido a nível nacional ou enviado por correio urgente, registado ou certificado, com envio pré-pago, para
 
@@ -277,14 +234,14 @@ ATTN: LEGAL DEPARTMENT
 
 
 
-21. DISPOSIÇÕES ESPECIAIS PARA UTILIZADORES QUE RESIDEM FORA DOS ESTADOS UNIDOS
+20. DISPOSIÇÕES ESPECIAIS PARA UTILIZADORES QUE RESIDEM FORA DOS ESTADOS UNIDOS
 
 O Tumblr fornece produtos e serviços globais e permite que uma comunidade mundial de pessoas partilhe e siga as coisas que adora. No entanto, os servidores e as operações do Tumblr situam-se nos Estados Unidos, sendo que as políticas e os procedimentos do Tumblr baseiam-se na legislação dos Estados Unidos. Como tal, as seguintes disposições aplicam-se especificamente a Utilizadores situados fora dos Estados Unidos: (1) o utilizador reconhece que iremos transferir, armazenar e processar as suas informações, incluindo, mas não limitado a, Conteúdos de Utilizadores e quaisquer informações pessoais, nos Estados Unidos e/ou noutros países para lhe fornecer os Serviços e cumprir o presente Acordo; e (2) se estiver a utilizar os Serviços num país ao qual os Estados Unidos tenham feito embargo, ou se estiver na lista de "Cidadãos Especialmente Designados" do Departamento do Tesouro dos EUA, o utilizador aceita não participar em transações financeiras e não efetuar quaisquer atividades comerciais na utilização ou através dos Serviços (por exemplo, ao comprar Temas Premium).
 
 ENVIAR UM AVISO POR INFRAÇÃO 
 
 
-22. POLÍTICA DE DIREITOS DE AUTOR DO DMCA
+21. POLÍTICA DE DIREITOS DE AUTOR DO DMCA
 
 O Tumblr adotou a seguinte política para infração de direitos de autor nos Serviços, de acordo com o Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) (o "DMCA"). O endereço do Agente Designado do Tumblr para avisos de retirada por direitos de autor ("AGENTE DESIGNADO") encontra-se abaixo. Podes enviar um aviso ao abrigo do DMCA com o nosso formulário de aviso de direitos de autor (https://www.tumblr.com/dmca).
 
@@ -333,7 +290,7 @@ EMAIL: dmca@tumblr.com (mailto: dmca@tumblr.com)
 FORMULÁRIO DE AVISO DE DIREITOS DE AUTOR: https://www.tumblr.com/dmca
 
 
-23. DIVULGAÇÕES DE OPEN SOURCE
+22. DIVULGAÇÕES DE OPEN SOURCE
 
 Poderás encontrar divulgações relacionadas com a utilização pela nossa parte de pacotes de software open source, nos seguintes locais:
 
