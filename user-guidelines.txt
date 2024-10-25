@@ -234,11 +234,13 @@ What Tumblr is not for:
 
   Privacy Violations.
 
-    Don't use Tumblr to deceptively obtain personal information. Don't post content
-    that violates anyone's privacy, especially personally identifying or confidential
-    information like credit card numbers, social security numbers, or unlisted contact
-    information. Absolutely do not post non-consensual pornography—that is, private
-    photos or videos taken or posted without the subject’s consent.
+    Don't use Tumblr to deceptively obtain personal information. Don't post
+    content that violates anyone's privacy, especially personally identifying
+    or confidential information like credit card numbers, social security
+    numbers, or unlisted contact information. Do not post private messages
+    without the sender's consent. And absolutely do not post unauthorized nude
+    imagery—that is, private photos or videos taken or posted without the
+    subject's consent.
 
   Disruptions, Exploits, or Resource Abuse.
 
