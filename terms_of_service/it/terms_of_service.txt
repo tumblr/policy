@@ -7,7 +7,7 @@ QUESTI TERMINI DI SERVIZIO CONTENGONO LE LIMITAZIONI DELLA RESPONSABILITÀ DI TU
 Ciao! Ti diamo il benvenuto sulle Condizioni generali di utilizzo del Servizio di Tumblr. Leggi attentamente questo documento prima di utilizzare il nostro sito, servizi o prodotti. Il presente documento è un contratto tra te e Tumblr. Abbiamo anche incluso diverse annotazioni che non fanno parte del contratto in sé, ma intendono risaltare le sezioni principali e aiutarti a comprendere il testo. Abbiamo cercato di essere chiari e diretti. Non esitare a contattarci (https://www.tumblr.com/support) per eventuali dubbi o suggerimenti!
 
 
-1. ACCETTAZIONE DELLE CONDIZIONI GENERALI DI UTILIZZO DEL SERVIZIO
+1. ACCETTAZIONE DEI TERMINI DI SERVIZIO
 
 Ti invitiamo a leggere attentamente i presenti Termini di servizio e le nostre Linee guida utente (https://www.tumblr.com/policy/user-guidelines) (collettivamente, il CONTRATTO) prima di utilizzare tumblr.com (il SITO) e/o gli altri domini, siti web, prodotti, applicazioni, applicazioni mobili, servizi e/o Contenuti forniti da Tumblr, Inc. (tutti insieme al Sito, i SERVIZI) (Tumblr, Inc., una società del Delaware e consociata interamente controllata da Automattic Inc., una società del Delaware (AUTOMATTIC), collettivamente con i suoi agenti, rappresentanti, consulenti, dipendenti, funzionari e direttori , TUMBLR, NOI o NOSTRO). Utilizzando o accedendo ai Servizi, accetti di essere vincolato da tutti i termini e le condizioni del presente Contratto. Se non accetti tutti i termini e le condizioni del presente Contratto, non dovresti e non ti è consentito utilizzare i Servizi. I Servizi personalizzati di Tumblr non possono essere forniti e i termini del presente Contratto non possono essere applicati senza che Tumblr elabori le informazioni su di te e sugli altri utenti. Il trattamento delle informazioni che condividi con Tumblr è essenziale per i Servizi personalizzati che forniamo e che ti aspetti, inclusi i Contenuti personalizzati (come descritti di seguito) e gli annunci, ed è una parte necessaria della nostra esecuzione dell'accordo che abbiamo con te.
 
@@ -68,7 +68,7 @@ L'utente è inoltre responsabile di mantenere la riservatezza della password e d
 Per informazioni sul modo in cui Tumblr raccoglie, utilizza e condivide le informazioni dell'utente, si consulti la nostra Informativa sulla Privacy  (https://www.tumblr.com/privacy/automattic) Utilizzando i Servizi l'utente accetta di aver letto l'Informativa sulla Privacy, in cui viene descritto il modo in cui noi raccogliamo, utilizziamo e condividiamo (come indicato nell'Informativa sulla Privacy) tali informazioni, incluso il loro trasferimento negli Stati Uniti e/o verso altri Paesi ai fini della loro archiviazione, trattamento e utilizzo da parte di Tumblr e delle società sue Affiliate (come di seguito definite).
 
 
-6. CONTENUTO E CONTENUTO DELL'UTENTE
+6. CONTENUTO E CONTENUTO UTENTE
 
 DEFINIZIONI:
 
@@ -118,12 +118,17 @@ A seguito della cancellazione del tuo Account, o una volta eliminate determinate
 Se sviluppi software o servizi basati sui Servizi o su qualsiasi Contenuto, sia utilizzando l'Interfaccia di Programmazione delle Applicazioni Tumblr (https://www.tumblr.com/developers) o no, accetti e ti impegni a rispettare il Contratto di Licenza per API e Sviluppatori di Applicazioni di Tumblr (https://www.tumblr.com/docs/api_agreement).
 
 
-8. USO DEI MARCHI
+8. DISPOSIZIONI SPECIFICHE PER PUBBLICITÀ E CONTENUTI SPONSORIZZATI
+
+Se posti o acquisti pubblicità o contenuti sponsorizzati, devi rispettare la nostra Politica globale pubblicitaria (https://www.tumblr.com/policy/en/global-advertising).
+
+
+9. USO DEI MARCHI
 
 Qualsiasi utilizzo dei marchi, brand, logo e altri beni simili di Tumblr collegati ai Servizi devono utilizzare il branding approvato di Tumblr (https://www.tumblr.com/logo) e devono essere conformi alle Linee guida dei Marchi di Tumblr (https://www.tumblr.com/docs/trademark_guidelines).
 
 
-9. TEMI
+10. TEMI
 
 Tumblr mette a disposizione un codice HTML e CSS specifico ("CODICE MODELLO DI TUMBLR") per la progettazione e il layout delle pagine del blog che possono essere utilizzati su alcuni Servizi ("TEMI"). Determinati Temi sono disponibili per l'acquisto come Servizio a Pagamento (come definito di seguito) (tali Temi sono indicati di seguito come "TEMI PREMIUM"). I Temi Premium acquistati non possono essere trasferiti tra diversi Account, blog o Servizi presenti su un unico Account e sono soggetti alle condizioni di pagamento descritte nel presente documento.
 
@@ -134,7 +139,7 @@ Si noti inoltre che altri utenti possono utilizzare i Temi Personalizzati dell'u
 Per sviluppare e distribuire i Temi Personalizzati che sono Temi Premium, ti invitiamo a contattarci (https://www.tumblr.com/support).
 
 
-10. SERVIZI A PAGAMENTO
+11. SERVIZI A PAGAMENTO
 
 Alcuni dei Servizi richiedono il pagamento di commissioni (i SERVIZI A PAGAMENTO, inclusi, a titolo esemplificativo, temi Premium, Blaze e  abbonamenti). Tutte le commissioni sono espresse in dollari statunitensi. Dovrai pagare tutte le tariffe applicabili, come descritto nei Servizi applicabili, in relazione a tali Servizi, e qualsiasi tassa o costo aggiuntivo correlato.
 
@@ -147,7 +152,7 @@ Gli acquisti dei Servizi a Pagamento sono definitivi e non rimborsabili (special
 In qualsiasi momento, Tumblr può modificare i prezzi stabiliti per i Servizi a Pagamento. Nella misura in cui sia applicabile, Tumblr avviserà l'utente con ragionevole preavviso di qualsiasi modifica apportata ai prezzi pubblicando le nuove tariffe su o mediante i Servizi a pagamento pertinenti e/o inviando una notifica via email. Qualora l'utente non desideri pagare le nuove tariffe, può scegliere di non effettuare l'acquisto o di cancellare il Servizio a pagamento prima che la modifica delle tariffe sia efficace.
 
 
-11. PAGAMENTI RICORRENTI:
+12. PAGAMENTI RICORRENTI:
 
 Alcuni servizi a pagamento su Tumblr si rinnovano automaticamente come abbonamenti ricorrenti ("ABBONAMENTI"). Gli abbonamenti vengono addebitati su base mensile o annuale ("PERIODO DI ABBONAMENTO") per l'importo ricorrente mostrato al momento dell'iscrizione ("QUOTA DI ABBONAMENTO"). Se ti sei abbonato durante una promozione, hai utilizzato un codice coupon o hai ricevuto in altro modo uno sconto, il tuo abbonamento si rinnoverà automaticamente per l'intera quota di abbonamento alla fine del periodo di sconto.
 
@@ -158,7 +163,7 @@ ISCRIVENDOTI A UN ABBONAMENTO, AUTORIZZI L'ADDEBITO AUTOMATICO DELLA QUOTA DI AB
 SE TI SEI REGISTRATO TRAMITE IL SITO TUMBLR, PUOI MODIFICARE IL TUO METODO DI PAGAMENTO O ANNULLARE LE TUE ISCRIZIONI SU: www.tumblr.com/settings/subscriptions (https://www.tumblr.com/settings/subscriptions). SE TI SEI REGISTRATO UTILIZZANDO UNA PIATTAFORMA DI PAGAMENTO IN-APP, AD ESEMPIO TRAMITE UN DISPOSITIVO APPLE O ANDROID, DEVI MODIFICARE IL TUO METODO DI PAGAMENTO O ANNULLARE LE TUE ISCRIZIONI DIRETTAMENTE CON QUELLA PIATTAFORMA.
 
 
-12. NOMI DI DOMINIO
+13. NOMI DI DOMINIO
 
 Potremmo collaborare con registrar di terze parti per fornire servizi di nomi di dominio. Quando registri un dominio su Tumblr o trasferisci un dominio esistente su Tumblr, si applicano le politiche del rispettivo registro e sei vincolato dai termini e condizioni del registrar pertinente. A seconda del dominio, potresti essere soggetto ai termini del Contratto di registrazione automatica del nome di dominio (https://wordpress.com/automattic-domain-name-registration-agreement/), o del Contratto di registrazione di Key-Systems GmbH (https://www.centralnicreseller.com/en/registration-agreement?rrp), in aggiunta al presente Contratto. Quando registri un dominio, ti viene presentato e accetti il ​​contratto di registrazione del dominio applicabile. Se non ne hai preso nota, consulta la pagina Contratti di registrazione del dominio (https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement) per determinare quali contratti di registrazione del dominio si applicano a te e ai tuoi domini. Questi termini del registrar sono incorporati per riferimento nel presente Accordo.
 
@@ -169,12 +174,12 @@ Quando registri un dominio, ti viene richiesto di fornire informazioni di regist
 Per ulteriori informazioni sulla registrazione del tuo dominio, come le tariffe associate, come aggiornare le tue informazioni di contatto o cosa succede durante il processo di scadenza del dominio, consulta il documento di supporto di Domains (https://help.tumblr.com/hc/articles/14449316040087).
 
 
-13. ESCLUSIONE DI GARANZIA; SERVIZI DISPONIBILI SU BASE "COSÌ COM'È"
+14. ESCLUSIONE DI GARANZIA; SERVIZI DISPONIBILI SU BASE "COSÌ COM'È"
 
 L'accesso e l'utilizzo dei Servizi o di qualsiasi Contenuto è a proprio rischio. L'UTENTE COMPRENDE E ACCETTA CHE I SERVIZI SONO FORNITI "COSÌ COME SONO" E "COME DISPONIBILI". SENZA LIMITARE QUANTO SOPRA, NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE, TUMBLR DECLINA OGNI GARANZIA, ESPRESSA O IMPLICITA, DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO PARTICOLARE O NON VIOLAZIONE. Tumblr non rilascia dichiarazioni o garanzie di alcun tipo in relazione ai Servizi, inclusa qualsiasi dichiarazione o garanzia che l'uso dei Servizi sarà (a) tempestivo, ininterrotto o privo di errori o che opererà in combinazione con qualsiasi altro hardware, software, sistema , o dati, (b) soddisferà le vostre esigenze o aspettative, (c) sarà privo di errori o che i difetti verranno corretti, (d) sarà privo di virus o altri componenti dannosi; o (e) sarà completamente sicuro o che le informazioni che condividi con noi saranno al sicuro. Tumblr inoltre non rilascia dichiarazioni o garanzie di alcun tipo in relazione ai contenuti; i Contenuti utente, in particolare, sono forniti da e di esclusiva responsabilità degli utenti che forniscono tali contenuti. Nessun consiglio o informazione, orale o scritta, ottenuta da Tumblr o tramite i Servizi, creerà alcuna garanzia non espressamente fornita nel presente documento.
 
 
-14. LIMITAZIONE DI TEMPO PER RECLAMI ED ESENZIONI DA RESPONSABILITÀ
+15. LIMITAZIONE DI TEMPO PER RECLAMI ED ESENZIONI DA RESPONSABILITÀ
 
 L'utente accetta che ogni reclamo che possa derivare da o essere inerente al presente Accordo o alla relazione tra l'utente e Tumblr, debba essere presentato entro un anno dal momento in cui tale reclamo occorre; diversamente, il diritto di sollevare qualsivoglia reclamo da parte dell'utente si intende definitivamente rinunciato.
 
@@ -193,26 +198,26 @@ Reclami relativi a qualsiasi incontro faccia a faccia in qualsiasi modo correlat
 Se l'utente è residente in California, rinuncia al Codice civile della California § 1542, ai sensi del quale: "Una rinuncia generica non si estende ai reclami che il creditore non conosce o di cui lo stesso non sospetta l'esistenza a suo favore al momento della sottoscrizione della rinuncia stessa, e che, se li avesse conosciuti, avrebbero materialmente influito sull'accordo con il debitore."
 
 
-15. LIMITAZIONE DI RESPONSABILITÀ
+16. LIMITAZIONE DI RESPONSABILITÀ
 
 NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, TUMBLR E LE AFFILIATE TUMBLR NON SARANNO RESPONSABILI PER: (A) DANNI INDIRETTI, ACCIDENTALI, PUNITIVI O CONSEQUENZIALI DI ALCUN TIPO; (B) PERDITA DI: PROFITTI, RICAVI, DATI, UTILIZZO, AVVIAMENTO O ALTRE PERDITE INTANGIBILI; (C) DANNI RELATIVI AL TUO ACCESSO, UTILIZZO O IMPOSSIBILITÀ DI ACCEDERE O UTILIZZARE I SERVIZI; (D) DANNI RELATIVI A QUALSIASI CONDOTTA O CONTENUTO DI QUALSIASI TERZA PARTE O UTENTE CHE UTILIZZANO I SERVIZI, COMPRESI SENZA LIMITAZIONI, CONDOTTA O CONTENUTO DIFFAMATORIO, OFFENSIVO O ILLEGALE; E/O (E) DANNI IN QUALSIASI MODO RELATIVI A QUALSIASI CONTENUTO. QUESTA LIMITAZIONE SI APPLICA A TUTTI I RECLAMI, SIA BASATI SU GARANZIA, CONTRATTO, ILLECITO O QUALSIASI ALTRA TEORIA LEGALE, CHE TUMBLR SIA STATA INFORMATA O MENO DELLA POSSIBILITÀ DI TALI DANNI, E INOLTRE DOVE SI RISCONTRA CHE UN QUALSIASI RIMEDIO QUI INDICATO HA FALLITO IL SUO SCOPO ESSENZIALE.
 
 NELLA MISURA MASSIMA CONSENTITA DALLA LEGGE APPLICABILE, LA RESPONSABILITÀ COMPLESSIVA DI TUMBLR E DELLE AFFILIATE DI TUMBLR PER QUALSIVOGLIA RECLAMO AI SENSI DEL PRESENTE ACCORDO, IVI INCLUSA OGNI GARANZIA IMPLICITA, È LIMITATA ALLA SOMMA MASSIMA DI CENTO DOLLARI (US $100,00) O ALLA SOMMA PAGATA DALL'UTENTE PER L'UTILIZZO DEI SERVIZI.
 
 
-16. ESCLUSIONI ALLE GARANZIE E LIMITAZIONE DI RESPONSABILITÀ
+17. ESCLUSIONI ALLE GARANZIE E LIMITAZIONE DI RESPONSABILITÀ
 
 Alcune giurisdizioni potrebbero non consentire l'esclusione di determinate garanzie o l'esclusione/limitazione di responsabilità come stabilito nelle Sezioni 13 e 15, pertanto le limitazioni di cui sopra potrebbero non essere applicabili.
 
 
-17. RISOLUZIONE
+18. RISOLUZIONE
 
 Ciascuna parte può terminare il presente Accordo in qualsiasi momento mediante notifica all'altra parte. Tumblr può terminare o sospendere immediatamente l'accesso dell'utente o la possibilità per l'utente di utilizzare alcuni o tutti i Servizi, senza alcun preavviso o senza alcuna responsabilità, per qualsivoglia ragione o senza alcun motivo, inclusa, senza limitazioni alcuna, la violazione da parte dell'utente dei termini e condizioni del presente Accordo. In particolare, Tumblr può cessare o sospendere immediatamente gli Account che sono stati segnalati per aver ripetutamente infranto i diritti di copyright.
 
 Una volta terminato l'accesso o la possibilità di utilizzare i Servizi, inclusa, senza limitazione alcuna, la sospensione dell'Account dell'utente a un Servizio, il diritto dell'utente di utilizzare o accedere a quel Servizio e a tutti i suoi Contenuti cesserà immediatamente. Tutte le previsioni del presente Accordo, che per loro natura continueranno a essere applicabili, continueranno a trovare applicazione, ivi incluse, senza limitazione alcuna, le clausole sulla proprietà e le limitazioni alle garanzie e della responsabilità. La cessazione del diritto di accesso e utilizzo dei Servizi da parte dell'utente non lo solleva da alcuna obbligazione derivante da o nascente precedentemente a tale cessazione, né limita alcuna responsabilità dell'utente verso Tumblr o eventuali terze parti e, qualora sia un utente residente nello Spazio Economico Europeo, non lo priva dei suoi diritti descritti nell'Informativa sulla Privacy.
 
 
-18. SCELTA DELLA LEGGE E DEL FORO
+19. SCELTA DELLA LEGGE E DEL FORO
 
 L'utente e Tumblr accettano di risolvere ogni reclamo o controversia, sia essa per legge o equità, derivate dal presente Accordo o dai Servizi, conformemente alla presente Sezione o come concordato tra Tumblr e l'utente per iscritto. Prima di ricorrere a una risoluzione formale della controversia, incoraggiamo caldamente l'utente a contattarci (https://www.tumblr.com/support) per trovare una soluzione.
 
@@ -223,7 +228,7 @@ Tutti gli aspetti del presente Accordo saranno regolati dalle leggi dello Stato 
 Se l'utente è (a) un'agenzia o entità governativa locale, statale o federale degli Stati Uniti, (b) che utilizza i Servizi in veste ufficiale e (c) legalmente non è in grado di accettare le clausole presenti in questa Sezione, allora la presente Sezione non troverà applicazione. Per tali entità, il presente Accordo e ogni relativa azione saranno governati dalle leggi degli Stati Uniti d'America, in deroga a qualsiasi principio applicabile ai conflitti di leggi, e, in mancanza di leggi federali e nella misura consentita dalle leggi federali, dalle leggi dello Stato di New York, escludendo la scelta del foro competente.
 
 
-19. VARIE
+20. VARIE
 
 Il presente Accordo, come di volta in volta modificato, costituisce l'accordo integrale tra l'utente e Tumblr relativamente all'oggetto del contratto stesso. Questo Accordo sostituisce tutti gli accordi e intese informali, precedenti o contemporanei, scritti o orali, relativi all'oggetto dello stesso e costituisce l'intero e unico accordo tra le parti. Il mancato esercizio di ciascuna parte, in qualsiasi modo, di uno dei diritti qui previsti non costituisce una rinuncia a ogni ulteriore diritto previsto dal presente Accordo. Qualora una qualsiasi previsione di questo Accordo sia ritenuta nulla o inapplicabile, tale previsione sarà eliminata o applicata nella misura massima necessaria, in modo tale che l'Accordo rimanga valido e applicabile. L'utente non ha facoltà di cedere, trasferire o sub-licenziare il presente Accordo se non previa autorizzazione scritta di Tumblr. Tumblr può cedere il presente Accordo, in tutto o in parte, in qualsiasi momento senza l'autorizzazione dell'utente. Il presente Accordo, non crea alcun rapporto di agenzia, partnership, responsabilità condivisa, joint venture o dipendenza e l'utente non dispone di alcuna autorità per vincolare Tumblr sotto qualsivoglia profilo. Qualsiasi comunicazione rivolta a Tumblr, richiesta o autorizzata dal presente Accordo, deve essere inviata in forma scritta e sarà considerata valida al ricevimento della stessa, quando consegnata personalmente da un corriere espresso riconosciuto nazionalmente, tramite posta prioritaria, posta raccomandata o posta certificata, o in buste preaffrancate, a
 
@@ -234,14 +239,14 @@ ATTN: LEGAL DEPARTMENT
 
 
 
-20. DISPOSIZIONI SPECIALI PER GLI UTENTI CHE SI TROVANO AL DI FUORI DEGLI STATI UNITI
+21. DISPOSIZIONI SPECIALI PER GLI UTENTI CHE SI TROVANO AL DI FUORI DEGLI STATI UNITI
 
 Tumblr fornisce prodotti e servizi globali e consente a una comunità globale di persone di condividere e seguire le cose che amano. I server e le operazioni di Tumblr si trovano, tuttavia, negli Stati Uniti e le politiche e le procedure di Tumblr si basano sulla legge degli Stati Uniti. Pertanto, le seguenti disposizioni si applicano specificamente agli utenti che si trovano al di fuori degli Stati Uniti: (1) riconosci che trasferiremo, memorizzeremo ed elaboreremo le tue informazioni, inclusi ma non limitati a Contenuti utente e qualsiasi informazione personale, negli Stati Uniti e/o altri paesi al fine di fornirti i Servizi ed eseguire il presente Accordo; e (2) se si utilizzano i Servizi da un paese sottoposto a embargo da parte degli Stati Uniti o si è nell'elenco dei "Cittadini appositamente designati" del Dipartimento del Tesoro degli Stati Uniti, l'utente accetta di non impegnarsi in transazioni finanziarie o condurre attività commerciali utilizzando o tramite i Servizi (ad esempio, l'acquisto di Temi Premium).
 
 INVIA UN AVVISO DI VIOLAZIONE 
 
 
-21. POLITICA SUL COPYRIGHT DMCA
+22. POLITICA SUL COPYRIGHT DMCA
 
 Tumblr ha adottato la seguente policy rispetto alla violazione del copyright sui Servizi, conformemente al Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) (il "DMCA"). L'indirizzo dell'Agente Designato di Tumblr per le richieste di rimozione per violazione del copyright ("AGENTE DESIGNATO") è riportato di seguito. Puoi inviare un richiesta ai sensi del DMCA utilizzando il nostro modulo per segnalazioni in materia di copyright (https://www.tumblr.com/dmca).
 
@@ -290,7 +295,7 @@ EMAIL: dmca@tumblr.com (mailto: dmca@tumblr.com)
 MODULO PER SEGNALAZIONI IN MATERIA DI COPYRIGHT: https://www.tumblr.com/dmca
 
 
-22. DIVULGAZIONI OPEN SOURCE
+23. DIVULGAZIONI OPEN SOURCE
 
 L'utente può trovare le informazioni relative al nostro uso dei pacchetti software Open Source ai seguenti link:
 

@@ -14,7 +14,7 @@ Przeczytaj niniejsze Warunki świadczenia usług i nasze Wytyczne dla użytkowni
 Chcemy poinformować, że firma Tumblr jest obecnie częścią Automattic (https://automattic.com/), firmy technologicznej, która wspiera użytkowników w tworzeniu pięknych stron internetowych, opowiadaniu historii i szukaniu sposobów poszerzania grona odbiorców, zaś niniejsze Warunki świadczenia usług (https://www.tumblr.com/policy/en/terms-of-service), które dotyczą korzystania przez użytkownika z serwisu Tumblr, zostały zaktualizowane, aby odzwierciedlić tę zmianę. Ten punkt zawiera również umowę, w której użytkownik zgadza się na warunki niniejszej Umowy.
 
 
-2. MODYFIKACJE NINIEJSZEJ UMOWY
+2. ZMIANY NINIEJSZEJ UMOWY
 
 Firma Tumblr zastrzega sobie prawo do modyfikacji Warunków świadczenia usług lub naszych Wytycznych dla użytkowników (https://www.tumblr.com/policy/user-guidelines). Prześlemy Ci powiadomienie o tym, że opublikowaliśmy zaktualizowaną wersję Warunków świadczenia usług lub Wytycznych dla użytkowników (https://www.tumblr.com/policy/user-guidelines). W niektórych przypadkach możemy dodatkowo powiadomić Cię przez e-mail lub w inny sposób za pośrednictwem usług (takich jak powiadomienie na Kokpicie Tumblra lub w naszych aplikacjach mobilnych). Modyfikacje nie będą działać wstecz. Użytkownik jest odpowiedzialny za zapoznanie się z wszelkimi modyfikacjami niniejszej umowy.
 
@@ -113,17 +113,22 @@ ZAKOŃCZENIE I USUNIĘCIE:
 W przypadku wyłączenia konta użytkownika lub po usunięciu konkretnych fragmentów zawartości użytkownika serwis Tumblr podejmie wszystkie uzasadnione wysiłki, aby uniemożliwić dostęp do takiej zawartości użytkownika i jej używania, a ponadto, jeśli jest to wymagane przez mającą zastosowanie Politykę prywatności, usunąć dane konta lub zawartość użytkownika, o ile nie jest to dopuszczone lub wymagane przez prawo. Jednak użytkownik potwierdza to i wyraża zgodę na to, że: (a) usunięta zawartość użytkownika może pozostać w buforach lub kopiach zapasowych przez uzasadniony czas i (b) kopie lub odwołania zawartości użytkownika mogą nie zostać całkowicie usunięte (np. ze względu na naturę reblogowania). W każdej chwili użytkownik może usunąć swoje konto tutaj (https://www.tumblr.com/account/delete).
 
 
-7. SPECJALNE POSTANOWIENIA DLA DEWELOPERÓW APLIKACJI
+7. SPECJALNE POSTANOWIENIA DOTYCZĄCE DEWELOPERÓW APLIKACJI
 
 Jeśli użytkownik opracuje oprogramowanie lub usługi na podstawie usług lub jakiejkolwiek zawartości, czy to korzystając z Interfejsu programistycznego aplikacji serwisu Tumblr (https://www.tumblr.com/developers), czy też nie, zgadza się z Umową licencyjną interfejsu API dewelopera aplikacji serwisu Tumblr (https://www.tumblr.com/docs/api_agreement).
 
 
-8. UŻYWANIE ZNAKÓW TOWAROWYCH
+8. SPECJALNE POSTANOWIENIA DOTYCZĄCE REKLAM I TREŚCI SPONSOROWANYCH
+
+Jeśli publikujesz lub kupujesz reklamy albo treści sponsorowane, musisz przestrzegać postanowień Globalnej polityki reklam (https://www.tumblr.com/policy/en/global-advertising) 
+
+
+9. UŻYWANIE ZNAKÓW TOWAROWYCH
 
 Wszelkie użycie znaków towarowych, marek, logo i innych takich aktywów firmy Tumblr w powiązaniu z usługami musi być powiązane z zatwierdzonymi markami firmy Tumblr (https://www.tumblr.com/logo) oraz powinno być zgodne z Wytycznymi dotyczącymi znaków towarowych firmy Tumblr (https://www.tumblr.com/docs/trademark_guidelines).
 
 
-9. SZABLONY
+10. SZABLONY
 
 Serwis Tumblr udostępnia specjalny kod HTML i CSS ("KOD SZABLONU TUMBLR") do tworzenia stron bloga i projektowania ich układu do wykorzystania w pewnych usługach ("SZABLONY"). Pewne szablony można kupić jako usługę płatną (zdefiniowaną poniżej) (takie szablony to "SZABLONY PREMIUM"). Kupione szablony Premium nie mogą być przenoszone między kontami, blogami ani usługami w ramach jednego konta i dotyczą ich podane tutaj warunki płatności.
 
@@ -134,7 +139,7 @@ Należy też pamiętać, że inni użytkownicy mogą używać szablonów niestan
 Aby opracowywać i rozpowszechniać szablony niestandardowe, będące szablonami Premium, prosimy o kontakt z nami (https://www.tumblr.com/support).
 
 
-10. USŁUGI PŁATNE
+11. USŁUGI PŁATNE
 
 Niektóre usługi wymagają wniesienia opłat ("USŁUGI PŁATNE", np. szablony Premium, rozpalanie postów i subskrypcje). Wszystkie opłaty są podane w dolarach amerykańskich. Użytkownik musi wnieść wszystkie odpowiednie opłaty zgodnie z opisem w odpowiednich usługach i w związku z takimi usługami oraz wszystkie powiązane podatki lub dodatkowe opłaty.
 
@@ -147,7 +152,7 @@ Zakupy usług płatnych są ostateczne i nie podlegają zwrotowi (w szczególno�
 Firma Tumblr może w każdej chwili zmienić ceny usług płatnych. W dopuszczalnych ramach firma Tumblr zapewni użytkownikowi uzasadnione powiadomienie o wszelkich takich zmianach cen, publikując nowe ceny w odpowiednich usługach płatnych lub za ich pośrednictwem albo wysyłając wiadomość e-mail z powiadomieniem. Jeśli użytkownik nie chce płacić nowych cen, może nie kupować odpowiednich usług płatnych lub je anulować, zanim zmiana zacznie obowiązywać.
 
 
-11. PŁATNOŚCI CYKLICZNE
+12. PŁATNOŚCI CYKLICZNE
 
 Niektóre Usługi płatne na Tumblrze odnawiają się automatycznie jako cykliczne subskrypcje ("SUBSKRYPCJE"). Opłaty za subskrypcje są pobierane w cyklu miesięcznym lub rocznym ("OKRES SUBSKRYPCJI") w stałej kwocie podanej użytkownikowi przy zapisie ("OPŁATA ZA SUBSKRYPCJĘ"). W przypadku subskrypcji w czasie trwania promocji, użycia kodu kuponu lub otrzymania rabatu w inny sposób, subskrypcja zostanie automatycznie odnowiona na pełną opłatę za subskrypcję po zakończeniu okresu rabatowego.
 
@@ -158,7 +163,7 @@ SUBSKRYBENT MUSI ANULOWAĆ SUBSKRYPCJĘ NA CO NAJMNIEJ 14 DNI PRZED KOŃCEM BIE�
 JEŚLI UŻYTKOWNIK ZAPISAŁ SIĘ NA STRONIE TUMBLRA, MOŻE ZMIENIĆ METODĘ PŁATNOŚCI LUB ANULOWAĆ SUBSKRYPCJE POD ADRESEM: www.tumblr.com/settings/subscriptions (https://www.tumblr.com/settings/subscriptions). W PRZYPADKU ZAPISANIA SIĘ ZA POMOCĄ PLATFORMY PŁATNOŚCI W APLIKACJI, TAKIEJ JAK URZĄDZENIE APPLE LUB ANDROID, NALEŻY ZMODYFIKOWAĆ METODĘ PŁATNOŚCI LUB ANULOWAĆ SUBSKRYPCJE BEZPOŚREDNIO ZA POMOCĄ TEJ PLATFORMY.
 
 
-12. NAZWY DOMEN
+13. NAZWY DOMEN
 
 W celu świadczenia usług związanych z nazwami domen możemy współpracować z zewnętrznymi rejestratorami domen. Podczas rejestracji domeny w serwisie Tumblr lub przenoszenia domeny do Tumblra obowiązują zasady danego rejestratora, a użytkownik podlega ustalonym przez niego warunkom. W zależności od domeny, oprócz niniejszej Umowy, użytkownik może podlegać warunkom umowy rejestracyjnej domeny firmy Automattic (https://wordpress.com/automattic-domain-name-registration-agreement/) lub umowy rejestracyjnej firmy Key-Systems GmbH (https://www.centralnicreseller.com/en/registration-agreement?rrp). Kiedy rejestrujesz domenę, otrzymujesz do wglądu i zgadzasz się na warunki przedstawione w umowie rejestracyjnej domeny. Jeśli potrzebujesz je ponownie przeczytać, przejdź na stronę Umowy rejestracyjne domen (https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement), aby sprawdzić, które umowy dotyczące rejestracji domen dotyczą Ciebie i Twoich domen. Warunki rejestratora są włączone do tej Umowy przez odniesienie.
 
@@ -169,12 +174,12 @@ Rejestrując domenę, musisz dostarczyć kompletne i dokładne informacje rejest
 Aby dowiedzieć się więcej na temat rejestracji domen, np. jakie są opłaty, jak zaktualizować swoje dane kontaktowe i co się dzieje po wygaśnięciu domeny, sprawdź dokumenty pomocy technicznej dotyczącej domen (https://help.tumblr.com/hc/articles/14449316040087).
 
 
-13. ZRZECZENIE ODPOWIEDZIALNOŚCI Z TYTUŁU GWARANCJI; USŁUGI DOSTĘPNE NA ZASADACH "TAKIE, JAKIE SĄ"
+14. ZRZECZENIE SIĘ ODPOWIEDZIALNOŚCI Z TYTUŁU GWARANCJI; USŁUGI DOSTĘPNE NA ZASADACH "TAKIE, JAKIE SĄ"
 
 Użytkownik uzyskuje dostęp i używa usług lub jakiejkolwiek zawartości na własne ryzyko. ROZUMIE I ZGADZA SIĘ, ŻE USŁUGI SĄ UDOSTĘPNIANE NA ZASADACH "TAKIE, JAKIE SĄ" I "W MIARĘ DOSTĘPNOŚCI". NIE OGRANICZAJĄC POWYŻSZEGO, W PEŁNYM ZAKRESIE DOPUSZCZONYM PRZEZ PRAWO, FIRMA TUMBLR WYKLUCZA WSZELKIE GWARANCJE, WYRAŹNE LUB DOROZUMIANE, PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU LUB NIENARUSZANIA PRAW OSÓB TRZECICH. Firma Tumblr nie daje żadnych gwarancji ani rękojmi jakiegokolwiek rodzaju w stosunku do usług, a w tym wszelkich gwarancji lub rękojmi dotyczących tego, że używanie usług (a) będzie terminowe, nieprzerwane i bezbłędne lub będą one działać w połączeniu z jakimkolwiek innym sprzętem, oprogramowaniem, systemem lub danymi; (b) będzie zaspokajać wymagania lub oczekiwania użytkownika; (c) będzie wolne od błędów lub że wady zostaną skorygowane; (d) będzie wolne od wirusów lub innych szkodliwych składników lub (e) będzie całkowicie bezpieczne, lub że udostępniane nam informacje będą bezpieczne. Firma Tumblr również nie udziela żadnych gwarancji ani rękojmi jakiegokolwiek rodzaju w stosunku do zawartości; zawartość subskrybenta, w szczególności, jest udostępniana na wyłączną odpowiedzialność subskrybentów udostępniających tę zawartość. Żadna porada ani informacja, czy to ustna, czy też pisemna, uzyskana od firmy Tumblr lub za pośrednictwem usług nie będzie stanowić żadnej gwarancji, która nie została tutaj wyraźnie określona.
 
 
-14. OGRANICZENIE CZASU ROSZCZEŃ I ZWOLNIENIE Z ODPOWIEDZIALNOŚCI
+15. OGRANICZENIE CZASU ROSZCZEŃ I ZWOLNIENIE Z ODPOWIEDZIALNOŚCI
 
 Użytkownik wyraża zgodę, że wszelkie roszczenia, które mogły powstać w wyniku niniejszej umowy lub w związku z nią albo relacjami z firmą Tumblr, muszą zostać zgłoszone w ciągu roku od chwili powstania takiego roszczenia, w przeciwnym razie roszczenie to zostanie trwale zablokowane.
 
@@ -193,26 +198,26 @@ Roszczenia związane z jakimikolwiek spotkaniami twarzą w twarz w jakikolwiek s
 Jeśli użytkownik mieszka w Kalifornii, zrzeka się § 1542 kalifornijskiego Kodeksu Cywilnego, który mówi: "Ogólne zwolnienie nie obejmuje roszczeń, o których wierzyciel nie wie lub podejrzewa, że istnieją na jego rzecz w chwili wykonywania zwolnienia, które, gdyby były mu znane, musiałyby w istotny sposób wpłynąć na jego rozliczenie z dłużnikiem".
 
 
-15. OGRANICZENIE ODPOWIEDZIALNOŚCI
+16. OGRANICZENIE ODPOWIEDZIALNOŚCI
 
 W MAKSYMALNYM ZAKRESIE DOPUSZCZALNYM PRZEZ MAJĄCE ZASTOSOWANIE PRAWO FIRMA TUMBLR I PODMIOTY STOWARZYSZONE FIRMY TUMBLR NIE BĘDĄ PONOSIĆ ODPOWIEDZIALNOŚCI ZA: (A) WSZELKIE SZKODY POŚREDNIE, PRZYPADKOWE, RETORSYJNE LUB WTÓRNE JAKIEGOKOLWIEK RODZAJU; (B) UTRATĘ: ZYSKÓW, PRZYCHODÓW, DANYCH, MOŻLIWOŚCI UŻYCIA, WARTOŚCI FIRMY LUB INNYCH STRAT NIEMATERIALNYCH; (C) SZKODY ZWIĄZANE Z DOSTĘPEM UŻYTKOWNIKA, UŻYWANIEM LUB NIEMOŻNOŚCIĄ UZYSKANIA DOSTĘPU LUB UŻYWANIA USŁUG; (D) SZKODY ZWIĄZANE Z JAKIMKOLWIEK ZACHOWANIEM LUB ZAWARTOŚCIĄ JAKIEJKOLWIEK STRONY TRZECIEJ LUB SUBSKRYBENTA UŻYWAJĄCEGO USŁUG, MIĘDZY INNYMI ZNIESŁAWIAJĄCYCH, OBRAŹLIWYCH LUB NIELEGALNYCH ZACHOWAŃ LUB ZAWARTOŚCI LUB (E) SZKODY W JAKIEJKOLWIEK POSTACI ZWIĄZANE Z JAKĄKOLWIEK ZAWARTOŚCIĄ. TO OGRANICZENIE MA ZASTOSOWANIE DO WSZYSTKICH ROSZCZEŃ, CZY TO OPARTYCH NA GWARANCJI, KONTRAKCIE, CZYNIE NIEDOZWOLONYM LUB JAKIEJKOLWIEK INNEJ TEORII PRAWNEJ, BEZ WZGLĘDU NA TO, CZY FIRMA TUMBLR ZOSTAŁA POINFORMOWANA O MOŻLIWOŚCI WYSTĄPIENIA TAKICH SZKÓD, CZY TEŻ NIE, A PONADTO, JEŚLI STWIERDZONO, ŻE OKREŚLONY TUTAJ ŚRODEK ZARADCZY NIE SPEŁNIŁ SWOJEGO PODSTAWOWEGO CELU.
 
 W MAKSYMALNYM ZAKRESIE DOPUSZCZALNYM PRZEZ MAJĄCE ZASTOSOWANIE PRAWO CAŁKOWITA ODPOWIEDZIALNOŚĆ FIRMY TUMBLR I PODMIOTÓW STOWARZYSZONYCH FIRMY TUMBLR Z TYTUŁU JAKICHKOLWIEK ROSZCZEŃ W RAMACH NINIEJSZEJ UMOWY, A W TYM ZA JAKIEKOLWIEK DOMNIEMANE GWARANCJE, JEST OGRANICZONA DO WIĘKSZEJ Z KWOT: STU DOLARÓW AMERYKAŃSKICH (100,00 USD) LUB KWOTY ZAPŁACONEJ NAM ZA UŻYWANIE ODPOWIEDNICH USŁUG.
 
 
-16. WYKLUCZENIA Z GWARANCJI I OGRANICZENIE ODPOWIEDZIALNOŚCI
+17. WYKLUCZENIA Z GWARANCJI I OGRANICZENIE ODPOWIEDZIALNOŚCI
 
 Niektóre jurysdykcje mogą nie zezwalać na wykluczenie pewnych gwarancji lub wykluczenie/ograniczenie odpowiedzialności określone w punktach 13 i 15, więc powyższe ograniczenia mogą nie mieć zastosowania do użytkownika.
 
 
-17. WYPOWIEDZENIE
+18. WYPOWIEDZENIE
 
 Każda ze stron może wypowiedzieć niniejszą umowę w dowolnej chwili, powiadamiając drugą stronę. Firma Tumblr może zakończyć lub zawiesić dostęp użytkownika lub możliwość używania którejkolwiek lub wszystkich usług natychmiast, bez wcześniejszego powiadomienia lub odpowiedzialności, z jakiejkolwiek przyczyny lub bez niej, między innymi w razie naruszenia jakichkolwiek warunków lub zasad niniejszej umowy. W szczególności firma Tumblr może natychmiast wypowiedzieć lub zawiesić konta, które zostaną oznaczone za wielokrotne naruszenia praw autorskich.
 
 Po wypowiedzeniu dostępu do usługi lub możliwości jej używania, a w tym zawieszeniu konta użytkownika w usłudze, prawo użytkownika do używania lub dostępu do tej usługi i wszelkiej zawartości natychmiast wygasa. Wszystkie postanowienia niniejszej umowy, które ze swojej natury powinny pozostać w mocy, pozostaną, w tym postanowienia dotyczące prawa własności, zrzeczenia się odpowiedzialności z tytułu gwarancji i ograniczenia odpowiedzialności. Wypowiedzenie użytkownikowi dostępu do usług i ich używania nie zwalnia go z żadnych zobowiązań wynikających z lub powstałych przed takim wypowiedzeniem ani nie ograniczy żadnych zobowiązań, które w przeciwnym razie może mieć w stosunku do firmy Tumblr lub jakiejkolwiek strony trzeciej, oraz nie zwalnia go z praw, jeśli jest użytkownikiem z Europejskiego Obszaru Gospodarczego, co zostało opisane w Polityce prywatności.
 
 
-18. WYBÓR PRAWA I WŁAŚCIWOŚCI TERYTORIALNEJ
+19. WYBÓR PRAWA I WŁAŚCIWOŚCI TERYTORIALNEJ
 
 Użytkownik i firma Tumblr uzgadniają, że wszelkie roszczenia lub kontrowersje co do prawa lub majątku, które powstają w związku z niniejszą umową lub usługami, będą rozstrzygać zgodnie z niniejszym punktem lub w inny sposób uzgodniony między nimi na piśmie. Przed zwróceniem się w stronę formalnego rozstrzygnięcia sporu zdecydowanie zachęcamy do kontaktu z nami (https://www.tumblr.com/support), aby poszukać rozwiązania.
 
@@ -223,7 +228,7 @@ Niniejsza umowa będzie we wszystkich kwestiach podlegać prawu stanu Nowy Jork,
 Jeśli (a) reprezentuje agencję lub organ rządu federalnego, stanowego lub lokalnego Stanów Zjednoczonych, (b) używa usług w ramach swoich oficjalnych uprawnień oraz (c) ze względów prawnych nie może zaakceptować klauzul w tym punkcie, wówczas ten punkt nie ma zastosowania do takiego użytkownika. W przypadku takich jednostek niniejsza umowa i wszelkie powiązane działania będą podlegać prawu Stanów Zjednoczonych Ameryki bez względu na konflikt przepisów prawnych oraz, w razie braku prawa federalnego i w zakresie dopuszczalnym w ramach prawa federalnego, prawu stanu Nowy Jork z wykluczeniem możliwości wyboru prawa.
 
 
-19. INNE POSTANOWIENIA
+20. INNE POSTANOWIENIA
 
 Niniejsza umowa, modyfikowana od czasu do czasu, stanowi całość umowy między użytkownikiem i firmą Tumblr dotyczącej niniejszego przedmiotu. Niniejsza umowa zastępuje wszystkie wcześniejsze porozumienia lub umowy, pisemne lub ustne, dotyczące niniejszego przedmiotu oraz stanowi całą i wyłączną umowę między stronami. Niedopełnienie przez którąkolwiek ze stron, w jakikolwiek sposób, jakichkolwiek praw określonych tutaj nie będzie uważane za rezygnację z jakichkolwiek dalszych przedstawionych tu praw. Jeśli którekolwiek postanowienie niniejszej umowy okaże się niemożliwe do wykonania lub nieważne, to postanowienie zostanie ograniczone lub wyeliminowane w minimalnym koniecznym zakresie, a niniejsza umowa pozostanie nadal wykonalna w pełnym zakresie i z pełnymi skutkami. Niniejszej umowy nie można przenieść, przekazać ani sublicencjonować, chyba że za wcześniejszą pisemną zgodą firmy Tumblr. Firma Tumblr może w każdej chwili scedować tę umowę w całości lub części bez zgody użytkownika. W rezultacie niniejszej umowy nie zostanie utworzona żadna agencja, spółka, wspólna administracja, wspólne przedsięwzięcie ani miejsca pracy oraz użytkownik nie ma żadnych uprawnień do angażowania firmy Tumblr w jakikolwiek sposób. Wszelkie powiadomienia firmy Tumblr, które są wymagane lub dopuszczane przez niniejszą umowę, powinny być przesłane na piśmie i powinny być uważane za skuteczne od chwili odbioru w przypadku dostarczenia przez znaną w kraju całodobową firmę kurierską lub wysłania listem priorytetowym, listem poleconym z uiszczoną opłatą pocztową do firmy
 
@@ -234,14 +239,14 @@ ATTN: LEGAL DEPARTMENT
 
 
 
-20. SPECJALNE POSTANOWIENIA DLA UŻYTKOWNIKÓW POZA STANAMI ZJEDNOCZONYMI
+21. SPECJALNE POSTANOWIENIA DLA UŻYTKOWNIKÓW POZA STANAMI ZJEDNOCZONYMI
 
 Firma Tumblr udostępnia globalne produkty i usługi oraz umożliwia globalnej społeczności osób udostępnianie i śledzenie ulubionych tematów. Serwery i operacje firmy Tumblr są jednak zlokalizowane w Stanach Zjednoczonych, a zasady i procedury firmy Tumblr są oparte na prawie Stanów Zjednoczonych. Następujące postanowienia mają zastosowanie szczególnie do subskrybentów znajdujących poza Stanami Zjednoczonymi: (1) Użytkownik potwierdza, że będziemy przesyłać, przechowywać i przetwarzać jego informacje, a w tym, między innymi, zawartość subskrybenta i wszelkie dane osobowe, w Stanach Zjednoczonych lub innych krajach w celu udostępnienia użytkownikowi usług i realizacji umowy oraz (2) jeśli używa usług z kraju objętego embargiem przez Stany Zjednoczone lub znajduje się na liście Departamentu Skarbu Stanów Zjednoczonych osób oznaczonych, zgadza się nie angażować w transakcje finansowe ani nie prowadzić jakiejkolwiek działalności komercyjnej przy użyciu lub za pośrednictwem usług (na przykład kupując szablony Premium).
 
 PRZESŁANIE POWIADOMIENIA O NARUSZENIU 
 
 
-21. POLITYKA PRAW AUTORSKICH DMCA
+22. POLITYKA PRAW AUTORSKICH DMCA
 
 Firma Tumblr zastosowała następujące zasady dotyczące naruszeń praw autorskich w usługach zgodnie z ustawą Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) ("DMCA"). Adres wyznaczonego agenta firmy Tumblr dla powiadomień o prawach autorskich ("WYZNACZONY AGENT") jest podany poniżej. Użytkownik może przesłać powiadomienie w ramach DMCA przy użyciu naszego formularza powiadomienia o prawie autorskim (https://www.tumblr.com/dmca).
 
@@ -290,7 +295,7 @@ EMAIL: dmca@tumblr.com (mailto: dmca@tumblr.com)
 FORMULARZ POWIADOMIENIA O PRAWIE AUTORSKIM: https://www.tumblr.com/dmca
 
 
-22. UJAWNIENIE MATERIAŁU OPEN SOURCE
+23. UJAWNIENIE MATERIAŁU OPEN SOURCE
 
 Ujawnienia dotyczące używania przez nas pakietów oprogramowania Open Source użytkownik może znaleźć w następujących miejscach:
 

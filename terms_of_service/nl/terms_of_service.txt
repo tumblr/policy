@@ -118,12 +118,17 @@ Bij beëindiging van je Account, of bij verwijdering van bepaalde delen van Gebr
 Als je software of services ontwikkelt op basis van de Services of Content, ongeacht of je de Tumblr Application Programming Interface (https://www.tumblr.com/developers) gebruikt of niet, ga je akkoord met en houdt je je aan de Tumblr Application Developer and API License Agreement (https://www.tumblr.com/docs/api_agreement).
 
 
-8. GEBRUIK VAN HANDELSMERKEN
+8. SPECIALE BEPALINGEN VOOR ADVERTENTIES EN GESPONSORDE CONTENT
+
+Als je advertenties of gesponsorde content plaatst of koopt, moet je je aan ons Algemene advertentiebeleid (https://www.tumblr.com/policy/en/global-advertising) houden
+
+
+9. GEBRUIK VAN HANDELSMERKEN
 
 Bij gebruik van de handelsmerken van Tumblr, haar merken, logo's en andere activa in verband met de Services, dient de goedgekeurde branding van Tumblr (https://www.tumblr.com/logo) te worden gebruikt en het gebruik dient in overeenstemming te zijn met de Tumblr-richtlijnen voor Handelsmerken (https://www.tumblr.com/docs/trademark_guidelines).
 
 
-9. THEMA'S
+10. SJABLONEN
 
 Tumblr stelt speciale HTML- en CSS-code beschikbaar ("TUMBLR-SJABLOONCODE") voor het ontwerp en de lay-out van blogpagina's om te gebruiken op bepaalde Services ("THEMA'S"). Bepaalde Thema's zijn te koop als een Betaalde Service (zoals hieronder uiteengezet) (zoals Thema's, "PREMIUM THEMA'S"). Aangeschafte Premium Thema's kunnen niet tussen Accounts, blogs of Services op een enkele Account worden overgedragen, en zijn onderhevig aan de betaalvoorwaarden hiervan.
 
@@ -134,7 +139,7 @@ Let ook op het volgende: andere Gebruikers kunnen je Aangepaste Thema's gebruike
 Als je Aangepaste Thema's in de vorm van Premium Thema's wilt ontwikkelen en distribueren, neem je contact met ons op (https://www.tumblr.com/support).
 
 
-10. BETAALDE SERVICES
+11. BETAALDE SERVICES
 
 Voor sommige Services is betaling vereist (de 'BETAALDE SERVICES', inclusief maar niet beperkt tot, Premium sjablonen, Blaze en Abonnementen). Alle kosten worden in Amerikaanse dollars weergegeven. Je betaalt alle van toepassing zijnde kosten, zoals omschreven in de van toepassing zijnde Services, in verband met dergelijke Services, en alle gerelateerde belastingen of extra kosten.
 
@@ -147,7 +152,7 @@ Aanschaf van Betaalde Services is definitief en niet-restitueerbaar (met name di
 Tumblr kan haar prijzen voor Betaalde Services op elk gewenst moment aanpassen. Voor zover van toepassing zal Tumblr je redelijkerwijs op de hoogte stellen van dergelijke prijswijzigingen door de nieuwe prijzen op of via de toepasselijke Betaalde Service te posten en/of door je een e-mailbericht te sturen. Als je niet voor de nieuwe prijzen wenst te betalen, kun je ervoor kiezen de van toepassing zijnde Betaalde Service niet aan te schaffen of deze te annuleren voordat de wijziging van kracht wordt.
 
 
-11. TERUGKERENDE BETALINGEN:
+12. TERUGKERENDE BETALINGEN:
 
 Bepaalde Betaalde Diensten op Tumblr worden automatisch verlengd, zoals abonnementen (“ ABONNEMENTEN ”). Abonnementen worden periodiek gefactureerd op maandelijkse of jaarlijkse basis (“ ABONNEMENTSPERIODE ”) waarbij het verschuldigde bedrag moet worden betaald zoals aangegeven tijdens het afsluiten van je abonnement (“ ABONNEMENTSKOSTEN  ”). Houd er rekening mee dat als je je abonneert tijdens een actieperiode, als je een kortingsbon gebruikt of als je profiteert van korting, je abonnement automatisch wordt verlengd met het volledige bedrag van de abonnementskosten aan het einde van de actieperiode.
 
@@ -158,7 +163,7 @@ JE MOET HET ABONNEMENT TEN MINSTE 14 DAGEN VOOR HET EINDE VAN JE HUIDIGE ABONNEM
 ALS JE ABONNEMENT VIA DE TUMBLR-SITE IS AFGESLOTEN, KAN JE JE BETALINGSMETHODE WIJZIGEN OF JE ABONNEMENT OP ELK GEWENST MOMENT OPZEGGEN DOOR NAAR www.tumblr.com/settings/subscriptions (https://www.tumblr.com/settings/subscriptions) TE GAAN. ALS JE JE BIJVOORBEELD HEBT GEABONNEERD MET BEHULP VAN EEN IN DE APPLICATIE GEÏNTEGREERD BETALINGSPLATFORM VIA EEN APPLE- OF ANDROID-APPARAAT, MOET JE IN DIT GEVAL JE BETALINGSMETHODE WIJZIGEN OF JE ABONNEMENT RECHTSTREEKS OP DAT PLATFORM OPZEGGEN.
 
 
-12. DOMEINNAMEN
+13. DOMEINNAMEN
 
 We kunnen samenwerken met registrars van derden die domeinnaamdiensten aan ons leveren. Wanneer je een domeinnaam op Tumblr registreert of een bestaand domein naar Tumblr overdraagt, zijn de beleidsregels die gelden voor elke registratie van toepassing en ben je vervolgens gebonden aan de voorwaarden van de betreffende registrar. Afhankelijk van het domein kun je naast aan deze overeenkomst ook onderworpen zijn aan de voorwaarden van de domeinregistratieovereenkomst van Automattic (https://wordpress.com/automattic-domain-name-registration-agreement/), of de registratieovereenkomst van Key-Systems GmbH (https://www.centralnicreseller.com/en/registration-agreement?rrp). Wanneer je een domein registreert, wordt de huidige domeinregistratieovereenkomst aan je gepresenteerd en ga je hiermee akkoord. Als je deze later wilt bekijken, ga je naar de pagina Domeinregistratieovereenkomsten (https://help.tumblr.com/hc/articles/14449316040087#domain-registration-agreement) om te bepalen welke overeenkomst op je domein van toepassing is. Deze voorwaarden van de registrar zijn door middel van verwijzing opgenomen in deze overeenkomst.
 
@@ -169,12 +174,12 @@ Wanneer je een domein registreert, moet je volledige en nauwkeurige registratieg
 Ga voor meer informatie over je domeinregistratie, zoals de bijbehorende kosten, hoe je je contactgegevens kunt bijwerken of wat er gebeurt tijdens het verlopen van het domein, naar het helpdocument over domeinen (https://help.tumblr.com/hc/articles/14449316040087).
 
 
-13. GARANTIEVERKLARING; BESCHIKBARE SERVICES OP BASIS VAN "AS IS" (ZOALS HET IS)
+14. GARANTIEVERKLARING; SERVICES BESCHIKBAAR OP "AS IS"-BASIS
 
 Je toegang tot en gebruik van de Services of Content geschiedt op eigen risico. JE BEGRIJPT EN GAAT ERMEE AKKOORD DAT DE SERVICES AAN JE WORDEN GELEVERD OP BASIS VAN "AS IS" (ZOALS HET IS) EN "AS AVAILABLE" (ZOALS BESCHIKBAAR). ZONDER BEPERKING VAN HET VOORGAANDE, VOOR ZOVER MAXIMAAL IS TOEGESTAAN DOOR DE WET, WIJST TUMBLR ALLE GARANTIES, UITDRUKKELIJK OF STILZWIJGEND, VAN VERKOOPBAARHEID, GESCHIKTHEID VOOR EEN BEPAALD DOEL, OF NIET-INBREUKMAKENDHEID AF. Tumblr geeft geen verklaringen of garanties van welke aard dan ook met betrekking tot de Services, met inbegrip van enige verklaring of garantie dat het gebruik van de Services (a) tijdig, ononderbroken of foutvrij zal zijn of in combinatie met andere hardware, software, systemen of gegevens zal werken, (b) voldoet aan je vereisten of verwachtingen, (c) vrij is van fouten of dat defecten zullen worden gecorrigeerd, (d) vrij is van virussen of andere schadelijke componenten; of (e) volledig beveiligd is of dat de informatie die je met ons deelt, veilig is. Tumblr geeft ook geen verklaringen of garanties van welke aard dan ook met betrekking tot de Content. Met name Gebruikerscontent wordt geleverd door en is de volledige verantwoordelijkheid van de Gebruiker die deze Content heeft verstrekt. Geen enkel advies of informatie, mondeling of schriftelijk, verkregen van Tumblr of via de Services, verstrekt enige garantie die hier niet uitdrukkelijk is gegeven.
 
 
-14. TIJDSBEPERKING VOOR CLAIMS EN VRIJSTELLING VAN AANSPRAKELIJKHEID
+15. VERJARING VAN CLAIMS EN VRIJSTELLINGEN VAN AANSPRAKELIJKHEID
 
 Je gaat ermee akkoord dat een claim, voortkomend uit of gerelateerd aan deze Overeenkomst of je relatie met Tumblr, binnen één jaar nadat een dergelijke claim is ontstaan, moet worden ingediend; anders wordt je claim permanent geweerd.
 
@@ -193,26 +198,26 @@ Claims betreffende persoonlijke vergaderingen die op enigerlei wijze zijn gerela
 Als je inwoner van Californië bent, doe je afstand van California Civil Code § 1542, waarin staat: "Een algemene vrijwaring omvat niet de vorderingen waarvan de schuldeiser op het moment van uitvoering van de vrijwaring niet weet of vermoedt dat deze ten gunste van hem/haar bestaan, en die, indien bekend, van invloed zijn op zijn/haar schikking met de schuldenaar."
 
 
-15. BEPERKING VAN AANSPRAKELIJKHEID
+16. BEPERKING VAN AANSPRAKELIJKHEID
 
 VOOR ZOVER MAXIMAAL TOEGESTAAN OP GROND VAN DE TOEPASSELIJKE WETGEVING ZIJN TUMBLR EN DE TUMBLR-PARTNERS NIET AANSPRAKELIJK VOOR: (A) ENIGE INDIRECTE, INCIDENTELE, MORELE, BESTRAFFENDE SCHADE OF GEVOLGSCHADE VAN WELKE AARD DAN OOK; (B) VERLIES VAN: WINST, INKOMSTEN, GEGEVENS, GEBRUIK, GOODWILL OF ANDERE IMMATERIËLE VERLIEZEN; (C) SCHADE MET BETREKKING TOT JE TOEGANG TOT, GEBRUIK VAN OF ONMOGELIJKHEID TOT TOEGANG TOT OF GEBRUIK VAN DE SERVICES; (D) SCHADE MET BETREKKING TOT DE GEDRAGINGEN OF CONTENT VAN DERDEN OF GEBRUIKERS DIE DE DIENSTEN GEBRUIKEN, MET INBEGRIP VAN, ZONDER BEPERKING, BELEDIGENDE, AANSTOOTGEVENDE OF ILLEGALE GEDRAGINGEN OF CONTENT; EN/OF (E) SCHADE OP WELKE MANIER DAN OOK BETREFFENDE ENIGE CONTENT. DEZE BEPERKING GELDT VOOR ALLE CLAIMS, OF DEZE NU ZIJN GEBASEERD OP GARANTIE, CONTRACT, ONRECHTMATIGE DAAD OF ANDERE WETTELIJKE THEORIE, OF TUMBLR NU WEL OF NIET OP DE HOOGTE IS GESTELD VAN DE MOGELIJKHEID VAN EEN DERGELIJKE SCHADE, EN VERDER WAAR EEN HIER VOORZIENE VERHAALSMOGELIJKHEID WORDT GEACHT NIET TE VOLDOEN AAN HAAR WEZENLIJKE DOEL.
 
 VOOR ZOVER MAXIMAAL TOEGESTAAN OP GROND VAN DE TOEPASSELIJKE WETGEVING, IS DE TOTALE AANSPRAKELIJKHEID VAN TUMBLR EN TUMBLR-PARTNERS, VOOR WELKE CLAIM DAN OOK ONDER DEZE OVEREENKOMST, INCLUSIEF VOOR IMPLICIETE GARANTIES, BEPERKT TOT MAXIMAAL HONDERD DOLLAR (US $ 100,00) OF HET BEDRAG DAT JE AAN ONS HEBT BETAALD VOOR HET GEBRUIK VAN DE VAN TOEPASSING ZIJNDE SERVICE(S).
 
 
-16. UITZONDERINGEN OP GARANTIES EN BEPERKING VAN AANSPRAKELIJKHEID
+17. UITZONDERINGEN OP GARANTIES EN BEPERKING VAN AANSPRAKELIJKHEID
 
 Bepaalde jurisdicties staan de uitzondering van bepaalde garanties of de uitzondering/beperking van aansprakelijkheid zoals uiteengezet in paragraaf 13 en 15 mogelijk niet toe, dus de hier genoemde beperkingen zijn wellicht niet op jou van toepassing.
 
 
-17. BEËINDIGING
+18. BEËINDIGING
 
 Beide partijen kunnen deze Overeenkomst beëindigen op welk moment dan ook door de andere partij hiervan op de hoogte te stellen. Tumblr kan je toegang tot of mogelijkheid van het gebruik van de Services onmiddellijk stopzetten of opschorten, zonder kennisgeving vooraf of aansprakelijkheid, om welke reden dan ook of zonder reden, inclusief, maar niet beperkt tot een eventuele schending door jou van de bepalingen of voorwaarden van deze Overeenkomst. Tumblr kan met name Accounts die zijn gemarkeerd voor herhaalde schending van auteursrechten, beëindigen of opschorten.
 
 Na beëindiging van je toegang tot of de mogelijkheid om een Service te gebruiken, inclusief maar niet beperkt tot opschorting van je Account voor een Service, zal je recht op gebruik van of toegang tot die Service en alle Content onmiddellijk worden beëindigd. Alle bepalingen van deze Overeenkomst die vanwege hun aard de beëindiging moeten overleven, overleven deze beëindiging, inclusief, zonder enige beperking, de eigenaarschapsvoorzieningen, garantieverklaringen en aansprakelijkheidsbeperkingen. Beëindiging van je toegang tot en gebruik van de Services vrijwaart je niet van enige verplichtingen die vóór een dergelijke beëindiging zijn ontstaan of beperkt niet enige aansprakelijkheid die je mogelijk hebt jegens Tumblr of een derde partij en ontslaat je niet van je rechten als je een gebruiker in de Europese Economische Ruimte bent, zoals omschreven in het Privacybeleid.
 
 
-18. KEUZE VAN TOEPASSELIJK RECHT EN RECHTSGEBIED
+19. KEUZE VAN TOEPASSELIJK RECHT EN RECHTSGEBIED
 
 Jij en Tumblr stemmen ermee in dat wij elke claim of controverse in rechte of in billijkheid die voortvloeit uit deze Overeenkomst of de Services, oplossen in overeenstemming met deze paragraaf of zoals jij en Tumblr anders schriftelijk overeenkomen. Voordat wordt overgegaan op formele geschiloplossing, raden wij je ten zeerste aan om contact met ons op te nemen (https://www.tumblr.com/support) om een oplossing te vinden.
 
@@ -223,7 +228,7 @@ Deze Overeenkomst wordt in alle opzichten beheerst door de wetten van de Staat N
 Als je (a) een Amerikaanse federale, staats- of plaatselijke overheidsinstelling of -instantie bent, (b) de Services voor je officiële functie gebruikt, en (c) wettelijk niet in staat bent om de clausules in deze paragraaf te accepteren, dan is deze paragraaf niet op jou van toepassing. Voor dergelijke entiteiten wordt deze Overeenkomst beheerst door de wetten van de Verenigde Staten van Amerika, zonder rekening te houden met conflicterende wettelijke bepalingen en, bij afwezigheid van federale wetgeving en voor zover toegestaan door de federale wetgeving, door de wetten van de staat New York, met uitsluiting van rechtskeuze.
 
 
-19. DIVERSEN
+20. DIVERSEN
 
 Deze Overeenkomst, zoals van tijd tot tijd gewijzigd, vormt de volledige overeenkomst tussen jou en Tumblr met betrekking tot het onderwerp hiervan. Deze Overeenkomst vervangt alle voorgaande of gelijktijdige afspraken of overeenkomsten, schriftelijk of mondeling, met betrekking tot het onderwerp hiervan en vormt de volledige en exclusieve overeenkomst tussen de partijen. Het falen van een van beide partijen om op enigerlei wijze enig recht uit te oefenen dat hierin is voorzien, wordt niet beschouwd als een verklaring van afstand van enige verdere rechten hieronder. Als een bepaling van deze Overeenkomst niet uit te voeren of ongeldig is, dan wordt die bepaling beperkt of verwijderd voor zover dat minimaal noodzakelijk is, zodat deze Overeenkomst uitvoerbaar en volledig van kracht is en blijft. Deze Overeenkomst kan door jou niet worden toegewezen, overgedragen of in sublicentie worden gegeven, behalve met voorafgaande schriftelijke toestemming van Tumblr. Tumblr kan deze Overeenkomst geheel of gedeeltelijk op enig moment en zonder jouw toestemming toewijzen. Geen enkel agentschap, partnerschap, gedeelde verantwoordelijkheid, joint venture of dienstverband is tot stand gekomen als resultaat van deze Overeenkomst, en je hebt geen enkele bevoegdheid om Tumblr op welke manier dan ook hiertoe te verplichten. Enige kennisgeving aan Tumblr die is vereist of toegestaan door deze Overeenkomst, moet schriftelijk zijn en wordt geacht van kracht te zijn na ontvangst, wanneer persoonlijk afgeleverd door een nationaal erkende koerierdienst of per gefrankeerde, aangetekende of gecertificeerde post, aan
 
@@ -234,14 +239,14 @@ ATTN: LEGAL DEPARTMENT
 
 
 
-20. SPECIALE BEPALINGEN VOOR GEBRUIKERS DIE ZICH BUITEN DE VERENIGDE STATEN BEVINDEN
+21. SPECIALE BEPALINGEN VOOR GEBRUIKERS DIE ZICH BUITEN DE VERENIGDE STATEN BEVINDEN
 
 Tumblr levert wereldwijd producten en services en stelt een wereldwijde gemeenschap van individuen in staat om de dingen waarvan zij houden, te delen en te volgen. De servers en bedrijfsvoering van Tumblr zijn echter gevestigd in de Verenigde Staten, en het beleid en procedures van Tumblr zijn gebaseerd op de Amerikaanse wet. Daarom zijn de volgende voorzieningen specifiek van toepassing op Gebruikers die buiten de Verenigde Staten zijn gevestigd: (1) je erkent dat wij je gegevens overdragen, opslaan en verwerken, inclusief, maar niet beperkt tot content en persoonlijke gegevens van Gebruikers, in de Verenigde Staten en/of andere landen zodat wij je de Services kunnen leveren en deze Overeenkomst kunnen uitvoeren; en (2) als je de Services vanuit een land gebruikt dat door de Verenigde Staten is gesanctioneerd, of als je staat op de lijst "Specially Designated Nationals" van het Amerikaanse ministerie van Financiën, dan ga je ermee akkoord dat je geen financiële transacties zult ondernemen of commerciële activiteiten ontplooien met of via de Services (bijvoorbeeld het aanschaffen van Premium Thema's).
 
 EEN DMCA-MELDING INSTUREN 
 
 
-21. DMCA-COPYRIGHTBELEID
+22. DMCA-COPYRIGHTBELEID
 
 Tumblr heeft het volgende beleid wat betreft inbreuk op auteursrechten op de Services, in overeenstemming met de Digital Millennium Copyright Act (https://www.loc.gov/copyright/legislation/dmca.pdf) (de "DMCA"). Het adres van de Toegewezen agent van Tumblr voor het behandelen van meldingen betreffende auteursrecht ("TOEGEWEZEN AGENT") vindt je hieronder. Je kunt een melding krachtens de DMCA indienen via ons DMCA-formulier (https://www.tumblr.com/dmca).
 
@@ -290,7 +295,7 @@ EMAIL: dmca@tumblr.com (mailto: dmca@tumblr.com)
 DMCA-MELDINGSFORMULIER: https://www.tumblr.com/dmca
 
 
-22. VRIJWARINGEN OPEN SOURCE
+23. VRIJWARINGEN OPEN SOURCE
 
 Je vindt de vrijwaringen betreffende ons gebruik van open source softwarepakketten op de volgende locaties:
 
