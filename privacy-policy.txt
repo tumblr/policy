@@ -136,7 +136,7 @@ We seek to protect your information (including your Account Information) to ensu
 
 It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like 1Password (https://agilebits.com/onepassword) or LastPass (https://lastpass.com/).
 
-Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to enforce our agreements or as otherwise permitted by law.
+Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to prevent the use of our services for activities that violate our Terms of Service, to enforce our agreements, or as otherwise permitted by law.
 
 
 WHAT INFORMATION YOU CAN ACCESS
