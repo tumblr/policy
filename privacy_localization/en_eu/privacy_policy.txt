@@ -1,5 +1,5 @@
 EUROPEAN PRIVACY POLICY 
-Last Modified: 2024-01-24
+Last Modified: 2026-10-20
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
 Tumblr, Inc. ("TUMBLR," "WE," "US," or "OUR") takes the private nature of your information very seriously. We strive to be transparent about how we collect and process your information, keep your information secure and provide you with meaningful choices. This policy regarding our privacy practices (the "PRIVACY POLICY") describes how we treat the information we collect or receive when you visit and use tumblr.com (the "SITE") and/or Tumblr’s other domains, products, advertising products, services, and/or content, including our iOS and Android mobile applications (collectively with the Site, the "SERVICES"). Tumblr is a subsidiary of Automattic (https://automattic.com/), a technology company that empowers people to build beautiful websites, tell their stories, and find and grow their audience. The way we handle your information hasn’t changed, so this Privacy Policy still governs when you are on Tumblr, using a Tumblr app or interacting with our products, services or technologies. This Privacy Policy does not apply to the practices of other Automattic affiliates or companies which Automattic does not own or control.
@@ -145,7 +145,7 @@ Protecting our systems and our users' information is paramount to ensuring Tumbl
 
 Your Account Information is protected by a password for your privacy and security. We may enable additional security features in the future, like multi-factor authentication. You need to prevent unauthorized access to your Account and information by creating a unique, secure, and protected password and limiting access to your computer and browser by signing off after you have finished accessing your Account on the Services.
 
-Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to enforce our agreements or as otherwise permitted by law.
+Tumblr will retain your information only for as long as is necessary for the purposes set out in this Privacy Policy, for as long as your Tumblr account is active or as needed to provide you with the Services. If you no longer want Tumblr to use your information to provide you with the Services, you may close your account and Tumblr will delete the information it holds about you unless we need to retain and use your information to comply with our legal obligations, to resolve disputes, to prevent the use of our services for activities that violate our Terms of Service, to enforce our agreements, or as otherwise permitted by law.
 
 It’s really important that you have a unique password for all of your accounts on the internet, including your Tumblr account. If you have trouble remembering passwords then you might consider using a service like1Password (https://agilebits.com/onepassword) or LastPass (https://lastpass.com/).
 
@@ -167,7 +167,7 @@ HOW TO DELETE YOUR ACCOUNT AND WHAT HAPPENS WHEN YOU DELETE YOUR ACCOUNT
 
 If you want to delete your Account, you can do so from your Account Settings (/settings/account). Deleting your Account may not fully remove the content you have published from our systems, as caching of, backups of, copies of, or references to your Account Information may not be immediately removed. In addition, given the nature of sharing on the Services, some of the public activity on your Account prior to deletion (such as reblogs of your blog posts) may remain stored on our servers and accessible to the public.
 
-You’ll do great things on Tumblr, surely, but if it ever comes time to say goodbye, then you’re free to delete your account at any time and for any reason. The deletion will be effective immediately, for the most part, but it might take a little while to scrub everything from our archives and backups.
+You’ll do great things on Tumblr, surely, but if it ever comes time to say goodbye, then you’re free to delete your account at any time and for any reason. We’ll keep your data for 30 days in case you regret your decision. After 30 days, your account will be deleted and cannot be recovered.
 
 What won’t get scrubbed are Reblogs of your posts. Those will remain on whatever blog reblogged them. Like we said before, it can be really, really hard to delete something once it goes out onto the internet, so be sure you’re only publishing stuff that you’re certain you want to publish.
 
